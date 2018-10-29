@@ -52,6 +52,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
 
     for word in matrix:
         matrix[word] = np.zeros(word_num)
+    total_vector = np.zeros(word_num)
 
 
     with open(corpus_filename) as corpus_file:
@@ -62,6 +63,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             prev_word = None
 
             for word in words:
+                word = word.lower()
                 if not word in matrix:
                     continue
                 if prev_word is None:
@@ -70,13 +72,12 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
 
                 vec_pos = vector_order[prev_word]
                 matrix[word][vec_pos] += 1
+                total_vector[vec_pos] += 1
 
                 prev_word = word
 
     for word in matrix:
-        total = sum(matrix[word])
-        if total > 0:
-            matrix[word] = matrix[word] / total
+        matrix[word] = matrix[word] / total_vector
 
     with open(out_filename, "wb") as outfile:
         pickle.dump(matrix, outfile)
