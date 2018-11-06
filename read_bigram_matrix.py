@@ -13,7 +13,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
     in the frequency distribution file.
     So, the first entry of the vector for the key "cat", is the probability of seeing "cat"
     after the most common word.
-    Also saves the order of words, to make lookup of individual bigram probabilities possible-
+    Also saves the order of words, to make lookup of individual bigram probabilities possible.
 
     Parameters
     ----------
@@ -137,6 +137,7 @@ stopwords = [
 ]
         
 #read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_whole.pkl", stopwords=[])
         
-pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_300.pkl")
+#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_300.pkl")
         
