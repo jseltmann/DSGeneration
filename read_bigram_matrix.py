@@ -37,7 +37,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
     with open(freqdist_filename) as freqdist_file:
         i = 0
         reg = r"\s*[0-9]+\s(.+)"
-
+        
         for line in freqdist_file:
             if word_num and i == word_num:
                 break
@@ -57,6 +57,13 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
         if word_num is None:
             word_num = i
 
+    vector_order[0] = i + 1 #use 0 and 1 as sentence beginning and end symbols
+    vector_order[1] = i + 2
+    matrix[0] = None
+    matrix[1] = None
+
+    word_num += 2
+            
     for word in matrix:
         matrix[word] = np.zeros(word_num)
     total_vector = np.zeros(word_num)
@@ -67,7 +74,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             #if i % 100 == 0:
             #    print(i)
             words = line.split()
-            prev_word = None
+            prev_word = 0 #use 0 as sentence beginning symbol
 
             for word in words:
                 word = word.lower()
@@ -82,6 +89,12 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                 total_vector[vec_pos] += 1
 
                 prev_word = word
+
+            vec_pos = vector_order[prev_word]
+            matrix[1][vec_pos] += 1
+            total_vector[vec_pos] += 1
+            
+                
 
     for word in matrix:
         matrix[word] = matrix[word] / total_vector
@@ -109,7 +122,7 @@ def pca_matrix(input_filename, output_filename):
         word_pos = vector_order[word]
         matrix[word_pos] = matrix_dict[word]
 
-    pca = PCA(n_components=300)
+    pca = PCA(n_components=5000)
     pca.fit(matrix)
     transformed_matrix = pca.transform(matrix)
 
@@ -137,7 +150,6 @@ stopwords = [
 ]
         
 #read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
-read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_whole.pkl", stopwords=[])
         
-#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_300.pkl")
+pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
         
