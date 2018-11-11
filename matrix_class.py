@@ -38,4 +38,10 @@ class DS_matrix:
 
         return self.matrix[word][vec_pos]
 
+    def get_words(self):
+        """
+        Return words contained in the matrix."
+        """
+
+        return self.matrix.keys()
     
