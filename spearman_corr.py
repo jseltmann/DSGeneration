@@ -1,5 +1,6 @@
 import re
-import pickle
+#import pickle
+from matrix_class import DS_matrix
 from scipy.stats.mstats import spearmanr
 from scipy.spatial.distance import cosine
 
@@ -20,7 +21,7 @@ def calculate_spearman(gold_filename, matrix_filename):
 
     Return
     ------
-    spearman : Float
+    corr : Float
         Spearman coefficient
     """
 
@@ -44,23 +45,31 @@ def calculate_spearman(gold_filename, matrix_filename):
 
     matrix_similarity_list = []
     gold_similarity_list = []
-    
-    with open(matrix_filename, "rb") as matrix_file:
-        matrix = pickle.load(matrix_file)
 
-        for word1, word2, sim in gold_list:
-            #word1, word2, sim = entry
-            if not word1 in matrix or not word2 in matrix:
-                continue
+    #i = 0
+    matrix = DS_matrix(matrix_filename)
 
-            similarity = 1 - cosine(matrix[word1], matrix[word2])
-            matrix_similarity_list.append(similarity)
+    for word1, word2, sim in gold_list:
+        
+        matrix_words = matrix.get_words()
+        if not word1 in matrix_words or not word2 in matrix_words:
+            continue
 
-            gold_similarity_list.append(float(sim))
+        #i += 1
 
-    spearman, _ = spearmanr(matrix_similarity_list, gold_similarity_list)
+        vec1 = matrix.get_vector(word1)
+        vec2 = matrix.get_vector(word2)
 
-    return spearman
+        similarity = 1 - cosine(vec1, vec2)
+        matrix_similarity_list.append(similarity)
+
+        gold_similarity_list.append(float(sim))
+
+    corr, _ = spearmanr(matrix_similarity_list, gold_similarity_list)
+
+    #print(i)
+
+    return corr
 
 
     
@@ -70,7 +79,9 @@ def calculate_spearman(gold_filename, matrix_filename):
 
 
             
-spearman, p = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000.pkl")            
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000_stopwords.pkl")
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_dict_10000.pkl")
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000.pkl")
 print("spearman coefficient:")
 print(spearman)
 

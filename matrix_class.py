@@ -16,25 +16,27 @@ class DS_matrix:
         """
         Return the vector that represents word.
         """
-        if not word in self.matrix:
+        if not word in self.matrix_dict:
             raise Exception("Word not in matrix")
 
-        vector = np.zeros(len(matrix))
+        vector = np.zeros(len(self.matrix_dict))
 
-        for i, prev_word in enumerate(matrix):
-            if prev_word in matrix[word]:
-                vector[i] = matrix[word][prev_word]
+        for i, prev_word in enumerate(self.matrix_dict):
+            if prev_word in self.matrix_dict[word]:
+                vector[i] = self.matrix_dict[word][prev_word]
+
+        return vector
 
     def get_bigram_prob(self, word, prev_word):
         """
         Return the probability p(word|prev_word).
         """
 
-        if not word in self.matrix:
+        if not word in self.matrix_dict:
             raise Exception("Word not in matrix")
 
-        if prev_word in matrix[word]:
-            return matrix[word][prev_word]
+        if prev_word in self.matrix_dict[word]:
+            return self.matrix_dict[word][prev_word]
         else:
             return 0
         
@@ -43,5 +45,5 @@ class DS_matrix:
         Return words contained in the matrix."
         """
 
-        return self.matrix.keys()
+        return self.matrix_dict.keys()
     
