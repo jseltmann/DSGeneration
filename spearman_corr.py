@@ -24,6 +24,7 @@ def calculate_spearman(gold_filename, matrix_filename):
         Spearman coefficient
     """
 
+
     reg = r"(\S+)\s(\S+)\s(\S+)"
 
     gold_list = []
@@ -69,8 +70,7 @@ def calculate_spearman(gold_filename, matrix_filename):
 
 
 
-            
-spearman, p = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000.pkl")            
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_stopwords.pkl")            
 print("spearman coefficient:")
 print(spearman)
 

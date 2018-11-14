@@ -21,22 +21,22 @@ stopwords = [
 ]
 
 
-def get_avg(words, ignore=[]):
-    sumwords = None
-    n = 0
-    for word in words:
-        if not word in matrix or word in ignore:
-            continue
-
-        n += 1
-        if sumwords is None:
-            sumwords = matrix[word]
-            continue
-
-        sumwords = sumwords + matrix[word]
-
-    avg = sumwords / n
-    return avg
+#def get_avg(words, ignore=[]):
+#    sumwords = None
+#    n = 0
+#    for word in words:
+#        if not word in matrix or word in ignore:
+#            continue
+#
+#        n += 1
+#        if sumwords is None:
+#            sumwords = matrix[word]
+#            continue
+#
+#        sumwords = sumwords + matrix[word]
+#
+#    avg = sumwords / n
+#    return avg
 
 #sw_diffs = []
 #for word in stopwords:
@@ -140,58 +140,91 @@ def get_avg(words, ignore=[]):
 #print()
 #print()
 
-#shifted_num = 0
-#total_num = 0
-#for word in matrix:
-##for word in stopwords:
-#    if word in stopwords:
-#        continue
-#    if not word in matrix:
-#        continue
-#
-#    bins = [0,0,0,0,0,0]
-#
-#    for entry in matrix[word]:
-#        if entry > 0.001:
-#            bins[0] += 1
-#        elif entry > 0.0001:
-#            bins[1] += 1
-#        elif entry > 0.00001:
-#            bins[2] += 1
-#        elif entry > 1e-6:
-#            bins[3] += 1
-#        elif entry > 1e-7:
-#            bins[4] += 1
-#        else:
-#            bins[5] += 1
-#        #if entry <= 0.0001:
-#        #    bins[0] += 1
-#        #elif entry <= 0.001:
-#        #    bins[1] += 1
-#        #else
-#        #    bins[2] += 1
-#
-#    #if bins[5] > 8000:
-#    #    print(word, bins)
-#    if bins[0] + bins[1] + bins[3] + bins[4] > 2500:
-#        shifted_num += 1
-#        print(word, bins)
-#    total_num += 1
-#
-#print(shifted_num)
-#print(shifted_num / total_num)
-        
+shifted_num = 0
+total_num = 0
+for word in matrix:
+#for word in stopwords:
+    if word in stopwords:
+        continue
+    if not word in matrix:
+        continue
+
+    bins = [0,0,0,0,0,0,0]
+
+    for entry in matrix[word]:
+        if entry > 0.001:
+            bins[0] += 1
+        elif entry > 0.0001:
+            bins[1] += 1
+        elif entry > 0.00001:
+            bins[2] += 1
+        elif entry > 1e-6:
+            bins[3] += 1
+        elif entry > 1e-7:
+            bins[4] += 1
+        elif entry == 0:
+            bins[5] += 1
+        else:
+            bins[6] += 1
+
+    if bins[0] + bins[1] + bins[3] + bins[4] > 2500:
+        shifted_num += 1
+        print(word, bins)
+    total_num += 1
+
+print(shifted_num)
+print(shifted_num / total_num)
 
 
+shifted_num = 0
+total_num = 0
+for word in stopwords:
+    if not word in matrix:
+        continue
+
+    bins = [0,0,0,0,0,0,0]
+
+    for entry in matrix[word]:
+        if entry > 0.001:
+            bins[0] += 1
+        elif entry > 0.0001:
+            bins[1] += 1
+        elif entry > 0.00001:
+            bins[2] += 1
+        elif entry > 1e-6:
+            bins[3] += 1
+        elif entry > 1e-7:
+            bins[4] += 1
+        elif entry == 0:
+            bins[5] += 1
+        else:
+            bins[6] += 1
+
+    if bins[0] + bins[1] + bins[3] + bins[4] > 2500:
+        shifted_num += 1
+        print(word, bins)
+    total_num += 1
+
+print(shifted_num)
+print(shifted_num / total_num)
+
+print()
+print()
+print()
+print()
+
+
+shifted_num = 0
+total_num = 0
 for word in stopwords:
     if not word in matrix:
         continue
 
     vec_pos = vec_order[word]
-    bins = [0,0,0,0,0]
+    bins = [0,0,0,0,0,0]
 
-    for word in matrix:
-        entry = matrix[word][vec_pos]
+    for key in matrix:
+        entry = matrix[key][vec_pos]
 
         if entry > 0.001:
             bins[0] += 1
@@ -201,21 +234,18 @@ for word in stopwords:
             bins[2] += 1
         elif entry > 1e-6:
             bins[3] += 1
-        else:
+        elif entry == 0:
             bins[4] += 1
+        else:
+            bins[5] += 1
         
 
-    print(bins)
+    print(word, bins)
 
 print()
 print()
 print()
     
-#random_words = []
-#while(len(random_words) < len(stopwords)):
-#    word = random.choice(list(matrix.keys()))
-#    if not word in stopwords:
-#        random_words.append(word)
 random_words = random.sample(list(matrix.keys()), len(stopwords))
 
 for word in random_words:
