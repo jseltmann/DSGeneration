@@ -1,4 +1,5 @@
 import pickle
+import numpy as np
 
 class DS_matrix:
 
@@ -40,8 +41,61 @@ class DS_matrix:
 
     def get_words(self):
         """
-        Return words contained in the matrix."
+        Return words contained in the matrix.
         """
 
-        return self.matrix.keys()
+        return list(self.matrix.keys())
+
+    def generate_bigram_sentence(self, start_word=0):
+        """
+        Generate a sentence according to the bigram probabilities in the matrix.
+        
+        Parameter
+        ---------
+        start_word : string or 0 or 1
+            First word from which to generate sentences.
+            The integer 0 serves as sentence beginning symbol,
+            the integer 1 as sentence end symbol.
+
+        Return
+        ------
+        sentence : [String]
+            Generated sentence, without beginning and end symbols.
+        """
+
+
+        
+        sentence = []
+
+        if start_word != 0 and start_word != 1:
+            start_word = start_word.lower()
+            sentence.append(start_word)
+
+        if not start_word in self.matrix:
+            raise Exception("given start_word not in matrix")
+
+        word = start_word
+
+        words = self.get_words()
+        
+        while word != 1:
+            prob_list = []
+
+            for next_word in words:
+                prob = self.get_bigram_prob(next_word, word)
+                prob_list.append(prob)
+
+            index = np.random.choice(range(len(words)), p=prob_list)
+            word = words[index]
+
+            if word == 1:
+                break
+            
+            sentence.append(word)
+
+        return sentence
+            
+                                          
+            
+                    
     

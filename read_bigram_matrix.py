@@ -97,7 +97,9 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                 
 
     for word in matrix:
-        matrix[word] = matrix[word] / total_vector
+        for i, total in enumerate(total_vector):
+            if total != 0:
+                matrix[word][i] = matrix[word][i] / total
 
     with open(out_filename, "wb") as outfile:
         pickle.dump(matrix, outfile)
@@ -150,6 +152,7 @@ stopwords = [
 ]
         
 #read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k.pkl", word_num=10000, stopwords=[])
         
-pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
+#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
         

@@ -70,7 +70,7 @@ def calculate_spearman(gold_filename, matrix_filename):
 
 
 
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_stopwords.pkl")            
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../rev_matrices/bigram_matrix_10000.pkl")            
 print("spearman coefficient:")
 print(spearman)
 
