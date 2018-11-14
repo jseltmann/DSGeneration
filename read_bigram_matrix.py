@@ -12,7 +12,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
     The order of probabilities in the vector is given by the order of words 
     in the frequency distribution file.
     So, the first entry of the vector for the key "cat", is the probability of seeing "cat"
-    after the most common word.
+    before the most common word.
     Also saves the order of words, to make lookup of individual bigram probabilities possible.
 
     Parameters
@@ -66,7 +66,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             
     for word in matrix:
         matrix[word] = np.zeros(word_num)
-    total_vector = np.zeros(word_num)
+    #total_vector = np.zeros(word_num)
 
 
     with open(corpus_filename) as corpus_file:
@@ -75,7 +75,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             #    print(i)
             words = line.split()
             prev_word = 0 #use 0 as sentence beginning symbol
-
+            
             for word in words:
                 word = word.lower()
                 if not word in matrix:
@@ -84,20 +84,24 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                     prev_word = word
                     continue
 
-                vec_pos = vector_order[prev_word]
-                matrix[word][vec_pos] += 1
-                total_vector[vec_pos] += 1
+                #vec_pos = vector_order[prev_word]
+                #matrix[word][vec_pos] += 1
+                #total_vector[vec_pos] += 1
+                vec_pos = vector_order[word]
+                matrix[prev_word][vec_pos] += 1
 
                 prev_word = word
 
-            vec_pos = vector_order[prev_word]
-            matrix[1][vec_pos] += 1
-            total_vector[vec_pos] += 1
+            #vec_pos = vector_order[prev_word]
+            #matrix[1][vec_pos] += 1
+            #total_vector[vec_pos] += 1
             
                 
 
     for word in matrix:
-        matrix[word] = matrix[word] / total_vector
+        total = sum(matrix[word])
+        if total != 0:
+            matrix[word] = matrix[word] / total
 
     with open(out_filename, "wb") as outfile:
         pickle.dump(matrix, outfile)
@@ -149,7 +153,7 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ]
         
-#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_stopwords.pkl", word_num=10000, stopwords=stopwords)
         
-pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
+#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
         

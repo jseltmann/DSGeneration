@@ -34,7 +34,7 @@ class DS_matrix:
         if not prev_word in self.matrix:
             raise Exception("Previous word not in matrix")
 
-        vec_pos = self.vector_order[prev_word]
+        vec_pos = self.vector_order[word]
 
         return self.matrix[word][vec_pos]
 
