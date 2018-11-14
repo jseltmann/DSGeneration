@@ -80,7 +80,7 @@ def calculate_spearman(gold_filename, matrix_filename):
 
             
 #spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000_stopwords.pkl")
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_dict_10000.pkl")
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_dict_complete.pkl")
 #spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10000.pkl")
 print("spearman coefficient:")
 print(spearman)
