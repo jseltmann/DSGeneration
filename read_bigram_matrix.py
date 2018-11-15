@@ -57,8 +57,8 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
         if word_num is None:
             word_num = i
 
-    vector_order[0] = i + 1 #use 0 and 1 as sentence beginning and end symbols
-    vector_order[1] = i + 2
+    vector_order[0] = i #use 0 and 1 as sentence beginning and end symbols
+    vector_order[1] = i + 1
     matrix[0] = None
     matrix[1] = None
 
@@ -108,7 +108,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
         pickle.dump(vector_order, orderfile)
 
 
-def pca_matrix(input_filename, output_filename):
+def pca_matrix(input_filename, output_filename, n_components=300):
 
     with open(input_filename, "rb") as input_file:
         matrix_dict = pickle.load(input_file)
@@ -118,13 +118,15 @@ def pca_matrix(input_filename, output_filename):
         vector_order = pickle.load(vector_order_file)
 
     word_num = len(vector_order)
+    print(vector_order[1])
+    print(vector_order[0])
     matrix = np.empty((word_num, word_num), float)
 
     for word in matrix_dict:
         word_pos = vector_order[word]
         matrix[word_pos] = matrix_dict[word]
 
-    pca = PCA(n_components=5000)
+    pca = PCA(n_components=n_components)
     pca.fit(matrix)
     transformed_matrix = pca.transform(matrix)
 
@@ -151,8 +153,12 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ]
         
-#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
-read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k.pkl", word_num=10000, stopwords=[])
+#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k.pkl", word_num=10000, stopwords=[])
         
-#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_100.pkl", n_components=100)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_200.pkl", n_components=200)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_500.pkl", n_components=500)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1000.pkl", n_components=1000)
+pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1500.pkl", n_components=1500)
+pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_2000.pkl", n_components=2000)
         
