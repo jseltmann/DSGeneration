@@ -3,9 +3,9 @@ import numpy as np
 from scipy.spatial.distance import cosine
 import random
 
-with open("../bigram_matrix_10000.pkl", "rb") as matrix_file:
+with open("../rev_matrices/bigram_matrix_dict_complete.pkl", "rb") as matrix_file:
     matrix = pickle.load(matrix_file)
-with open("../bigram_matrix_10000.pkl_order", "rb") as order_file:
+with open("../rev_matrices/bigram_matrix_dict_complete.pkl_order", "rb") as order_file:
     vec_order = pickle.load(order_file)
 
 
@@ -187,11 +187,14 @@ for word in stopwords:
     if not word in matrix:
         continue
 
-    vec_pos = vec_order[word]
+    #vec_pos = vec_order[word]
     bins = [0,0,0,0,0]
 
-    for word in matrix:
-        entry = matrix[word][vec_pos]
+    for word2 in matrix:
+        if word in matrix[word2].keys():
+            entry = matrix[word2][word]
+        else:
+            entry = 0
 
         if entry > 0.001:
             bins[0] += 1
@@ -216,14 +219,21 @@ print()
 #    word = random.choice(list(matrix.keys()))
 #    if not word in stopwords:
 #        random_words.append(word)
-random_words = random.sample(list(matrix.keys()), len(stopwords))
+#random_words = random.sample(list(matrix.keys()), len(stopwords))
 
-for word in random_words:
-    vec_pos = vec_order[word]
+exclude_words = []
+
+for i, word in enumerate(matrix.keys()):
+    if i % 50000 == 0:
+        print(i)
+    #vec_pos = vec_order[word]
     bins = [0,0,0,0,0,0]
 
     for key in matrix:
-        entry = matrix[key][vec_pos]
+        if word in matrix[key]:
+            entry = matrix[key][word]
+        else:
+            entry = 0
 
         if entry > 0.001:
             bins[0] += 1
@@ -239,7 +249,13 @@ for word in random_words:
             bins[5] += 1
         
 
-    print(word, bins)
+    if bins[4] < 1e5:
+        print(word, bins)
+        exclude_words.append(word)
+
+
+with open("../exclude_words.pkl", "wb") as exclude_file:
+    pickle.dump(exclude_words, exlude_file)
     
     
 
