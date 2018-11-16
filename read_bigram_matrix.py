@@ -1,6 +1,5 @@
 import re
 import numpy as np
-import nltk
 import pickle
 from sklearn.decomposition import PCA
 
@@ -159,6 +158,7 @@ stopwords = [
 #pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_200.pkl", n_components=200)
 #pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_500.pkl", n_components=500)
 #pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1000.pkl", n_components=1000)
+
 pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1500.pkl", n_components=1500)
 pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_2000.pkl", n_components=2000)
         

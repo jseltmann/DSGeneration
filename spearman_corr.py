@@ -67,10 +67,37 @@ def calculate_spearman(gold_filename, matrix_filename):
     
             
 
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_100.pkl", n_components=100)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_200.pkl", n_components=200)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_500.pkl", n_components=500)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1000.pkl", n_components=1000)
+
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1500.pkl", n_components=1500)
+#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_2000.pkl", n_components=2000)
 
 
 
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../rev_matrices/bigram_matrix_10000.pkl")            
-print("spearman coefficient:")
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_100.pkl")
+#print("spearman coefficient 100:")
+#print(spearman)
+#
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_200.pkl")
+#print("spearman coefficient 200:")
+#print(spearman)
+#
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_500.pkl")
+#print("spearman coefficient 500:")
+#print(spearman)
+#
+#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_1000.pkl")
+#print("spearman coefficient 1000:")
+#print(spearman)
+
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_1500.pkl")
+print("spearman coefficient 1500:")
+print(spearman)
+
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_2000.pkl")
+print("spearman coefficient 2000:")
 print(spearman)
 
