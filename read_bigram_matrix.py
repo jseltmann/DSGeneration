@@ -2,7 +2,8 @@ import re
 import numpy as np
 import nltk
 import pickle
-from sklearn.decomposition import PCA
+from sklearn.decomposition import PCA, TruncatedSVD
+from scipy.sparse import dok_matrix
 from collections import defaultdict
 
 
@@ -118,34 +119,40 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
         pickle.dump(vector_order, orderfile)
 
 
-#def pca_matrix(input_filename, output_filename):
-#
-#    with open(input_filename, "rb") as input_file:
-#        matrix_dict = pickle.load(input_file)
-#
-#    vector_order_filename = input_filename + "_order"
-#    with open(vector_order_filename, "rb") as vector_order_file:
-#        vector_order = pickle.load(vector_order_file)
-#
-#    word_num = len(vector_order)
-#    matrix = np.empty((word_num, word_num), float)
-#
-#    for word in matrix_dict:
-#        word_pos = vector_order[word]
-#        matrix[word_pos] = matrix_dict[word]
-#
-#    pca = PCA(n_components=5000)
-#    pca.fit(matrix)
-#    transformed_matrix = pca.transform(matrix)
-#
-#    transformed_dict = dict()
-#
-#    for word in vector_order:
-#        word_pos = vector_order[word]
-#        transformed_dict[word] = transformed_matrix[word_pos]
-#
-#    with open(output_filename, "wb") as output_file:
-#        pickle.dump(transformed_dict, output_file)
+def pca_matrix(input_filename, output_filename, n_components=300):
+
+    with open(input_filename, "rb") as input_file:
+        matrix_dict = pickle.load(input_file)
+
+    #vector_order_filename = input_filename + "_order"
+    #with open(vector_order_filename, "rb") as vector_order_file:
+    #    vector_order = pickle.load(vector_order_file)
+
+    word_num = len(matrix_dict)
+    #matrix = np.empty((word_num, word_num), float)
+    matrix = dok_matrix((word_num, word_num))
+    
+
+    for i, word1 in enumerate(matrix_dict):
+        for j, word2 in enumerate(matrix_dict):
+            if word2 in matrix_dict[word1]:
+                matrix[i,j] = matrix_dict[word1][word2]
+            #word_pos = vector_order[word]
+            #matrix[word_pos] = matrix_dict[word]
+
+    #pca = PCA(n_components=5000)
+    #pca.fit(matrix)
+    #transformed_matrix = pca.transform(matrix)
+    svd = TruncatedSVD(n_components=n_components)
+    transformed_matrix = svd.fit_transform(matrix)
+
+    transformed_dict = dict()
+
+    for i, word in enumerate(matrix_dict):
+        transformed_dict[word] = transformed_matrix[i]
+
+    with open(output_filename, "wb") as output_file:
+        pickle.dump(transformed_dict, output_file)
     
 
 
@@ -162,7 +169,7 @@ stopwords = [
 ]
         
 #read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10000_stopwords.pkl", word_num=10000, stopwords=[])
-read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_dict_complete.pkl", stopwords=[])
+#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_dict_complete.pkl", stopwords=[])
         
-#pca_matrix("../bigram_matrix_10000.pkl", "../bigram_matrix_10000_pca_5000.pkl")
+pca_matrix("../rev_matrices/bigram_matrix_dict_10000.pkl", "../dict_10000_pca_300.pkl", n_components=300)
         
