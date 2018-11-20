@@ -77,27 +77,11 @@ def calculate_spearman(gold_filename, matrix_filename):
 
 
 
-#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_100.pkl")
-#print("spearman coefficient 100:")
-#print(spearman)
-#
-#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_200.pkl")
-#print("spearman coefficient 200:")
-#print(spearman)
-#
-#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_500.pkl")
-#print("spearman coefficient 500:")
-#print(spearman)
-#
-#spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_1000.pkl")
-#print("spearman coefficient 1000:")
-#print(spearman)
 
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_1500.pkl")
-print("spearman coefficient 1500:")
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_new_stopwords.pkl")
+print("new stopwords")
 print(spearman)
 
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_pca_2000.pkl")
-print("spearman coefficient 2000:")
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_stopwords.pkl")
+print("old stopwords")
 print(spearman)
-

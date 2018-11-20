@@ -46,8 +46,8 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                 continue
             word = m.group(1).lower()
 
-            if word in stopwords:
-                continue
+            #if word in stopwords:
+            #    continue
             
             matrix[word] = None
             vector_order[word] = i
@@ -87,7 +87,8 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                 matrix[word][vec_pos] += 1
                 total_vector[vec_pos] += 1
 
-                prev_word = word
+                if not word in stopwords:
+                    prev_word = word
 
             vec_pos = vector_order[prev_word]
             matrix[1][vec_pos] += 1
@@ -152,13 +153,6 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ]
         
-#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k.pkl", word_num=10000, stopwords=[])
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_new_stopwords.pkl", word_num=10000, stopwords=stopwords)
         
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_100.pkl", n_components=100)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_200.pkl", n_components=200)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_500.pkl", n_components=500)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1000.pkl", n_components=1000)
-
-pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1500.pkl", n_components=1500)
-pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_2000.pkl", n_components=2000)
         
