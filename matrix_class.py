@@ -30,10 +30,12 @@ class DS_matrix:
             raise Exception("No vector_order is given.")
 
         if not word in self.matrix:
-            raise Exception("Word not in matrix")
+            return 0
+            #raise Exception("Word not in matrix")
 
         if not prev_word in self.matrix:
-            raise Exception("Previous word not in matrix")
+            return 0
+            #raise Exception("Previous word not in matrix")
 
         vec_pos = self.vector_order[prev_word]
 
@@ -94,6 +96,32 @@ class DS_matrix:
             sentence.append(word)
 
         return sentence
+
+    def sentence_prob(self,sentence):
+        """
+        Get the probability of a sentence according to the bigram model.
+
+        Parameter
+        ---------
+        sentence : [String]
+            Sentence of which to get the probability.
+
+        Returns
+        -------
+        prob : float
+            Probability of that sentence.
+        """
+
+        prob = 1
+        prev_word = 0
+
+        for word in sentence:
+            prob *= self.get_bigram_prob(prev_word, word)
+            prev_word = word
+
+        prob *= self.get_bigram_prob(prev_word,1)
+
+        return prob
             
                                           
             
