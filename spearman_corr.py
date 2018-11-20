@@ -78,10 +78,5 @@ def calculate_spearman(gold_filename, matrix_filename):
 
 
 
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_new_stopwords.pkl")
-print("new stopwords")
-print(spearman)
-
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_stopwords.pkl")
-print("old stopwords")
+spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../bigram_matrix_10k_excl_5000.pkl")
 print(spearman)

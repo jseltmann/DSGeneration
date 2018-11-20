@@ -33,6 +33,8 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
     matrix = dict()
     vector_order = dict()
 
+    most_common = set()
+    
     with open(freqdist_filename) as freqdist_file:
         i = 0
         reg = r"\s*[0-9]+\s(.+)"
@@ -53,8 +55,12 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             vector_order[word] = i
             i += 1
 
+            if i < 5000:
+                most_common.add(word)
+
         if word_num is None:
             word_num = i
+
 
     vector_order[0] = i #use 0 and 1 as sentence beginning and end symbols
     vector_order[1] = i + 1
@@ -70,7 +76,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
 
     with open(corpus_filename) as corpus_file:
         for i, line in enumerate(corpus_file):
-            #if i % 100 == 0:
+            #if i % 100000 == 0:
             #    print(i)
             words = line.split()
             prev_word = 0 #use 0 as sentence beginning symbol
@@ -87,7 +93,7 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
                 matrix[word][vec_pos] += 1
                 total_vector[vec_pos] += 1
 
-                if not word in stopwords:
+                if not word in most_common:#stopwords:
                     prev_word = word
 
             vec_pos = vector_order[prev_word]
@@ -153,6 +159,7 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ]
         
-read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_new_stopwords.pkl", word_num=10000, stopwords=stopwords)
+#read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_new_stopwords.pkl", word_num=10000, stopwords=stopwords)
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_excl_5000.pkl", word_num=10000, stopwords=[])
         
         
