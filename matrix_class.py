@@ -1,4 +1,5 @@
 import pickle
+from copy import deepcopy
 import numpy as np
 
 class DS_matrix:
@@ -21,6 +22,12 @@ class DS_matrix:
 
         return self.matrix[word]
 
+    def contains(self, word):
+        """
+        Returns true if word is in matrix. False otherwise.
+        """
+        return word in self.matrix
+    
     def get_bigram_prob(self, word, prev_word):
         """
         Return the probability p(word|prev_word).
@@ -30,12 +37,12 @@ class DS_matrix:
             raise Exception("No vector_order is given.")
 
         if not word in self.matrix:
-            return 0
-            #raise Exception("Word not in matrix")
+            #return 0
+            raise Exception("Word not in matrix")
 
         if not prev_word in self.matrix:
-            return 0
-            #raise Exception("Previous word not in matrix")
+            #return 0
+            raise Exception("Previous word not in matrix")
 
         vec_pos = self.vector_order[prev_word]
 
@@ -97,7 +104,7 @@ class DS_matrix:
 
         return sentence
 
-    def sentence_prob(self,sentence):
+    def get_sentence_prob(self,sentence):
         """
         Get the probability of a sentence according to the bigram model.
 
@@ -116,14 +123,39 @@ class DS_matrix:
         prev_word = 0
 
         for word in sentence:
+            if not word in self.matrix:
+                continue
             prob *= self.get_bigram_prob(prev_word, word)
             prev_word = word
 
         prob *= self.get_bigram_prob(prev_word,1)
 
         return prob
-            
-                                          
-            
-                    
-    
+
+
+    def get_unigram_prob(self, word):
+        """
+        Get the probability of a specific word ocuuring.
+
+        Parameter
+        ---------
+        word : string
+            Word of which to get the probability.
+
+        Return
+        ------
+        prob : float
+            Probability of word occuring.
+        """
+
+        prob = sum(self.matrix[word])
+
+        return prob
+
+
+
+
+        
+
+
+
