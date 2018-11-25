@@ -55,8 +55,8 @@ def read_bigram_matrix(corpus_filename, freqdist_filename, out_filename, word_nu
             vector_order[word] = i
             i += 1
 
-            if i < 5000:
-                most_common.add(word)
+            #if i < 5000:
+            #    most_common.add(word)
 
         if word_num is None:
             word_num = i
@@ -160,6 +160,6 @@ stopwords = [
 ]
         
 #read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_new_stopwords.pkl", word_num=10000, stopwords=stopwords)
-read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k_excl_5000.pkl", word_num=10000, stopwords=[])
+read_bigram_matrix("../bnc_sentences", "../bnc_freqdist_lowercase.txt", "../bigram_matrix_10k.pkl", word_num=10000, stopwords=[])
         
         
