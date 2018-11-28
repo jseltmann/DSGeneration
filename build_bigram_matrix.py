@@ -53,6 +53,8 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
     print("number of types (including START$_ and END$_ ):", len(vocab_order), "\n")
 
     freq_dict = {i:0 for i in range(len(vocab_order))}
+
+    unigram_counts = {w:0 for w in vocab_order}
     
     
     # the empty matrix is instantiated, the shape of it is equal to the brigram lexicon
@@ -78,6 +80,11 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
                 freq_dict[vocab_order[i[0]]] += 1
                 non_zero_positions.add((vocab_order[i[1]], vocab_order[i[0]]))
 
+                unigram_counts[i[1]] += 1
+
+                if i[0] == "START$_":
+                    unigram_counts[i[0]] += 1
+
         
         # this is just a counter to give the user some feedback
         count += 1
@@ -94,14 +101,21 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
         if count % 5000 == 0:
             print(count)
         count += 1
-        
+
+
+    #calculate unigram probabilities
+    print("calculating unigram probabilities ...")
+    count_sum = sum(unigram_counts.values())
+
+    for w in unigram_counts:
+        unigram_counts[w] /= count_sum
     
         
-    return matrix, vocab_order
+    return matrix, unigram_counts, vocab_order
 
 
 
-foo, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]))
+foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]))
 
 
 print ("saving the matrix file as " + sys.argv[1][:-4]+"_matrix.pkl")
@@ -109,5 +123,8 @@ pickle.dump(foo, open(sys.argv[1][:-4]+"_matrix.pkl", "wb"))
 
 print("saving the vector index file as " + sys.argv[2][:-4]+"_vector_index.pkl")
 pickle.dump(bar, open(sys.argv[2][:-4]+"_vector_index.pkl", "wb"))
+
+print("saving the unigram index file as " + sys.argv[1][:-4]+"_unigram_probs.pkl")
+pickle.dump(baz, open(sys.argv[1][:-4]+"_unigram_probs.pkl", "wb"))
 
 

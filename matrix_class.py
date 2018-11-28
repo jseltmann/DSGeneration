@@ -4,11 +4,13 @@ import numpy as np
 
 class DS_matrix:
 
-    def __init__(self, matrix_path, order_path):
+    def __init__(self, matrix_path, unigram_path, order_path):
         with open(matrix_path, "rb") as matrix_file:
             self.matrix = pickle.load(matrix_file)
         with open(order_path, "rb") as order_file:
             self.vocab_order = pickle.load(order_file)
+        with open(unigram_path, "rb") as unigram_file:
+            self.unigram_probs = pickle.load(unigram_file)
 
     def get_vector(self, word):
         """
@@ -147,9 +149,7 @@ class DS_matrix:
             Probability of word occuring.
         """
 
-        pos = self.vocab_order[word]
-        
-        prob = self.matrix[pos].sum()
+        prob = self.unigram_probs[word]
 
         return prob
 
