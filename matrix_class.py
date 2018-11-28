@@ -4,58 +4,55 @@ import numpy as np
 
 class DS_matrix:
 
-    def __init__(self, matrix_path, order_path=None):
+    def __init__(self, matrix_path, order_path):
         with open(matrix_path, "rb") as matrix_file:
             self.matrix = pickle.load(matrix_file)
-        if not order_path is None:
-            with open(order_path, "rb") as order_file:
-                self.vector_order = pickle.load(order_file)
-        else:
-            self.vector_order = None
+        with open(order_path, "rb") as order_file:
+            self.vocab_order = pickle.load(order_file)
 
     def get_vector(self, word):
         """
         Return the vector that represents word.
         """
-        if not word in self.matrix:
+        if not word in self.vocab_order:
             raise Exception("Word not in matrix")
 
-        return self.matrix[word]
+        pos = self.vocab_order[word]
+        
+        return self.matrix[pos]
 
     def contains(self, word):
         """
         Returns true if word is in matrix. False otherwise.
         """
-        return word in self.matrix
+        return word in self.vocab_order
     
     def get_bigram_prob(self, word, prev_word):
         """
         Return the probability p(word|prev_word).
         """
 
-        if self.vector_order is None:
-            raise Exception("No vector_order is given.")
-
-        if not word in self.matrix:
+        if not word in self.vocab_order:
             #return 0
             raise Exception("Word not in matrix")
 
-        if not prev_word in self.matrix:
+        if not prev_word in self.vocab_order:
             #return 0
             raise Exception("Previous word not in matrix")
 
-        vec_pos = self.vector_order[prev_word]
+        prev_pos = self.vocab_order[prev_word]
+        pos = self.vocab_order[word]
 
-        return self.matrix[word][vec_pos]
+        return self.matrix[pos, prev_pos]
 
     def get_words(self):
         """
         Return words contained in the matrix.
         """
 
-        return list(self.matrix.keys())
+        return list(self.vocab_order.keys())
 
-    def generate_bigram_sentence(self, start_word=0):
+    def generate_bigram_sentence(self, start_word="START$_"):
         """
         Generate a sentence according to the bigram probabilities in the matrix.
         
@@ -76,18 +73,19 @@ class DS_matrix:
         
         sentence = []
 
-        if start_word != 0 and start_word != 1:
+        if start_word != "START$_" and start_word != "END$_":
             start_word = start_word.lower()
-            sentence.append(start_word)
 
-        if not start_word in self.matrix:
+        if not start_word in self.vocab_order:
             raise Exception("given start_word not in matrix")
 
         word = start_word
 
         words = self.get_words()
         
-        while word != 1:
+        while word != "END$_":
+
+
             prob_list = []
 
             for next_word in words:
@@ -97,14 +95,15 @@ class DS_matrix:
             index = np.random.choice(range(len(words)), p=prob_list)
             word = words[index]
 
-            if word == 1:
+            if word == "END$_":
                 break
             
             sentence.append(word)
+            
 
         return sentence
 
-    def get_sentence_prob(self,sentence):
+    def get_sentence_prob(self, sentence):
         """
         Get the probability of a sentence according to the bigram model.
 
@@ -120,15 +119,15 @@ class DS_matrix:
         """
 
         prob = 1
-        prev_word = 0
+        prev_word = "START$_"
 
         for word in sentence:
-            if not word in self.matrix:
+            if not word in self.vocab_order:
                 continue
-            prob *= self.get_bigram_prob(prev_word, word)
+            prob *= self.get_bigram_prob(word, prev_word)
             prev_word = word
 
-        prob *= self.get_bigram_prob(prev_word,1)
+        prob *= self.get_bigram_prob("END$_", prev_word)
 
         return prob
 
@@ -148,7 +147,9 @@ class DS_matrix:
             Probability of word occuring.
         """
 
-        prob = sum(self.matrix[word])
+        pos = self.vocab_order[word]
+        
+        prob = self.matrix[pos].sum()
 
         return prob
 
