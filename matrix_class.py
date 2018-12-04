@@ -26,7 +26,7 @@ class DS_matrix:
 
         pos = self.vocab_order[word]
         
-        return self.matrix[pos]
+        return self.matrix[pos].toarray()
 
     def contains(self, word):
         """

@@ -1,4 +1,5 @@
 import re
+import sys
 import pickle
 from scipy.stats.mstats import spearmanr
 from scipy.spatial.distance import cosine
@@ -73,5 +74,5 @@ def calculate_spearman(gold_filename, matrix_filename, similarity_function):
 
 
 
-spearman = calculate_spearman(sys.argv[1], sys.argv[2], lambda x : 1 - cosine(x))
+spearman = calculate_spearman(sys.argv[1], sys.argv[2], lambda x,y : 1 - cosine(x,y))
 print("spearman correlation cosine similarity:", spearman)

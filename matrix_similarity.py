@@ -3,7 +3,7 @@ from scipy.spatial.distance import cosine
 import numpy as np
 import pickle
 
-def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x: 1- cosine(x[0],x[1]))):
+def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x,y: 1- cosine(x,y))):
     """
     For each pair of words in the matrix,
     calculate the similarity between the
@@ -16,8 +16,6 @@ def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x: 1- cos
         path to file containing the matrix
     similarity_path : String
         path to save the similarity matrix to
-    dict_path : String
-        additional path to save the similarity matrix as dict
     """
 
     matrix = DS_matrix(matrix_path)
@@ -38,9 +36,6 @@ def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x: 1- cos
             sim = similarity(vec1, vec2)
             similarity_matrix[i][j] = sim
 
-            if dict_path:
-                similarity_dict[word1][word2] = sim
-
         if i % 1000 == 0:
             print(i)
        
@@ -50,27 +45,24 @@ def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x: 1- cos
     with open(similarity_path, "wb") as sim_file:
         pickle.dump(similarity_matrix, sim_file)
 
-    if dict_path:
-        with open(dict_path, "wb") as dict_file:
-            pickle.dump(similarity_dict, dict_file)
-        
 
-def analyze_sim(similarity_path, order_path, print_results=False):
-    with open(similarity_path, "rb") as similarity_file:
-        sim_matrix = pickle.load(similarity_file)
+def analyze_sim(matrix_path, similarity=(lambda x,y: 1- cosine(x,y))):
+    
+    matrix = DS_matrix(matrix_path)
 
-    with open(order_path, "rb") as order_file:
-        word_order = pickle.load(order_file)
+    words = matrix.vocab_order
 
     bins = [[],[],[],[],[],[],[],[],[],[]]
     highscore_table = []
     lowscore_table = []
 
-    for i, word1 in enumerate(word_order):
-        for j, word2 in enumerate(word_order):
+    for i, word1 in enumerate(words):
+        for j, word2 in enumerate(words):
             if j >= i:
                 break
-            sim = sim_matrix[i][j]
+            vec1 = matrix.get_vector(word1)
+            vec2 = matrix.get_vector(word2)
+            sim = similarity(vec1, vec2)
             if sim > 0.8:
                 bins[0].append((word1,word2))
             elif sim > 0.6:
