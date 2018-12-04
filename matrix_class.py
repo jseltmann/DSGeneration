@@ -4,11 +4,16 @@ import numpy as np
 
 class DS_matrix:
 
-    def __init__(self, matrix_path, unigram_path, order_path):
+    def __init__(self, matrix_path):
         with open(matrix_path, "rb") as matrix_file:
             self.matrix = pickle.load(matrix_file)
+        prefix = matrix_path[:-11]
+
+        order_path = prefix + "_vector_index.pkl"
         with open(order_path, "rb") as order_file:
             self.vocab_order = pickle.load(order_file)
+
+        unigram_path = prefix + "_unigram_probs.pkl"
         with open(unigram_path, "rb") as unigram_file:
             self.unigram_probs = pickle.load(unigram_file)
 

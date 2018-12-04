@@ -3,17 +3,7 @@ from scipy.spatial.distance import cosine
 import numpy as np
 import pickle
 
-def similarity(vector1, vector2):
-    """
-    Calculate cosine similarity of two vectors.
-    """
-
-    similarity = 1 - cosine(vector1, vector2)
-
-    return similarity
-
-
-def similarity_matrix(matrix_path, similarity_path, dict_path=None):
+def similarity_matrix(matrix_path, similarity_path, similarity=(lambda x: 1- cosine(x[0],x[1]))):
     """
     For each pair of words in the matrix,
     calculate the similarity between the
@@ -39,13 +29,8 @@ def similarity_matrix(matrix_path, similarity_path, dict_path=None):
     j = 0
     similarity_matrix = np.empty((word_num, word_num), float)
 
-    if dict_path:
-        similarity_dict = dict()
-    
     
     for i, word1 in enumerate(words):
-        if dict_path:
-            similarity_dict[word1] = dict()
         for j, word2 in enumerate(words):
             vec1 = matrix.get_vector(word1)
             vec2 = matrix.get_vector(word2)
@@ -56,7 +41,7 @@ def similarity_matrix(matrix_path, similarity_path, dict_path=None):
             if dict_path:
                 similarity_dict[word1][word2] = sim
 
-        if i % 500 == 0:
+        if i % 1000 == 0:
             print(i)
        
 
@@ -107,61 +92,10 @@ def analyze_sim(similarity_path, order_path, print_results=False):
             else:
                 bins[9].append((word1,word2))
 
-            #if len(highscore_table) < 10:
-            #    highscore_table.append((sim, word1, word2))
-            #    highscore_table.sort(key=lambda x: x[0], reverse=True)
-            #else:
-            #    if highscore_table[9][0] < sim:
-            #        highscore_table = highscore_table[:9]
-            #        highscore_table.append((sim, word1, word2))
-            #        highscore_table.sort(key=lambda x: x[0], reverse=True)
-            #
-            #if len(lowscore_table) < 10:
-            #    lowscore_table.append((sim, word1, word2))
-            #    lowscore_table.sort(key=lambda x: x[0], reverse=False)
-            #else:
-            #    if lowscore_table[9][0] > sim:
-            #        lowscore_table = lowscore_table[:9]
-            #        lowscore_table.append((sim, word1, word2))
-            #        lowscore_table.sort(key=lambda x: x[0], reverse=False)
                     
 
-    if print_results:
-        bin_lengths = list(map(len, bins))
-        total = sum(bin_lengths)
-        bin_rel = list(map(lambda x: x/total, bin_lengths))
-        print(bin_rel)
-        #print()
-        #print()
-        #print()
+    bin_lengths = list(map(len, bins))
 
-        #print("Highscore:")
-        #for sim, word1, word2 in highscore_table:
-        #    print(sim, word1, word2)
-
-        #print()
-        #print()
-        #print()
-
-        #print("Lowscore:")
-        #for sim, word1, word2 in lowscore_table:
-        #    print(sim, word1, word2)
-
-    return bins[0]#, highscore_table, lowscore_table
-
-
-#bins10k = analyze_sim("../similarities/matrix_10000.pkl", "../bigram_matrix_10000.pkl_order")
-#binsPca = analyze_sim("../similarities/matrix_10000_pca_300.pkl", "../bigram_matrix_10000.pkl_order")
-#               
-#print(len(bins10k))
-#count = len(bins10k)
-##for pair in bins10k:
-##    if not pair in binsPca:
-##        count += 1
-#for pair in binsPca:
-#    if pair in bins10k:
-#        count -= 1
-#
-#print(count)
+    return bin_lengths
       
             

@@ -3,8 +3,10 @@ import pickle
 from scipy.stats.mstats import spearmanr
 from scipy.spatial.distance import cosine
 
+from matrix_class import DS_matrix
 
-def calculate_spearman(gold_filename, matrix_filename):
+
+def calculate_spearman(gold_filename, matrix_filename, similarity_function):
     """
     Calculate Spearman coefficient between a corpus of similarities of word pairs
     and a bigram model as produced by read_bigram_matrix.py.
@@ -17,6 +19,12 @@ def calculate_spearman(gold_filename, matrix_filename):
         in the format "word1 word2 similarity"
     matrix_filename : String
         File containg the bigram model.
+    unigram_filename : String
+        File containing the unigram probabilities.
+    vocab_order_filename : String
+        File containing the order of the vectors in the matrix.
+    similarity_function : function
+        Function for calculating influence of two vectors.
 
     Return
     ------
@@ -46,37 +54,24 @@ def calculate_spearman(gold_filename, matrix_filename):
     matrix_similarity_list = []
     gold_similarity_list = []
     
-    with open(matrix_filename, "rb") as matrix_file:
-        matrix = pickle.load(matrix_file)
 
-        for word1, word2, sim in gold_list:
-            #word1, word2, sim = entry
-            if not word1 in matrix or not word2 in matrix:
-                continue
+    matrix = DS_matrix(matrix_filename)
+    
+    for word1, word2, sim in gold_list:
+        if not matrix.contains(word1) or not matrix.contains(word2):
+            continue
 
-            similarity = 1 - cosine(matrix[word1], matrix[word2])
-            matrix_similarity_list.append(similarity)
+        similarity = similarity_function(matrix.get_vector(word1), matrix.get_vector(word2))
+        matrix_similarity_list.append(similarity)
 
-            gold_similarity_list.append(float(sim))
+        gold_similarity_list.append(float(sim))
 
     spearman, _ = spearmanr(matrix_similarity_list, gold_similarity_list)
 
     return spearman
 
 
-    
-            
-
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_100.pkl", n_components=100)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_200.pkl", n_components=200)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_500.pkl", n_components=500)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1000.pkl", n_components=1000)
-
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_1500.pkl", n_components=1500)
-#pca_matrix("../bigram_matrix_10k.pkl", "../bigram_matrix_10k_pca_2000.pkl", n_components=2000)
 
 
-
-
-spearman = calculate_spearman("../MEN/MEN_dataset_natural_form_full", "../dict_10000_pca_2000.pkl")
-print(spearman)
+spearman = calculate_spearman(sys.argv[1], sys.argv[2], lambda x : 1 - cosine(x))
+print("spearman correlation cosine similarity:", spearman)

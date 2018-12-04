@@ -118,10 +118,12 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
 foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]))
 
 
+
+
 print ("saving the matrix file as " + sys.argv[1][:-4]+"_matrix.pkl")
 pickle.dump(foo, open(sys.argv[1][:-4]+"_matrix.pkl", "wb"))
 
-print("saving the vector index file as " + sys.argv[2][:-4]+"_vector_index.pkl")
+print("saving the vector index file as " + sys.argv[1][:-4]+"_vector_index.pkl")
 pickle.dump(bar, open(sys.argv[2][:-4]+"_vector_index.pkl", "wb"))
 
 print("saving the unigram index file as " + sys.argv[1][:-4]+"_unigram_probs.pkl")
