@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 import sys
 
-def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
+def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stopwords=[]):
 
     """
     The function returns a scipy.sparse.lil_matrix() object containing bigram probabilities in a given corpus and
@@ -76,6 +76,8 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
         # if both words in the bigram are in the lexicon we add the count to the matrix
         for i in bigrams:
             if i[0] in vocab_order and i[1] in vocab_order:
+                if i[0] in stopwords:
+                    continue
                 matrix[vocab_order[i[1]], vocab_order[i[0]]] += 1
                 freq_dict[vocab_order[i[0]]] += 1
                 non_zero_positions.add((vocab_order[i[1]], vocab_order[i[0]]))
@@ -115,7 +117,18 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000):
 
 
 
-foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]))
+stopwords = [
+    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
+    "away", "be", "become", "became", "been", "being", "by", "did", "do",
+    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
+    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
+    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
+    "their", "there", "this", "these", "those", "to", "under", "was", "were",
+    "what", "when", "where", "which", "who", "will", "with", "you", "your"
+]
+
+
+foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]), stopwords=stopwords)
 
 
 
