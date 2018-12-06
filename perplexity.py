@@ -66,12 +66,12 @@ def perplexity(corpus_filename, model_filename):
             else:
                 pos1 = model.vocab_order[prev_word]
                 pos2 = model.vocab_order[word]
-                #bigram_counts[pos1][pos2] += 1
                 if bigram_counts[pos1, pos2] == 0:
                     bigram_counts[pos1, pos2] = 1
                 else:
                     bigram_counts[pos1, pos2] += 1
 
+    print("counter", counter)
     perplexity = 1
     for i, w1 in enumerate(model.vocab_order):
         if i % 2500 == 0:
@@ -87,6 +87,8 @@ def perplexity(corpus_filename, model_filename):
                 if prob == 0:
                     #backoff
                     prob = model.get_unigram_prob(w2)
+                if prob == 0:
+                    continue
                 for _ in range(bigram_count):
                     perplexity *= ((1/prob) ** (1/counter))
 
@@ -103,6 +105,8 @@ def perplexity(corpus_filename, model_filename):
 
 
         
-p = perplexity("../bnc_sentences_lowercase_test.txt", "../bnc_sentences_lowercase_train_matrix.pkl")
-print(p)
+p = perplexity("../bnc_sentences_lowercase_test.txt", "../50k_stopwords/_matrix.pkl")
+print("perplexity on test set",p)
+
+
             

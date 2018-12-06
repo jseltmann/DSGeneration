@@ -1,12 +1,13 @@
 import pickle
 from copy import deepcopy
 import numpy as np
+import scipy.sparse
 
 class DS_matrix:
 
     def __init__(self, matrix_path):
         with open(matrix_path, "rb") as matrix_file:
-            self.matrix = pickle.load(matrix_file)
+            self.matrix = pickle.load(matrix_file).todok()
         prefix = matrix_path[:-11]
 
         order_path = prefix + "_vector_index.pkl"
@@ -90,16 +91,29 @@ class DS_matrix:
         
         while word != "END$_":
 
-
             prob_list = []
+            sum_prob = 0
 
             for next_word in words:
                 prob = self.get_bigram_prob(next_word, word)
+                sum_prob += prob
                 prob_list.append(prob)
 
-            if sum(prob_list) == 0:
-                #deal with possible cases where a word was never seen as first word in bigram
-                word = "END$_"
+            if sum_prob == 0:
+                #deal with possible cases where a word was never seen as first word in bigram using backoff
+                #happens when model was trained using stopwords
+                prob_list = []
+                for next_word in words:
+                    prob = self.get_unigram_prob(next_word)
+                    prob_list.append(prob)
+                
+                index = np.random.choice(range(len(words)), p=prob_list)
+                word = words[index]
+                while word == "START$_":
+                    #we don't want to have START$_ in the middle of the sentence
+                    index = np.random.choice(range(len(words)), p=prob_list)
+                    word = words[index]
+
             else:
                 index = np.random.choice(range(len(words)), p=prob_list)
                 word = words[index]

@@ -63,6 +63,7 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     
     count = 0
     non_zero_positions = set()
+    do_counter = 0
     for sent in open(corpus):
 
         # every line in the corpus file is transformed in a list
@@ -88,21 +89,23 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
                 if i[0] == "START$_":
                     unigram_counts[i[0]] += 1
 
+
         
         # this is just a counter to give the user some feedback
         count += 1
-        if count%10000 == 0:
+        if count%100000 == 0:
             print(count, " sentences processed ...")
+    print("do_counter", do_counter)
 
     print("counted bigrams ...")
-
+    print("calculating bigram probabilities ...")
     #normalize the counts
     count = 0
     for row, col in non_zero_positions:
         matrix[row, col] /= freq_dict[col]
 
-        if count % 5000 == 0:
-            print(count)
+        if count % 500000 == 0:
+            print(count, "bigrams processed ...")
         count += 1
 
 
