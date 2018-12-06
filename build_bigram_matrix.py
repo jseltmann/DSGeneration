@@ -137,7 +137,7 @@ print ("saving the matrix file as " + sys.argv[1][:-4]+"_matrix.pkl")
 pickle.dump(foo, open(sys.argv[1][:-4]+"_matrix.pkl", "wb"))
 
 print("saving the vector index file as " + sys.argv[1][:-4]+"_vector_index.pkl")
-pickle.dump(bar, open(sys.argv[2][:-4]+"_vector_index.pkl", "wb"))
+pickle.dump(bar, open(sys.argv[1][:-4]+"_vector_index.pkl", "wb"))
 
 print("saving the unigram index file as " + sys.argv[1][:-4]+"_unigram_probs.pkl")
 pickle.dump(baz, open(sys.argv[1][:-4]+"_unigram_probs.pkl", "wb"))

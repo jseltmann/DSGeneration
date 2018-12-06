@@ -1,0 +1,7 @@
+2018-12-05:
+* next goals:
+** test perplexity on generated sentences
+** include or re-implement code from White et.al.
+** try encoding and decoding on a smaller set of words forming short sentences
+* ideas:
+** possibly use variational autoencoder to do the same thing
