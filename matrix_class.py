@@ -65,10 +65,8 @@ class DS_matrix:
         
         Parameter
         ---------
-        start_word : string or 0 or 1
+        start_word : string
             First word from which to generate sentences.
-            The integer 0 serves as sentence beginning symbol,
-            the integer 1 as sentence end symbol.
 
         Return
         ------
@@ -99,8 +97,12 @@ class DS_matrix:
                 prob = self.get_bigram_prob(next_word, word)
                 prob_list.append(prob)
 
-            index = np.random.choice(range(len(words)), p=prob_list)
-            word = words[index]
+            if sum(prob_list) == 0:
+                #deal with possible cases where a word was never seen as first word in bigram
+                word = "END$_"
+            else:
+                index = np.random.choice(range(len(words)), p=prob_list)
+                word = words[index]
 
             if word == "END$_":
                 break
