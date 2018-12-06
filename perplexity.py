@@ -33,8 +33,6 @@ def perplexity(corpus_filename, model_filename):
     #unigram_counts = scipy.sparse.lil_matrix((1,len(model.vocab_order)), dtype=np.int64)
     unigram_counts = np.zeros(len(model.vocab_order), dtype=np.int64)
 
-    print(bigram_counts.shape)
-
     with open(corpus_filename) as corpus:
         counter = 0
 
@@ -77,7 +75,7 @@ def perplexity(corpus_filename, model_filename):
     perplexity = 1
     for i, w1 in enumerate(model.vocab_order):
         if i % 2500 == 0:
-            print(i)
+            print(i, "words processed ...")
         for w2 in model.vocab_order:
                 
             pos1 = model.vocab_order[w1]
@@ -89,10 +87,6 @@ def perplexity(corpus_filename, model_filename):
                 if prob == 0:
                     #backoff
                     prob = model.get_unigram_prob(w2)
-                if prob == 0:
-                    continue
-                if counter == 0:
-                    print("counter", counter, w1, w2)
                 for _ in range(bigram_count):
                     perplexity *= ((1/prob) ** (1/counter))
 
