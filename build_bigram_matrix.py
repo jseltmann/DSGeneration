@@ -2,6 +2,7 @@ import scipy.sparse
 import numpy as np
 import pickle
 import sys
+import os.path
 
 def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stopwords=[]):
 
@@ -128,18 +129,20 @@ stopwords = [
 ]
 
 
-foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[3]), stopwords=stopwords)
+foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=stopwords)
 
 
+directory_name = sys.argv[3]
+if not os.path.isdir(directory_name):
+    os.mkdir(directory_name)
 
+print ("saving the matrix file as " + directory_name +"/_matrix.pkl")
+pickle.dump(foo, open(directory_name+"/_matrix.pkl", "wb"))
 
-print ("saving the matrix file as " + sys.argv[1][:-4]+"_matrix.pkl")
-pickle.dump(foo, open(sys.argv[1][:-4]+"_matrix.pkl", "wb"))
+print("saving the vector index file as " + directory_name+"/_vector_index.pkl")
+pickle.dump(bar, open(directory_name+"/_vector_index.pkl", "wb"))
 
-print("saving the vector index file as " + sys.argv[1][:-4]+"_vector_index.pkl")
-pickle.dump(bar, open(sys.argv[1][:-4]+"_vector_index.pkl", "wb"))
-
-print("saving the unigram index file as " + sys.argv[1][:-4]+"_unigram_probs.pkl")
-pickle.dump(baz, open(sys.argv[1][:-4]+"_unigram_probs.pkl", "wb"))
+print("saving the unigram index file as " + directory_name+"/_unigram_probs.pkl")
+pickle.dump(baz, open(directory_name+"/_unigram_probs.pkl", "wb"))
 
 
