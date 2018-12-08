@@ -41,11 +41,9 @@ class DS_matrix:
         """
 
         if not word in self.vocab_order:
-            #return 0
             raise Exception("Word not in matrix")
 
         if not prev_word in self.vocab_order:
-            #return 0
             raise Exception("Previous word not in matrix")
 
         prev_pos = self.vocab_order[prev_word]
