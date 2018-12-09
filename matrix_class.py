@@ -2,6 +2,7 @@ import pickle
 from copy import deepcopy
 import numpy as np
 import scipy.sparse
+import nltk
 
 class DS_matrix:
 
@@ -173,8 +174,35 @@ class DS_matrix:
         return prob
 
 
+    def encode_sentence(self, sent):
+        """
+        Encode a sentence as sum of word vectors.
+        Unknown words are ignored.
 
+        Parameter
+        ---------
+        sent : String
+            Sentence to be encoded.
 
+        Return
+        ------
+        encoding : np.adarray
+            Vector representing the words of the sentence.
+        """
+
+        words = nltk.word_tokenize(sent)
+        vectors = []
+
+        for word in words:
+            if word in self.vocab_order:
+                vectors.append(self.get_vector(word))
+
+        if len(vectors) == 0:
+            encoding = np.zeros((1,len(self.vocab_order)))
+        else:
+            encoding = np.sum(vectors, axis=0)
+
+        return encoding
         
 
 

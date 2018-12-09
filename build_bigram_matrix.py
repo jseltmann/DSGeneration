@@ -132,7 +132,7 @@ stopwords = [
 ]
 
 
-foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=stopwords)
+foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=[])
 
 
 directory_name = sys.argv[3]
