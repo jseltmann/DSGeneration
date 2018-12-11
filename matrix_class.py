@@ -8,7 +8,7 @@ class DS_matrix:
 
     def __init__(self, matrix_path):
         with open(matrix_path, "rb") as matrix_file:
-            self.matrix = pickle.load(matrix_file).todok()
+            self.matrix = pickle.load(matrix_file).tocsc()
         prefix = matrix_path[:-11]
 
         order_path = prefix + "_vector_index.pkl"
@@ -95,18 +95,15 @@ class DS_matrix:
         word = start_word
 
         words = self.get_words()
+
+
         
         while word != "END$_":
 
-            prob_list = []
-            sum_prob = 0
+            pos = self.vocab_order[word]
+            prob_list = self.matrix.getcol(pos).toarray().flatten()
 
-            for next_word in words:
-                prob = self.get_bigram_prob(next_word, word)
-                sum_prob += prob
-                prob_list.append(prob)
-
-            if sum_prob == 0:
+            if sum(prob_list) == 0:
                 #deal with possible cases where a word was never seen as first word in bigram using backoff
                 #happens when model was trained using stopwords
                 prob_list = []
