@@ -19,12 +19,20 @@ class DS_matrix:
         with open(unigram_path, "rb") as unigram_file:
             self.unigram_probs = pickle.load(unigram_file)
 
+        #self.most_common_vecs = dict()
+        #for i, word in enumerate(self.vocab_order):
+        #    if i == 1000:
+        #        break
+        #    self.most_common_vecs[word] = self.get_vector(word)
+
     def get_vector(self, word):
         """
         Return the vector that represents word.
         """
         if not word in self.vocab_order:
             raise Exception("Word not in matrix")
+        #if word in self.most_common_vecs:
+        #    return self.most_common_vecs[word]
 
         pos = self.vocab_order[word]
         
@@ -194,8 +202,8 @@ class DS_matrix:
         vectors = []
 
         for word in words:
-            if word in self.vocab_order:
-                vectors.append(self.get_vector(word))
+            if word.lower() in self.vocab_order:
+                vectors.append(self.get_vector(word.lower()))
 
         if len(vectors) == 0:
             encoding = np.zeros((1,len(self.vocab_order)))

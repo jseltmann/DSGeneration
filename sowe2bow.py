@@ -58,20 +58,24 @@ def score_possible_additions(LL, target, end_point):
     diff = end_point - target
 
     word_scores = dict()
+    matrix = LL.matrix.tocsr()
 
     for i, word in enumerate(LL.get_words()):
-        if i % 1000 == 0:
-            print("possible additions calculated:", i)
-        #could maybe be improved by applying the operations to the dok_matrix directly
-        vec = LL.get_vector(word)
+        #if i % 1000 == 0:
+        #    print("possible additions calculated:", i)
+            
+        pos = LL.vocab_order[word]
+
+        vec = matrix[pos].toarray()
         vec += diff
-        #print("vecshape", vec.shape)
         vec = vec * vec
-        #print("squaredshape", vec.shape)
         s = np.sum(vec)
         score = -np.sqrt(s)
 
         word_scores[word] = score
+    
+
+    
 
     return word_scores
 
@@ -129,7 +133,7 @@ def greedy_addition(LL, target, initial_word_set, max_additions=float("inf")):
     curr_additions = 0
     while curr_additions < max_additions:
         curr_additions += 1
-        print("curr_additions:", curr_additions)
+        #print("curr_additions:", curr_additions)
 
         addition_scores = score_possible_additions(LL, target, end_point)
         addition = max(addition_scores.keys(), key=(lambda x: addition_scores[x]))
