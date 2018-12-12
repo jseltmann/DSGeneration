@@ -1,5 +1,4 @@
 import pickle
-import gmpy2
 from matrix_class import DS_matrix
 import numpy as np
 from collections import defaultdict
@@ -105,8 +104,8 @@ def perplexity(corpus_filename, model_filename):
 
 
         
-p = perplexity("../bnc_sentences_lowercase_test.txt", "../50k_stopwords/_matrix.pkl")
-print("perplexity on test set",p)
+p = perplexity("../generated_sentences.txt", "../matrix_50k/_matrix.pkl")
+print("perplexity on bigram sentences",p)
 
 
             
