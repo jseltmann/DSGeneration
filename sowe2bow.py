@@ -26,7 +26,8 @@ def get_end(LL, ws):
         Sum of the vectors.
     """
     if len(ws) == 0:
-        sofar = np.zeros((1,len(LL.get_words())))
+        #sofar = np.zeros((1,len(LL.get_words())))
+        sofar = np.zeros((1,LL.get_vector("START$_").shape[1]))
     else:
         vectors = []
         for word in ws:
@@ -61,8 +62,6 @@ def score_possible_additions(LL, target, end_point):
     matrix = LL.matrix.tocsr()
 
     for i, word in enumerate(LL.get_words()):
-        #if i % 1000 == 0:
-        #    print("possible additions calculated:", i)
             
         pos = LL.vocab_order[word]
 
@@ -74,9 +73,6 @@ def score_possible_additions(LL, target, end_point):
 
         word_scores[word] = score
     
-
-    
-
     return word_scores
 
 def fitness(target, end_point):
@@ -133,7 +129,6 @@ def greedy_addition(LL, target, initial_word_set, max_additions=float("inf")):
     curr_additions = 0
     while curr_additions < max_additions:
         curr_additions += 1
-        #print("curr_additions:", curr_additions)
 
         addition_scores = score_possible_additions(LL, target, end_point)
         addition = max(addition_scores.keys(), key=(lambda x: addition_scores[x]))

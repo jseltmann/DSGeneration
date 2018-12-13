@@ -6,24 +6,24 @@ import nltk
 
 class DS_matrix:
 
-    def __init__(self, matrix_path):
-        with open(matrix_path, "rb") as matrix_file:
-            self.matrix = pickle.load(matrix_file).tocsc()
-        prefix = matrix_path[:-11]
+    def __init__(self, matrix_path=None):
+        if not matrix_path is None:
+            with open(matrix_path, "rb") as matrix_file:
+                self.matrix = pickle.load(matrix_file).tocsc()
+            prefix = matrix_path[:-11]
 
-        order_path = prefix + "_vector_index.pkl"
-        with open(order_path, "rb") as order_file:
-            self.vocab_order = pickle.load(order_file)
+            order_path = prefix + "_vector_index.pkl"
+            with open(order_path, "rb") as order_file:
+                self.vocab_order = pickle.load(order_file)
 
-        unigram_path = prefix + "_unigram_probs.pkl"
-        with open(unigram_path, "rb") as unigram_file:
-            self.unigram_probs = pickle.load(unigram_file)
+            unigram_path = prefix + "_unigram_probs.pkl"
+            with open(unigram_path, "rb") as unigram_file:
+                self.unigram_probs = pickle.load(unigram_file)
+        else:
+            self.matrix = None
+            self.vocab_order = dict()
+            self.unigram_probs = dict()
 
-        #self.most_common_vecs = dict()
-        #for i, word in enumerate(self.vocab_order):
-        #    if i == 1000:
-        #        break
-        #    self.most_common_vecs[word] = self.get_vector(word)
 
     def get_vector(self, word):
         """
@@ -31,8 +31,6 @@ class DS_matrix:
         """
         if not word in self.vocab_order:
             raise Exception("Word not in matrix")
-        #if word in self.most_common_vecs:
-        #    return self.most_common_vecs[word]
 
         pos = self.vocab_order[word]
         
@@ -208,6 +206,87 @@ class DS_matrix:
             encoding = np.sum(vectors, axis=0)
 
         return encoding
+
+    def less_words_matrix(self, word_set, normalize=False):
+        """
+        Return a DS_matrix whose matrix contains less rows (so as to have a smaller set of words),
+        but the same number of columns so that each word retains its original encoding.
+
+        Parameters
+        ----------
+        word_set : [str]
+            Words whose rows are to be retained. 
+            Words not contained in the original matrix are ignored.
+        normalize : bool
+            If true, normalize the bigram probabilities.
+            If false, the resulting matrix can't be used as a bigram model.
+
+        Return
+        ------
+        new_matrix : DS_matrix
+            New DS_matrix without the specific rows.
+        """
+
+        new_matrix = DS_matrix()
+
+        contained_words = set()
+        for word in word_set:
+            if word in self.vocab_order:
+                contained_words.add(word)
+        word_set = contained_words
+
+        word_set.add("START$_")
+        word_set.add("END$_")
+
+        new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), len(self.vocab_order)))
+
+        for i, word in enumerate(word_set):
+            new_matrix.vocab_order[word] = i
+            new_matrix.unigram_probs[word] = self.unigram_probs[word]
+
+            pos = self.vocab_order[word]
+            new_matrix.matrix[i] = self.matrix.getrow(pos)
+
+        new_matrix.tocsc()
+
+        if normalize:
+            #normalize probabilities
+            rows, columns = new_matrix.matrix.nonzero()
+            entry_dict = dict()
+            for row, col in zip(rows, columns):
+                if col in entry_dict.keys():
+                    entry_dict[col].append(row)
+                else:
+                    entry_dict[col] = [row]
+
+            for i, col in enumerate(columns):
+                if i % 1000 == 0:
+                    print(i)
+                prob_sum = new_matrix.matrix.getcol(col).sum()
+
+                for row in entry_dict[col]:
+                    new_matrix.matrix[row, col] /= prob_sum
+
+        return new_matrix
+
+    def tocsr(self):
+        """
+        Transform self.matrix to scipy.sparse.csr_matrix.
+        This is useful for row slicing, 
+        for example when get_vector() is called many times.
+        """
+
+        self.matrix = self.matrix.tocsr()
+
+    def tocsc(self):
+        """
+        Transform self.matrix to scipy.sparse.csc_matrix.
+        This is useful for column slicing,
+        for example when generate_bigram_sentence is called many times.
+        """
+
+        self.matrix = self.matrix.tocsc()
+            
         
 
 
