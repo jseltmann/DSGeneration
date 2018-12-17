@@ -3,7 +3,8 @@ import re
 from nltk.corpus import brown
 
 
-sents = [i for i in brown.sents() if len(i)>=3 and len(i)<=6 ]
+#sents = [i for i in brown.sents() if len(i)>=3 and len(i)<=6 ]
+sents = [i for i in brown.sents() if len(i)>=6 and len(i)<=18 ]
 freqs = {}
 
 for sent in sents:
@@ -28,20 +29,35 @@ def delete_unfrequent(lofl,freq_list, num_words=1000):
             out_.append(temp_sent)
     return out_
 
-with open("/home/luca/Data/1000_freq_sents_from_brown.txt", "w") as write_out:
+##with open("/home/luca/Data/1000_freq_sents_from_brown.txt", "w") as write_out:
+#with open("brown_sents/1000_freq_sents_from_brown.txt", "w") as write_out:
+#    
+#    for i in delete_unfrequent(sents, sorted_freqs, num_words=1000):
+#        write_out.write("\t".join(i) + "\n")
+#
+#
+#with open("brown_sents/1500_freq_sents_from_brown.txt", "w") as write_out:
+#    
+#    for i in delete_unfrequent(sents, sorted_freqs, num_words=1500):
+#        write_out.write("\t".join(i) + "\n")
+
+with open("brown_sents/1000_freq_long_sents.txt", "w") as write_out:
     
+    count_long_sents = 0
     for i in delete_unfrequent(sents, sorted_freqs, num_words=1000):
-        write_out.write("\t".join(i) + "\n")
+        if len(i) > 5:
+            write_out.write("\t".join(i) + "\n")
+            count_long_sents += 1
+        if count_long_sents >= 1075:
+            break
 
 
-with open("/home/luca/Data/1500_freq_sents_from_brown.txt", "w") as write_out:
+with open("brown_sents/2000_freq_long_sents.txt", "w") as write_out:
     
-    for i in delete_unfrequent(sents, sorted_freqs, num_words=1500):
-        write_out.write("\t".join(i) + "\n")
-
-
-
-with open("/home/luca/Data/2000_freq_sents_from_brown.txt", "w") as write_out:
-    
+    count_long_sents = 0
     for i in delete_unfrequent(sents, sorted_freqs, num_words=2000):
-        write_out.write("\t".join(i) + "\n")
+        if len(i) > 5:
+            write_out.write("\t".join(i) + "\n")
+            count_long_sents += 1
+        if count_long_sents >= 1075:
+            break
