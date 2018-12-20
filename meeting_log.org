@@ -5,3 +5,22 @@
 ** try encoding and decoding on a smaller set of words forming short sentences
 * ideas:
 ** possibly use variational autoencoder to do the same thing
+
+2018-12-19:
+* last results:
+** tested bag of words reconstruction on test sets with various sentence lengths (3-6,6-18,>12) and different vocabulary sizes (1000,2000)
+** the results are always very good (every time, out of 1075 sentences more than 1000 were reconstructed correctly)
+* next goals:
+** Where are the sentences in space?
+*** nearest neighbor among sentences
+*** nearest neighbor in words
+** retry bag of word reconstruction with whole matrix instead of just small subset
+** test bag of word reconstruction in a more systematic way:
+*** make bins of sentence lengths
+*** use larger vocabulary
+*** find number of words lost per sentence (avg with variance)
+** use bigger corpus for training
+** use bigram model to actually reconstruct sentence from bag of words
+*** use SICK dataset for testing sentence similarity
+* ideas:
+** When we know where the vectors are in the space we could use that to speed up sentence reconstruction.
