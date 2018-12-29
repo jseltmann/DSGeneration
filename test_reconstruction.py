@@ -79,5 +79,5 @@ def test_decoding(sents_filename, matrix_filename, log_filename, words_filename=
         log_file.write("exact matches: " + str(exact_match_count) + " out of " + str(total_count))
         
 
-test_decoding("brown_sents/1000_freq_long_sents.txt", "../matrix_50k/_matrix.pkl", "../1000_sents_long.log", words_filename="brown_sents/1000_words_long.txt")
+test_decoding("sents_from_brown/2000_freq_long_sents.txt", "../matrix_50k/_matrix.pkl", "../2000_sents_long_5000_words.log", words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")

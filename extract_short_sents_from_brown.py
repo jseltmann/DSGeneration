@@ -4,7 +4,7 @@ from nltk.corpus import brown
 
 
 #sents = [i for i in brown.sents() if len(i)>=3 and len(i)<=6 ]
-sents = [i for i in brown.sents() if len(i)>=6 and len(i)<=18 ]
+sents = [i for i in brown.sents() if len(i)>=12 ]
 freqs = {}
 
 for sent in sents:
@@ -41,22 +41,22 @@ def delete_unfrequent(lofl,freq_list, num_words=1000):
 #    for i in delete_unfrequent(sents, sorted_freqs, num_words=1500):
 #        write_out.write("\t".join(i) + "\n")
 
-with open("brown_sents/1000_freq_long_sents.txt", "w") as write_out:
-    
-    count_long_sents = 0
-    for i in delete_unfrequent(sents, sorted_freqs, num_words=1000):
-        if len(i) > 5:
-            write_out.write("\t".join(i) + "\n")
-            count_long_sents += 1
-        if count_long_sents >= 1075:
-            break
+#with open("brown_sents/1000_freq_long_sents.txt", "w") as write_out:
+#    
+#    count_long_sents = 0
+#    for i in delete_unfrequent(sents, sorted_freqs, num_words=1000):
+#        if len(i) > 5:
+#            write_out.write("\t".join(i) + "\n")
+#            count_long_sents += 1
+#        if count_long_sents >= 1075:
+#            break
 
 
-with open("brown_sents/2000_freq_long_sents.txt", "w") as write_out:
+with open("sents_from_brown/2000_freq_very_long_sents.txt", "w") as write_out:
     
     count_long_sents = 0
     for i in delete_unfrequent(sents, sorted_freqs, num_words=2000):
-        if len(i) > 5:
+        if len(i) > 12:
             write_out.write("\t".join(i) + "\n")
             count_long_sents += 1
         if count_long_sents >= 1075:

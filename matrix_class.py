@@ -189,7 +189,7 @@ class DS_matrix:
 
         Return
         ------
-        encoding : np.adarray
+        encoding : np.ndarray
             Vector representing the words of the sentence.
         """
 
