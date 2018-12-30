@@ -21,50 +21,58 @@ def find_positions(sents_filename, matrix_filename, log_filename):
     sents = open(sents_filename).readlines()
 
     matrix = DS_matrix(matrix_filename)
+    matrix.tocsr()
 
     sent_vectors = dict()
     for sent in sents:
         sent_vectors[sent] = matrix.encode_sentence(sent)
 
+    closest_sents = dict()
+    closest_words = dict()
 
-    for i, s1 in enumerate(sents):
-        print(i)
-        min_dist = float("inf")
-        closest_sent = None
-        vec1 = sent_vectors[s1]
-
-        for s2 in sents:
-            if s1 == s2:
-                continue
-            vec2 = sent_vectors[s2]
+    for s2 in sents:
+        vec2 = sent_vectors[s2]
+        for s1 in sents:
+            vec1 = sent_vectors[s1]
 
             dist = cosine(vec1, vec2)
 
-            if dist < min_dist:
-                min_dist = dist
-                closest_sent = s2
+            if not s1 in closest_sents:
+                closest_sents[s1] = (s2, dist)
+            else:
+                if dist < closest_sents[s1][1]:
+                    closest_sents[s1] = (s2, dist)
 
-        with open(log_filename, "a") as log_file:
+    print("found closest sentences...")
+    
+    for i, w in enumerate(matrix.get_words()):
+        if i % 5000 == 0:
+            print(i)
+        vec2 = matrix.get_vector(w)
+        for s1 in sents:
+            vec1 = sent_vectors[s1]
+
+            dist = cosine(vec1, vec2)
+
+            if not s1 in closest_words:
+                closest_words[s1] = (s2, dist)
+            else:
+                if dist < closest_words[s1][1]:
+                    closest_words[s1] = (s2, dist)
+
+    with open(log_filename, "w") as log_file:
+        for s1 in sents:
             log_file.write(s1)
+            
+            closest_sent, dist = closest_sents[s1]
             log_file.write(closest_sent)
-            log_file.write(str(min_dist) + "\n")
+            log_file.write(str(dist) + "\n")
 
-        min_dist = float("inf")
-        closest_word = None
-        for j, w in enumerate(matrix.get_words()):
-            #if j % 500 == 0:
-            #    print(j)
-            if w == s1.strip():
-                continue
-            vec2 = matrix.get_vector(w)
+            closest_word, dist = closest_words[s1]
+            log_file.write(closest_word + "\n")
+            log_file.write(str(dist) + "\n")
 
-            dist = cosine(vec1, vec2)
+            log_file.write("\n\n")
 
-            if dist < min_dist:
-                min_dist = dist
-                closest_sent = w
-
-        with open(log_filename, "a") as log_file:
-            log_file.write(w + "\n")
-            log_file.write(str(min_dist))
-            log_file.write("\n\n\n")
+                    
+    
