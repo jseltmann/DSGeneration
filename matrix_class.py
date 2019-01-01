@@ -201,7 +201,7 @@ class DS_matrix:
                 vectors.append(self.get_vector(word.lower()))
 
         if len(vectors) == 0:
-            encoding = np.zeros((1,len(self.vocab_order)))
+            encoding = np.zeros((1,self.matrix.shape[1]))
         else:
             encoding = np.sum(vectors, axis=0)
 
