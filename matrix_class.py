@@ -1,8 +1,11 @@
 import pickle
-from copy import deepcopy
+from copy import deepcopy, copy
 import numpy as np
 import scipy.sparse
 import nltk
+from itertools import permutations
+
+import sowe2bow as s2b
 
 class DS_matrix:
 
@@ -286,7 +289,106 @@ class DS_matrix:
         """
 
         self.matrix = self.matrix.tocsc()
-            
+
+    def todok(self):
+        """
+        Transform self.matrix to scipy.sparse.dok_matrix.
+        This is useful for accessing individual elements,
+        for example when get_bigram_prob() is called many times.
+        """
+
+        self.matrix = self.matrix.todok()
+
+    def reconstruct_sent(self, sent, beam_width=3):
+        """
+        Reconstruct a sentence using the DS model
+        to reconstruct the bag  of words and the 
+        bigram model to reconstruct the word order.
+
+        Parameter
+        ---------
+        sent : str
+            Sentence to be encoded and reconstructed.
+        beam_width : int
+            Number of words to add for each iteration 
+            of the breadth-first search.
+
+        Return
+        ------
+        best_sent : str
+            Reconstructed sentence.
+        """
+
+        target = self.encode_sentence(sent)
+        
+        words, _ = s2b.greedy_search(self, target)
+
+        print("reconstructed bag of words ...")
+        
+        self.todok()
+
+        #beam search
+        start_word_prob = lambda w : self.get_bigram_prob(w, "START$_")
+
+        first_word = max(words, key=start_word_prob)
+        prob = start_word_prob(first_word)
+
+        queue = [([first_word], prob)]
+        curr_length = 1
+        solutions = []
+
+        while queue != []:
+            word_list, prob_thus_far = queue.pop(0)
+            words_left = copy(words)
+            for w in word_list:
+                if w in words_left:
+                    words_left.remove(w)
+
+            last_word = word_list[-1]
+
+            if len(word_list) < len(words) - 1:
+
+                expansions = []
+
+                for w in set(words_left):
+                    prob = self.get_bigram_prob(w, last_word)
+
+                    expansions.append((w, prob))
+
+                if len(expansions) < beam_width:
+                    best_expansions = expansions
+                else:
+                    expansions.sort(key=(lambda t: t[1]), reverse=True)
+                    best_expansions = expansions[:beam_width]
+
+                for w, p in best_expansions:
+                    new_word_list = word_list + [w]
+                    new_prob = prob_thus_far * p
+                    queue.append((new_word_list, new_prob))
+
+                    len_queue = len(queue)
+                    if len_queue > 10000:
+                        #prune the queue to avoid memory problems
+                        #remove one of the first 1000 elements
+                        #in order to not accidentally remove all long sequences
+                        remove_el = min(queue[:1000], key=(lambda t: t[1]))
+                        queue.remove(remove_el)
+            else:
+                #found full sentence
+                w = words_left[0]
+
+                new_prob = (prob_thus_far
+                            * self.get_bigram_prob(w, last_word)
+                            * self.get_bigram_prob("END$_", w))
+                sent = word_list + [w]
+
+                solutions.append((sent, new_prob))
+                    
+
+        best_sent, _ = max(solutions, key=(lambda t: t[1]))
+
+
+        return best_sent
         
 
 
