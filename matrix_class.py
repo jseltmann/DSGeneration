@@ -386,6 +386,7 @@ class DS_matrix:
                     
 
         best_sent, _ = max(solutions, key=(lambda t: t[1]))
+        best_sent = ' '.join(best_sent)
 
 
         return best_sent
