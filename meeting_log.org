@@ -24,3 +24,14 @@
 *** use SICK dataset for testing sentence similarity
 * ideas:
 ** When we know where the vectors are in the space we could use that to speed up sentence reconstruction.
+
+2019-01-09:
+* last results:
+** sentences are most similar to function words appearing in them
+** systematic test of sentence reconstruction still running
+** implemented sentence reconstruction
+* next goals:
+** find method for evaluating sentence reconstruction → maybe cider?
+** look into similar literature for report
+** decide on date and format of the presentation
+** find out more about the positions of the words and sentences in the space
