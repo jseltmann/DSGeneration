@@ -1,0 +1,10984 @@
+sentence:up	to	a	year
+
+decoded:['to', 'a', 'up', 'year']
+score:-2.366331547785095e-31
+
+sentence:is	due	this
+
+decoded:['is', 'this', 'due']
+score:-1.2331562976564555e-33
+
+sentence:know	enough	to
+
+decoded:['to', 'enough', 'know']
+score:-7.279110646880794e-33
+
+sentence:the	life	of
+
+decoded:['of', 'the', 'life']
+score:-8.981300302610377e-32
+
+sentence:my	are	gone
+
+decoded:['are', 'my', 'gone']
+score:-0.0
+
+sentence:the	figure	was
+
+decoded:['the', 'was', 'figure']
+score:-2.276192730785722e-33
+
+sentence:works	with	the
+
+decoded:['the', 'with', 'works']
+score:-3.26763715766778e-32
+
+sentence:had	been	expected
+
+decoded:['had', 'been', 'expected']
+score:-0.0
+
+sentence:from	on	high
+
+decoded:['on', 'from', 'high']
+score:-0.0
+
+sentence:back	with	the
+
+decoded:['the', 'with', 'back']
+score:-1.716646957894591e-31
+
+sentence:that	is	simple
+
+decoded:['that', 'is', 'simple']
+score:-0.0
+
+sentence:been	working	for
+
+decoded:['for', 'been', 'working']
+score:-1.5682534620549073e-33
+
+sentence:all	are	of
+
+decoded:['of', 'are', 'all']
+score:-6.037857981272836e-31
+
+sentence:home	for	rest
+
+decoded:['for', 'home', 'rest']
+score:-0.0
+
+sentence:held	for	trial
+
+decoded:['for', 'held', 'trial']
+score:-0.0
+
+sentence:had	to	know
+
+decoded:['to', 'had', 'know']
+score:-0.0
+
+sentence:will	be	acknowledged
+
+decoded:['will', 'be', 'acknowledged']
+score:-0.0
+
+sentence:otherwise	no	peace	is	possible
+
+decoded:['is', 'no', 'possible', 'peace', 'otherwise']
+score:-1.1653028148006583e-33
+
+sentence:of	three	report
+
+decoded:['of', 'report', 'three']
+score:-4.434005833603947e-33
+
+sentence:the	was	late
+
+decoded:['the', 'was', 'late']
+score:-0.0
+
+sentence:in	address	are
+
+decoded:['in', 'are', 'address']
+score:-2.8256805038134775e-33
+
+sentence:is	a	bomb
+
+decoded:['a', 'is', 'bomb']
+score:-0.0
+
+sentence:the	gas	station	man
+
+decoded:['the', 'man', 'gas', 'station']
+score:-4.1721527120147745e-34
+
+sentence:had	a	touch
+
+decoded:['a', 'had', 'touch']
+score:-0.0
+
+sentence:reception	and	tea	followed
+
+decoded:['and', 'followed', 'tea', 'reception']
+score:-6.2676844507065885e-34
+
+sentence:has	kept	the
+
+decoded:['the', 'has', 'kept']
+score:-1.3700931794338955e-32
+
+sentence:is	a	complete
+
+decoded:['a', 'is', 'complete']
+score:-0.0
+
+sentence:they	were	not
+
+decoded:['were', 'not', 'they']
+score:-2.5938305898320974e-33
+
+sentence:that	was	not	all
+
+decoded:['that', 'was', 'all', 'not']
+score:-7.817816932659601e-33
+
+sentence:brought	much	good
+
+decoded:[]
+score:-0.4144366585735987
+
+sentence:on	the	air
+
+decoded:['the', 'on', 'air']
+score:-0.0
+
+sentence:law	is	needed
+
+decoded:['is', 'law', 'needed']
+score:-0.0
+
+sentence:from	a	shelter
+
+decoded:['from', 'a', 'shelter']
+score:-0.0
+
+sentence:customer	loses	again
+
+decoded:['again', 'customer', 'loses']
+score:-1.0010069081221042e-37
+
+sentence:this	means	some
+
+decoded:['this', 'some', 'means']
+score:-3.087687543487873e-34
+
+sentence:wrong	at	state
+
+decoded:['at', 'state', 'wrong']
+score:-4.951769952838886e-36
+
+sentence:is	one	approach
+
+decoded:['is', 'approach', 'one']
+score:-9.792220590654902e-34
+
+sentence:might	go	over
+
+decoded:['over', 'might', 'go']
+score:-1.988231604158298e-34
+
+sentence:course	it	is
+
+decoded:['is', 'it', 'course']
+score:-2.5124781184304e-33
+
+sentence:the	new	does
+
+decoded:['the', 'new', 'does']
+score:-0.0
+
+sentence:fiscal	changes	are	important
+
+decoded:['are', 'important', 'changes', 'fiscal']
+score:-2.8162300802458432e-34
+
+sentence:call	to	action
+
+decoded:['to', 'action', 'call']
+score:-1.0470715929949526e-34
+
+sentence:do	not	forget	us
+
+decoded:['not', 'us', 'do', 'forget']
+score:-6.239744419355481e-34
+
+sentence:friends	with	your
+
+decoded:['with', 'your', 'friends']
+score:-1.4488578579934144e-34
+
+sentence:could	be	better
+
+decoded:['be', 'could', 'better']
+score:-0.0
+
+sentence:might	move	up
+
+decoded:['up', 'might', 'move']
+score:-5.688143695232123e-35
+
+sentence:ask	him	more
+
+decoded:['him', 'more', 'ask']
+score:-2.5384984176999615e-35
+
+sentence:people	believe	she	did
+
+decoded:['people', 'did', 'she', 'believe']
+score:-6.140745754497167e-34
+
+sentence:mother	is	quite
+
+decoded:['is', 'mother', 'quite']
+score:-0.0
+
+sentence:common	sense	is
+
+decoded:['is', 'common', 'sense']
+score:-2.561073534159889e-34
+
+sentence:tried	to	him
+
+decoded:['to', 'him', 'tried']
+score:-5.253989550435296e-34
+
+sentence:have	a	throat
+
+decoded:['a', 'have', 'throat']
+score:-0.0
+
+sentence:team	feels	something
+
+decoded:['team', 'something', 'feels']
+score:-2.997510594596833e-37
+
+sentence:it	is	no	use
+
+decoded:['is', 'it', 'no', 'use']
+score:-0.0
+
+sentence:is	an	game
+
+decoded:['is', 'an', 'game']
+score:-0.0
+
+sentence:we	can	understand
+
+decoded:['can', 'we', 'understand']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:am	for	it
+
+decoded:['for', 'it', 'am']
+score:-6.060504030551641e-34
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:none	will	be
+
+decoded:['will', 'be', 'none']
+score:-4.9745850124914005e-33
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:aid	international	law
+
+decoded:['law', 'international', 'aid']
+score:-1.952703894525877e-35
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:out	of	the
+
+decoded:['of', 'the', 'out']
+score:-3.3949262301722736e-31
+
+sentence:people	to	people
+
+decoded:['to', 'people', 'people']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:it	is	not	working	now
+
+decoded:['is', 'it', 'not', 'now', 'working']
+score:-1.0419934573994003e-33
+
+sentence:a	was	not
+
+decoded:['a', 'was', 'not']
+score:-0.0
+
+sentence:is	very	high
+
+decoded:['is', 'high', 'very']
+score:-4.7245762821837085e-34
+
+sentence:second	mistake	is
+
+decoded:['is', 'second', 'mistake']
+score:-3.7440964441628385e-35
+
+sentence:more	will	open	soon
+
+decoded:['will', 'more', 'open', 'soon']
+score:-0.0
+
+sentence:they	do	not
+
+decoded:['not', 'they', 'do']
+score:-1.5627161491579312e-33
+
+sentence:will	also	be
+
+decoded:['will', 'be', 'also']
+score:-5.257651961501514e-33
+
+sentence:me	no	end
+
+decoded:['me', 'no', 'end']
+score:-0.0
+
+sentence:apparently	it	is	not
+
+decoded:['is', 'it', 'not', 'apparently']
+score:-6.715167232073801e-33
+
+sentence:a	college	of
+
+decoded:['of', 'a', 'college']
+score:-2.475623502394782e-32
+
+sentence:was	all	set
+
+decoded:['was', 'all', 'set']
+score:-0.0
+
+sentence:had	to	give
+
+decoded:['to', 'had', 'give']
+score:-0.0
+
+sentence:are	the	results
+
+decoded:['the', 'are', 'results']
+score:-0.0
+
+sentence:one	then	the	other
+
+decoded:['the', 'one', 'other', 'then']
+score:-1.1343880186706426e-31
+
+sentence:an	to	win
+
+decoded:['to', 'an', 'win']
+score:-0.0
+
+sentence:food	and	military
+
+decoded:['and', 'food', 'military']
+score:-0.0
+
+sentence:it	was	even	beautiful
+
+decoded:['was', 'it', 'even', 'beautiful']
+score:-0.0
+
+sentence:does	and	more
+
+decoded:['and', 'more', 'does']
+score:-6.53988926942269e-33
+
+sentence:often	drew	the	bomb
+
+decoded:['the', 'bomb', 'often', 'drew']
+score:-9.200511999281487e-33
+
+sentence:but	and	but
+
+decoded:['and', 'but', 'but']
+score:-0.0
+
+sentence:was	an	excellent
+
+decoded:['was', 'an', 'excellent']
+score:-0.0
+
+sentence:all	went	very	well
+
+decoded:['all', 'well', 'went', 'very']
+score:-5.4216958600991735e-34
+
+sentence:so	was	the
+
+decoded:['the', 'was', 'so']
+score:-1.3297365188044875e-31
+
+sentence:was	the	audience
+
+decoded:['the', 'was', 'audience']
+score:-0.0
+
+sentence:for	the	good
+
+decoded:['the', 'for', 'good']
+score:-0.0
+
+sentence:today	there	are
+
+decoded:['are', 'there', 'today']
+score:-5.359022587992908e-33
+
+sentence:it	is	an
+
+decoded:['is', 'it', 'an']
+score:-0.0
+
+sentence:big	forces	food
+
+decoded:['forces', 'food', 'big']
+score:-9.490739350447602e-37
+
+sentence:too	much	fat
+
+decoded:[]
+score:-0.42131658638147446
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:there	is	light
+
+decoded:['is', 'there', 'light']
+score:-0.0
+
+sentence:should	ask	less
+
+decoded:['should', 'less', 'ask']
+score:-4.429593321684548e-36
+
+sentence:into	the	fellowship
+
+decoded:['the', 'into', 'fellowship']
+score:-0.0
+
+sentence:then	we	have
+
+decoded:['have', 'we', 'then']
+score:-2.7485071415478346e-33
+
+sentence:and	then	we	have
+
+decoded:['and', 'have', 'we', 'then']
+score:-9.431076785696731e-32
+
+sentence:this	cannot	be
+
+decoded:['can', 'be', 'this', 'not']
+score:-1.0460962265573578e-32
+
+sentence:need	of	the	new	birth
+
+decoded:['of', 'the', 'new', 'need', 'birth']
+score:-5.68897535748533e-32
+
+sentence:of	the	new	birth
+
+decoded:['of', 'the', 'new', 'birth']
+score:-0.0
+
+sentence:of	the	new	birth
+
+decoded:['of', 'the', 'new', 'birth']
+score:-0.0
+
+sentence:means	of	the	new	birth
+
+decoded:['of', 'the', 'new', 'means', 'birth']
+score:-7.313430380234387e-32
+
+sentence:called	a	devil
+
+decoded:['a', 'called', 'devil']
+score:-0.0
+
+sentence:and	allowed	it
+
+decoded:['and', 'it', 'allowed']
+score:-2.7916110041068013e-33
+
+sentence:my	name	is
+
+decoded:['is', 'my', 'name']
+score:-1.0857725404438686e-33
+
+sentence:purpose	has	never	changed
+
+decoded:['has', 'never', 'purpose', 'changed']
+score:-4.266493480507956e-36
+
+sentence:work	with	their	hands
+
+decoded:['with', 'their', 'work', 'hands']
+score:-2.454949422031298e-33
+
+sentence:is	this	something
+
+decoded:['is', 'this', 'something']
+score:-0.0
+
+sentence:the	is	gone
+
+decoded:['the', 'is', 'gone']
+score:-0.0
+
+sentence:my	name	is
+
+decoded:['is', 'my', 'name']
+score:-1.0857725404438686e-33
+
+sentence:many	came	from
+
+decoded:['from', 'came', 'many']
+score:-2.1451328248507143e-33
+
+sentence:may	your	life
+
+decoded:['life', 'may', 'your']
+score:-1.2185321377417685e-34
+
+sentence:and	a	of	others
+
+decoded:['of', 'and', 'a', 'others']
+score:-1.978233910828539e-30
+
+sentence:in	it	is	easier
+
+decoded:['in', 'is', 'it', 'easier']
+score:-1.9577985439803484e-31
+
+sentence:is	not	true
+
+decoded:['is', 'not', 'true']
+score:-0.0
+
+sentence:flowers	will	be
+
+decoded:['will', 'be', 'flowers']
+score:-2.5435456965688047e-34
+
+sentence:and	a	cholesterol
+
+decoded:['and', 'a', 'cholesterol']
+score:-0.0
+
+sentence:of	the	year
+
+decoded:['of', 'the', 'year']
+score:-0.0
+
+sentence:must	and	should	do
+
+decoded:['and', 'should', 'do', 'must']
+score:-5.095600300831533e-32
+
+sentence:are	other	basic	rules
+
+decoded:['are', 'rules', 'other', 'basic']
+score:-1.596865109348292e-34
+
+sentence:much	for	the
+
+decoded:['the', 'for', 'much']
+score:-1.8801686270556858e-31
+
+sentence:best	time	is
+
+decoded:['is', 'time', 'best']
+score:-1.8967138128992652e-33
+
+sentence:have	the	short	action
+
+decoded:['the', 'have', 'action', 'short']
+score:-6.103166669469317e-35
+
+sentence:was	in	his
+
+decoded:['in', 'was', 'his']
+score:-0.0
+
+sentence:formula	goes	thus
+
+decoded:[]
+score:-0.21052980190056836
+
+sentence:fired	to	cone
+
+decoded:['to', 'fired', 'cone']
+score:-0.0
+
+sentence:fired	to	cone
+
+decoded:['to', 'fired', 'cone']
+score:-0.0
+
+sentence:aside	to	dry	thoroughly
+
+decoded:['to', 'aside', 'dry', 'thoroughly']
+score:-0.0
+
+sentence:fire	to	cone
+
+decoded:['to', 'fire', 'cone']
+score:-0.0
+
+sentence:to	put	it
+
+decoded:['to', 'it', 'put']
+score:-1.117421403408614e-32
+
+sentence:were	in	business
+
+decoded:['in', 'were', 'business']
+score:-0.0
+
+sentence:not	forget	this	possibility
+
+decoded:['this', 'not', 'possibility', 'forget']
+score:-1.402836794981241e-34
+
+sentence:may	be	later
+
+decoded:['be', 'may', 'later']
+score:-0.0
+
+sentence:easier	to	there
+
+decoded:['to', 'there', 'easier']
+score:-6.413534371462345e-34
+
+sentence:is	very	important
+
+decoded:['is', 'important', 'very']
+score:-1.7146715690253929e-34
+
+sentence:right	he	was
+
+decoded:['was', 'he', 'right']
+score:-4.743790472031868e-33
+
+sentence:time	and	economic
+
+decoded:['and', 'time', 'economic']
+score:-0.0
+
+sentence:on	hands	and	feet
+
+decoded:['and', 'on', 'feet', 'hands']
+score:-2.1894969367399075e-32
+
+sentence:back	up	and
+
+decoded:['and', 'up', 'back']
+score:-1.116845536072986e-31
+
+sentence:the	class	lie
+
+decoded:['the', 'class', 'lie']
+score:-0.0
+
+sentence:in	medical	research
+
+decoded:['in', 'research', 'medical']
+score:-3.751134716588387e-34
+
+sentence:drug's	chemical	name
+
+decoded:[]
+score:-0.1241035790612592
+
+sentence:to	feed	beef
+
+decoded:['to', 'beef', 'feed']
+score:-3.021801083330622e-36
+
+sentence:to	feed	beef
+
+decoded:['to', 'beef', 'feed']
+score:-3.021801083330622e-36
+
+sentence:what	it	does
+
+decoded:['it', 'what', 'does']
+score:-0.0
+
+sentence:in	the	market
+
+decoded:['the', 'in', 'market']
+score:-0.0
+
+sentence:demand	for	services
+
+decoded:['for', 'services', 'demand']
+score:-1.006484711796936e-33
+
+sentence:in	marketing	methods
+
+decoded:['in', 'methods', 'marketing']
+score:-2.281693309663601e-34
+
+sentence:costs	of	distribution
+
+decoded:['of', 'distribution', 'costs']
+score:-1.4478068007398862e-34
+
+sentence:in	marketing	management
+
+decoded:['in', 'management', 'marketing']
+score:-1.8169616180660098e-34
+
+sentence:of	sales	management	talent
+
+decoded:['of', 'management', 'sales', 'talent']
+score:-2.862475681046123e-34
+
+sentence:of	complete	marketing
+
+decoded:['of', 'marketing', 'complete']
+score:-4.078276631132153e-36
+
+sentence:have	to	be
+
+decoded:['to', 'have', 'be']
+score:-0.0
+
+sentence:program	to	your	needs
+
+decoded:['to', 'your', 'needs', 'program']
+score:-2.781366570839385e-34
+
+sentence:the	still	come
+
+decoded:['the', 'still', 'come']
+score:-0.0
+
+sentence:they	keep	coming
+
+decoded:['they', 'coming', 'keep']
+score:-1.2777302169201712e-35
+
+sentence:one	else	must	know
+
+decoded:['one', 'must', 'else', 'know']
+score:-5.230949861159179e-35
+
+sentence:was	two	feet	long
+
+decoded:['was', 'two', 'long', 'feet']
+score:-4.5588609660765365e-35
+
+sentence:was	not	candy
+
+decoded:['was', 'not', 'candy']
+score:-0.0
+
+sentence:twice	a	day
+
+decoded:['a', 'day', 'twice']
+score:-4.835102138519774e-35
+
+sentence:is	not	allowed
+
+decoded:['is', 'not', 'allowed']
+score:-0.0
+
+sentence:never	seemed	real
+
+decoded:[]
+score:-0.2985619695119868
+
+sentence:only	to	the	other
+
+decoded:['to', 'the', 'only', 'other']
+score:-4.070686214316344e-31
+
+sentence:can	do	this
+
+decoded:['can', 'this', 'do']
+score:-1.440331483367488e-33
+
+sentence:got	to	do	something
+
+decoded:['to', 'do', 'got', 'something']
+score:-2.0550028975273693e-33
+
+sentence:you	will	surprise	yourself
+
+decoded:['you', 'will', 'yourself', 'surprise']
+score:-4.70197740328915e-37
+
+sentence:are	many	and
+
+decoded:['and', 'are', 'many']
+score:-4.887127185865566e-32
+
+sentence:if	you	can
+
+decoded:['you', 'can', 'if']
+score:-2.5554808213204895e-33
+
+sentence:else	is	closed	away
+
+decoded:['is', 'away', 'else', 'closed']
+score:-1.0808003830108827e-33
+
+sentence:like	to	be
+
+decoded:['to', 'be', 'like']
+score:-5.378436749633952e-33
+
+sentence:no	about	it
+
+decoded:['about', 'it', 'no']
+score:-8.32095790504017e-33
+
+sentence:when	and	how	of
+
+decoded:['of', 'and', 'when', 'how']
+score:-1.949721921395204e-30
+
+sentence:comes	the	stage
+
+decoded:['the', 'stage', 'comes']
+score:-6.025584042315046e-35
+
+sentence:is	the	cost
+
+decoded:['the', 'is', 'cost']
+score:-0.0
+
+sentence:out	a	yesterday
+
+decoded:['a', 'out', 'yesterday']
+score:-0.0
+
+sentence:is	not	worth
+
+decoded:['is', 'not', 'worth']
+score:-0.0
+
+sentence:nothing	remains	the	same
+
+decoded:['the', 'remains', 'nothing', 'same']
+score:-1.1719587576886018e-32
+
+sentence:from	his	throat
+
+decoded:['from', 'his', 'throat']
+score:-0.0
+
+sentence:turned	to	his
+
+decoded:['to', 'his', 'turned']
+score:-4.2597564285098055e-33
+
+sentence:he	was	sick
+
+decoded:['was', 'he', 'sick']
+score:-0.0
+
+sentence:the	went	out
+
+decoded:['the', 'out', 'went']
+score:-5.8269262317100484e-33
+
+sentence:must	be	kept	in
+
+decoded:['in', 'be', 'must', 'kept']
+score:-5.324345421991704e-32
+
+sentence:temperature	rose	to
+
+decoded:['to', 'rose', 'temperature']
+score:-6.046067031378124e-34
+
+sentence:was	a	day
+
+decoded:['a', 'was', 'day']
+score:-0.0
+
+sentence:we	were	off	again
+
+decoded:['were', 'off', 'again', 'we']
+score:-3.613872470831609e-33
+
+sentence:keep	in	place
+
+decoded:['in', 'place', 'keep']
+score:-2.362743645152798e-35
+
+sentence:was	common	first	aid
+
+decoded:['was', 'common', 'first', 'aid']
+score:-0.0
+
+sentence:know	this	worked
+
+decoded:['this', 'know', 'worked']
+score:-0.0
+
+sentence:and	may	be
+
+decoded:['and', 'be', 'may']
+score:-2.031133162302778e-32
+
+sentence:he	kissed	her
+
+decoded:['her', 'he', 'kissed']
+score:-1.919876148480501e-35
+
+sentence:man	was	surprised
+
+decoded:['was', 'man', 'surprised']
+score:-0.0
+
+sentence:they	on	it
+
+decoded:['on', 'it', 'they']
+score:-3.0279010908590233e-32
+
+sentence:she	died	on
+
+decoded:['on', 'she', 'died']
+score:-1.551306874277881e-33
+
+sentence:couldn't	stop	'em
+
+decoded:[]
+score:-0.08127501481979059
+
+sentence:men	were	too
+
+decoded:['were', 'men', 'too']
+score:-0.0
+
+sentence:tried	her	first
+
+decoded:['her', 'first', 'tried']
+score:-6.900151839326828e-36
+
+sentence:spit	and	on
+
+decoded:['and', 'on', 'spit']
+score:-2.342760241188819e-35
+
+sentence:much	head	start
+
+decoded:['head', 'much', 'start']
+score:-0.0
+
+sentence:one	knew	exactly
+
+decoded:['one', 'knew', 'exactly']
+score:-0.0
+
+sentence:was	the	question
+
+decoded:['the', 'was', 'question']
+score:-0.0
+
+sentence:was	the	answer
+
+decoded:['the', 'was', 'answer']
+score:-0.0
+
+sentence:people	are	friends
+
+decoded:['are', 'people', 'friends']
+score:-0.0
+
+sentence:has	a	beautiful
+
+decoded:['a', 'has', 'beautiful']
+score:-0.0
+
+sentence:to	the	and
+
+decoded:['and', 'to', 'the']
+score:-1.955157133236286e-30
+
+sentence:so	do	the
+
+decoded:['the', 'so', 'do']
+score:-4.892811196963471e-32
+
+sentence:the	head	dropped	off
+
+decoded:['the', 'off', 'head', 'dropped']
+score:-8.273484828128383e-33
+
+sentence:time	and	time
+
+decoded:['and', 'time', 'time']
+score:-0.0
+
+sentence:did	more	than	that
+
+decoded:['that', 'than', 'did', 'more']
+score:-7.708021278720587e-32
+
+sentence:is	what	did
+
+decoded:['is', 'what', 'did']
+score:-0.0
+
+sentence:brought	some	results
+
+decoded:['some', 'results', 'brought']
+score:-4.622080521631698e-36
+
+sentence:along	with	foreigners
+
+decoded:['with', 'along', 'foreigners']
+score:-0.0
+
+sentence:men	are	not
+
+decoded:['are', 'not', 'men']
+score:-6.889880957436518e-34
+
+sentence:a	word	plenty
+
+decoded:['a', 'word', 'plenty']
+score:-0.0
+
+sentence:ran	for	three
+
+decoded:['for', 'three', 'ran']
+score:-1.754895516342593e-34
+
+sentence:were	the	ground
+
+decoded:['the', 'were', 'ground']
+score:-0.0
+
+sentence:there	happened	nothing
+
+decoded:['there', 'nothing', 'happened']
+score:-2.0771719862999084e-35
+
+sentence:only	it	did	not
+
+decoded:['it', 'not', 'did', 'only']
+score:-8.0816127423345e-33
+
+sentence:only	there	was	not
+
+decoded:['was', 'not', 'there', 'only']
+score:-1.482226671303251e-32
+
+sentence:one	the	dog
+
+decoded:['the', 'one', 'dog']
+score:-0.0
+
+sentence:was	not	a
+
+decoded:['a', 'was', 'not']
+score:-4.828382498549632e-32
+
+sentence:the	capital	went
+
+decoded:['the', 'went', 'capital']
+score:-2.647367561685337e-34
+
+sentence:is	a	structure
+
+decoded:['a', 'is', 'structure']
+score:-0.0
+
+sentence:is	a	great
+
+decoded:['a', 'is', 'great']
+score:-0.0
+
+sentence:might	have	failed
+
+decoded:['have', 'might', 'failed']
+score:-0.0
+
+sentence:am	not	a
+
+decoded:['a', 'am', 'not']
+score:-1.9147047080208523e-33
+
+sentence:is	the	play
+
+decoded:['the', 'is', 'play']
+score:-0.0
+
+sentence:have	no	religious
+
+decoded:['have', 'no', 'religious']
+score:-0.0
+
+sentence:mother	was	religious
+
+decoded:['was', 'mother', 'religious']
+score:-0.0
+
+sentence:but	there	is	also
+
+decoded:['is', 'but', 'there', 'also']
+score:-2.3762286408389427e-32
+
+sentence:it	can	be	changed
+
+decoded:['it', 'can', 'be', 'changed']
+score:-0.0
+
+sentence:is	an	word
+
+decoded:['is', 'an', 'word']
+score:-0.0
+
+sentence:is	the	owner
+
+decoded:['the', 'is', 'owner']
+score:-0.0
+
+sentence:team	for	research
+
+decoded:['for', 'research', 'team']
+score:-3.2109234306985426e-34
+
+sentence:is	not	easy
+
+decoded:['is', 'not', 'easy']
+score:-0.0
+
+sentence:is	not	enough
+
+decoded:['is', 'enough', 'not']
+score:-2.1091777587369223e-33
+
+sentence:but	a	heart
+
+decoded:['a', 'but', 'heart']
+score:-0.0
+
+sentence:easy	to	see	why
+
+decoded:['to', 'see', 'why', 'easy']
+score:-2.3746822596533367e-34
+
+sentence:is	a	mistake
+
+decoded:['a', 'is', 'mistake']
+score:-0.0
+
+sentence:is	without	funds
+
+decoded:['is', 'without', 'funds']
+score:-0.0
+
+sentence:can	see	us	now
+
+decoded:['can', 'us', 'now', 'see']
+score:-3.5734949286470844e-33
+
+sentence:needs	high	talent
+
+decoded:['high', 'needs', 'talent']
+score:-0.0
+
+sentence:has	written	about
+
+decoded:['about', 'has', 'written']
+score:-6.291080920885279e-34
+
+sentence:hadn't	brought	his	along
+
+decoded:['his', 'along', 'brought']
+score:-2.4567097248216545e-35
+
+sentence:you	can	inside
+
+decoded:['you', 'can', 'inside']
+score:-0.0
+
+sentence:comes	and	goes
+
+decoded:['and', 'comes', 'goes']
+score:-0.0
+
+sentence:had	always	done	well
+
+decoded:['had', 'well', 'always', 'done']
+score:-3.421553651266665e-34
+
+sentence:paused	and	repeated	himself
+
+decoded:['and', 'himself', 'paused', 'repeated']
+score:-9.669177556192502e-34
+
+sentence:said	in	part
+
+decoded:['in', 'said', 'part']
+score:-0.0
+
+sentence:was	just	as
+
+decoded:['was', 'as', 'just']
+score:-1.6703405592407898e-32
+
+sentence:first	came	close
+
+decoded:['came', 'close', 'first']
+score:-9.835397967528543e-36
+
+sentence:waited	a	long	time
+
+decoded:['a', 'time', 'long', 'waited']
+score:-2.2213375522206308e-33
+
+sentence:and	also	to	change
+
+decoded:['and', 'to', 'also', 'change']
+score:-5.460982350671593e-31
+
+sentence:is	not	true
+
+decoded:['is', 'not', 'true']
+score:-0.0
+
+sentence:they	have	been	enemy
+
+decoded:['have', 'they', 'been', 'enemy']
+score:-0.0
+
+sentence:the	process	can	be
+
+decoded:['the', 'can', 'be', 'process']
+score:-1.8774834140860338e-32
+
+sentence:may	also	consider
+
+decoded:['may', 'also', 'consider']
+score:-0.0
+
+sentence:was	all	they	needed
+
+decoded:['was', 'all', 'they', 'needed']
+score:-0.0
+
+sentence:man	stepped	forward
+
+decoded:['man', 'forward', 'stepped']
+score:-1.9363514364912447e-37
+
+sentence:heard	nothing	more
+
+decoded:['more', 'heard', 'nothing']
+score:-2.7159796975748953e-35
+
+sentence:looked	at	me
+
+decoded:['at', 'me', 'looked']
+score:-1.066555411859832e-34
+
+sentence:am	so	happy
+
+decoded:['am', 'so', 'happy']
+score:-0.0
+
+sentence:failed	to	work
+
+decoded:['to', 'work', 'failed']
+score:-7.928591846861247e-34
+
+sentence:have	not	the	heart
+
+decoded:['the', 'have', 'not', 'heart']
+score:-7.682906768446872e-32
+
+sentence:breakfast	was	tea
+
+decoded:['was', 'tea', 'breakfast']
+score:-2.702186006051965e-34
+
+sentence:his	was	nothing
+
+decoded:['was', 'his', 'nothing']
+score:-0.0
+
+sentence:had	better	be	good
+
+decoded:['had', 'be', 'good', 'better']
+score:-3.344423405766468e-33
+
+sentence:worry	about	the
+
+decoded:['the', 'about', 'worry']
+score:-8.49337592380007e-33
+
+sentence:this	one	was
+
+decoded:['was', 'this', 'one']
+score:-6.35197258436608e-33
+
+sentence:too	late	now
+
+decoded:['now', 'too', 'late']
+score:-7.199168214817247e-35
+
+sentence:was	well	past
+
+decoded:['was', 'well', 'past']
+score:-0.0
+
+sentence:that's	what	he	did
+
+decoded:['he', 'what', 'did']
+score:-0.0
+
+sentence:it	should	have
+
+decoded:['it', 'have', 'should']
+score:-6.55178674162095e-33
+
+sentence:himself	had	again
+
+decoded:['had', 'himself', 'again']
+score:-0.0
+
+sentence:were	like	two
+
+decoded:['were', 'like', 'two']
+score:-0.0
+
+sentence:knew	that	too
+
+decoded:['that', 'too', 'knew']
+score:-1.7426722118039644e-34
+
+sentence:wasn't	hard	to	understand
+
+decoded:['to', 'hard', 'understand']
+score:-0.0
+
+sentence:was	another	indispensable
+
+decoded:['was', 'another', 'indispensable']
+score:-0.0
+
+sentence:that	was	the	end
+
+decoded:['the', 'that', 'was', 'end']
+score:-3.823783147430364e-31
+
+sentence:not	for	long
+
+decoded:['for', 'not', 'long']
+score:-0.0
+
+sentence:suppose	it	did
+
+decoded:['it', 'did', 'suppose']
+score:-2.8881896199703604e-35
+
+sentence:there	is	no	involved
+
+decoded:['is', 'no', 'there', 'involved']
+score:-2.5271572849374265e-33
+
+sentence:we	were	also
+
+decoded:['were', 'also', 'we']
+score:-2.0237294442955934e-33
+
+sentence:seemed	worried	too
+
+decoded:[]
+score:-0.3299732606573636
+
+sentence:knew	all	about
+
+decoded:['about', 'all', 'knew']
+score:-4.0596432089616963e-35
+
+sentence:world	and	new	world
+
+decoded:['and', 'world', 'new', 'world']
+score:-0.0
+
+sentence:much	for	all	that
+
+decoded:['for', 'that', 'all', 'much']
+score:-1.8344282812852131e-31
+
+sentence:to	small	business	community
+
+decoded:['to', 'business', 'community', 'small']
+score:-1.443130904617506e-33
+
+sentence:research	and	development
+
+decoded:['and', 'research', 'development']
+score:-0.0
+
+sentence:product	and	market
+
+decoded:['and', 'market', 'product']
+score:-2.1458210400589223e-33
+
+sentence:to	small	business
+
+decoded:['to', 'business', 'small']
+score:-1.0181544319647243e-33
+
+sentence:or	to	working	capital
+
+decoded:['to', 'or', 'capital', 'working']
+score:-2.877727720248042e-34
+
+sentence:reasons	for	self-help
+
+decoded:['for', 'reasons', 'self-help']
+score:-0.0
+
+sentence:are	many	others
+
+decoded:['are', 'many', 'others']
+score:-0.0
+
+sentence:range	of	self-help
+
+decoded:['of', 'range', 'self-help']
+score:-0.0
+
+sentence:a	long-term	approach
+
+decoded:['a', 'approach', 'long-term']
+score:-1.3191985352103122e-35
+
+sentence:a	long-term	approach
+
+decoded:['a', 'approach', 'long-term']
+score:-1.3191985352103122e-35
+
+sentence:is	a	long-term	process
+
+decoded:['a', 'is', 'process', 'long-term']
+score:-1.1763759715854042e-34
+
+sentence:two	are	as	one
+
+decoded:['as', 'are', 'one', 'two']
+score:-1.2990728964478204e-32
+
+sentence:of	state	automobile	practices
+
+decoded:['of', 'state', 'practices', 'automobile']
+score:-7.552551204033197e-37
+
+sentence:practices	in	other	states
+
+decoded:['in', 'states', 'other', 'practices']
+score:-2.9789671712126116e-34
+
+sentence:of	state	automobile	practices
+
+decoded:['of', 'state', 'practices', 'automobile']
+score:-7.552551204033197e-37
+
+sentence:of	personal	property
+
+decoded:['of', 'property', 'personal']
+score:-9.480802749763307e-35
+
+sentence:others	made	no	reply
+
+decoded:['no', 'made', 'others', 'reply']
+score:-5.494058557651824e-35
+
+sentence:as	personal	property
+
+decoded:['as', 'property', 'personal']
+score:-4.2382448818897576e-35
+
+sentence:to	small	business
+
+decoded:['to', 'business', 'small']
+score:-1.0181544319647243e-33
+
+sentence:years	in	other	states
+
+decoded:['in', 'years', 'states', 'other']
+score:-4.5822768135449165e-33
+
+sentence:of	fiscal	year
+
+decoded:['of', 'year', 'fiscal']
+score:-4.905337925981406e-35
+
+sentence:of	tax	year
+
+decoded:['of', 'year', 'tax']
+score:-9.102528667668695e-34
+
+sentence:is	a	sound
+
+decoded:['a', 'is', 'sound']
+score:-0.0
+
+sentence:and	in	dogs
+
+decoded:['and', 'in', 'dogs']
+score:-0.0
+
+sentence:properties	of	air
+
+decoded:['of', 'air', 'properties']
+score:-1.5930565765282498e-35
+
+sentence:has	pointed	out
+
+decoded:['out', 'has', 'pointed']
+score:-1.1081091371613999e-34
+
+sentence:method	of	funds
+
+decoded:['of', 'method', 'funds']
+score:-0.0
+
+sentence:structure	is	complete
+
+decoded:['is', 'structure', 'complete']
+score:-0.0
+
+sentence:charges	would	be	additional
+
+decoded:['would', 'be', 'charges', 'additional']
+score:-2.6750876470231458e-34
+
+sentence:is	an	important
+
+decoded:['is', 'an', 'important']
+score:-0.0
+
+sentence:in	a	shelter
+
+decoded:['in', 'a', 'shelter']
+score:-0.0
+
+sentence:and	his	is
+
+decoded:['and', 'is', 'his']
+score:-1.131398393071746e-31
+
+sentence:policy	in	its
+
+decoded:['in', 'its', 'policy']
+score:-2.9984157252469663e-33
+
+sentence:problems	of	a	policy
+
+decoded:['of', 'a', 'policy', 'problems']
+score:-2.6835666163453215e-32
+
+sentence:for	the	of
+
+decoded:['of', 'the', 'for']
+score:-1.8215779787055988e-30
+
+sentence:is	an	important
+
+decoded:['is', 'an', 'important']
+score:-0.0
+
+sentence:and	military	strength
+
+decoded:['and', 'strength', 'military']
+score:-6.369489608327491e-35
+
+sentence:for	the	of
+
+decoded:['of', 'the', 'for']
+score:-1.8215779787055988e-30
+
+sentence:and	where	to	file
+
+decoded:['and', 'to', 'where', 'file']
+score:-5.2496949405992846e-31
+
+sentence:of	time	for
+
+decoded:['of', 'for', 'time']
+score:-7.277231104882226e-32
+
+sentence:for	sound	tax	policy
+
+decoded:['for', 'tax', 'policy', 'sound']
+score:-1.756631207219979e-34
+
+sentence:services	are	held
+
+decoded:['are', 'services', 'held']
+score:-0.0
+
+sentence:others	may	their	feet
+
+decoded:['their', 'may', 'feet', 'others']
+score:-3.299348156529226e-34
+
+sentence:are	several	possible	sources
+
+decoded:['are', 'possible', 'sources', 'several']
+score:-2.7632944931391943e-35
+
+sentence:direct	of	flux
+
+decoded:['of', 'direct', 'flux']
+score:-0.0
+
+sentence:of	the	six
+
+decoded:['of', 'the', 'six']
+score:-0.0
+
+sentence:without	the	property
+
+decoded:['the', 'property', 'without']
+score:-3.552405641638371e-33
+
+sentence:is	first	religious
+
+decoded:['is', 'first', 'religious']
+score:-0.0
+
+sentence:man	has	a	second	chance
+
+decoded:['a', 'has', 'man', 'chance', 'second']
+score:-6.133675155976971e-33
+
+sentence:he	has	being
+
+decoded:['has', 'he', 'being']
+score:-0.0
+
+sentence:this	one	did
+
+decoded:['this', 'did', 'one']
+score:-1.0217227920034392e-33
+
+sentence:seemed	to	everyone
+
+decoded:['to', 'seemed', 'everyone']
+score:-0.0
+
+sentence:third	situation	is	possible
+
+decoded:['is', 'possible', 'situation', 'third']
+score:-2.607746055222933e-34
+
+sentence:has	suggested	one
+
+decoded:['has', 'one', 'suggested']
+score:-1.8620271327406592e-34
+
+sentence:problem	needs	further
+
+decoded:[]
+score:-0.4666800110486897
+
+sentence:made	this	completely	clear
+
+decoded:['this', 'made', 'clear', 'completely']
+score:-3.6169961174801787e-35
+
+sentence:to	new	industry
+
+decoded:['to', 'new', 'industry']
+score:-0.0
+
+sentence:are	both	methods
+
+decoded:['are', 'both', 'methods']
+score:-0.0
+
+sentence:hands	move	first
+
+decoded:[]
+score:-0.39439081544601284
+
+sentence:demand	for	the	product
+
+decoded:['the', 'for', 'demand', 'product']
+score:-4.7110739663229883e-32
+
+sentence:product	price	policy
+
+decoded:['policy', 'product', 'price']
+score:-1.44035710529155e-35
+
+sentence:he	made	it
+
+decoded:['it', 'he', 'made']
+score:-7.938472657481626e-33
+
+sentence:to	is	another
+
+decoded:['to', 'is', 'another']
+score:-0.0
+
+sentence:tax	of	the
+
+decoded:['of', 'the', 'tax']
+score:-6.669835761802278e-32
+
+sentence:for	questionnaire	method
+
+decoded:['for', 'method', 'questionnaire']
+score:-5.363376646619003e-36
+
+sentence:of	the	questionnaire
+
+decoded:['of', 'the', 'questionnaire']
+score:-0.0
+
+sentence:and	of	the	questionnaire
+
+decoded:['of', 'and', 'the', 'questionnaire']
+score:-0.0
+
+sentence:of	about	children
+
+decoded:['of', 'about', 'children']
+score:-0.0
+
+sentence:is	no	problem	here
+
+decoded:['is', 'no', 'here', 'problem']
+score:-5.096855343089127e-34
+
+sentence:economic	and	opportunity
+
+decoded:['and', 'economic', 'opportunity']
+score:-0.0
+
+sentence:it	is	not
+
+decoded:['is', 'it', 'not']
+score:-0.0
+
+sentence:future	could	be
+
+decoded:['be', 'could', 'future']
+score:-3.1869727792182866e-33
+
+sentence:was	some	here
+
+decoded:['was', 'some', 'here']
+score:-0.0
+
+sentence:new	part	is
+
+decoded:['is', 'new', 'part']
+score:-2.4443082594204794e-33
+
+sentence:at	this	suggestion
+
+decoded:['at', 'this', 'suggestion']
+score:-0.0
+
+sentence:were	both	very
+
+decoded:['were', 'both', 'very']
+score:-0.0
+
+sentence:it	was	his
+
+decoded:['was', 'his', 'it']
+score:-2.086476616425617e-32
+
+sentence:they	are	written
+
+decoded:['are', 'they', 'written']
+score:-0.0
+
+sentence:it	may	be
+
+decoded:['it', 'be', 'may']
+score:-5.793686190204671e-33
+
+sentence:for	an	concept
+
+decoded:['for', 'an', 'concept']
+score:-0.0
+
+sentence:involved	in	an	concept
+
+decoded:['in', 'an', 'involved', 'concept']
+score:-2.735116745606282e-33
+
+sentence:may	be	others
+
+decoded:['be', 'may', 'others']
+score:-0.0
+
+sentence:structure	and	properties	of
+
+decoded:['of', 'and', 'structure', 'properties']
+score:-1.6085003094714294e-31
+
+sentence:primary	interest	are
+
+decoded:['are', 'interest', 'primary']
+score:-2.303932652590701e-34
+
+sentence:discussion	of	flux	gain
+
+decoded:['of', 'gain', 'discussion', 'flux']
+score:-2.3261931176819174e-36
+
+sentence:flux	gain	of	a	stage
+
+decoded:['of', 'a', 'stage', 'gain', 'flux']
+score:-1.0075341343786327e-32
+
+sentence:in	a	stage
+
+decoded:['in', 'a', 'stage']
+score:-0.0
+
+sentence:the	discrete	process
+
+decoded:['the', 'process', 'discrete']
+score:-2.622821770272229e-37
+
+sentence:the	discrete	process
+
+decoded:['the', 'process', 'discrete']
+score:-2.622821770272229e-37
+
+sentence:had	little	to	say
+
+decoded:['to', 'had', 'little', 'say']
+score:-3.628998208675662e-32
+
+sentence:did	not	speak	much
+
+decoded:['not', 'did', 'much', 'speak']
+score:-6.757108870511141e-35
+
+sentence:energy	was	gone
+
+decoded:['was', 'energy', 'gone']
+score:-0.0
+
+sentence:his	mouth	slightly	open
+
+decoded:['his', 'open', 'slightly', 'mouth']
+score:-1.8835556689274963e-34
+
+sentence:did	not	care
+
+decoded:['not', 'care', 'did']
+score:-3.3472275108061563e-34
+
+sentence:did	not	touch	him
+
+decoded:['him', 'not', 'did', 'touch']
+score:-8.02936293679541e-34
+
+sentence:did	not	speak
+
+decoded:['not', 'did', 'speak']
+score:-0.0
+
+sentence:had	no	to
+
+decoded:['to', 'had', 'no']
+score:-1.2755745733391142e-31
+
+sentence:did	not	care
+
+decoded:['not', 'care', 'did']
+score:-3.3472275108061563e-34
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:turned	to	him	again
+
+decoded:['to', 'him', 'again', 'turned']
+score:-5.1290109910558706e-33
+
+sentence:was	very	worried
+
+decoded:['was', 'very', 'worried']
+score:-0.0
+
+sentence:it	up	the
+
+decoded:['the', 'up', 'it']
+score:-3.2213662727186983e-31
+
+sentence:hadn't	even	seen	him	yet
+
+decoded:['him', 'even', 'seen', 'yet']
+score:-1.586329626434677e-35
+
+sentence:he	was	here
+
+decoded:['was', 'he', 'here']
+score:-0.0
+
+sentence:had	no	hands
+
+decoded:['had', 'no', 'hands']
+score:-0.0
+
+sentence:we	hurried	over
+
+decoded:['over', 'we', 'hurried']
+score:-2.309336712362118e-35
+
+sentence:it	was	right
+
+decoded:['was', 'it', 'right']
+score:-0.0
+
+sentence:perhaps	it	was	just
+
+decoded:['was', 'it', 'just', 'perhaps']
+score:-3.6484892641776386e-33
+
+sentence:did	not	like
+
+decoded:['like', 'not', 'did']
+score:-1.2844165757244422e-33
+
+sentence:he	had	to	find	out
+
+decoded:['to', 'out', 'had', 'he', 'find']
+score:-3.193478802495462e-31
+
+sentence:see	what	mean
+
+decoded:['what', 'see', 'mean']
+score:-0.0
+
+sentence:it	was	a
+
+decoded:['a', 'was', 'it']
+score:-7.225771488973265e-32
+
+sentence:inquired	about	it
+
+decoded:['about', 'it', 'inquired']
+score:-6.959293898852574e-36
+
+sentence:nevertheless	it	looked
+
+decoded:['it', 'looked', 'nevertheless']
+score:-1.63118208275824e-36
+
+sentence:stared	at	her
+
+decoded:['at', 'her', 'stared']
+score:-8.745677970117819e-35
+
+sentence:did	not	him
+
+decoded:['him', 'not', 'did']
+score:-5.793984104554208e-34
+
+sentence:pushed	his	way	inside
+
+decoded:['his', 'way', 'inside', 'pushed']
+score:-5.1670323558332175e-36
+
+sentence:would	be	up	there
+
+decoded:['up', 'would', 'be', 'there']
+score:-4.3364370474208127e-33
+
+sentence:was	no	longer	worried
+
+decoded:['was', 'no', 'longer', 'worried']
+score:-0.0
+
+sentence:would	be	all	right
+
+decoded:['would', 'be', 'all', 'right']
+score:-0.0
+
+sentence:made	no	sound
+
+decoded:['no', 'made', 'sound']
+score:-0.0
+
+sentence:men	pulled	him	off
+
+decoded:['off', 'him', 'men', 'pulled']
+score:-5.4691583271412946e-33
+
+sentence:at	their	arms
+
+decoded:['at', 'their', 'arms']
+score:-0.0
+
+sentence:he	was	not
+
+decoded:['was', 'he', 'not']
+score:-0.0
+
+sentence:on	and	on
+
+decoded:['and', 'on', 'on']
+score:-0.0
+
+sentence:had	his	line
+
+decoded:['had', 'his', 'line']
+score:-0.0
+
+sentence:got	everybody	up
+
+decoded:['up', 'got', 'everybody']
+score:-5.650587856064238e-35
+
+sentence:began	to	move
+
+decoded:['to', 'began', 'move']
+score:-0.0
+
+sentence:would	not	give
+
+decoded:['would', 'not', 'give']
+score:-0.0
+
+sentence:could	feel	himself
+
+decoded:['himself', 'could', 'feel']
+score:-1.8963674094077573e-35
+
+sentence:put	his	head	out
+
+decoded:['out', 'his', 'head', 'put']
+score:-5.348940290293959e-33
+
+sentence:he	was	good
+
+decoded:['was', 'he', 'good']
+score:-0.0
+
+sentence:screeched	at	him
+
+decoded:['at', 'him', 'screeched']
+score:-3.768928762323959e-37
+
+sentence:did	as	he	pleased
+
+decoded:['as', 'he', 'did', 'pleased']
+score:-4.5916579931484476e-33
+
+sentence:for	a	dog
+
+decoded:['for', 'a', 'dog']
+score:-0.0
+
+sentence:how	it	should	be
+
+decoded:['it', 'be', 'should', 'how']
+score:-5.2923268293194266e-33
+
+sentence:was	a	one
+
+decoded:['a', 'was', 'one']
+score:-0.0
+
+sentence:ain't	so	bad
+
+decoded:['so', 'bad']
+score:-0.0
+
+sentence:the	place	up
+
+decoded:['the', 'up', 'place']
+score:-6.738177533991148e-33
+
+sentence:fuck	up	the	program
+
+decoded:['the', 'up', 'program', 'fuck']
+score:-4.448881714613603e-33
+
+sentence:tried	to	it
+
+decoded:['to', 'it', 'tried']
+score:-2.6476393947539645e-33
+
+sentence:the	words	were
+
+decoded:['the', 'were', 'words']
+score:-2.3106016544861983e-33
+
+sentence:knew	he	couldn't
+
+decoded:['he', 'could', 'knew']
+score:-4.496385278040255e-34
+
+sentence:he	took	heart
+
+decoded:['he', 'heart', 'took']
+score:-1.830281438428765e-36
+
+sentence:the	final	word	came
+
+decoded:['the', 'came', 'word', 'final']
+score:-2.6187957021206627e-34
+
+sentence:what	he	said
+
+decoded:['said', 'he', 'what']
+score:-1.8848816816565216e-33
+
+sentence:on	the	ball
+
+decoded:['the', 'on', 'ball']
+score:-0.0
+
+sentence:they	got	them
+
+decoded:['them', 'they', 'got']
+score:-1.2806203947786334e-34
+
+sentence:man	moved	away
+
+decoded:['away', 'man', 'moved']
+score:-1.1536053603130303e-35
+
+sentence:of	room	there	now
+
+decoded:['of', 'room', 'now', 'there']
+score:-1.8673861563847604e-32
+
+sentence:stared	out	the
+
+decoded:['the', 'out', 'stared']
+score:-1.5446936165285516e-33
+
+sentence:this	for	real
+
+decoded:['for', 'this', 'real']
+score:-0.0
+
+sentence:a	good	one
+
+decoded:['a', 'one', 'good']
+score:-8.888873753199113e-33
+
+sentence:bet	both	together	did
+
+decoded:['together', 'did', 'both', 'bet']
+score:-9.03264552851231e-35
+
+sentence:fuck	them	both
+
+decoded:['them', 'both', 'fuck']
+score:-7.034599005702127e-37
+
+sentence:he	was	not
+
+decoded:['was', 'he', 'not']
+score:-0.0
+
+sentence:time	as	a
+
+decoded:['a', 'as', 'time']
+score:-2.2510217233147706e-32
+
+sentence:for	good	reasons
+
+decoded:['for', 'good', 'reasons']
+score:-0.0
+
+sentence:didn't	believe	them
+
+decoded:['them', 'believe']
+score:-0.0
+
+sentence:now	music	too
+
+decoded:['now', 'music', 'too']
+score:-0.0
+
+sentence:would	certainly	be
+
+decoded:['would', 'be', 'certainly']
+score:-7.383442428589743e-33
+
+sentence:pointed	out	to	him
+
+decoded:['to', 'out', 'him', 'pointed']
+score:-9.11250351783714e-33
+
+sentence:even	more	right
+
+decoded:['more', 'right', 'even']
+score:-2.3476752769431947e-34
+
+sentence:men	were	around	him
+
+decoded:['were', 'him', 'around', 'men']
+score:-2.0972701961135218e-33
+
+sentence:was	no	longer
+
+decoded:['was', 'no', 'longer']
+score:-0.0
+
+sentence:stiffened	in	anger
+
+decoded:['in', 'anger', 'stiffened']
+score:-1.2489627477486805e-38
+
+sentence:voice	shook	a	little
+
+decoded:['a', 'little', 'voice', 'shook']
+score:-7.983840081349895e-34
+
+sentence:tell	you	now
+
+decoded:['you', 'now', 'tell']
+score:-1.7372502441107966e-34
+
+sentence:street	was	again	empty
+
+decoded:['was', 'street', 'again', 'empty']
+score:-0.0
+
+sentence:the	figure	moved	on
+
+decoded:['the', 'on', 'figure', 'moved']
+score:-1.6814356417502435e-32
+
+sentence:recognized	this	one
+
+decoded:['this', 'one', 'recognized']
+score:-3.11536125010646e-34
+
+sentence:pattern	would	not	stop
+
+decoded:['would', 'not', 'pattern', 'stop']
+score:-9.130450331920571e-35
+
+sentence:came	again	and	again
+
+decoded:['and', 'again', 'again', 'came']
+score:-7.913129417129405e-32
+
+sentence:did	not	know
+
+decoded:['not', 'did', 'know']
+score:-0.0
+
+sentence:had	died	there
+
+decoded:['had', 'there', 'died']
+score:-5.315000117924747e-34
+
+sentence:looked	at	the
+
+decoded:['the', 'at', 'looked']
+score:-2.6042760693677027e-32
+
+sentence:his	lips	again
+
+decoded:['his', 'again', 'lips']
+score:-7.011823802654945e-36
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:did	not	answer	him
+
+decoded:['him', 'not', 'did', 'answer']
+score:-7.907736005683767e-34
+
+sentence:grinned	at	the
+
+decoded:['the', 'at', 'grinned']
+score:-1.9132140342472158e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:looked	even	so
+
+decoded:['so', 'looked', 'even']
+score:-5.021785335109739e-35
+
+sentence:her	son	was	dead
+
+decoded:['was', 'her', 'son', 'dead']
+score:-9.87324888562502e-34
+
+sentence:seemed	right	to	him
+
+decoded:['to', 'him', 'right', 'seemed']
+score:-5.332056481262106e-32
+
+sentence:me	your	address
+
+decoded:['me', 'your', 'address']
+score:-0.0
+
+sentence:it	would	not	come
+
+decoded:['it', 'would', 'not', 'come']
+score:-0.0
+
+sentence:as	it	ran
+
+decoded:['as', 'it', 'ran']
+score:-0.0
+
+sentence:it	was	gone
+
+decoded:['was', 'it', 'gone']
+score:-0.0
+
+sentence:it	did	not	matter
+
+decoded:['it', 'not', 'did', 'matter']
+score:-2.32735832645717e-33
+
+sentence:war	was	a
+
+decoded:['a', 'was', 'war']
+score:-1.7309809653958767e-32
+
+sentence:ground	his	teeth	together
+
+decoded:['his', 'together', 'teeth', 'ground']
+score:-3.3718299188026456e-33
+
+sentence:were	all	gone
+
+decoded:['were', 'all', 'gone']
+score:-0.0
+
+sentence:was	their	heart
+
+decoded:['was', 'their', 'heart']
+score:-0.0
+
+sentence:studied	his	captain
+
+decoded:['his', 'studied', 'captain']
+score:-0.0
+
+sentence:almost	into	tears
+
+decoded:['into', 'almost', 'tears']
+score:-0.0
+
+sentence:a	bad	girl
+
+decoded:['a', 'girl', 'bad']
+score:-2.8039213686957877e-35
+
+sentence:work	at	the
+
+decoded:['the', 'at', 'work']
+score:-1.602685748705606e-31
+
+sentence:his	nose	again
+
+decoded:['his', 'again', 'nose']
+score:-3.4634012501559384e-35
+
+sentence:did	exactly	as
+
+decoded:['as', 'did', 'exactly']
+score:-4.463464456719523e-33
+
+sentence:shook	his	head	slowly
+
+decoded:['his', 'head', 'shook', 'slowly']
+score:-1.210171434171545e-35
+
+sentence:and	were	silent
+
+decoded:['and', 'were', 'silent']
+score:-0.0
+
+sentence:was	getting	real
+
+decoded:['was', 'real', 'getting']
+score:-1.4944206618797594e-35
+
+sentence:began	to	laugh
+
+decoded:['to', 'began', 'laugh']
+score:-0.0
+
+sentence:was	the	situation
+
+decoded:['the', 'was', 'situation']
+score:-0.0
+
+sentence:had	me	worried
+
+decoded:['had', 'me', 'worried']
+score:-0.0
+
+sentence:just	wouldn't	listen
+
+decoded:['just', 'listen']
+score:-0.0
+
+sentence:that	ever	happened
+
+decoded:['that', 'ever', 'happened']
+score:-0.0
+
+sentence:can	help	you
+
+decoded:['you', 'can', 'help']
+score:-2.70343864221956e-33
+
+sentence:we	can	return	the	following	morning
+
+decoded:['the', 'can', 'we', 'following', 'morning', 'return']
+score:-7.915169831958367e-32
+
+sentence:had	never	better
+
+decoded:['had', 'better', 'never']
+score:-1.6117643854505942e-34
+
+sentence:tell	you	nothing
+
+decoded:['you', 'tell', 'nothing']
+score:-0.0
+
+sentence:was	an	excellent
+
+decoded:['was', 'an', 'excellent']
+score:-0.0
+
+sentence:are	some	even	now
+
+decoded:['are', 'now', 'some', 'even']
+score:-1.3970849541858738e-33
+
+sentence:got	to	stop
+
+decoded:['to', 'got', 'stop']
+score:-0.0
+
+sentence:hardly	looked	at	him
+
+decoded:['at', 'him', 'looked', 'hardly']
+score:-4.2756274389558295e-34
+
+sentence:had	acknowledged	the	man
+
+decoded:['the', 'had', 'man', 'acknowledged']
+score:-3.0268656272727427e-33
+
+sentence:stared	at	them
+
+decoded:['at', 'them', 'stared']
+score:-2.1302896372776905e-35
+
+sentence:one	moved	to	them
+
+decoded:['to', 'them', 'one', 'moved']
+score:-4.033142575034946e-32
+
+sentence:watched	the	figure
+
+decoded:['the', 'figure', 'watched']
+score:-2.174664549021232e-36
+
+sentence:felt	a	interest
+
+decoded:['a', 'interest', 'felt']
+score:-1.82119339772897e-34
+
+sentence:can	walk	real	good
+
+decoded:['can', 'good', 'walk', 'real']
+score:-6.607545581468236e-35
+
+sentence:stumbled	down	the
+
+decoded:['the', 'down', 'stumbled']
+score:-5.698855387503991e-34
+
+sentence:paused	for	breath
+
+decoded:['for', 'breath', 'paused']
+score:-7.53234739487844e-37
+
+sentence:wish	you	was
+
+decoded:['was', 'you', 'wish']
+score:-1.3187505616600535e-33
+
+sentence:to	take	me
+
+decoded:['to', 'me', 'take']
+score:-1.3343110074169452e-32
+
+sentence:a	deep	breath
+
+decoded:['a', 'breath', 'deep']
+score:-6.759459859212785e-35
+
+sentence:was	sure	of	it
+
+decoded:['of', 'was', 'it', 'sure']
+score:-7.94439214397523e-33
+
+sentence:did	it	matter
+
+decoded:['it', 'did', 'matter']
+score:-0.0
+
+sentence:spat	on	the	ground
+
+decoded:['the', 'on', 'ground', 'spat']
+score:-1.5712127690831024e-33
+
+sentence:it	was	her	life
+
+decoded:['was', 'her', 'it', 'life']
+score:-1.442283373477549e-32
+
+sentence:on	the	table
+
+decoded:['the', 'on', 'table']
+score:-0.0
+
+sentence:didn't	like	to	travel
+
+decoded:['to', 'like', 'travel']
+score:-0.0
+
+sentence:had	no	children
+
+decoded:['had', 'no', 'children']
+score:-0.0
+
+sentence:she	had	made	no	friends
+
+decoded:['had', 'no', 'made', 'she', 'friends']
+score:-4.2245042712836066e-33
+
+sentence:were	not	discrete
+
+decoded:['were', 'not', 'discrete']
+score:-0.0
+
+sentence:would	have	said
+
+decoded:['said', 'have', 'would']
+score:-1.0914069523382424e-32
+
+sentence:he	was	smart
+
+decoded:['was', 'he', 'smart']
+score:-0.0
+
+sentence:put	you	off
+
+decoded:['off', 'you', 'put']
+score:-1.1043328615593833e-33
+
+sentence:out	of	here
+
+decoded:['of', 'out', 'here']
+score:-0.0
+
+sentence:pulled	at	the
+
+decoded:['the', 'at', 'pulled']
+score:-9.733000654628413e-33
+
+sentence:was	his	mouth
+
+decoded:['was', 'his', 'mouth']
+score:-0.0
+
+sentence:was	just	there
+
+decoded:['was', 'there', 'just']
+score:-2.639866851618885e-33
+
+sentence:found	him	froze
+
+decoded:['him', 'found', 'froze']
+score:-0.0
+
+sentence:goddamn	well	understand
+
+decoded:['well', 'understand']
+score:-0.0
+
+sentence:don't	come	back
+
+decoded:['back', 'come']
+score:-0.0
+
+sentence:he	threw	things
+
+decoded:['he', 'things', 'threw']
+score:-4.866620080801197e-35
+
+sentence:don't	care	about
+
+decoded:['about', 'care']
+score:-0.0
+
+sentence:the	kid	neither
+
+decoded:['the', 'kid', 'neither']
+score:-0.0
+
+sentence:got	to	slow
+
+decoded:['to', 'got', 'slow']
+score:-0.0
+
+sentence:mouth	fell	open
+
+decoded:[]
+score:-0.35438536810634086
+
+sentence:was	cold	all	right
+
+decoded:['was', 'all', 'right', 'cold']
+score:-1.7486727431229275e-34
+
+sentence:his	head	up
+
+decoded:['up', 'his', 'head']
+score:-3.411176974884781e-33
+
+sentence:was	cold	all	right
+
+decoded:['was', 'all', 'right', 'cold']
+score:-1.7486727431229275e-34
+
+sentence:the	pattern	was
+
+decoded:['the', 'was', 'pattern']
+score:-2.811421022654034e-33
+
+sentence:he	had	found	his
+
+decoded:['had', 'his', 'he', 'found']
+score:-5.5566800804560045e-33
+
+sentence:mean	our	children
+
+decoded:['children', 'our', 'mean']
+score:-2.9108178862236894e-36
+
+sentence:gave	me	heart
+
+decoded:['me', 'heart', 'gave']
+score:-9.150488837182244e-37
+
+sentence:felt	for	my
+
+decoded:['for', 'my', 'felt']
+score:-1.472776872145244e-34
+
+sentence:heart	almost	stopped
+
+decoded:['heart', 'almost', 'stopped']
+score:-0.0
+
+sentence:had	worried	her
+
+decoded:['had', 'her', 'worried']
+score:-7.552882098805292e-35
+
+sentence:tell	me	about
+
+decoded:['about', 'me', 'tell']
+score:-1.1665605937560381e-34
+
+sentence:walked	over	to	him
+
+decoded:['to', 'over', 'him', 'walked']
+score:-2.4212952024382483e-33
+
+sentence:came	out	alone
+
+decoded:['out', 'came', 'alone']
+score:-0.0
+
+sentence:could	have	written	anything
+
+decoded:['have', 'could', 'anything', 'written']
+score:-5.801744203979558e-35
+
+sentence:knew	where	to	come
+
+decoded:['to', 'where', 'knew', 'come']
+score:-5.31567949396645e-33
+
+sentence:didn't	have	to	telephone
+
+decoded:['to', 'have', 'telephone']
+score:-0.0
+
+sentence:looked	at	me
+
+decoded:['at', 'me', 'looked']
+score:-1.066555411859832e-34
+
+sentence:gun	followed	her
+
+decoded:['her', 'gun', 'followed']
+score:-1.329268297364036e-35
+
+sentence:was	getting	light
+
+decoded:['was', 'light', 'getting']
+score:-1.0702765861641538e-34
+
+sentence:fat	man	didn't	answer
+
+decoded:['man', 'fat', 'answer']
+score:-0.0
+
+sentence:was	not	really
+
+decoded:['was', 'not', 'really']
+score:-0.0
+
+sentence:smiled	at	him
+
+decoded:['at', 'him', 'smiled']
+score:-1.265125795072487e-35
+
+sentence:he	looked	at	her
+
+decoded:['at', 'her', 'he', 'looked']
+score:-1.3544951041003896e-32
+
+sentence:were	they	now
+
+decoded:['were', 'now', 'they']
+score:-3.189914270160227e-33
+
+sentence:car	door	shut
+
+decoded:['car', 'door', 'shut']
+score:-0.0
+
+sentence:recognized	the	man
+
+decoded:['the', 'man', 'recognized']
+score:-2.4597219290956366e-36
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:was	coming	toward	him
+
+decoded:['was', 'him', 'coming', 'toward']
+score:-5.666727657528079e-34
+
+sentence:there	was	another	sound
+
+decoded:['was', 'there', 'sound', 'another']
+score:-6.004425144000245e-35
+
+sentence:down	on	him
+
+decoded:['on', 'down', 'him']
+score:-0.0
+
+sentence:was	his	only
+
+decoded:['was', 'his', 'only']
+score:-0.0
+
+sentence:then	he	heard	them
+
+decoded:['them', 'he', 'then', 'heard']
+score:-8.008701786869786e-34
+
+sentence:now	he	saw	them
+
+decoded:['them', 'he', 'now', 'saw']
+score:-1.1523905603698524e-33
+
+sentence:looked	at	his	watch
+
+decoded:['at', 'his', 'looked', 'watch']
+score:-3.8033766242748065e-33
+
+sentence:was	back	there
+
+decoded:['was', 'back', 'there']
+score:-0.0
+
+sentence:may	be	wrong
+
+decoded:['be', 'may', 'wrong']
+score:-0.0
+
+sentence:them	show	their	hands
+
+decoded:['their', 'them', 'show', 'hands']
+score:-5.628355113813424e-34
+
+sentence:waited	with	arms
+
+decoded:['with', 'arms', 'waited']
+score:-1.910178320086217e-37
+
+sentence:couldn't	feel	any
+
+decoded:['any', 'feel']
+score:-0.0
+
+sentence:would	have	to
+
+decoded:['to', 'have', 'would']
+score:-2.4284611152979912e-31
+
+sentence:no	other	way
+
+decoded:['no', 'way', 'other']
+score:-2.4622276606083074e-34
+
+sentence:left	a	few	things
+
+decoded:['a', 'left', 'things', 'few']
+score:-3.7870901500441637e-34
+
+sentence:he	nearly	fell
+
+decoded:['he', 'fell', 'nearly']
+score:-1.0229004904061693e-35
+
+sentence:can	look	it	up
+
+decoded:['up', 'it', 'can', 'look']
+score:-1.2006997047688021e-32
+
+sentence:pulled	it	open
+
+decoded:['it', 'open', 'pulled']
+score:-5.278851255955188e-35
+
+sentence:won't	open	from	inside
+
+decoded:['from', 'open', 'inside']
+score:-0.0
+
+sentence:kind	of	place
+
+decoded:['of', 'place', 'kind']
+score:-8.44087274412708e-34
+
+sentence:very	soon	now
+
+decoded:['now', 'very', 'soon']
+score:-4.357411769648069e-35
+
+sentence:remembered	it	clearly
+
+decoded:['it', 'clearly', 'remembered']
+score:-1.578101165978921e-36
+
+sentence:can't	do	anything
+
+decoded:['do', 'anything']
+score:-0.0
+
+sentence:had	all	along
+
+decoded:['had', 'all', 'along']
+score:-0.0
+
+sentence:looked	up	and	stiffened
+
+decoded:['and', 'up', 'looked', 'stiffened']
+score:-3.516118131028487e-32
+
+sentence:it	must	be
+
+decoded:['it', 'be', 'must']
+score:-1.9530289462645282e-33
+
+sentence:to	him	again	anyway
+
+decoded:['to', 'him', 'again', 'anyway']
+score:-0.0
+
+sentence:don't	think	anything
+
+decoded:[]
+score:-0.07604793787524827
+
+sentence:like	to	make	sure
+
+decoded:['to', 'like', 'make', 'sure']
+score:-0.0
+
+sentence:see	you	later
+
+decoded:['you', 'see', 'later']
+score:-0.0
+
+sentence:looked	at	his	watch
+
+decoded:['at', 'his', 'looked', 'watch']
+score:-3.8033766242748065e-33
+
+sentence:it	wasn't	so
+
+decoded:['it', 'so']
+score:-0.0
+
+sentence:that	wasn't	there
+
+decoded:['that', 'there']
+score:-0.0
+
+sentence:was	empty	now
+
+decoded:['was', 'now', 'empty']
+score:-1.0646764576084395e-34
+
+sentence:hadn't	he	called
+
+decoded:['he', 'called']
+score:-0.0
+
+sentence:really	was	quite
+
+decoded:['was', 'really', 'quite']
+score:-0.0
+
+sentence:he	hadn't	understood
+
+decoded:['he', 'understood']
+score:-0.0
+
+sentence:wasn't	like	that
+
+decoded:['that', 'like']
+score:-0.0
+
+sentence:for	that	one	morning
+
+decoded:['for', 'that', 'one', 'morning']
+score:-0.0
+
+sentence:eyes	were	clear
+
+decoded:['were', 'eyes', 'clear']
+score:-0.0
+
+sentence:rest	of	it
+
+decoded:['of', 'it', 'rest']
+score:-1.8050231872364633e-33
+
+sentence:was	more	than
+
+decoded:['was', 'than', 'more']
+score:-4.773368848634434e-33
+
+sentence:called	him	back
+
+decoded:['him', 'back', 'called']
+score:-6.128995402763752e-35
+
+sentence:were	all	completely
+
+decoded:['were', 'all', 'completely']
+score:-0.0
+
+sentence:up	the	telephone
+
+decoded:['the', 'up', 'telephone']
+score:-0.0
+
+sentence:himself	looked	better
+
+decoded:['himself', 'looked', 'better']
+score:-0.0
+
+sentence:longer	than	yours
+
+decoded:['than', 'longer', 'yours']
+score:-0.0
+
+sentence:can	hardly	wait
+
+decoded:['can', 'wait', 'hardly']
+score:-8.443355516765712e-37
+
+sentence:music	died	away
+
+decoded:['away', 'music', 'died']
+score:-3.403239816622838e-36
+
+sentence:drew	a	deep	breath
+
+decoded:['a', 'breath', 'deep', 'drew']
+score:-7.947296900718707e-35
+
+sentence:could	he	them
+
+decoded:['them', 'he', 'could']
+score:-6.963778340924339e-34
+
+sentence:done	our	part
+
+decoded:['part', 'our', 'done']
+score:-8.831452323529383e-36
+
+sentence:home	right	away
+
+decoded:['away', 'home', 'right']
+score:-1.3541008910316452e-33
+
+sentence:rose	from	his	chair
+
+decoded:['from', 'his', 'chair', 'rose']
+score:-4.809072285488753e-34
+
+sentence:got	into	the	car
+
+decoded:['the', 'into', 'car', 'got']
+score:-7.984748150735905e-33
+
+sentence:her	were	too
+
+decoded:['were', 'her', 'too']
+score:-0.0
+
+sentence:hadn't	to	anything
+
+decoded:['to', 'anything']
+score:-0.0
+
+sentence:felt	and	sick
+
+decoded:['and', 'felt', 'sick']
+score:-0.0
+
+sentence:was	his	wife
+
+decoded:['was', 'his', 'wife']
+score:-0.0
+
+sentence:he	couldn't	where
+
+decoded:['he', 'where']
+score:-0.0
+
+sentence:he	didn't	even	look	up
+
+decoded:['up', 'he', 'look', 'even']
+score:-7.581627791664122e-33
+
+sentence:stepped	on	the	gas
+
+decoded:['the', 'on', 'gas', 'stepped']
+score:-2.4102171600051068e-32
+
+sentence:was	sure	of	this
+
+decoded:['of', 'was', 'this', 'sure']
+score:-6.032332298243727e-33
+
+sentence:to	see	you	go
+
+decoded:['to', 'you', 'see', 'go']
+score:-8.41588219340608e-33
+
+sentence:you	had	them
+
+decoded:['had', 'you', 'them']
+score:-0.0
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:would	take	time
+
+decoded:['would', 'time', 'take']
+score:-9.306907646013343e-35
+
+sentence:at	all	strange
+
+decoded:['at', 'all', 'strange']
+score:-0.0
+
+sentence:have	cost	plenty
+
+decoded:['have', 'cost', 'plenty']
+score:-0.0
+
+sentence:out	the	next	move
+
+decoded:['the', 'out', 'next', 'move']
+score:-0.0
+
+sentence:had	been	seen	to	leave
+
+decoded:['to', 'had', 'been', 'leave', 'seen']
+score:-7.106824409188021e-32
+
+sentence:be	out	further
+
+decoded:['out', 'be', 'further']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:had	only	a	hope
+
+decoded:['a', 'had', 'only', 'hope']
+score:-1.7217383471889488e-32
+
+sentence:they	have	to
+
+decoded:['to', 'have', 'they']
+score:-2.1002859746250144e-31
+
+sentence:telephone	interrupted	him
+
+decoded:['him', 'telephone', 'interrupted']
+score:-3.0133522176840866e-36
+
+sentence:looked	at	his
+
+decoded:['at', 'his', 'looked']
+score:-3.803376807945799e-33
+
+sentence:brought	one	out
+
+decoded:['out', 'one', 'brought']
+score:-2.4206147014117176e-34
+
+sentence:nice	for	him
+
+decoded:['for', 'him', 'nice']
+score:-1.0263476275899557e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:and	her	death
+
+decoded:['and', 'her', 'death']
+score:-0.0
+
+sentence:out	the	words
+
+decoded:['the', 'out', 'words']
+score:-0.0
+
+sentence:was	just	going
+
+decoded:['was', 'just', 'going']
+score:-0.0
+
+sentence:on	my	way
+
+decoded:['on', 'way', 'my']
+score:-4.462411654591568e-34
+
+sentence:walked	toward	each	other
+
+decoded:['each', 'other', 'walked', 'toward']
+score:-9.272079034095425e-36
+
+sentence:would	be	office
+
+decoded:['would', 'be', 'office']
+score:-0.0
+
+sentence:closed	it	again
+
+decoded:['it', 'again', 'closed']
+score:-2.8819631733308486e-34
+
+sentence:there	were	six
+
+decoded:['were', 'there', 'six']
+score:-0.0
+
+sentence:leave	me	alone
+
+decoded:['me', 'leave', 'alone']
+score:-0.0
+
+sentence:was	being	called
+
+decoded:['was', 'called', 'being']
+score:-1.6965823754846057e-33
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:going	to	get	married
+
+decoded:['to', 'going', 'get', 'married']
+score:-0.0
+
+sentence:that	gun	was	empty
+
+decoded:['that', 'was', 'gun', 'empty']
+score:-5.344656899082158e-34
+
+sentence:he	made	a	mistake
+
+decoded:['a', 'he', 'made', 'mistake']
+score:-1.1982592682938996e-32
+
+sentence:one	had	screamed
+
+decoded:['had', 'one', 'screamed']
+score:-0.0
+
+sentence:had	been	good
+
+decoded:['had', 'been', 'good']
+score:-0.0
+
+sentence:rubbed	his	arm
+
+decoded:['his', 'arm', 'rubbed']
+score:-9.771368537691638e-38
+
+sentence:hands	had	her
+
+decoded:['had', 'her', 'hands']
+score:-5.538025719792424e-34
+
+sentence:never	see	none
+
+decoded:['see', 'never', 'none']
+score:-0.0
+
+sentence:take	you	there
+
+decoded:['you', 'there', 'take']
+score:-6.358993277468762e-34
+
+sentence:hadn't	seen	him	since
+
+decoded:['him', 'since', 'seen']
+score:-4.125250487416965e-36
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:knew	she	was
+
+decoded:['was', 'she', 'knew']
+score:-4.2412512086919856e-33
+
+sentence:get	a	fair	trial
+
+decoded:['a', 'fair', 'trial', 'get']
+score:-1.5542386306572285e-34
+
+sentence:one	saw	leave
+
+decoded:['one', 'leave', 'saw']
+score:-1.1702046262435872e-35
+
+sentence:was	the	gun
+
+decoded:['the', 'was', 'gun']
+score:-0.0
+
+sentence:was	dangerous	now
+
+decoded:['was', 'now', 'dangerous']
+score:-3.1180951928270835e-35
+
+sentence:raised	his	voice
+
+decoded:['his', 'voice', 'raised']
+score:-3.079795199154393e-36
+
+sentence:boy	dropped	his	eyes
+
+decoded:['his', 'eyes', 'boy', 'dropped']
+score:-1.1130994780226251e-34
+
+sentence:boy	raised	his	eyes
+
+decoded:['his', 'eyes', 'boy', 'raised']
+score:-1.228580777731376e-34
+
+sentence:suddenly	he	was
+
+decoded:['was', 'he', 'suddenly']
+score:-5.444594673724184e-33
+
+sentence:heard	a	sound
+
+decoded:['a', 'sound', 'heard']
+score:-9.401971159861287e-35
+
+sentence:sound	was	coming
+
+decoded:['was', 'sound', 'coming']
+score:-0.0
+
+sentence:opened	his	eyes
+
+decoded:['his', 'eyes', 'opened']
+score:-1.0786308612496463e-35
+
+sentence:man	made	no	reply
+
+decoded:['no', 'man', 'made', 'reply']
+score:-7.173109892782417e-35
+
+sentence:forward	to	look
+
+decoded:['to', 'forward', 'look']
+score:-0.0
+
+sentence:know	the	facts
+
+decoded:['the', 'know', 'facts']
+score:-0.0
+
+sentence:walk	up	there	later
+
+decoded:['up', 'there', 'later', 'walk']
+score:-3.895955620609693e-35
+
+sentence:should	one	say
+
+decoded:['should', 'one', 'say']
+score:-0.0
+
+sentence:suppose	knew	it
+
+decoded:['it', 'knew', 'suppose']
+score:-7.076475991950171e-35
+
+sentence:was	like	that
+
+decoded:['that', 'was', 'like']
+score:-5.157448036112185e-32
+
+sentence:me	your	address
+
+decoded:['me', 'your', 'address']
+score:-0.0
+
+sentence:shrugged	and	him
+
+decoded:['and', 'him', 'shrugged']
+score:-6.028522778192101e-35
+
+sentence:had	apparently	been	alone
+
+decoded:['had', 'been', 'alone', 'apparently']
+score:-5.823301897936425e-34
+
+sentence:there	was	no	trouble
+
+decoded:['was', 'no', 'there', 'trouble']
+score:-1.8830244007615886e-33
+
+sentence:put	the	bottle	down
+
+decoded:['the', 'down', 'bottle', 'put']
+score:-2.0016361886840068e-33
+
+sentence:there	was	no	hurry
+
+decoded:['was', 'no', 'there', 'hurry']
+score:-1.8847386021328736e-33
+
+sentence:it	made	sense
+
+decoded:['it', 'made', 'sense']
+score:-0.0
+
+sentence:we'll	never	know	which
+
+decoded:['which', 'never', 'know']
+score:-1.174826706765219e-34
+
+sentence:had	gone	like
+
+decoded:['had', 'like', 'gone']
+score:-5.118164851617627e-34
+
+sentence:shook	hands	on	it
+
+decoded:['on', 'it', 'hands', 'shook']
+score:-3.4596091788485826e-33
+
+sentence:go	to	first
+
+decoded:['to', 'first', 'go']
+score:-1.6851064167342738e-33
+
+sentence:have	helped	him
+
+decoded:['him', 'have', 'helped']
+score:-2.71695315383417e-35
+
+sentence:is	for	closer
+
+decoded:['for', 'is', 'closer']
+score:-0.0
+
+sentence:turn	just	a	little
+
+decoded:['a', 'little', 'just', 'turn']
+score:-6.922586149012271e-33
+
+sentence:time	was	not	yet
+
+decoded:['was', 'time', 'not', 'yet']
+score:-0.0
+
+sentence:the	purpose	was	less
+
+decoded:['the', 'was', 'less', 'purpose']
+score:-1.0803792254255021e-33
+
+sentence:you	did	well	enough
+
+decoded:['you', 'enough', 'did', 'well']
+score:-6.111395129925073e-34
+
+sentence:as	with	the
+
+decoded:['the', 'with', 'as']
+score:-4.939174753111726e-31
+
+sentence:can't	touch	him
+
+decoded:['him', 'touch']
+score:-0.0
+
+sentence:have	tried	to
+
+decoded:['to', 'have', 'tried']
+score:-2.800997790267373e-32
+
+sentence:could	they	not
+
+decoded:['could', 'not', 'they']
+score:-1.9582106722997467e-33
+
+sentence:of	a	more	time
+
+decoded:['of', 'a', 'time', 'more']
+score:-8.895967861606326e-33
+
+sentence:a	great	deal
+
+decoded:['a', 'great', 'deal']
+score:-0.0
+
+sentence:he	was	too	late
+
+decoded:['was', 'he', 'too', 'late']
+score:-0.0
+
+sentence:had	lost	his	audience
+
+decoded:['had', 'his', 'lost', 'audience']
+score:-2.472138088176197e-34
+
+sentence:going	on	here
+
+decoded:['on', 'here', 'going']
+score:-1.2129485395753626e-33
+
+sentence:don't	see	them
+
+decoded:['them', 'see']
+score:-0.0
+
+sentence:was	in	there
+
+decoded:['in', 'was', 'there']
+score:-0.0
+
+sentence:just	won't	be	easy
+
+decoded:['be', 'just', 'easy']
+score:-0.0
+
+sentence:average	and	all
+
+decoded:['and', 'all', 'average']
+score:-3.406244674057128e-34
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:but	he	never	slept
+
+decoded:['he', 'but', 'never', 'slept']
+score:-0.0
+
+sentence:had	to	it
+
+decoded:['to', 'had', 'it']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:one	has	come
+
+decoded:['has', 'one', 'come']
+score:-0.0
+
+sentence:spoke	to	her
+
+decoded:['to', 'her', 'spoke']
+score:-2.727617091648036e-34
+
+sentence:course	you	can
+
+decoded:['you', 'can', 'course']
+score:-1.7289023975100352e-34
+
+sentence:isn't	this	nice
+
+decoded:['this', 'nice']
+score:-0.0
+
+sentence:out	of	a	play
+
+decoded:['of', 'a', 'out', 'play']
+score:-1.618182033593107e-31
+
+sentence:forgot	the	order
+
+decoded:['the', 'order', 'forgot']
+score:-4.890644246596127e-35
+
+sentence:did	not	time
+
+decoded:['time', 'not', 'did']
+score:-5.7965903959351715e-34
+
+sentence:did	they	care
+
+decoded:['care', 'did', 'they']
+score:-3.296932882980271e-34
+
+sentence:sighed	as	if
+
+decoded:['as', 'if', 'sighed']
+score:-2.6150341201980313e-34
+
+sentence:were	from	something
+
+decoded:['from', 'were', 'something']
+score:-0.0
+
+sentence:get	up	early
+
+decoded:['up', 'get', 'early']
+score:-0.0
+
+sentence:just	all	cleared	out
+
+decoded:['out', 'all', 'just', 'cleared']
+score:-1.554863112031103e-32
+
+sentence:eyes	followed	him
+
+decoded:['him', 'eyes', 'followed']
+score:-2.3024302238735564e-34
+
+sentence:isn't	much	time
+
+decoded:['time', 'much']
+score:-0.0
+
+sentence:alone	by	the
+
+decoded:['the', 'by', 'alone']
+score:-3.0546036205323024e-32
+
+sentence:was	not	dead
+
+decoded:['was', 'not', 'dead']
+score:-0.0
+
+sentence:had	none	here
+
+decoded:['had', 'here', 'none']
+score:-4.980515898065965e-35
+
+sentence:too	began	to
+
+decoded:['to', 'began', 'too']
+score:-4.0288352652681704e-32
+
+sentence:our	only	chance	now
+
+decoded:['now', 'only', 'our', 'chance']
+score:-1.9597107132939913e-34
+
+sentence:to	find	these
+
+decoded:['to', 'these', 'find']
+score:-4.291498908579334e-34
+
+sentence:might	need	it
+
+decoded:['it', 'might', 'need']
+score:-6.945885916413507e-34
+
+sentence:set	his	down
+
+decoded:['down', 'his', 'set']
+score:-3.2570542371286247e-34
+
+sentence:were	toward	him
+
+decoded:['were', 'him', 'toward']
+score:-1.0747875457354343e-34
+
+sentence:buildings	were	in
+
+decoded:['in', 'were', 'buildings']
+score:-7.872347380910278e-33
+
+sentence:this	to	yourself
+
+decoded:['to', 'this', 'yourself']
+score:-0.0
+
+sentence:all	into	action
+
+decoded:['into', 'all', 'action']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:they	as	men
+
+decoded:['as', 'men', 'they']
+score:-1.5405566110976264e-33
+
+sentence:had	a	red
+
+decoded:['a', 'had', 'red']
+score:-0.0
+
+sentence:the	square	head	fell	over
+
+decoded:['the', 'over', 'square', 'head', 'fell']
+score:-1.0266027098640841e-32
+
+sentence:we	waited	for
+
+decoded:['for', 'we', 'waited']
+score:-3.1734820989149296e-34
+
+sentence:would	to	me
+
+decoded:['to', 'me', 'would']
+score:-3.183486878271572e-32
+
+sentence:own	the	place
+
+decoded:['the', 'place', 'own']
+score:-9.9334562369062e-34
+
+sentence:you	know	him
+
+decoded:['you', 'him', 'know']
+score:-3.194231410916866e-34
+
+sentence:didn't	say	anything
+
+decoded:['say', 'anything']
+score:-0.0
+
+sentence:took	it	without
+
+decoded:['it', 'took', 'without']
+score:-0.0
+
+sentence:had	enough	of	you
+
+decoded:['of', 'had', 'you', 'enough']
+score:-6.448593476700295e-32
+
+sentence:took	me	by	surprise
+
+decoded:['by', 'me', 'took', 'surprise']
+score:-2.5117610640065393e-33
+
+sentence:all	of	it
+
+decoded:['of', 'it', 'all']
+score:-7.062025125616734e-32
+
+sentence:good	good	water
+
+decoded:['water', 'good', 'good']
+score:-5.153999980573437e-34
+
+sentence:there	was	water
+
+decoded:['was', 'water', 'there']
+score:-1.636693682075024e-33
+
+sentence:place	was	quiet
+
+decoded:['was', 'place', 'quiet']
+score:-0.0
+
+sentence:here	and	there
+
+decoded:['and', 'there', 'here']
+score:-9.584864308394671e-33
+
+sentence:as	if	waiting
+
+decoded:['as', 'if', 'waiting']
+score:-0.0
+
+sentence:far	from	it
+
+decoded:['from', 'it', 'far']
+score:-1.1596741254056388e-32
+
+sentence:stopped	by	the
+
+decoded:['the', 'by', 'stopped']
+score:-9.414735559143279e-33
+
+sentence:looked	at	him
+
+decoded:['at', 'him', 'looked']
+score:-1.2568679472579604e-34
+
+sentence:was	no	chance
+
+decoded:['was', 'no', 'chance']
+score:-0.0
+
+sentence:was	no	moon
+
+decoded:['was', 'no', 'moon']
+score:-0.0
+
+sentence:stared	at	him
+
+decoded:['at', 'him', 'stared']
+score:-1.6932996123595052e-35
+
+sentence:had	not	followed
+
+decoded:['had', 'not', 'followed']
+score:-0.0
+
+sentence:his	arm	aside
+
+decoded:['his', 'arm', 'aside']
+score:-0.0
+
+sentence:knew	the	place
+
+decoded:['the', 'place', 'knew']
+score:-4.3352231658325963e-35
+
+sentence:cursed	his	breath
+
+decoded:['his', 'breath', 'cursed']
+score:-7.806017173429253e-40
+
+sentence:had	come	up	also
+
+decoded:['up', 'had', 'also', 'come']
+score:-1.9498193071532434e-33
+
+sentence:never	saw	him
+
+decoded:['him', 'saw', 'never']
+score:-7.230851460991754e-35
+
+sentence:ran	the	change
+
+decoded:['the', 'change', 'ran']
+score:-1.4939357704600452e-34
+
+sentence:threw	out	the
+
+decoded:['the', 'out', 'threw']
+score:-4.182761548530946e-34
+
+sentence:was	really	quite	simple
+
+decoded:['was', 'simple', 'really', 'quite']
+score:-4.853708010041383e-35
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:rather	on	the
+
+decoded:['the', 'on', 'rather']
+score:-1.4462697996318578e-31
+
+sentence:meant	him	no
+
+decoded:['him', 'no', 'meant']
+score:-3.4835040402649226e-35
+
+sentence:was	like	he	was
+
+decoded:['was', 'was', 'he', 'like']
+score:-1.207577147526639e-31
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:were	all	good	men
+
+decoded:['were', 'all', 'men', 'good']
+score:-1.5183640124380709e-34
+
+sentence:on	the	key
+
+decoded:['the', 'on', 'key']
+score:-0.0
+
+sentence:others	followed	inside
+
+decoded:[]
+score:-0.22775563180473377
+
+sentence:never	got	that	chance
+
+decoded:['that', 'got', 'never', 'chance']
+score:-2.571505564387082e-33
+
+sentence:her	to	hurry
+
+decoded:['to', 'her', 'hurry']
+score:-0.0
+
+sentence:we're	on	even
+
+decoded:['on', 'even']
+score:-0.0
+
+sentence:had	had	enough
+
+decoded:['had', 'had', 'enough']
+score:-0.0
+
+sentence:out	of	here
+
+decoded:['of', 'out', 'here']
+score:-0.0
+
+sentence:stumbled	through	the	door
+
+decoded:['the', 'through', 'door', 'stumbled']
+score:-3.011205103783913e-34
+
+sentence:do	the	same
+
+decoded:['the', 'do', 'same']
+score:-0.0
+
+sentence:pushed	through	first
+
+decoded:['through', 'first', 'pushed']
+score:-3.448055538747938e-36
+
+sentence:said	no	more
+
+decoded:['said', 'no', 'more']
+score:-0.0
+
+sentence:moved	into	it
+
+decoded:['into', 'it', 'moved']
+score:-4.643261460465577e-34
+
+sentence:can	soon	tell
+
+decoded:['can', 'soon', 'tell']
+score:-0.0
+
+sentence:started	to	return	it
+
+decoded:['to', 'it', 'started', 'return']
+score:-8.466909484820314e-33
+
+sentence:did	it	mean
+
+decoded:['it', 'did', 'mean']
+score:-0.0
+
+sentence:he	must	chance	it
+
+decoded:['it', 'he', 'must', 'chance']
+score:-7.067023548001621e-33
+
+sentence:same	old	question
+
+decoded:['old', 'question', 'same']
+score:-1.9376371334374566e-36
+
+sentence:pushed	the	radio
+
+decoded:['the', 'radio', 'pushed']
+score:-1.9983403963978888e-37
+
+sentence:make	sure	first
+
+decoded:[]
+score:-0.25295945637322326
+
+sentence:hit	the	radio
+
+decoded:['the', 'radio', 'hit']
+score:-1.6674387366414148e-35
+
+sentence:take	'em	home
+
+decoded:['home', 'take', "'em"]
+score:-1.2983702446816797e-36
+
+sentence:enemy	did	not
+
+decoded:['not', 'did', 'enemy']
+score:-6.782822809435378e-35
+
+sentence:was	with	him
+
+decoded:['with', 'was', 'him']
+score:-0.0
+
+sentence:car	was	fast
+
+decoded:['was', 'car', 'fast']
+score:-0.0
+
+sentence:what	eyes	they	were
+
+decoded:['were', 'eyes', 'what', 'they']
+score:-3.259390899492869e-33
+
+sentence:was	her	first	smile
+
+decoded:['was', 'her', 'smile', 'first']
+score:-1.0443091812705202e-34
+
+sentence:worth	waiting	for
+
+decoded:['for', 'worth', 'waiting']
+score:-7.6163387621320956e-34
+
+sentence:it	hit	me
+
+decoded:['it', 'me', 'hit']
+score:-2.6225301925719274e-34
+
+sentence:shook	my	head
+
+decoded:['head', 'my', 'shook']
+score:-1.160065987467745e-36
+
+sentence:looked	at	my	watch
+
+decoded:['at', 'my', 'looked', 'watch']
+score:-1.6026689979111068e-34
+
+sentence:hurry	too	much
+
+decoded:[]
+score:-0.34604325513676204
+
+sentence:was	all	she	said
+
+decoded:['was', 'said', 'all', 'she']
+score:-2.429682170960373e-32
+
+sentence:his	opened	the
+
+decoded:['the', 'his', 'opened']
+score:-8.099849618832546e-33
+
+sentence:was	about	that
+
+decoded:['that', 'was', 'about']
+score:-1.0437446964854634e-31
+
+sentence:figure	it	out
+
+decoded:['out', 'it', 'figure']
+score:-2.235860050241071e-34
+
+sentence:worry	about	me
+
+decoded:['about', 'me', 'worry']
+score:-1.2024205182958105e-35
+
+sentence:be	of	yourself
+
+decoded:['of', 'be', 'yourself']
+score:-0.0
+
+sentence:didn't	have	the	heart
+
+decoded:['the', 'have', 'heart']
+score:-0.0
+
+sentence:set	down	her
+
+decoded:['down', 'her', 'set']
+score:-3.1108006993672543e-34
+
+sentence:then	we	shall	see
+
+decoded:['we', 'see', 'then', 'shall']
+score:-5.6083276288112895e-34
+
+sentence:began	in	love
+
+decoded:['in', 'love', 'began']
+score:-3.67707122564689e-34
+
+sentence:a	beautiful	room
+
+decoded:['a', 'room', 'beautiful']
+score:-3.096498973879578e-33
+
+sentence:he	read	on
+
+decoded:['on', 'he', 'read']
+score:-2.6370525987568713e-33
+
+sentence:third	time	rather
+
+decoded:['time', 'rather', 'third']
+score:-1.172045927941555e-35
+
+sentence:third	time	rather
+
+decoded:['time', 'rather', 'third']
+score:-1.172045927941555e-35
+
+sentence:it	was	water
+
+decoded:['was', 'it', 'water']
+score:-0.0
+
+sentence:laugh	was	hard
+
+decoded:['was', 'hard', 'laugh']
+score:-3.8475399470352e-36
+
+sentence:world	turned	black
+
+decoded:['world', 'black', 'turned']
+score:-1.4533885621963689e-36
+
+sentence:did	not	call	out
+
+decoded:['out', 'not', 'did', 'call']
+score:-1.9277896131844352e-33
+
+sentence:he	felt	better
+
+decoded:['he', 'felt', 'better']
+score:-0.0
+
+sentence:we	had	closer
+
+decoded:['had', 'we', 'closer']
+score:-0.0
+
+sentence:are	welcome	to
+
+decoded:['to', 'are', 'welcome']
+score:-1.2538792896051932e-32
+
+sentence:so	soon	anyway
+
+decoded:['so', 'soon', 'anyway']
+score:-0.0
+
+sentence:said	to	his
+
+decoded:['to', 'his', 'said']
+score:-6.103264382437229e-33
+
+sentence:two	moved	closer
+
+decoded:['two', 'moved', 'closer']
+score:-0.0
+
+sentence:what	is	it
+
+decoded:['is', 'it', 'what']
+score:-1.5418248228523557e-32
+
+sentence:did	not	look	around
+
+decoded:['around', 'not', 'did', 'look']
+score:-2.0851580010458073e-34
+
+sentence:smiled	at	her
+
+decoded:['at', 'her', 'smiled']
+score:-7.490250003439616e-35
+
+sentence:years	been	married
+
+decoded:['years', 'been', 'married']
+score:-0.0
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:enjoyed	the	killing
+
+decoded:['the', 'enjoyed', 'killing']
+score:-0.0
+
+sentence:couldn't	stop	killing
+
+decoded:[]
+score:-0.08166450008939896
+
+sentence:you	turn	around
+
+decoded:['you', 'around', 'turn']
+score:-4.322898842248194e-35
+
+sentence:going	down	again
+
+decoded:['down', 'again', 'going']
+score:-1.120969780043365e-34
+
+sentence:like	that	kid
+
+decoded:['that', 'like', 'kid']
+score:-0.0
+
+sentence:turned	to	face	him
+
+decoded:['to', 'him', 'face', 'turned']
+score:-5.744887746282192e-33
+
+sentence:started	out	the	door
+
+decoded:['the', 'out', 'door', 'started']
+score:-1.2642300683771603e-32
+
+sentence:guess	you're	right
+
+decoded:['right', 'guess']
+score:-0.0
+
+sentence:were	all	dead
+
+decoded:['were', 'all', 'dead']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:and	recognized	it
+
+decoded:['and', 'it', 'recognized']
+score:-1.2220916815728522e-33
+
+sentence:marine	shut	his	eyes
+
+decoded:['his', 'eyes', 'shut', 'marine']
+score:-2.78360735694564e-35
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:marine	was	still
+
+decoded:['was', 'still', 'marine']
+score:-1.6333861346660317e-35
+
+sentence:marine	was	a
+
+decoded:['a', 'was', 'marine']
+score:-4.65380858352833e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:nothing	for	you
+
+decoded:['for', 'you', 'nothing']
+score:-6.038878883422846e-33
+
+sentence:brought	a	light
+
+decoded:['a', 'light', 'brought']
+score:-4.417801643977862e-35
+
+sentence:did	just	that
+
+decoded:['that', 'did', 'just']
+score:-1.7847583625780578e-32
+
+sentence:let	him	go
+
+decoded:['him', 'go', 'let']
+score:-7.058108892718573e-36
+
+sentence:be	all	right
+
+decoded:['be', 'all', 'right']
+score:-0.0
+
+sentence:some	other	day
+
+decoded:['day', 'some', 'other']
+score:-9.589173227004545e-35
+
+sentence:since	all	that
+
+decoded:['that', 'all', 'since']
+score:-4.732839217684722e-32
+
+sentence:not	just	yet
+
+decoded:['not', 'just', 'yet']
+score:-0.0
+
+sentence:grinned	at	them
+
+decoded:['at', 'them', 'grinned']
+score:-6.770847460736376e-36
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:snapped	at	him
+
+decoded:['at', 'him', 'snapped']
+score:-9.450974580611192e-36
+
+sentence:looked	up	and	grinned
+
+decoded:['and', 'up', 'looked', 'grinned']
+score:-3.514895616903632e-32
+
+sentence:we	ran	away
+
+decoded:['away', 'we', 'ran']
+score:-3.076277899651542e-35
+
+sentence:was	my	fault
+
+decoded:['was', 'my', 'fault']
+score:-0.0
+
+sentence:head	came	around	sharply
+
+decoded:['around', 'head', 'came', 'sharply']
+score:-3.6494691489216444e-35
+
+sentence:was	all	my	fault
+
+decoded:['was', 'all', 'my', 'fault']
+score:-0.0
+
+sentence:forget	all	this	other
+
+decoded:['this', 'all', 'other', 'forget']
+score:-1.2768219638631687e-34
+
+sentence:stared	at	the	man
+
+decoded:['the', 'at', 'man', 'stared']
+score:-1.701774926628934e-33
+
+sentence:hesitated	a	moment
+
+decoded:['a', 'moment', 'hesitated']
+score:-0.0
+
+sentence:had	not	why
+
+decoded:['had', 'not', 'why']
+score:-0.0
+
+sentence:did	not	answer	him
+
+decoded:['him', 'not', 'did', 'answer']
+score:-7.907736005683767e-34
+
+sentence:the	would	not
+
+decoded:['the', 'would', 'not']
+score:-0.0
+
+sentence:had	to	be	done
+
+decoded:['to', 'had', 'be', 'done']
+score:-0.0
+
+sentence:you	read	it
+
+decoded:['it', 'you', 'read']
+score:-1.790434383987797e-33
+
+sentence:had	more	to	say
+
+decoded:['to', 'had', 'more', 'say']
+score:-2.048434359991249e-31
+
+sentence:turned	to	go	inside
+
+decoded:['to', 'turned', 'inside', 'go']
+score:-1.1819831255565746e-33
+
+sentence:not	going	back
+
+decoded:['back', 'not', 'going']
+score:-6.6418883836114785e-34
+
+sentence:going	is	my	fault
+
+decoded:['is', 'my', 'going', 'fault']
+score:-2.744823390208197e-34
+
+sentence:for	his	lie
+
+decoded:['for', 'his', 'lie']
+score:-0.0
+
+sentence:what	had	happened
+
+decoded:['had', 'what', 'happened']
+score:-0.0
+
+sentence:was	an	idea
+
+decoded:['was', 'an', 'idea']
+score:-0.0
+
+sentence:they	were	well
+
+decoded:['were', 'they', 'well']
+score:-0.0
+
+sentence:scowled	at	her	flowers
+
+decoded:['at', 'her', 'flowers', 'scowled']
+score:-6.3976280043503e-36
+
+sentence:was	all	true
+
+decoded:['was', 'all', 'true']
+score:-0.0
+
+sentence:laughed	and	laughed
+
+decoded:['and', 'laughed', 'laughed']
+score:-0.0
+
+sentence:feel	it's	my
+
+decoded:['my', 'feel']
+score:-0.0
+
+sentence:why	go	on
+
+decoded:['on', 'why', 'go']
+score:-1.276473282851356e-32
+
+sentence:think	it	over
+
+decoded:['over', 'it', 'think']
+score:-1.782372696793064e-34
+
+sentence:not	my	game
+
+decoded:['not', 'my', 'game']
+score:-0.0
+
+sentence:to	know	you
+
+decoded:['to', 'you', 'know']
+score:-5.0802313274923555e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:had	he	failed
+
+decoded:['had', 'he', 'failed']
+score:-0.0
+
+sentence:had	he	failed
+
+decoded:['had', 'he', 'failed']
+score:-0.0
+
+sentence:the	hope	was	gone
+
+decoded:['the', 'was', 'hope', 'gone']
+score:-2.6320729108132004e-33
+
+sentence:rubbed	my	hands	together
+
+decoded:['together', 'my', 'hands', 'rubbed']
+score:-2.6501924502457493e-34
+
+sentence:passed	by	him
+
+decoded:['by', 'him', 'passed']
+score:-3.800446704605382e-35
+
+sentence:didn't	look	at	him
+
+decoded:['at', 'him', 'look']
+score:-1.5539719403763857e-33
+
+sentence:loved	the	children
+
+decoded:['the', 'children', 'loved']
+score:-8.980776840282277e-36
+
+sentence:was	most	strange
+
+decoded:['was', 'most', 'strange']
+score:-0.0
+
+sentence:to	follow	her
+
+decoded:['to', 'her', 'follow']
+score:-1.1709451876846053e-33
+
+sentence:worked	very	hard
+
+decoded:[]
+score:-0.25499569486853374
+
+sentence:came	with	his	son
+
+decoded:['with', 'his', 'son', 'came']
+score:-5.586830775870627e-33
+
+sentence:she	was	alone
+
+decoded:['was', 'she', 'alone']
+score:-0.0
+
+sentence:she	did	not	care
+
+decoded:['not', 'care', 'did', 'she']
+score:-2.4490545015329167e-33
+
+sentence:could	wish	that
+
+decoded:['that', 'could', 'wish']
+score:-3.901171876791467e-34
+
+sentence:none	of	us	did
+
+decoded:['of', 'us', 'did', 'none']
+score:-1.3267947266421196e-32
+
+sentence:wanted	to	again
+
+decoded:['to', 'again', 'wanted']
+score:-1.3698858516177692e-33
+
+sentence:you	know	him
+
+decoded:['you', 'him', 'know']
+score:-3.194231410916866e-34
+
+sentence:with	him	is
+
+decoded:['with', 'is', 'him']
+score:-1.1796864621426823e-32
+
+sentence:could	certainly	talk
+
+decoded:['could', 'talk', 'certainly']
+score:-7.470725776956427e-36
+
+sentence:they	have	never	changed
+
+decoded:['have', 'they', 'never', 'changed']
+score:-0.0
+
+sentence:sleep	with	you
+
+decoded:['with', 'you', 'sleep']
+score:-9.185579180264213e-34
+
+sentence:his	poor	fault
+
+decoded:['his', 'poor', 'fault']
+score:-0.0
+
+sentence:was	all	too
+
+decoded:['was', 'all', 'too']
+score:-0.0
+
+sentence:can't	help	it
+
+decoded:['it', 'help']
+score:-0.0
+
+sentence:wanted	to	know
+
+decoded:['to', 'know', 'wanted']
+score:-6.251866704848336e-34
+
+sentence:she	heard	him	go
+
+decoded:['him', 'she', 'go', 'heard']
+score:-4.422870963365783e-35
+
+sentence:do	not	dream
+
+decoded:['not', 'do', 'dream']
+score:-0.0
+
+sentence:was	her	place
+
+decoded:['was', 'her', 'place']
+score:-0.0
+
+sentence:couldn't	change	it
+
+decoded:['it', 'change']
+score:-0.0
+
+sentence:he	must	have	slept	again
+
+decoded:['have', 'he', 'again', 'must', 'slept']
+score:-3.6293852884043056e-33
+
+sentence:would	have	to	understand
+
+decoded:['to', 'have', 'would', 'understand']
+score:-2.4284310446831293e-31
+
+sentence:time	was	it
+
+decoded:['was', 'it', 'time']
+score:-6.049346660616918e-33
+
+sentence:was	after	seven	o'clock
+
+decoded:['was', 'after', 'seven', "o'clock"]
+score:-0.0
+
+sentence:would	take	over
+
+decoded:['over', 'would', 'take']
+score:-4.746075545806145e-34
+
+sentence:did	not	reply
+
+decoded:['not', 'did', 'reply']
+score:-0.0
+
+sentence:stood	at	him
+
+decoded:['at', 'him', 'stood']
+score:-1.5193852231553477e-34
+
+sentence:won't	be	long
+
+decoded:['be', 'long']
+score:-0.0
+
+sentence:went	ahead	of	him
+
+decoded:['of', 'him', 'went', 'ahead']
+score:-5.238899766187989e-32
+
+sentence:but	that	didn't	matter
+
+decoded:['that', 'but', 'matter']
+score:-0.0
+
+sentence:took	her	hand
+
+decoded:['her', 'hand', 'took']
+score:-1.4568048426534462e-35
+
+sentence:a	few	more	steps
+
+decoded:['a', 'more', 'steps', 'few']
+score:-6.712636980483656e-33
+
+sentence:a	moment	he	smiled
+
+decoded:['a', 'he', 'moment', 'smiled']
+score:-3.394570545785524e-34
+
+sentence:work	too	hard
+
+decoded:['work', 'too', 'hard']
+score:-0.0
+
+sentence:seemed	on	fire
+
+decoded:['on', 'fire', 'seemed']
+score:-5.207146100555028e-35
+
+sentence:get	it	away
+
+decoded:['it', 'away', 'get']
+score:-1.868566279244589e-34
+
+sentence:win	hands	down
+
+decoded:['down', 'win', 'hands']
+score:-4.063399280754558e-36
+
+sentence:got	all	the	facts
+
+decoded:['the', 'all', 'got', 'facts']
+score:-1.8062682194249764e-32
+
+sentence:knew	about	it
+
+decoded:['about', 'it', 'knew']
+score:-2.6008988006293933e-34
+
+sentence:she	knew	that
+
+decoded:['that', 'she', 'knew']
+score:-1.6799224866471475e-33
+
+sentence:was	sick	of	it
+
+decoded:['of', 'was', 'it', 'sick']
+score:-6.240887771282648e-33
+
+sentence:her	mother	was
+
+decoded:['was', 'her', 'mother']
+score:-1.4503895822338336e-33
+
+sentence:it	was	only	too	true
+
+decoded:['was', 'it', 'only', 'too', 'true']
+score:-0.0
+
+sentence:opened	the	door
+
+decoded:['the', 'door', 'opened']
+score:-3.4231130179914276e-35
+
+sentence:can't	go	in
+
+decoded:['in', 'go']
+score:-0.0
+
+sentence:it	made	her
+
+decoded:['her', 'it', 'made']
+score:-2.574676460398425e-33
+
+sentence:morning	it	happened
+
+decoded:['it', 'morning', 'happened']
+score:-0.0
+
+sentence:only	this	one	didn't
+
+decoded:['this', 'one', 'did', 'only']
+score:-2.416642999873877e-33
+
+sentence:were	reasons	too
+
+decoded:['were', 'too', 'reasons']
+score:-2.2803855721983114e-35
+
+sentence:of	the	nodded
+
+decoded:['of', 'the', 'nodded']
+score:-0.0
+
+sentence:didn't	look	over
+
+decoded:['over', 'look']
+score:-0.0
+
+sentence:now	she	looked
+
+decoded:['now', 'looked', 'she']
+score:-1.6350028985758931e-34
+
+sentence:eyes	were	wild
+
+decoded:['were', 'eyes', 'wild']
+score:-0.0
+
+sentence:lost	his	job
+
+decoded:['his', 'job', 'lost']
+score:-1.2337915237833803e-35
+
+sentence:kept	on	being
+
+decoded:['on', 'being', 'kept']
+score:-6.848459934426898e-34
+
+sentence:just	stared	at	him
+
+decoded:['at', 'him', 'just', 'stared']
+score:-5.22279486910035e-33
+
+sentence:was	the	old
+
+decoded:['the', 'was', 'old']
+score:-0.0
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:found	my	voice
+
+decoded:['my', 'voice', 'found']
+score:-5.3852334947046046e-36
+
+sentence:made	me	welcome
+
+decoded:['me', 'made', 'welcome']
+score:-0.0
+
+sentence:never	got	there
+
+decoded:['there', 'got', 'never']
+score:-9.755280680680311e-35
+
+sentence:went	out	into	it
+
+decoded:['out', 'into', 'it', 'went']
+score:-4.495561559557466e-33
+
+sentence:knew	all	about	her
+
+decoded:['her', 'about', 'all', 'knew']
+score:-9.539532157966505e-33
+
+sentence:couldn't	be	sure
+
+decoded:['be', 'sure']
+score:-0.0
+
+sentence:head	was	clear
+
+decoded:['was', 'head', 'clear']
+score:-0.0
+
+sentence:said	with	eyes
+
+decoded:['with', 'said', 'eyes']
+score:-0.0
+
+sentence:but	she	was
+
+decoded:['was', 'but', 'she']
+score:-1.106102742791989e-32
+
+sentence:it	didn't	fair
+
+decoded:['it', 'fair']
+score:-0.0
+
+sentence:was	his	wife
+
+decoded:['was', 'his', 'wife']
+score:-0.0
+
+sentence:very	first	time
+
+decoded:['time', 'first', 'very']
+score:-2.529127523672e-34
+
+sentence:rose	on	one
+
+decoded:['on', 'one', 'rose']
+score:-7.782896668916517e-34
+
+sentence:course	he	would
+
+decoded:['he', 'would', 'course']
+score:-4.2833641203296595e-34
+
+sentence:cost	didn't	matter
+
+decoded:[]
+score:-0.1693453782066034
+
+sentence:along	with	me
+
+decoded:['with', 'me', 'along']
+score:-2.908082703723868e-33
+
+sentence:got	this	cold
+
+decoded:['this', 'got', 'cold']
+score:-0.0
+
+sentence:look	at	that
+
+decoded:['that', 'at', 'look']
+score:-1.1392693067348268e-32
+
+sentence:got	this	cold
+
+decoded:['this', 'got', 'cold']
+score:-0.0
+
+sentence:looked	in	the
+
+decoded:['the', 'in', 'looked']
+score:-3.534797691352213e-32
+
+sentence:you	don't	mind
+
+decoded:['you', 'mind']
+score:-0.0
+
+sentence:passed	back	and
+
+decoded:['and', 'back', 'passed']
+score:-1.48170592723409e-32
+
+sentence:yelled	to	the
+
+decoded:['to', 'the', 'yelled']
+score:-8.614492800566052e-34
+
+sentence:did	not	move
+
+decoded:['not', 'did', 'move']
+score:-0.0
+
+sentence:one	said	a	word
+
+decoded:['a', 'said', 'one', 'word']
+score:-7.186035004362051e-33
+
+sentence:shouted	to	the
+
+decoded:['to', 'the', 'shouted']
+score:-6.956108309161846e-33
+
+sentence:that's	just	fine
+
+decoded:['just', 'fine']
+score:-0.0
+
+sentence:pushed	his	forward
+
+decoded:['his', 'forward', 'pushed']
+score:-3.57368649749207e-36
+
+sentence:is	the	second	time
+
+decoded:['the', 'is', 'time', 'second']
+score:-5.724451776993146e-34
+
+sentence:not	you	wrong
+
+decoded:['you', 'not', 'wrong']
+score:-0.0
+
+sentence:his	voice	grew	hard
+
+decoded:['his', 'voice', 'hard', 'grew']
+score:-3.2849556975713456e-36
+
+sentence:know	got	talent
+
+decoded:[]
+score:-0.33360457516471914
+
+sentence:stood	up	slowly
+
+decoded:['up', 'stood', 'slowly']
+score:-0.0
+
+sentence:lips	felt	together
+
+decoded:['together', 'felt', 'lips']
+score:-7.752350805361927e-38
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:was	very	quiet
+
+decoded:['was', 'very', 'quiet']
+score:-0.0
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:was	thoroughly	startled
+
+decoded:['was', 'thoroughly', 'startled']
+score:-0.0
+
+sentence:are	much	too	beautiful
+
+decoded:['are', 'too', 'much', 'beautiful']
+score:-5.9990913383833885e-34
+
+sentence:was	no	use
+
+decoded:['was', 'no', 'use']
+score:-0.0
+
+sentence:knew	the	boy	well
+
+decoded:['the', 'well', 'boy', 'knew']
+score:-1.2997925928461747e-33
+
+sentence:wouldn't	help	anyway
+
+decoded:[]
+score:-0.06672086142976001
+
+sentence:that	did	it
+
+decoded:['that', 'it', 'did']
+score:-1.0738942621512915e-32
+
+sentence:forget	the	rules
+
+decoded:['the', 'rules', 'forget']
+score:-5.116926909129418e-35
+
+sentence:isn't	like	you
+
+decoded:['you', 'like']
+score:-0.0
+
+sentence:the	beat	going
+
+decoded:['the', 'going', 'beat']
+score:-1.8993711188983448e-34
+
+sentence:was	almost	too	easy
+
+decoded:['was', 'too', 'almost', 'easy']
+score:-4.23264842675389e-34
+
+sentence:my	are	as	strong
+
+decoded:['as', 'are', 'my', 'strong']
+score:-7.204270594983785e-33
+
+sentence:turned	his	back
+
+decoded:['his', 'back', 'turned']
+score:-8.65858118556158e-35
+
+sentence:went	home	early
+
+decoded:['home', 'went', 'early']
+score:-0.0
+
+sentence:the	best	sex	win
+
+decoded:['the', 'sex', 'win', 'best']
+score:-2.0618538255407555e-34
+
+sentence:a	few	laughed
+
+decoded:['a', 'laughed', 'few']
+score:-2.4124082814750395e-35
+
+sentence:she	let	the
+
+decoded:['the', 'she', 'let']
+score:-1.6597146367305585e-32
+
+sentence:to	talk	about
+
+decoded:['to', 'about', 'talk']
+score:-1.7781232847148414e-33
+
+sentence:sound	of	their
+
+decoded:['of', 'their', 'sound']
+score:-1.9945031420264233e-33
+
+sentence:would	know	why
+
+decoded:['would', 'why', 'know']
+score:-2.370401462794302e-34
+
+sentence:not	any	more
+
+decoded:['not', 'more', 'any']
+score:-1.5450047092717868e-33
+
+sentence:me	think	about	it
+
+decoded:['it', 'about', 'me', 'think']
+score:-1.026851438556808e-32
+
+sentence:here	to	business
+
+decoded:['to', 'business', 'here']
+score:-3.265219882105009e-33
+
+sentence:has	been	lost
+
+decoded:['has', 'been', 'lost']
+score:-0.0
+
+sentence:luck	to	you
+
+decoded:['to', 'you', 'luck']
+score:-9.33719591100121e-34
+
+sentence:wanted	to	know	why
+
+decoded:['to', 'why', 'know', 'wanted']
+score:-1.1631310889875141e-33
+
+sentence:was	wild	with
+
+decoded:['with', 'was', 'wild']
+score:-2.220314137451446e-33
+
+sentence:here	it	is
+
+decoded:['is', 'it', 'here']
+score:-1.7910332432582434e-32
+
+sentence:here	it	was
+
+decoded:['was', 'it', 'here']
+score:-1.0321889531797652e-32
+
+sentence:sat	and	watched
+
+decoded:['and', 'sat', 'watched']
+score:-0.0
+
+sentence:not	it	right
+
+decoded:['it', 'not', 'right']
+score:-0.0
+
+sentence:had	shouted	each	time
+
+decoded:['had', 'time', 'each', 'shouted']
+score:-1.394400786304168e-33
+
+sentence:not	even	food
+
+decoded:['not', 'food', 'even']
+score:-1.485016707073181e-35
+
+sentence:it	do	otherwise
+
+decoded:['it', 'do', 'otherwise']
+score:-0.0
+
+sentence:it	was	small
+
+decoded:['was', 'it', 'small']
+score:-0.0
+
+sentence:get	you	started
+
+decoded:['you', 'started', 'get']
+score:-5.384645747529194e-35
+
+sentence:all	seemed	rather
+
+decoded:['all', 'rather', 'seemed']
+score:-3.6298530869422974e-35
+
+sentence:the	discussion	was
+
+decoded:['the', 'was', 'discussion']
+score:-2.2008575018934295e-33
+
+sentence:kissed	her	back
+
+decoded:['her', 'back', 'kissed']
+score:-5.176656715830575e-35
+
+sentence:yet	it	is	not
+
+decoded:['is', 'it', 'not', 'yet']
+score:-1.4323686663755384e-32
+
+sentence:friends	were	talking
+
+decoded:['were', 'friends', 'talking']
+score:-0.0
+
+sentence:was	a	long
+
+decoded:['a', 'was', 'long']
+score:-0.0
+
+sentence:then	he	turned	to	me
+
+decoded:['to', 'me', 'he', 'then', 'turned']
+score:-3.836194567801116e-31
+
+sentence:one	of	the	children
+
+decoded:['of', 'the', 'children', 'one']
+score:-5.006248385464539e-31
+
+sentence:was	the	man
+
+decoded:['the', 'was', 'man']
+score:-0.0
+
+sentence:and	they	did	some
+
+decoded:['and', 'did', 'they', 'some']
+score:-1.7430136380985665e-32
+
+sentence:helped	a	great	deal
+
+decoded:['a', 'great', 'deal', 'helped']
+score:-1.8642164909690658e-34
+
+sentence:thought	for	a	second
+
+decoded:['for', 'a', 'thought', 'second']
+score:-7.699217634185294e-33
+
+sentence:nobody	could	have	told	why
+
+decoded:['have', 'could', 'told', 'why', 'nobody']
+score:-1.4684645068344051e-34
+
+sentence:was	in	the	air
+
+decoded:['the', 'in', 'was', 'air']
+score:-5.8776883389455765e-31
+
+sentence:had	just	sat	down
+
+decoded:['had', 'down', 'just', 'sat']
+score:-2.829507839951358e-33
+
+sentence:would	not	look	up
+
+decoded:['up', 'would', 'not', 'look']
+score:-7.873087207667326e-33
+
+sentence:there	it	is
+
+decoded:['is', 'it', 'there']
+score:-2.1201907635586706e-32
+
+sentence:how	right	she	was
+
+decoded:['was', 'she', 'how', 'right']
+score:-7.321244038551576e-33
+
+
+
+
+
+Incorrectly decoded pairs
+Correct sentence first, decoded second
+
+sentence:up	to	a	year
+
+decoded:['to', 'a', 'up', 'year']
+score:-2.366331547785095e-31
+
+sentence:is	due	this
+
+decoded:['is', 'this', 'due']
+score:-1.2331562976564555e-33
+
+sentence:know	enough	to
+
+decoded:['to', 'enough', 'know']
+score:-7.279110646880794e-33
+
+sentence:the	life	of
+
+decoded:['of', 'the', 'life']
+score:-8.981300302610377e-32
+
+sentence:my	are	gone
+
+decoded:['are', 'my', 'gone']
+score:-0.0
+
+sentence:the	figure	was
+
+decoded:['the', 'was', 'figure']
+score:-2.276192730785722e-33
+
+sentence:works	with	the
+
+decoded:['the', 'with', 'works']
+score:-3.26763715766778e-32
+
+sentence:had	been	expected
+
+decoded:['had', 'been', 'expected']
+score:-0.0
+
+sentence:from	on	high
+
+decoded:['on', 'from', 'high']
+score:-0.0
+
+sentence:back	with	the
+
+decoded:['the', 'with', 'back']
+score:-1.716646957894591e-31
+
+sentence:that	is	simple
+
+decoded:['that', 'is', 'simple']
+score:-0.0
+
+sentence:been	working	for
+
+decoded:['for', 'been', 'working']
+score:-1.5682534620549073e-33
+
+sentence:all	are	of
+
+decoded:['of', 'are', 'all']
+score:-6.037857981272836e-31
+
+sentence:home	for	rest
+
+decoded:['for', 'home', 'rest']
+score:-0.0
+
+sentence:held	for	trial
+
+decoded:['for', 'held', 'trial']
+score:-0.0
+
+sentence:had	to	know
+
+decoded:['to', 'had', 'know']
+score:-0.0
+
+sentence:will	be	acknowledged
+
+decoded:['will', 'be', 'acknowledged']
+score:-0.0
+
+sentence:otherwise	no	peace	is	possible
+
+decoded:['is', 'no', 'possible', 'peace', 'otherwise']
+score:-1.1653028148006583e-33
+
+sentence:of	three	report
+
+decoded:['of', 'report', 'three']
+score:-4.434005833603947e-33
+
+sentence:the	was	late
+
+decoded:['the', 'was', 'late']
+score:-0.0
+
+sentence:in	address	are
+
+decoded:['in', 'are', 'address']
+score:-2.8256805038134775e-33
+
+sentence:is	a	bomb
+
+decoded:['a', 'is', 'bomb']
+score:-0.0
+
+sentence:the	gas	station	man
+
+decoded:['the', 'man', 'gas', 'station']
+score:-4.1721527120147745e-34
+
+sentence:had	a	touch
+
+decoded:['a', 'had', 'touch']
+score:-0.0
+
+sentence:reception	and	tea	followed
+
+decoded:['and', 'followed', 'tea', 'reception']
+score:-6.2676844507065885e-34
+
+sentence:has	kept	the
+
+decoded:['the', 'has', 'kept']
+score:-1.3700931794338955e-32
+
+sentence:is	a	complete
+
+decoded:['a', 'is', 'complete']
+score:-0.0
+
+sentence:they	were	not
+
+decoded:['were', 'not', 'they']
+score:-2.5938305898320974e-33
+
+sentence:that	was	not	all
+
+decoded:['that', 'was', 'all', 'not']
+score:-7.817816932659601e-33
+
+sentence:brought	much	good
+
+decoded:[]
+score:-0.4144366585735987
+
+sentence:on	the	air
+
+decoded:['the', 'on', 'air']
+score:-0.0
+
+sentence:law	is	needed
+
+decoded:['is', 'law', 'needed']
+score:-0.0
+
+sentence:from	a	shelter
+
+decoded:['from', 'a', 'shelter']
+score:-0.0
+
+sentence:customer	loses	again
+
+decoded:['again', 'customer', 'loses']
+score:-1.0010069081221042e-37
+
+sentence:this	means	some
+
+decoded:['this', 'some', 'means']
+score:-3.087687543487873e-34
+
+sentence:wrong	at	state
+
+decoded:['at', 'state', 'wrong']
+score:-4.951769952838886e-36
+
+sentence:is	one	approach
+
+decoded:['is', 'approach', 'one']
+score:-9.792220590654902e-34
+
+sentence:might	go	over
+
+decoded:['over', 'might', 'go']
+score:-1.988231604158298e-34
+
+sentence:course	it	is
+
+decoded:['is', 'it', 'course']
+score:-2.5124781184304e-33
+
+sentence:the	new	does
+
+decoded:['the', 'new', 'does']
+score:-0.0
+
+sentence:fiscal	changes	are	important
+
+decoded:['are', 'important', 'changes', 'fiscal']
+score:-2.8162300802458432e-34
+
+sentence:call	to	action
+
+decoded:['to', 'action', 'call']
+score:-1.0470715929949526e-34
+
+sentence:do	not	forget	us
+
+decoded:['not', 'us', 'do', 'forget']
+score:-6.239744419355481e-34
+
+sentence:friends	with	your
+
+decoded:['with', 'your', 'friends']
+score:-1.4488578579934144e-34
+
+sentence:could	be	better
+
+decoded:['be', 'could', 'better']
+score:-0.0
+
+sentence:might	move	up
+
+decoded:['up', 'might', 'move']
+score:-5.688143695232123e-35
+
+sentence:ask	him	more
+
+decoded:['him', 'more', 'ask']
+score:-2.5384984176999615e-35
+
+sentence:people	believe	she	did
+
+decoded:['people', 'did', 'she', 'believe']
+score:-6.140745754497167e-34
+
+sentence:mother	is	quite
+
+decoded:['is', 'mother', 'quite']
+score:-0.0
+
+sentence:common	sense	is
+
+decoded:['is', 'common', 'sense']
+score:-2.561073534159889e-34
+
+sentence:tried	to	him
+
+decoded:['to', 'him', 'tried']
+score:-5.253989550435296e-34
+
+sentence:have	a	throat
+
+decoded:['a', 'have', 'throat']
+score:-0.0
+
+sentence:team	feels	something
+
+decoded:['team', 'something', 'feels']
+score:-2.997510594596833e-37
+
+sentence:it	is	no	use
+
+decoded:['is', 'it', 'no', 'use']
+score:-0.0
+
+sentence:is	an	game
+
+decoded:['is', 'an', 'game']
+score:-0.0
+
+sentence:we	can	understand
+
+decoded:['can', 'we', 'understand']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:am	for	it
+
+decoded:['for', 'it', 'am']
+score:-6.060504030551641e-34
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:none	will	be
+
+decoded:['will', 'be', 'none']
+score:-4.9745850124914005e-33
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:aid	international	law
+
+decoded:['law', 'international', 'aid']
+score:-1.952703894525877e-35
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:out	of	the
+
+decoded:['of', 'the', 'out']
+score:-3.3949262301722736e-31
+
+sentence:people	to	people
+
+decoded:['to', 'people', 'people']
+score:-0.0
+
+sentence:to	the	editor
+
+decoded:['to', 'the', 'editor']
+score:-0.0
+
+sentence:it	is	not	working	now
+
+decoded:['is', 'it', 'not', 'now', 'working']
+score:-1.0419934573994003e-33
+
+sentence:a	was	not
+
+decoded:['a', 'was', 'not']
+score:-0.0
+
+sentence:is	very	high
+
+decoded:['is', 'high', 'very']
+score:-4.7245762821837085e-34
+
+sentence:second	mistake	is
+
+decoded:['is', 'second', 'mistake']
+score:-3.7440964441628385e-35
+
+sentence:more	will	open	soon
+
+decoded:['will', 'more', 'open', 'soon']
+score:-0.0
+
+sentence:they	do	not
+
+decoded:['not', 'they', 'do']
+score:-1.5627161491579312e-33
+
+sentence:will	also	be
+
+decoded:['will', 'be', 'also']
+score:-5.257651961501514e-33
+
+sentence:me	no	end
+
+decoded:['me', 'no', 'end']
+score:-0.0
+
+sentence:apparently	it	is	not
+
+decoded:['is', 'it', 'not', 'apparently']
+score:-6.715167232073801e-33
+
+sentence:a	college	of
+
+decoded:['of', 'a', 'college']
+score:-2.475623502394782e-32
+
+sentence:was	all	set
+
+decoded:['was', 'all', 'set']
+score:-0.0
+
+sentence:had	to	give
+
+decoded:['to', 'had', 'give']
+score:-0.0
+
+sentence:are	the	results
+
+decoded:['the', 'are', 'results']
+score:-0.0
+
+sentence:one	then	the	other
+
+decoded:['the', 'one', 'other', 'then']
+score:-1.1343880186706426e-31
+
+sentence:an	to	win
+
+decoded:['to', 'an', 'win']
+score:-0.0
+
+sentence:food	and	military
+
+decoded:['and', 'food', 'military']
+score:-0.0
+
+sentence:it	was	even	beautiful
+
+decoded:['was', 'it', 'even', 'beautiful']
+score:-0.0
+
+sentence:does	and	more
+
+decoded:['and', 'more', 'does']
+score:-6.53988926942269e-33
+
+sentence:often	drew	the	bomb
+
+decoded:['the', 'bomb', 'often', 'drew']
+score:-9.200511999281487e-33
+
+sentence:but	and	but
+
+decoded:['and', 'but', 'but']
+score:-0.0
+
+sentence:was	an	excellent
+
+decoded:['was', 'an', 'excellent']
+score:-0.0
+
+sentence:all	went	very	well
+
+decoded:['all', 'well', 'went', 'very']
+score:-5.4216958600991735e-34
+
+sentence:so	was	the
+
+decoded:['the', 'was', 'so']
+score:-1.3297365188044875e-31
+
+sentence:was	the	audience
+
+decoded:['the', 'was', 'audience']
+score:-0.0
+
+sentence:for	the	good
+
+decoded:['the', 'for', 'good']
+score:-0.0
+
+sentence:today	there	are
+
+decoded:['are', 'there', 'today']
+score:-5.359022587992908e-33
+
+sentence:it	is	an
+
+decoded:['is', 'it', 'an']
+score:-0.0
+
+sentence:big	forces	food
+
+decoded:['forces', 'food', 'big']
+score:-9.490739350447602e-37
+
+sentence:too	much	fat
+
+decoded:[]
+score:-0.42131658638147446
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:whom	shall	fear
+
+decoded:[]
+score:-0.19619915245612626
+
+sentence:there	is	light
+
+decoded:['is', 'there', 'light']
+score:-0.0
+
+sentence:should	ask	less
+
+decoded:['should', 'less', 'ask']
+score:-4.429593321684548e-36
+
+sentence:into	the	fellowship
+
+decoded:['the', 'into', 'fellowship']
+score:-0.0
+
+sentence:then	we	have
+
+decoded:['have', 'we', 'then']
+score:-2.7485071415478346e-33
+
+sentence:and	then	we	have
+
+decoded:['and', 'have', 'we', 'then']
+score:-9.431076785696731e-32
+
+sentence:this	cannot	be
+
+decoded:['can', 'be', 'this', 'not']
+score:-1.0460962265573578e-32
+
+sentence:need	of	the	new	birth
+
+decoded:['of', 'the', 'new', 'need', 'birth']
+score:-5.68897535748533e-32
+
+sentence:of	the	new	birth
+
+decoded:['of', 'the', 'new', 'birth']
+score:-0.0
+
+sentence:of	the	new	birth
+
+decoded:['of', 'the', 'new', 'birth']
+score:-0.0
+
+sentence:means	of	the	new	birth
+
+decoded:['of', 'the', 'new', 'means', 'birth']
+score:-7.313430380234387e-32
+
+sentence:called	a	devil
+
+decoded:['a', 'called', 'devil']
+score:-0.0
+
+sentence:and	allowed	it
+
+decoded:['and', 'it', 'allowed']
+score:-2.7916110041068013e-33
+
+sentence:my	name	is
+
+decoded:['is', 'my', 'name']
+score:-1.0857725404438686e-33
+
+sentence:purpose	has	never	changed
+
+decoded:['has', 'never', 'purpose', 'changed']
+score:-4.266493480507956e-36
+
+sentence:work	with	their	hands
+
+decoded:['with', 'their', 'work', 'hands']
+score:-2.454949422031298e-33
+
+sentence:is	this	something
+
+decoded:['is', 'this', 'something']
+score:-0.0
+
+sentence:the	is	gone
+
+decoded:['the', 'is', 'gone']
+score:-0.0
+
+sentence:my	name	is
+
+decoded:['is', 'my', 'name']
+score:-1.0857725404438686e-33
+
+sentence:many	came	from
+
+decoded:['from', 'came', 'many']
+score:-2.1451328248507143e-33
+
+sentence:may	your	life
+
+decoded:['life', 'may', 'your']
+score:-1.2185321377417685e-34
+
+sentence:and	a	of	others
+
+decoded:['of', 'and', 'a', 'others']
+score:-1.978233910828539e-30
+
+sentence:in	it	is	easier
+
+decoded:['in', 'is', 'it', 'easier']
+score:-1.9577985439803484e-31
+
+sentence:is	not	true
+
+decoded:['is', 'not', 'true']
+score:-0.0
+
+sentence:flowers	will	be
+
+decoded:['will', 'be', 'flowers']
+score:-2.5435456965688047e-34
+
+sentence:and	a	cholesterol
+
+decoded:['and', 'a', 'cholesterol']
+score:-0.0
+
+sentence:of	the	year
+
+decoded:['of', 'the', 'year']
+score:-0.0
+
+sentence:must	and	should	do
+
+decoded:['and', 'should', 'do', 'must']
+score:-5.095600300831533e-32
+
+sentence:are	other	basic	rules
+
+decoded:['are', 'rules', 'other', 'basic']
+score:-1.596865109348292e-34
+
+sentence:much	for	the
+
+decoded:['the', 'for', 'much']
+score:-1.8801686270556858e-31
+
+sentence:best	time	is
+
+decoded:['is', 'time', 'best']
+score:-1.8967138128992652e-33
+
+sentence:have	the	short	action
+
+decoded:['the', 'have', 'action', 'short']
+score:-6.103166669469317e-35
+
+sentence:was	in	his
+
+decoded:['in', 'was', 'his']
+score:-0.0
+
+sentence:formula	goes	thus
+
+decoded:[]
+score:-0.21052980190056836
+
+sentence:fired	to	cone
+
+decoded:['to', 'fired', 'cone']
+score:-0.0
+
+sentence:fired	to	cone
+
+decoded:['to', 'fired', 'cone']
+score:-0.0
+
+sentence:aside	to	dry	thoroughly
+
+decoded:['to', 'aside', 'dry', 'thoroughly']
+score:-0.0
+
+sentence:fire	to	cone
+
+decoded:['to', 'fire', 'cone']
+score:-0.0
+
+sentence:to	put	it
+
+decoded:['to', 'it', 'put']
+score:-1.117421403408614e-32
+
+sentence:were	in	business
+
+decoded:['in', 'were', 'business']
+score:-0.0
+
+sentence:not	forget	this	possibility
+
+decoded:['this', 'not', 'possibility', 'forget']
+score:-1.402836794981241e-34
+
+sentence:may	be	later
+
+decoded:['be', 'may', 'later']
+score:-0.0
+
+sentence:easier	to	there
+
+decoded:['to', 'there', 'easier']
+score:-6.413534371462345e-34
+
+sentence:is	very	important
+
+decoded:['is', 'important', 'very']
+score:-1.7146715690253929e-34
+
+sentence:right	he	was
+
+decoded:['was', 'he', 'right']
+score:-4.743790472031868e-33
+
+sentence:time	and	economic
+
+decoded:['and', 'time', 'economic']
+score:-0.0
+
+sentence:on	hands	and	feet
+
+decoded:['and', 'on', 'feet', 'hands']
+score:-2.1894969367399075e-32
+
+sentence:back	up	and
+
+decoded:['and', 'up', 'back']
+score:-1.116845536072986e-31
+
+sentence:the	class	lie
+
+decoded:['the', 'class', 'lie']
+score:-0.0
+
+sentence:in	medical	research
+
+decoded:['in', 'research', 'medical']
+score:-3.751134716588387e-34
+
+sentence:drug's	chemical	name
+
+decoded:[]
+score:-0.1241035790612592
+
+sentence:to	feed	beef
+
+decoded:['to', 'beef', 'feed']
+score:-3.021801083330622e-36
+
+sentence:to	feed	beef
+
+decoded:['to', 'beef', 'feed']
+score:-3.021801083330622e-36
+
+sentence:what	it	does
+
+decoded:['it', 'what', 'does']
+score:-0.0
+
+sentence:in	the	market
+
+decoded:['the', 'in', 'market']
+score:-0.0
+
+sentence:demand	for	services
+
+decoded:['for', 'services', 'demand']
+score:-1.006484711796936e-33
+
+sentence:in	marketing	methods
+
+decoded:['in', 'methods', 'marketing']
+score:-2.281693309663601e-34
+
+sentence:costs	of	distribution
+
+decoded:['of', 'distribution', 'costs']
+score:-1.4478068007398862e-34
+
+sentence:in	marketing	management
+
+decoded:['in', 'management', 'marketing']
+score:-1.8169616180660098e-34
+
+sentence:of	sales	management	talent
+
+decoded:['of', 'management', 'sales', 'talent']
+score:-2.862475681046123e-34
+
+sentence:of	complete	marketing
+
+decoded:['of', 'marketing', 'complete']
+score:-4.078276631132153e-36
+
+sentence:have	to	be
+
+decoded:['to', 'have', 'be']
+score:-0.0
+
+sentence:program	to	your	needs
+
+decoded:['to', 'your', 'needs', 'program']
+score:-2.781366570839385e-34
+
+sentence:the	still	come
+
+decoded:['the', 'still', 'come']
+score:-0.0
+
+sentence:they	keep	coming
+
+decoded:['they', 'coming', 'keep']
+score:-1.2777302169201712e-35
+
+sentence:one	else	must	know
+
+decoded:['one', 'must', 'else', 'know']
+score:-5.230949861159179e-35
+
+sentence:was	two	feet	long
+
+decoded:['was', 'two', 'long', 'feet']
+score:-4.5588609660765365e-35
+
+sentence:was	not	candy
+
+decoded:['was', 'not', 'candy']
+score:-0.0
+
+sentence:twice	a	day
+
+decoded:['a', 'day', 'twice']
+score:-4.835102138519774e-35
+
+sentence:is	not	allowed
+
+decoded:['is', 'not', 'allowed']
+score:-0.0
+
+sentence:never	seemed	real
+
+decoded:[]
+score:-0.2985619695119868
+
+sentence:only	to	the	other
+
+decoded:['to', 'the', 'only', 'other']
+score:-4.070686214316344e-31
+
+sentence:can	do	this
+
+decoded:['can', 'this', 'do']
+score:-1.440331483367488e-33
+
+sentence:got	to	do	something
+
+decoded:['to', 'do', 'got', 'something']
+score:-2.0550028975273693e-33
+
+sentence:you	will	surprise	yourself
+
+decoded:['you', 'will', 'yourself', 'surprise']
+score:-4.70197740328915e-37
+
+sentence:are	many	and
+
+decoded:['and', 'are', 'many']
+score:-4.887127185865566e-32
+
+sentence:if	you	can
+
+decoded:['you', 'can', 'if']
+score:-2.5554808213204895e-33
+
+sentence:else	is	closed	away
+
+decoded:['is', 'away', 'else', 'closed']
+score:-1.0808003830108827e-33
+
+sentence:like	to	be
+
+decoded:['to', 'be', 'like']
+score:-5.378436749633952e-33
+
+sentence:no	about	it
+
+decoded:['about', 'it', 'no']
+score:-8.32095790504017e-33
+
+sentence:when	and	how	of
+
+decoded:['of', 'and', 'when', 'how']
+score:-1.949721921395204e-30
+
+sentence:comes	the	stage
+
+decoded:['the', 'stage', 'comes']
+score:-6.025584042315046e-35
+
+sentence:is	the	cost
+
+decoded:['the', 'is', 'cost']
+score:-0.0
+
+sentence:out	a	yesterday
+
+decoded:['a', 'out', 'yesterday']
+score:-0.0
+
+sentence:is	not	worth
+
+decoded:['is', 'not', 'worth']
+score:-0.0
+
+sentence:nothing	remains	the	same
+
+decoded:['the', 'remains', 'nothing', 'same']
+score:-1.1719587576886018e-32
+
+sentence:from	his	throat
+
+decoded:['from', 'his', 'throat']
+score:-0.0
+
+sentence:turned	to	his
+
+decoded:['to', 'his', 'turned']
+score:-4.2597564285098055e-33
+
+sentence:he	was	sick
+
+decoded:['was', 'he', 'sick']
+score:-0.0
+
+sentence:the	went	out
+
+decoded:['the', 'out', 'went']
+score:-5.8269262317100484e-33
+
+sentence:must	be	kept	in
+
+decoded:['in', 'be', 'must', 'kept']
+score:-5.324345421991704e-32
+
+sentence:temperature	rose	to
+
+decoded:['to', 'rose', 'temperature']
+score:-6.046067031378124e-34
+
+sentence:was	a	day
+
+decoded:['a', 'was', 'day']
+score:-0.0
+
+sentence:we	were	off	again
+
+decoded:['were', 'off', 'again', 'we']
+score:-3.613872470831609e-33
+
+sentence:keep	in	place
+
+decoded:['in', 'place', 'keep']
+score:-2.362743645152798e-35
+
+sentence:was	common	first	aid
+
+decoded:['was', 'common', 'first', 'aid']
+score:-0.0
+
+sentence:know	this	worked
+
+decoded:['this', 'know', 'worked']
+score:-0.0
+
+sentence:and	may	be
+
+decoded:['and', 'be', 'may']
+score:-2.031133162302778e-32
+
+sentence:he	kissed	her
+
+decoded:['her', 'he', 'kissed']
+score:-1.919876148480501e-35
+
+sentence:man	was	surprised
+
+decoded:['was', 'man', 'surprised']
+score:-0.0
+
+sentence:they	on	it
+
+decoded:['on', 'it', 'they']
+score:-3.0279010908590233e-32
+
+sentence:she	died	on
+
+decoded:['on', 'she', 'died']
+score:-1.551306874277881e-33
+
+sentence:couldn't	stop	'em
+
+decoded:[]
+score:-0.08127501481979059
+
+sentence:men	were	too
+
+decoded:['were', 'men', 'too']
+score:-0.0
+
+sentence:tried	her	first
+
+decoded:['her', 'first', 'tried']
+score:-6.900151839326828e-36
+
+sentence:spit	and	on
+
+decoded:['and', 'on', 'spit']
+score:-2.342760241188819e-35
+
+sentence:much	head	start
+
+decoded:['head', 'much', 'start']
+score:-0.0
+
+sentence:one	knew	exactly
+
+decoded:['one', 'knew', 'exactly']
+score:-0.0
+
+sentence:was	the	question
+
+decoded:['the', 'was', 'question']
+score:-0.0
+
+sentence:was	the	answer
+
+decoded:['the', 'was', 'answer']
+score:-0.0
+
+sentence:people	are	friends
+
+decoded:['are', 'people', 'friends']
+score:-0.0
+
+sentence:has	a	beautiful
+
+decoded:['a', 'has', 'beautiful']
+score:-0.0
+
+sentence:to	the	and
+
+decoded:['and', 'to', 'the']
+score:-1.955157133236286e-30
+
+sentence:so	do	the
+
+decoded:['the', 'so', 'do']
+score:-4.892811196963471e-32
+
+sentence:the	head	dropped	off
+
+decoded:['the', 'off', 'head', 'dropped']
+score:-8.273484828128383e-33
+
+sentence:time	and	time
+
+decoded:['and', 'time', 'time']
+score:-0.0
+
+sentence:did	more	than	that
+
+decoded:['that', 'than', 'did', 'more']
+score:-7.708021278720587e-32
+
+sentence:is	what	did
+
+decoded:['is', 'what', 'did']
+score:-0.0
+
+sentence:brought	some	results
+
+decoded:['some', 'results', 'brought']
+score:-4.622080521631698e-36
+
+sentence:along	with	foreigners
+
+decoded:['with', 'along', 'foreigners']
+score:-0.0
+
+sentence:men	are	not
+
+decoded:['are', 'not', 'men']
+score:-6.889880957436518e-34
+
+sentence:a	word	plenty
+
+decoded:['a', 'word', 'plenty']
+score:-0.0
+
+sentence:ran	for	three
+
+decoded:['for', 'three', 'ran']
+score:-1.754895516342593e-34
+
+sentence:were	the	ground
+
+decoded:['the', 'were', 'ground']
+score:-0.0
+
+sentence:there	happened	nothing
+
+decoded:['there', 'nothing', 'happened']
+score:-2.0771719862999084e-35
+
+sentence:only	it	did	not
+
+decoded:['it', 'not', 'did', 'only']
+score:-8.0816127423345e-33
+
+sentence:only	there	was	not
+
+decoded:['was', 'not', 'there', 'only']
+score:-1.482226671303251e-32
+
+sentence:one	the	dog
+
+decoded:['the', 'one', 'dog']
+score:-0.0
+
+sentence:was	not	a
+
+decoded:['a', 'was', 'not']
+score:-4.828382498549632e-32
+
+sentence:the	capital	went
+
+decoded:['the', 'went', 'capital']
+score:-2.647367561685337e-34
+
+sentence:is	a	structure
+
+decoded:['a', 'is', 'structure']
+score:-0.0
+
+sentence:is	a	great
+
+decoded:['a', 'is', 'great']
+score:-0.0
+
+sentence:might	have	failed
+
+decoded:['have', 'might', 'failed']
+score:-0.0
+
+sentence:am	not	a
+
+decoded:['a', 'am', 'not']
+score:-1.9147047080208523e-33
+
+sentence:is	the	play
+
+decoded:['the', 'is', 'play']
+score:-0.0
+
+sentence:have	no	religious
+
+decoded:['have', 'no', 'religious']
+score:-0.0
+
+sentence:mother	was	religious
+
+decoded:['was', 'mother', 'religious']
+score:-0.0
+
+sentence:but	there	is	also
+
+decoded:['is', 'but', 'there', 'also']
+score:-2.3762286408389427e-32
+
+sentence:it	can	be	changed
+
+decoded:['it', 'can', 'be', 'changed']
+score:-0.0
+
+sentence:is	an	word
+
+decoded:['is', 'an', 'word']
+score:-0.0
+
+sentence:is	the	owner
+
+decoded:['the', 'is', 'owner']
+score:-0.0
+
+sentence:team	for	research
+
+decoded:['for', 'research', 'team']
+score:-3.2109234306985426e-34
+
+sentence:is	not	easy
+
+decoded:['is', 'not', 'easy']
+score:-0.0
+
+sentence:is	not	enough
+
+decoded:['is', 'enough', 'not']
+score:-2.1091777587369223e-33
+
+sentence:but	a	heart
+
+decoded:['a', 'but', 'heart']
+score:-0.0
+
+sentence:easy	to	see	why
+
+decoded:['to', 'see', 'why', 'easy']
+score:-2.3746822596533367e-34
+
+sentence:is	a	mistake
+
+decoded:['a', 'is', 'mistake']
+score:-0.0
+
+sentence:is	without	funds
+
+decoded:['is', 'without', 'funds']
+score:-0.0
+
+sentence:can	see	us	now
+
+decoded:['can', 'us', 'now', 'see']
+score:-3.5734949286470844e-33
+
+sentence:needs	high	talent
+
+decoded:['high', 'needs', 'talent']
+score:-0.0
+
+sentence:has	written	about
+
+decoded:['about', 'has', 'written']
+score:-6.291080920885279e-34
+
+sentence:hadn't	brought	his	along
+
+decoded:['his', 'along', 'brought']
+score:-2.4567097248216545e-35
+
+sentence:you	can	inside
+
+decoded:['you', 'can', 'inside']
+score:-0.0
+
+sentence:comes	and	goes
+
+decoded:['and', 'comes', 'goes']
+score:-0.0
+
+sentence:had	always	done	well
+
+decoded:['had', 'well', 'always', 'done']
+score:-3.421553651266665e-34
+
+sentence:paused	and	repeated	himself
+
+decoded:['and', 'himself', 'paused', 'repeated']
+score:-9.669177556192502e-34
+
+sentence:said	in	part
+
+decoded:['in', 'said', 'part']
+score:-0.0
+
+sentence:was	just	as
+
+decoded:['was', 'as', 'just']
+score:-1.6703405592407898e-32
+
+sentence:first	came	close
+
+decoded:['came', 'close', 'first']
+score:-9.835397967528543e-36
+
+sentence:waited	a	long	time
+
+decoded:['a', 'time', 'long', 'waited']
+score:-2.2213375522206308e-33
+
+sentence:and	also	to	change
+
+decoded:['and', 'to', 'also', 'change']
+score:-5.460982350671593e-31
+
+sentence:is	not	true
+
+decoded:['is', 'not', 'true']
+score:-0.0
+
+sentence:they	have	been	enemy
+
+decoded:['have', 'they', 'been', 'enemy']
+score:-0.0
+
+sentence:the	process	can	be
+
+decoded:['the', 'can', 'be', 'process']
+score:-1.8774834140860338e-32
+
+sentence:may	also	consider
+
+decoded:['may', 'also', 'consider']
+score:-0.0
+
+sentence:was	all	they	needed
+
+decoded:['was', 'all', 'they', 'needed']
+score:-0.0
+
+sentence:man	stepped	forward
+
+decoded:['man', 'forward', 'stepped']
+score:-1.9363514364912447e-37
+
+sentence:heard	nothing	more
+
+decoded:['more', 'heard', 'nothing']
+score:-2.7159796975748953e-35
+
+sentence:looked	at	me
+
+decoded:['at', 'me', 'looked']
+score:-1.066555411859832e-34
+
+sentence:am	so	happy
+
+decoded:['am', 'so', 'happy']
+score:-0.0
+
+sentence:failed	to	work
+
+decoded:['to', 'work', 'failed']
+score:-7.928591846861247e-34
+
+sentence:have	not	the	heart
+
+decoded:['the', 'have', 'not', 'heart']
+score:-7.682906768446872e-32
+
+sentence:breakfast	was	tea
+
+decoded:['was', 'tea', 'breakfast']
+score:-2.702186006051965e-34
+
+sentence:his	was	nothing
+
+decoded:['was', 'his', 'nothing']
+score:-0.0
+
+sentence:had	better	be	good
+
+decoded:['had', 'be', 'good', 'better']
+score:-3.344423405766468e-33
+
+sentence:worry	about	the
+
+decoded:['the', 'about', 'worry']
+score:-8.49337592380007e-33
+
+sentence:this	one	was
+
+decoded:['was', 'this', 'one']
+score:-6.35197258436608e-33
+
+sentence:too	late	now
+
+decoded:['now', 'too', 'late']
+score:-7.199168214817247e-35
+
+sentence:was	well	past
+
+decoded:['was', 'well', 'past']
+score:-0.0
+
+sentence:that's	what	he	did
+
+decoded:['he', 'what', 'did']
+score:-0.0
+
+sentence:it	should	have
+
+decoded:['it', 'have', 'should']
+score:-6.55178674162095e-33
+
+sentence:himself	had	again
+
+decoded:['had', 'himself', 'again']
+score:-0.0
+
+sentence:were	like	two
+
+decoded:['were', 'like', 'two']
+score:-0.0
+
+sentence:knew	that	too
+
+decoded:['that', 'too', 'knew']
+score:-1.7426722118039644e-34
+
+sentence:wasn't	hard	to	understand
+
+decoded:['to', 'hard', 'understand']
+score:-0.0
+
+sentence:was	another	indispensable
+
+decoded:['was', 'another', 'indispensable']
+score:-0.0
+
+sentence:that	was	the	end
+
+decoded:['the', 'that', 'was', 'end']
+score:-3.823783147430364e-31
+
+sentence:not	for	long
+
+decoded:['for', 'not', 'long']
+score:-0.0
+
+sentence:suppose	it	did
+
+decoded:['it', 'did', 'suppose']
+score:-2.8881896199703604e-35
+
+sentence:there	is	no	involved
+
+decoded:['is', 'no', 'there', 'involved']
+score:-2.5271572849374265e-33
+
+sentence:we	were	also
+
+decoded:['were', 'also', 'we']
+score:-2.0237294442955934e-33
+
+sentence:seemed	worried	too
+
+decoded:[]
+score:-0.3299732606573636
+
+sentence:knew	all	about
+
+decoded:['about', 'all', 'knew']
+score:-4.0596432089616963e-35
+
+sentence:world	and	new	world
+
+decoded:['and', 'world', 'new', 'world']
+score:-0.0
+
+sentence:much	for	all	that
+
+decoded:['for', 'that', 'all', 'much']
+score:-1.8344282812852131e-31
+
+sentence:to	small	business	community
+
+decoded:['to', 'business', 'community', 'small']
+score:-1.443130904617506e-33
+
+sentence:research	and	development
+
+decoded:['and', 'research', 'development']
+score:-0.0
+
+sentence:product	and	market
+
+decoded:['and', 'market', 'product']
+score:-2.1458210400589223e-33
+
+sentence:to	small	business
+
+decoded:['to', 'business', 'small']
+score:-1.0181544319647243e-33
+
+sentence:or	to	working	capital
+
+decoded:['to', 'or', 'capital', 'working']
+score:-2.877727720248042e-34
+
+sentence:reasons	for	self-help
+
+decoded:['for', 'reasons', 'self-help']
+score:-0.0
+
+sentence:are	many	others
+
+decoded:['are', 'many', 'others']
+score:-0.0
+
+sentence:range	of	self-help
+
+decoded:['of', 'range', 'self-help']
+score:-0.0
+
+sentence:a	long-term	approach
+
+decoded:['a', 'approach', 'long-term']
+score:-1.3191985352103122e-35
+
+sentence:a	long-term	approach
+
+decoded:['a', 'approach', 'long-term']
+score:-1.3191985352103122e-35
+
+sentence:is	a	long-term	process
+
+decoded:['a', 'is', 'process', 'long-term']
+score:-1.1763759715854042e-34
+
+sentence:two	are	as	one
+
+decoded:['as', 'are', 'one', 'two']
+score:-1.2990728964478204e-32
+
+sentence:of	state	automobile	practices
+
+decoded:['of', 'state', 'practices', 'automobile']
+score:-7.552551204033197e-37
+
+sentence:practices	in	other	states
+
+decoded:['in', 'states', 'other', 'practices']
+score:-2.9789671712126116e-34
+
+sentence:of	state	automobile	practices
+
+decoded:['of', 'state', 'practices', 'automobile']
+score:-7.552551204033197e-37
+
+sentence:of	personal	property
+
+decoded:['of', 'property', 'personal']
+score:-9.480802749763307e-35
+
+sentence:others	made	no	reply
+
+decoded:['no', 'made', 'others', 'reply']
+score:-5.494058557651824e-35
+
+sentence:as	personal	property
+
+decoded:['as', 'property', 'personal']
+score:-4.2382448818897576e-35
+
+sentence:to	small	business
+
+decoded:['to', 'business', 'small']
+score:-1.0181544319647243e-33
+
+sentence:years	in	other	states
+
+decoded:['in', 'years', 'states', 'other']
+score:-4.5822768135449165e-33
+
+sentence:of	fiscal	year
+
+decoded:['of', 'year', 'fiscal']
+score:-4.905337925981406e-35
+
+sentence:of	tax	year
+
+decoded:['of', 'year', 'tax']
+score:-9.102528667668695e-34
+
+sentence:is	a	sound
+
+decoded:['a', 'is', 'sound']
+score:-0.0
+
+sentence:and	in	dogs
+
+decoded:['and', 'in', 'dogs']
+score:-0.0
+
+sentence:properties	of	air
+
+decoded:['of', 'air', 'properties']
+score:-1.5930565765282498e-35
+
+sentence:has	pointed	out
+
+decoded:['out', 'has', 'pointed']
+score:-1.1081091371613999e-34
+
+sentence:method	of	funds
+
+decoded:['of', 'method', 'funds']
+score:-0.0
+
+sentence:structure	is	complete
+
+decoded:['is', 'structure', 'complete']
+score:-0.0
+
+sentence:charges	would	be	additional
+
+decoded:['would', 'be', 'charges', 'additional']
+score:-2.6750876470231458e-34
+
+sentence:is	an	important
+
+decoded:['is', 'an', 'important']
+score:-0.0
+
+sentence:in	a	shelter
+
+decoded:['in', 'a', 'shelter']
+score:-0.0
+
+sentence:and	his	is
+
+decoded:['and', 'is', 'his']
+score:-1.131398393071746e-31
+
+sentence:policy	in	its
+
+decoded:['in', 'its', 'policy']
+score:-2.9984157252469663e-33
+
+sentence:problems	of	a	policy
+
+decoded:['of', 'a', 'policy', 'problems']
+score:-2.6835666163453215e-32
+
+sentence:for	the	of
+
+decoded:['of', 'the', 'for']
+score:-1.8215779787055988e-30
+
+sentence:is	an	important
+
+decoded:['is', 'an', 'important']
+score:-0.0
+
+sentence:and	military	strength
+
+decoded:['and', 'strength', 'military']
+score:-6.369489608327491e-35
+
+sentence:for	the	of
+
+decoded:['of', 'the', 'for']
+score:-1.8215779787055988e-30
+
+sentence:and	where	to	file
+
+decoded:['and', 'to', 'where', 'file']
+score:-5.2496949405992846e-31
+
+sentence:of	time	for
+
+decoded:['of', 'for', 'time']
+score:-7.277231104882226e-32
+
+sentence:for	sound	tax	policy
+
+decoded:['for', 'tax', 'policy', 'sound']
+score:-1.756631207219979e-34
+
+sentence:services	are	held
+
+decoded:['are', 'services', 'held']
+score:-0.0
+
+sentence:others	may	their	feet
+
+decoded:['their', 'may', 'feet', 'others']
+score:-3.299348156529226e-34
+
+sentence:are	several	possible	sources
+
+decoded:['are', 'possible', 'sources', 'several']
+score:-2.7632944931391943e-35
+
+sentence:direct	of	flux
+
+decoded:['of', 'direct', 'flux']
+score:-0.0
+
+sentence:of	the	six
+
+decoded:['of', 'the', 'six']
+score:-0.0
+
+sentence:without	the	property
+
+decoded:['the', 'property', 'without']
+score:-3.552405641638371e-33
+
+sentence:is	first	religious
+
+decoded:['is', 'first', 'religious']
+score:-0.0
+
+sentence:man	has	a	second	chance
+
+decoded:['a', 'has', 'man', 'chance', 'second']
+score:-6.133675155976971e-33
+
+sentence:he	has	being
+
+decoded:['has', 'he', 'being']
+score:-0.0
+
+sentence:this	one	did
+
+decoded:['this', 'did', 'one']
+score:-1.0217227920034392e-33
+
+sentence:seemed	to	everyone
+
+decoded:['to', 'seemed', 'everyone']
+score:-0.0
+
+sentence:third	situation	is	possible
+
+decoded:['is', 'possible', 'situation', 'third']
+score:-2.607746055222933e-34
+
+sentence:has	suggested	one
+
+decoded:['has', 'one', 'suggested']
+score:-1.8620271327406592e-34
+
+sentence:problem	needs	further
+
+decoded:[]
+score:-0.4666800110486897
+
+sentence:made	this	completely	clear
+
+decoded:['this', 'made', 'clear', 'completely']
+score:-3.6169961174801787e-35
+
+sentence:to	new	industry
+
+decoded:['to', 'new', 'industry']
+score:-0.0
+
+sentence:are	both	methods
+
+decoded:['are', 'both', 'methods']
+score:-0.0
+
+sentence:hands	move	first
+
+decoded:[]
+score:-0.39439081544601284
+
+sentence:demand	for	the	product
+
+decoded:['the', 'for', 'demand', 'product']
+score:-4.7110739663229883e-32
+
+sentence:product	price	policy
+
+decoded:['policy', 'product', 'price']
+score:-1.44035710529155e-35
+
+sentence:he	made	it
+
+decoded:['it', 'he', 'made']
+score:-7.938472657481626e-33
+
+sentence:to	is	another
+
+decoded:['to', 'is', 'another']
+score:-0.0
+
+sentence:tax	of	the
+
+decoded:['of', 'the', 'tax']
+score:-6.669835761802278e-32
+
+sentence:for	questionnaire	method
+
+decoded:['for', 'method', 'questionnaire']
+score:-5.363376646619003e-36
+
+sentence:of	the	questionnaire
+
+decoded:['of', 'the', 'questionnaire']
+score:-0.0
+
+sentence:and	of	the	questionnaire
+
+decoded:['of', 'and', 'the', 'questionnaire']
+score:-0.0
+
+sentence:of	about	children
+
+decoded:['of', 'about', 'children']
+score:-0.0
+
+sentence:is	no	problem	here
+
+decoded:['is', 'no', 'here', 'problem']
+score:-5.096855343089127e-34
+
+sentence:economic	and	opportunity
+
+decoded:['and', 'economic', 'opportunity']
+score:-0.0
+
+sentence:it	is	not
+
+decoded:['is', 'it', 'not']
+score:-0.0
+
+sentence:future	could	be
+
+decoded:['be', 'could', 'future']
+score:-3.1869727792182866e-33
+
+sentence:was	some	here
+
+decoded:['was', 'some', 'here']
+score:-0.0
+
+sentence:new	part	is
+
+decoded:['is', 'new', 'part']
+score:-2.4443082594204794e-33
+
+sentence:at	this	suggestion
+
+decoded:['at', 'this', 'suggestion']
+score:-0.0
+
+sentence:were	both	very
+
+decoded:['were', 'both', 'very']
+score:-0.0
+
+sentence:it	was	his
+
+decoded:['was', 'his', 'it']
+score:-2.086476616425617e-32
+
+sentence:they	are	written
+
+decoded:['are', 'they', 'written']
+score:-0.0
+
+sentence:it	may	be
+
+decoded:['it', 'be', 'may']
+score:-5.793686190204671e-33
+
+sentence:for	an	concept
+
+decoded:['for', 'an', 'concept']
+score:-0.0
+
+sentence:involved	in	an	concept
+
+decoded:['in', 'an', 'involved', 'concept']
+score:-2.735116745606282e-33
+
+sentence:may	be	others
+
+decoded:['be', 'may', 'others']
+score:-0.0
+
+sentence:structure	and	properties	of
+
+decoded:['of', 'and', 'structure', 'properties']
+score:-1.6085003094714294e-31
+
+sentence:primary	interest	are
+
+decoded:['are', 'interest', 'primary']
+score:-2.303932652590701e-34
+
+sentence:discussion	of	flux	gain
+
+decoded:['of', 'gain', 'discussion', 'flux']
+score:-2.3261931176819174e-36
+
+sentence:flux	gain	of	a	stage
+
+decoded:['of', 'a', 'stage', 'gain', 'flux']
+score:-1.0075341343786327e-32
+
+sentence:in	a	stage
+
+decoded:['in', 'a', 'stage']
+score:-0.0
+
+sentence:the	discrete	process
+
+decoded:['the', 'process', 'discrete']
+score:-2.622821770272229e-37
+
+sentence:the	discrete	process
+
+decoded:['the', 'process', 'discrete']
+score:-2.622821770272229e-37
+
+sentence:had	little	to	say
+
+decoded:['to', 'had', 'little', 'say']
+score:-3.628998208675662e-32
+
+sentence:did	not	speak	much
+
+decoded:['not', 'did', 'much', 'speak']
+score:-6.757108870511141e-35
+
+sentence:energy	was	gone
+
+decoded:['was', 'energy', 'gone']
+score:-0.0
+
+sentence:his	mouth	slightly	open
+
+decoded:['his', 'open', 'slightly', 'mouth']
+score:-1.8835556689274963e-34
+
+sentence:did	not	care
+
+decoded:['not', 'care', 'did']
+score:-3.3472275108061563e-34
+
+sentence:did	not	touch	him
+
+decoded:['him', 'not', 'did', 'touch']
+score:-8.02936293679541e-34
+
+sentence:did	not	speak
+
+decoded:['not', 'did', 'speak']
+score:-0.0
+
+sentence:had	no	to
+
+decoded:['to', 'had', 'no']
+score:-1.2755745733391142e-31
+
+sentence:did	not	care
+
+decoded:['not', 'care', 'did']
+score:-3.3472275108061563e-34
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:turned	to	him	again
+
+decoded:['to', 'him', 'again', 'turned']
+score:-5.1290109910558706e-33
+
+sentence:was	very	worried
+
+decoded:['was', 'very', 'worried']
+score:-0.0
+
+sentence:it	up	the
+
+decoded:['the', 'up', 'it']
+score:-3.2213662727186983e-31
+
+sentence:hadn't	even	seen	him	yet
+
+decoded:['him', 'even', 'seen', 'yet']
+score:-1.586329626434677e-35
+
+sentence:he	was	here
+
+decoded:['was', 'he', 'here']
+score:-0.0
+
+sentence:had	no	hands
+
+decoded:['had', 'no', 'hands']
+score:-0.0
+
+sentence:we	hurried	over
+
+decoded:['over', 'we', 'hurried']
+score:-2.309336712362118e-35
+
+sentence:it	was	right
+
+decoded:['was', 'it', 'right']
+score:-0.0
+
+sentence:perhaps	it	was	just
+
+decoded:['was', 'it', 'just', 'perhaps']
+score:-3.6484892641776386e-33
+
+sentence:did	not	like
+
+decoded:['like', 'not', 'did']
+score:-1.2844165757244422e-33
+
+sentence:he	had	to	find	out
+
+decoded:['to', 'out', 'had', 'he', 'find']
+score:-3.193478802495462e-31
+
+sentence:see	what	mean
+
+decoded:['what', 'see', 'mean']
+score:-0.0
+
+sentence:it	was	a
+
+decoded:['a', 'was', 'it']
+score:-7.225771488973265e-32
+
+sentence:inquired	about	it
+
+decoded:['about', 'it', 'inquired']
+score:-6.959293898852574e-36
+
+sentence:nevertheless	it	looked
+
+decoded:['it', 'looked', 'nevertheless']
+score:-1.63118208275824e-36
+
+sentence:stared	at	her
+
+decoded:['at', 'her', 'stared']
+score:-8.745677970117819e-35
+
+sentence:did	not	him
+
+decoded:['him', 'not', 'did']
+score:-5.793984104554208e-34
+
+sentence:pushed	his	way	inside
+
+decoded:['his', 'way', 'inside', 'pushed']
+score:-5.1670323558332175e-36
+
+sentence:would	be	up	there
+
+decoded:['up', 'would', 'be', 'there']
+score:-4.3364370474208127e-33
+
+sentence:was	no	longer	worried
+
+decoded:['was', 'no', 'longer', 'worried']
+score:-0.0
+
+sentence:would	be	all	right
+
+decoded:['would', 'be', 'all', 'right']
+score:-0.0
+
+sentence:made	no	sound
+
+decoded:['no', 'made', 'sound']
+score:-0.0
+
+sentence:men	pulled	him	off
+
+decoded:['off', 'him', 'men', 'pulled']
+score:-5.4691583271412946e-33
+
+sentence:at	their	arms
+
+decoded:['at', 'their', 'arms']
+score:-0.0
+
+sentence:he	was	not
+
+decoded:['was', 'he', 'not']
+score:-0.0
+
+sentence:on	and	on
+
+decoded:['and', 'on', 'on']
+score:-0.0
+
+sentence:had	his	line
+
+decoded:['had', 'his', 'line']
+score:-0.0
+
+sentence:got	everybody	up
+
+decoded:['up', 'got', 'everybody']
+score:-5.650587856064238e-35
+
+sentence:began	to	move
+
+decoded:['to', 'began', 'move']
+score:-0.0
+
+sentence:would	not	give
+
+decoded:['would', 'not', 'give']
+score:-0.0
+
+sentence:could	feel	himself
+
+decoded:['himself', 'could', 'feel']
+score:-1.8963674094077573e-35
+
+sentence:put	his	head	out
+
+decoded:['out', 'his', 'head', 'put']
+score:-5.348940290293959e-33
+
+sentence:he	was	good
+
+decoded:['was', 'he', 'good']
+score:-0.0
+
+sentence:screeched	at	him
+
+decoded:['at', 'him', 'screeched']
+score:-3.768928762323959e-37
+
+sentence:did	as	he	pleased
+
+decoded:['as', 'he', 'did', 'pleased']
+score:-4.5916579931484476e-33
+
+sentence:for	a	dog
+
+decoded:['for', 'a', 'dog']
+score:-0.0
+
+sentence:how	it	should	be
+
+decoded:['it', 'be', 'should', 'how']
+score:-5.2923268293194266e-33
+
+sentence:was	a	one
+
+decoded:['a', 'was', 'one']
+score:-0.0
+
+sentence:ain't	so	bad
+
+decoded:['so', 'bad']
+score:-0.0
+
+sentence:the	place	up
+
+decoded:['the', 'up', 'place']
+score:-6.738177533991148e-33
+
+sentence:fuck	up	the	program
+
+decoded:['the', 'up', 'program', 'fuck']
+score:-4.448881714613603e-33
+
+sentence:tried	to	it
+
+decoded:['to', 'it', 'tried']
+score:-2.6476393947539645e-33
+
+sentence:the	words	were
+
+decoded:['the', 'were', 'words']
+score:-2.3106016544861983e-33
+
+sentence:knew	he	couldn't
+
+decoded:['he', 'could', 'knew']
+score:-4.496385278040255e-34
+
+sentence:he	took	heart
+
+decoded:['he', 'heart', 'took']
+score:-1.830281438428765e-36
+
+sentence:the	final	word	came
+
+decoded:['the', 'came', 'word', 'final']
+score:-2.6187957021206627e-34
+
+sentence:what	he	said
+
+decoded:['said', 'he', 'what']
+score:-1.8848816816565216e-33
+
+sentence:on	the	ball
+
+decoded:['the', 'on', 'ball']
+score:-0.0
+
+sentence:they	got	them
+
+decoded:['them', 'they', 'got']
+score:-1.2806203947786334e-34
+
+sentence:man	moved	away
+
+decoded:['away', 'man', 'moved']
+score:-1.1536053603130303e-35
+
+sentence:of	room	there	now
+
+decoded:['of', 'room', 'now', 'there']
+score:-1.8673861563847604e-32
+
+sentence:stared	out	the
+
+decoded:['the', 'out', 'stared']
+score:-1.5446936165285516e-33
+
+sentence:this	for	real
+
+decoded:['for', 'this', 'real']
+score:-0.0
+
+sentence:a	good	one
+
+decoded:['a', 'one', 'good']
+score:-8.888873753199113e-33
+
+sentence:bet	both	together	did
+
+decoded:['together', 'did', 'both', 'bet']
+score:-9.03264552851231e-35
+
+sentence:fuck	them	both
+
+decoded:['them', 'both', 'fuck']
+score:-7.034599005702127e-37
+
+sentence:he	was	not
+
+decoded:['was', 'he', 'not']
+score:-0.0
+
+sentence:time	as	a
+
+decoded:['a', 'as', 'time']
+score:-2.2510217233147706e-32
+
+sentence:for	good	reasons
+
+decoded:['for', 'good', 'reasons']
+score:-0.0
+
+sentence:didn't	believe	them
+
+decoded:['them', 'believe']
+score:-0.0
+
+sentence:now	music	too
+
+decoded:['now', 'music', 'too']
+score:-0.0
+
+sentence:would	certainly	be
+
+decoded:['would', 'be', 'certainly']
+score:-7.383442428589743e-33
+
+sentence:pointed	out	to	him
+
+decoded:['to', 'out', 'him', 'pointed']
+score:-9.11250351783714e-33
+
+sentence:even	more	right
+
+decoded:['more', 'right', 'even']
+score:-2.3476752769431947e-34
+
+sentence:men	were	around	him
+
+decoded:['were', 'him', 'around', 'men']
+score:-2.0972701961135218e-33
+
+sentence:was	no	longer
+
+decoded:['was', 'no', 'longer']
+score:-0.0
+
+sentence:stiffened	in	anger
+
+decoded:['in', 'anger', 'stiffened']
+score:-1.2489627477486805e-38
+
+sentence:voice	shook	a	little
+
+decoded:['a', 'little', 'voice', 'shook']
+score:-7.983840081349895e-34
+
+sentence:tell	you	now
+
+decoded:['you', 'now', 'tell']
+score:-1.7372502441107966e-34
+
+sentence:street	was	again	empty
+
+decoded:['was', 'street', 'again', 'empty']
+score:-0.0
+
+sentence:the	figure	moved	on
+
+decoded:['the', 'on', 'figure', 'moved']
+score:-1.6814356417502435e-32
+
+sentence:recognized	this	one
+
+decoded:['this', 'one', 'recognized']
+score:-3.11536125010646e-34
+
+sentence:pattern	would	not	stop
+
+decoded:['would', 'not', 'pattern', 'stop']
+score:-9.130450331920571e-35
+
+sentence:came	again	and	again
+
+decoded:['and', 'again', 'again', 'came']
+score:-7.913129417129405e-32
+
+sentence:did	not	know
+
+decoded:['not', 'did', 'know']
+score:-0.0
+
+sentence:had	died	there
+
+decoded:['had', 'there', 'died']
+score:-5.315000117924747e-34
+
+sentence:looked	at	the
+
+decoded:['the', 'at', 'looked']
+score:-2.6042760693677027e-32
+
+sentence:his	lips	again
+
+decoded:['his', 'again', 'lips']
+score:-7.011823802654945e-36
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:did	not	answer	him
+
+decoded:['him', 'not', 'did', 'answer']
+score:-7.907736005683767e-34
+
+sentence:grinned	at	the
+
+decoded:['the', 'at', 'grinned']
+score:-1.9132140342472158e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:looked	even	so
+
+decoded:['so', 'looked', 'even']
+score:-5.021785335109739e-35
+
+sentence:her	son	was	dead
+
+decoded:['was', 'her', 'son', 'dead']
+score:-9.87324888562502e-34
+
+sentence:seemed	right	to	him
+
+decoded:['to', 'him', 'right', 'seemed']
+score:-5.332056481262106e-32
+
+sentence:me	your	address
+
+decoded:['me', 'your', 'address']
+score:-0.0
+
+sentence:it	would	not	come
+
+decoded:['it', 'would', 'not', 'come']
+score:-0.0
+
+sentence:as	it	ran
+
+decoded:['as', 'it', 'ran']
+score:-0.0
+
+sentence:it	was	gone
+
+decoded:['was', 'it', 'gone']
+score:-0.0
+
+sentence:it	did	not	matter
+
+decoded:['it', 'not', 'did', 'matter']
+score:-2.32735832645717e-33
+
+sentence:war	was	a
+
+decoded:['a', 'was', 'war']
+score:-1.7309809653958767e-32
+
+sentence:ground	his	teeth	together
+
+decoded:['his', 'together', 'teeth', 'ground']
+score:-3.3718299188026456e-33
+
+sentence:were	all	gone
+
+decoded:['were', 'all', 'gone']
+score:-0.0
+
+sentence:was	their	heart
+
+decoded:['was', 'their', 'heart']
+score:-0.0
+
+sentence:studied	his	captain
+
+decoded:['his', 'studied', 'captain']
+score:-0.0
+
+sentence:almost	into	tears
+
+decoded:['into', 'almost', 'tears']
+score:-0.0
+
+sentence:a	bad	girl
+
+decoded:['a', 'girl', 'bad']
+score:-2.8039213686957877e-35
+
+sentence:work	at	the
+
+decoded:['the', 'at', 'work']
+score:-1.602685748705606e-31
+
+sentence:his	nose	again
+
+decoded:['his', 'again', 'nose']
+score:-3.4634012501559384e-35
+
+sentence:did	exactly	as
+
+decoded:['as', 'did', 'exactly']
+score:-4.463464456719523e-33
+
+sentence:shook	his	head	slowly
+
+decoded:['his', 'head', 'shook', 'slowly']
+score:-1.210171434171545e-35
+
+sentence:and	were	silent
+
+decoded:['and', 'were', 'silent']
+score:-0.0
+
+sentence:was	getting	real
+
+decoded:['was', 'real', 'getting']
+score:-1.4944206618797594e-35
+
+sentence:began	to	laugh
+
+decoded:['to', 'began', 'laugh']
+score:-0.0
+
+sentence:was	the	situation
+
+decoded:['the', 'was', 'situation']
+score:-0.0
+
+sentence:had	me	worried
+
+decoded:['had', 'me', 'worried']
+score:-0.0
+
+sentence:just	wouldn't	listen
+
+decoded:['just', 'listen']
+score:-0.0
+
+sentence:that	ever	happened
+
+decoded:['that', 'ever', 'happened']
+score:-0.0
+
+sentence:can	help	you
+
+decoded:['you', 'can', 'help']
+score:-2.70343864221956e-33
+
+sentence:we	can	return	the	following	morning
+
+decoded:['the', 'can', 'we', 'following', 'morning', 'return']
+score:-7.915169831958367e-32
+
+sentence:had	never	better
+
+decoded:['had', 'better', 'never']
+score:-1.6117643854505942e-34
+
+sentence:tell	you	nothing
+
+decoded:['you', 'tell', 'nothing']
+score:-0.0
+
+sentence:was	an	excellent
+
+decoded:['was', 'an', 'excellent']
+score:-0.0
+
+sentence:are	some	even	now
+
+decoded:['are', 'now', 'some', 'even']
+score:-1.3970849541858738e-33
+
+sentence:got	to	stop
+
+decoded:['to', 'got', 'stop']
+score:-0.0
+
+sentence:hardly	looked	at	him
+
+decoded:['at', 'him', 'looked', 'hardly']
+score:-4.2756274389558295e-34
+
+sentence:had	acknowledged	the	man
+
+decoded:['the', 'had', 'man', 'acknowledged']
+score:-3.0268656272727427e-33
+
+sentence:stared	at	them
+
+decoded:['at', 'them', 'stared']
+score:-2.1302896372776905e-35
+
+sentence:one	moved	to	them
+
+decoded:['to', 'them', 'one', 'moved']
+score:-4.033142575034946e-32
+
+sentence:watched	the	figure
+
+decoded:['the', 'figure', 'watched']
+score:-2.174664549021232e-36
+
+sentence:felt	a	interest
+
+decoded:['a', 'interest', 'felt']
+score:-1.82119339772897e-34
+
+sentence:can	walk	real	good
+
+decoded:['can', 'good', 'walk', 'real']
+score:-6.607545581468236e-35
+
+sentence:stumbled	down	the
+
+decoded:['the', 'down', 'stumbled']
+score:-5.698855387503991e-34
+
+sentence:paused	for	breath
+
+decoded:['for', 'breath', 'paused']
+score:-7.53234739487844e-37
+
+sentence:wish	you	was
+
+decoded:['was', 'you', 'wish']
+score:-1.3187505616600535e-33
+
+sentence:to	take	me
+
+decoded:['to', 'me', 'take']
+score:-1.3343110074169452e-32
+
+sentence:a	deep	breath
+
+decoded:['a', 'breath', 'deep']
+score:-6.759459859212785e-35
+
+sentence:was	sure	of	it
+
+decoded:['of', 'was', 'it', 'sure']
+score:-7.94439214397523e-33
+
+sentence:did	it	matter
+
+decoded:['it', 'did', 'matter']
+score:-0.0
+
+sentence:spat	on	the	ground
+
+decoded:['the', 'on', 'ground', 'spat']
+score:-1.5712127690831024e-33
+
+sentence:it	was	her	life
+
+decoded:['was', 'her', 'it', 'life']
+score:-1.442283373477549e-32
+
+sentence:on	the	table
+
+decoded:['the', 'on', 'table']
+score:-0.0
+
+sentence:didn't	like	to	travel
+
+decoded:['to', 'like', 'travel']
+score:-0.0
+
+sentence:had	no	children
+
+decoded:['had', 'no', 'children']
+score:-0.0
+
+sentence:she	had	made	no	friends
+
+decoded:['had', 'no', 'made', 'she', 'friends']
+score:-4.2245042712836066e-33
+
+sentence:were	not	discrete
+
+decoded:['were', 'not', 'discrete']
+score:-0.0
+
+sentence:would	have	said
+
+decoded:['said', 'have', 'would']
+score:-1.0914069523382424e-32
+
+sentence:he	was	smart
+
+decoded:['was', 'he', 'smart']
+score:-0.0
+
+sentence:put	you	off
+
+decoded:['off', 'you', 'put']
+score:-1.1043328615593833e-33
+
+sentence:out	of	here
+
+decoded:['of', 'out', 'here']
+score:-0.0
+
+sentence:pulled	at	the
+
+decoded:['the', 'at', 'pulled']
+score:-9.733000654628413e-33
+
+sentence:was	his	mouth
+
+decoded:['was', 'his', 'mouth']
+score:-0.0
+
+sentence:was	just	there
+
+decoded:['was', 'there', 'just']
+score:-2.639866851618885e-33
+
+sentence:found	him	froze
+
+decoded:['him', 'found', 'froze']
+score:-0.0
+
+sentence:goddamn	well	understand
+
+decoded:['well', 'understand']
+score:-0.0
+
+sentence:don't	come	back
+
+decoded:['back', 'come']
+score:-0.0
+
+sentence:he	threw	things
+
+decoded:['he', 'things', 'threw']
+score:-4.866620080801197e-35
+
+sentence:don't	care	about
+
+decoded:['about', 'care']
+score:-0.0
+
+sentence:the	kid	neither
+
+decoded:['the', 'kid', 'neither']
+score:-0.0
+
+sentence:got	to	slow
+
+decoded:['to', 'got', 'slow']
+score:-0.0
+
+sentence:mouth	fell	open
+
+decoded:[]
+score:-0.35438536810634086
+
+sentence:was	cold	all	right
+
+decoded:['was', 'all', 'right', 'cold']
+score:-1.7486727431229275e-34
+
+sentence:his	head	up
+
+decoded:['up', 'his', 'head']
+score:-3.411176974884781e-33
+
+sentence:was	cold	all	right
+
+decoded:['was', 'all', 'right', 'cold']
+score:-1.7486727431229275e-34
+
+sentence:the	pattern	was
+
+decoded:['the', 'was', 'pattern']
+score:-2.811421022654034e-33
+
+sentence:he	had	found	his
+
+decoded:['had', 'his', 'he', 'found']
+score:-5.5566800804560045e-33
+
+sentence:mean	our	children
+
+decoded:['children', 'our', 'mean']
+score:-2.9108178862236894e-36
+
+sentence:gave	me	heart
+
+decoded:['me', 'heart', 'gave']
+score:-9.150488837182244e-37
+
+sentence:felt	for	my
+
+decoded:['for', 'my', 'felt']
+score:-1.472776872145244e-34
+
+sentence:heart	almost	stopped
+
+decoded:['heart', 'almost', 'stopped']
+score:-0.0
+
+sentence:had	worried	her
+
+decoded:['had', 'her', 'worried']
+score:-7.552882098805292e-35
+
+sentence:tell	me	about
+
+decoded:['about', 'me', 'tell']
+score:-1.1665605937560381e-34
+
+sentence:walked	over	to	him
+
+decoded:['to', 'over', 'him', 'walked']
+score:-2.4212952024382483e-33
+
+sentence:came	out	alone
+
+decoded:['out', 'came', 'alone']
+score:-0.0
+
+sentence:could	have	written	anything
+
+decoded:['have', 'could', 'anything', 'written']
+score:-5.801744203979558e-35
+
+sentence:knew	where	to	come
+
+decoded:['to', 'where', 'knew', 'come']
+score:-5.31567949396645e-33
+
+sentence:didn't	have	to	telephone
+
+decoded:['to', 'have', 'telephone']
+score:-0.0
+
+sentence:looked	at	me
+
+decoded:['at', 'me', 'looked']
+score:-1.066555411859832e-34
+
+sentence:gun	followed	her
+
+decoded:['her', 'gun', 'followed']
+score:-1.329268297364036e-35
+
+sentence:was	getting	light
+
+decoded:['was', 'light', 'getting']
+score:-1.0702765861641538e-34
+
+sentence:fat	man	didn't	answer
+
+decoded:['man', 'fat', 'answer']
+score:-0.0
+
+sentence:was	not	really
+
+decoded:['was', 'not', 'really']
+score:-0.0
+
+sentence:smiled	at	him
+
+decoded:['at', 'him', 'smiled']
+score:-1.265125795072487e-35
+
+sentence:he	looked	at	her
+
+decoded:['at', 'her', 'he', 'looked']
+score:-1.3544951041003896e-32
+
+sentence:were	they	now
+
+decoded:['were', 'now', 'they']
+score:-3.189914270160227e-33
+
+sentence:car	door	shut
+
+decoded:['car', 'door', 'shut']
+score:-0.0
+
+sentence:recognized	the	man
+
+decoded:['the', 'man', 'recognized']
+score:-2.4597219290956366e-36
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:was	coming	toward	him
+
+decoded:['was', 'him', 'coming', 'toward']
+score:-5.666727657528079e-34
+
+sentence:there	was	another	sound
+
+decoded:['was', 'there', 'sound', 'another']
+score:-6.004425144000245e-35
+
+sentence:down	on	him
+
+decoded:['on', 'down', 'him']
+score:-0.0
+
+sentence:was	his	only
+
+decoded:['was', 'his', 'only']
+score:-0.0
+
+sentence:then	he	heard	them
+
+decoded:['them', 'he', 'then', 'heard']
+score:-8.008701786869786e-34
+
+sentence:now	he	saw	them
+
+decoded:['them', 'he', 'now', 'saw']
+score:-1.1523905603698524e-33
+
+sentence:looked	at	his	watch
+
+decoded:['at', 'his', 'looked', 'watch']
+score:-3.8033766242748065e-33
+
+sentence:was	back	there
+
+decoded:['was', 'back', 'there']
+score:-0.0
+
+sentence:may	be	wrong
+
+decoded:['be', 'may', 'wrong']
+score:-0.0
+
+sentence:them	show	their	hands
+
+decoded:['their', 'them', 'show', 'hands']
+score:-5.628355113813424e-34
+
+sentence:waited	with	arms
+
+decoded:['with', 'arms', 'waited']
+score:-1.910178320086217e-37
+
+sentence:couldn't	feel	any
+
+decoded:['any', 'feel']
+score:-0.0
+
+sentence:would	have	to
+
+decoded:['to', 'have', 'would']
+score:-2.4284611152979912e-31
+
+sentence:no	other	way
+
+decoded:['no', 'way', 'other']
+score:-2.4622276606083074e-34
+
+sentence:left	a	few	things
+
+decoded:['a', 'left', 'things', 'few']
+score:-3.7870901500441637e-34
+
+sentence:he	nearly	fell
+
+decoded:['he', 'fell', 'nearly']
+score:-1.0229004904061693e-35
+
+sentence:can	look	it	up
+
+decoded:['up', 'it', 'can', 'look']
+score:-1.2006997047688021e-32
+
+sentence:pulled	it	open
+
+decoded:['it', 'open', 'pulled']
+score:-5.278851255955188e-35
+
+sentence:won't	open	from	inside
+
+decoded:['from', 'open', 'inside']
+score:-0.0
+
+sentence:kind	of	place
+
+decoded:['of', 'place', 'kind']
+score:-8.44087274412708e-34
+
+sentence:very	soon	now
+
+decoded:['now', 'very', 'soon']
+score:-4.357411769648069e-35
+
+sentence:remembered	it	clearly
+
+decoded:['it', 'clearly', 'remembered']
+score:-1.578101165978921e-36
+
+sentence:can't	do	anything
+
+decoded:['do', 'anything']
+score:-0.0
+
+sentence:had	all	along
+
+decoded:['had', 'all', 'along']
+score:-0.0
+
+sentence:looked	up	and	stiffened
+
+decoded:['and', 'up', 'looked', 'stiffened']
+score:-3.516118131028487e-32
+
+sentence:it	must	be
+
+decoded:['it', 'be', 'must']
+score:-1.9530289462645282e-33
+
+sentence:to	him	again	anyway
+
+decoded:['to', 'him', 'again', 'anyway']
+score:-0.0
+
+sentence:don't	think	anything
+
+decoded:[]
+score:-0.07604793787524827
+
+sentence:like	to	make	sure
+
+decoded:['to', 'like', 'make', 'sure']
+score:-0.0
+
+sentence:see	you	later
+
+decoded:['you', 'see', 'later']
+score:-0.0
+
+sentence:looked	at	his	watch
+
+decoded:['at', 'his', 'looked', 'watch']
+score:-3.8033766242748065e-33
+
+sentence:it	wasn't	so
+
+decoded:['it', 'so']
+score:-0.0
+
+sentence:that	wasn't	there
+
+decoded:['that', 'there']
+score:-0.0
+
+sentence:was	empty	now
+
+decoded:['was', 'now', 'empty']
+score:-1.0646764576084395e-34
+
+sentence:hadn't	he	called
+
+decoded:['he', 'called']
+score:-0.0
+
+sentence:really	was	quite
+
+decoded:['was', 'really', 'quite']
+score:-0.0
+
+sentence:he	hadn't	understood
+
+decoded:['he', 'understood']
+score:-0.0
+
+sentence:wasn't	like	that
+
+decoded:['that', 'like']
+score:-0.0
+
+sentence:for	that	one	morning
+
+decoded:['for', 'that', 'one', 'morning']
+score:-0.0
+
+sentence:eyes	were	clear
+
+decoded:['were', 'eyes', 'clear']
+score:-0.0
+
+sentence:rest	of	it
+
+decoded:['of', 'it', 'rest']
+score:-1.8050231872364633e-33
+
+sentence:was	more	than
+
+decoded:['was', 'than', 'more']
+score:-4.773368848634434e-33
+
+sentence:called	him	back
+
+decoded:['him', 'back', 'called']
+score:-6.128995402763752e-35
+
+sentence:were	all	completely
+
+decoded:['were', 'all', 'completely']
+score:-0.0
+
+sentence:up	the	telephone
+
+decoded:['the', 'up', 'telephone']
+score:-0.0
+
+sentence:himself	looked	better
+
+decoded:['himself', 'looked', 'better']
+score:-0.0
+
+sentence:longer	than	yours
+
+decoded:['than', 'longer', 'yours']
+score:-0.0
+
+sentence:can	hardly	wait
+
+decoded:['can', 'wait', 'hardly']
+score:-8.443355516765712e-37
+
+sentence:music	died	away
+
+decoded:['away', 'music', 'died']
+score:-3.403239816622838e-36
+
+sentence:drew	a	deep	breath
+
+decoded:['a', 'breath', 'deep', 'drew']
+score:-7.947296900718707e-35
+
+sentence:could	he	them
+
+decoded:['them', 'he', 'could']
+score:-6.963778340924339e-34
+
+sentence:done	our	part
+
+decoded:['part', 'our', 'done']
+score:-8.831452323529383e-36
+
+sentence:home	right	away
+
+decoded:['away', 'home', 'right']
+score:-1.3541008910316452e-33
+
+sentence:rose	from	his	chair
+
+decoded:['from', 'his', 'chair', 'rose']
+score:-4.809072285488753e-34
+
+sentence:got	into	the	car
+
+decoded:['the', 'into', 'car', 'got']
+score:-7.984748150735905e-33
+
+sentence:her	were	too
+
+decoded:['were', 'her', 'too']
+score:-0.0
+
+sentence:hadn't	to	anything
+
+decoded:['to', 'anything']
+score:-0.0
+
+sentence:felt	and	sick
+
+decoded:['and', 'felt', 'sick']
+score:-0.0
+
+sentence:was	his	wife
+
+decoded:['was', 'his', 'wife']
+score:-0.0
+
+sentence:he	couldn't	where
+
+decoded:['he', 'where']
+score:-0.0
+
+sentence:he	didn't	even	look	up
+
+decoded:['up', 'he', 'look', 'even']
+score:-7.581627791664122e-33
+
+sentence:stepped	on	the	gas
+
+decoded:['the', 'on', 'gas', 'stepped']
+score:-2.4102171600051068e-32
+
+sentence:was	sure	of	this
+
+decoded:['of', 'was', 'this', 'sure']
+score:-6.032332298243727e-33
+
+sentence:to	see	you	go
+
+decoded:['to', 'you', 'see', 'go']
+score:-8.41588219340608e-33
+
+sentence:you	had	them
+
+decoded:['had', 'you', 'them']
+score:-0.0
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:would	take	time
+
+decoded:['would', 'time', 'take']
+score:-9.306907646013343e-35
+
+sentence:at	all	strange
+
+decoded:['at', 'all', 'strange']
+score:-0.0
+
+sentence:have	cost	plenty
+
+decoded:['have', 'cost', 'plenty']
+score:-0.0
+
+sentence:out	the	next	move
+
+decoded:['the', 'out', 'next', 'move']
+score:-0.0
+
+sentence:had	been	seen	to	leave
+
+decoded:['to', 'had', 'been', 'leave', 'seen']
+score:-7.106824409188021e-32
+
+sentence:be	out	further
+
+decoded:['out', 'be', 'further']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:had	only	a	hope
+
+decoded:['a', 'had', 'only', 'hope']
+score:-1.7217383471889488e-32
+
+sentence:they	have	to
+
+decoded:['to', 'have', 'they']
+score:-2.1002859746250144e-31
+
+sentence:telephone	interrupted	him
+
+decoded:['him', 'telephone', 'interrupted']
+score:-3.0133522176840866e-36
+
+sentence:looked	at	his
+
+decoded:['at', 'his', 'looked']
+score:-3.803376807945799e-33
+
+sentence:brought	one	out
+
+decoded:['out', 'one', 'brought']
+score:-2.4206147014117176e-34
+
+sentence:nice	for	him
+
+decoded:['for', 'him', 'nice']
+score:-1.0263476275899557e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:and	her	death
+
+decoded:['and', 'her', 'death']
+score:-0.0
+
+sentence:out	the	words
+
+decoded:['the', 'out', 'words']
+score:-0.0
+
+sentence:was	just	going
+
+decoded:['was', 'just', 'going']
+score:-0.0
+
+sentence:on	my	way
+
+decoded:['on', 'way', 'my']
+score:-4.462411654591568e-34
+
+sentence:walked	toward	each	other
+
+decoded:['each', 'other', 'walked', 'toward']
+score:-9.272079034095425e-36
+
+sentence:would	be	office
+
+decoded:['would', 'be', 'office']
+score:-0.0
+
+sentence:closed	it	again
+
+decoded:['it', 'again', 'closed']
+score:-2.8819631733308486e-34
+
+sentence:there	were	six
+
+decoded:['were', 'there', 'six']
+score:-0.0
+
+sentence:leave	me	alone
+
+decoded:['me', 'leave', 'alone']
+score:-0.0
+
+sentence:was	being	called
+
+decoded:['was', 'called', 'being']
+score:-1.6965823754846057e-33
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:going	to	get	married
+
+decoded:['to', 'going', 'get', 'married']
+score:-0.0
+
+sentence:that	gun	was	empty
+
+decoded:['that', 'was', 'gun', 'empty']
+score:-5.344656899082158e-34
+
+sentence:he	made	a	mistake
+
+decoded:['a', 'he', 'made', 'mistake']
+score:-1.1982592682938996e-32
+
+sentence:one	had	screamed
+
+decoded:['had', 'one', 'screamed']
+score:-0.0
+
+sentence:had	been	good
+
+decoded:['had', 'been', 'good']
+score:-0.0
+
+sentence:rubbed	his	arm
+
+decoded:['his', 'arm', 'rubbed']
+score:-9.771368537691638e-38
+
+sentence:hands	had	her
+
+decoded:['had', 'her', 'hands']
+score:-5.538025719792424e-34
+
+sentence:never	see	none
+
+decoded:['see', 'never', 'none']
+score:-0.0
+
+sentence:take	you	there
+
+decoded:['you', 'there', 'take']
+score:-6.358993277468762e-34
+
+sentence:hadn't	seen	him	since
+
+decoded:['him', 'since', 'seen']
+score:-4.125250487416965e-36
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:knew	she	was
+
+decoded:['was', 'she', 'knew']
+score:-4.2412512086919856e-33
+
+sentence:get	a	fair	trial
+
+decoded:['a', 'fair', 'trial', 'get']
+score:-1.5542386306572285e-34
+
+sentence:one	saw	leave
+
+decoded:['one', 'leave', 'saw']
+score:-1.1702046262435872e-35
+
+sentence:was	the	gun
+
+decoded:['the', 'was', 'gun']
+score:-0.0
+
+sentence:was	dangerous	now
+
+decoded:['was', 'now', 'dangerous']
+score:-3.1180951928270835e-35
+
+sentence:raised	his	voice
+
+decoded:['his', 'voice', 'raised']
+score:-3.079795199154393e-36
+
+sentence:boy	dropped	his	eyes
+
+decoded:['his', 'eyes', 'boy', 'dropped']
+score:-1.1130994780226251e-34
+
+sentence:boy	raised	his	eyes
+
+decoded:['his', 'eyes', 'boy', 'raised']
+score:-1.228580777731376e-34
+
+sentence:suddenly	he	was
+
+decoded:['was', 'he', 'suddenly']
+score:-5.444594673724184e-33
+
+sentence:heard	a	sound
+
+decoded:['a', 'sound', 'heard']
+score:-9.401971159861287e-35
+
+sentence:sound	was	coming
+
+decoded:['was', 'sound', 'coming']
+score:-0.0
+
+sentence:opened	his	eyes
+
+decoded:['his', 'eyes', 'opened']
+score:-1.0786308612496463e-35
+
+sentence:man	made	no	reply
+
+decoded:['no', 'man', 'made', 'reply']
+score:-7.173109892782417e-35
+
+sentence:forward	to	look
+
+decoded:['to', 'forward', 'look']
+score:-0.0
+
+sentence:know	the	facts
+
+decoded:['the', 'know', 'facts']
+score:-0.0
+
+sentence:walk	up	there	later
+
+decoded:['up', 'there', 'later', 'walk']
+score:-3.895955620609693e-35
+
+sentence:should	one	say
+
+decoded:['should', 'one', 'say']
+score:-0.0
+
+sentence:suppose	knew	it
+
+decoded:['it', 'knew', 'suppose']
+score:-7.076475991950171e-35
+
+sentence:was	like	that
+
+decoded:['that', 'was', 'like']
+score:-5.157448036112185e-32
+
+sentence:me	your	address
+
+decoded:['me', 'your', 'address']
+score:-0.0
+
+sentence:shrugged	and	him
+
+decoded:['and', 'him', 'shrugged']
+score:-6.028522778192101e-35
+
+sentence:had	apparently	been	alone
+
+decoded:['had', 'been', 'alone', 'apparently']
+score:-5.823301897936425e-34
+
+sentence:there	was	no	trouble
+
+decoded:['was', 'no', 'there', 'trouble']
+score:-1.8830244007615886e-33
+
+sentence:put	the	bottle	down
+
+decoded:['the', 'down', 'bottle', 'put']
+score:-2.0016361886840068e-33
+
+sentence:there	was	no	hurry
+
+decoded:['was', 'no', 'there', 'hurry']
+score:-1.8847386021328736e-33
+
+sentence:it	made	sense
+
+decoded:['it', 'made', 'sense']
+score:-0.0
+
+sentence:we'll	never	know	which
+
+decoded:['which', 'never', 'know']
+score:-1.174826706765219e-34
+
+sentence:had	gone	like
+
+decoded:['had', 'like', 'gone']
+score:-5.118164851617627e-34
+
+sentence:shook	hands	on	it
+
+decoded:['on', 'it', 'hands', 'shook']
+score:-3.4596091788485826e-33
+
+sentence:go	to	first
+
+decoded:['to', 'first', 'go']
+score:-1.6851064167342738e-33
+
+sentence:have	helped	him
+
+decoded:['him', 'have', 'helped']
+score:-2.71695315383417e-35
+
+sentence:is	for	closer
+
+decoded:['for', 'is', 'closer']
+score:-0.0
+
+sentence:turn	just	a	little
+
+decoded:['a', 'little', 'just', 'turn']
+score:-6.922586149012271e-33
+
+sentence:time	was	not	yet
+
+decoded:['was', 'time', 'not', 'yet']
+score:-0.0
+
+sentence:the	purpose	was	less
+
+decoded:['the', 'was', 'less', 'purpose']
+score:-1.0803792254255021e-33
+
+sentence:you	did	well	enough
+
+decoded:['you', 'enough', 'did', 'well']
+score:-6.111395129925073e-34
+
+sentence:as	with	the
+
+decoded:['the', 'with', 'as']
+score:-4.939174753111726e-31
+
+sentence:can't	touch	him
+
+decoded:['him', 'touch']
+score:-0.0
+
+sentence:have	tried	to
+
+decoded:['to', 'have', 'tried']
+score:-2.800997790267373e-32
+
+sentence:could	they	not
+
+decoded:['could', 'not', 'they']
+score:-1.9582106722997467e-33
+
+sentence:of	a	more	time
+
+decoded:['of', 'a', 'time', 'more']
+score:-8.895967861606326e-33
+
+sentence:a	great	deal
+
+decoded:['a', 'great', 'deal']
+score:-0.0
+
+sentence:he	was	too	late
+
+decoded:['was', 'he', 'too', 'late']
+score:-0.0
+
+sentence:had	lost	his	audience
+
+decoded:['had', 'his', 'lost', 'audience']
+score:-2.472138088176197e-34
+
+sentence:going	on	here
+
+decoded:['on', 'here', 'going']
+score:-1.2129485395753626e-33
+
+sentence:don't	see	them
+
+decoded:['them', 'see']
+score:-0.0
+
+sentence:was	in	there
+
+decoded:['in', 'was', 'there']
+score:-0.0
+
+sentence:just	won't	be	easy
+
+decoded:['be', 'just', 'easy']
+score:-0.0
+
+sentence:average	and	all
+
+decoded:['and', 'all', 'average']
+score:-3.406244674057128e-34
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:but	he	never	slept
+
+decoded:['he', 'but', 'never', 'slept']
+score:-0.0
+
+sentence:had	to	it
+
+decoded:['to', 'had', 'it']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:one	has	come
+
+decoded:['has', 'one', 'come']
+score:-0.0
+
+sentence:spoke	to	her
+
+decoded:['to', 'her', 'spoke']
+score:-2.727617091648036e-34
+
+sentence:course	you	can
+
+decoded:['you', 'can', 'course']
+score:-1.7289023975100352e-34
+
+sentence:isn't	this	nice
+
+decoded:['this', 'nice']
+score:-0.0
+
+sentence:out	of	a	play
+
+decoded:['of', 'a', 'out', 'play']
+score:-1.618182033593107e-31
+
+sentence:forgot	the	order
+
+decoded:['the', 'order', 'forgot']
+score:-4.890644246596127e-35
+
+sentence:did	not	time
+
+decoded:['time', 'not', 'did']
+score:-5.7965903959351715e-34
+
+sentence:did	they	care
+
+decoded:['care', 'did', 'they']
+score:-3.296932882980271e-34
+
+sentence:sighed	as	if
+
+decoded:['as', 'if', 'sighed']
+score:-2.6150341201980313e-34
+
+sentence:were	from	something
+
+decoded:['from', 'were', 'something']
+score:-0.0
+
+sentence:get	up	early
+
+decoded:['up', 'get', 'early']
+score:-0.0
+
+sentence:just	all	cleared	out
+
+decoded:['out', 'all', 'just', 'cleared']
+score:-1.554863112031103e-32
+
+sentence:eyes	followed	him
+
+decoded:['him', 'eyes', 'followed']
+score:-2.3024302238735564e-34
+
+sentence:isn't	much	time
+
+decoded:['time', 'much']
+score:-0.0
+
+sentence:alone	by	the
+
+decoded:['the', 'by', 'alone']
+score:-3.0546036205323024e-32
+
+sentence:was	not	dead
+
+decoded:['was', 'not', 'dead']
+score:-0.0
+
+sentence:had	none	here
+
+decoded:['had', 'here', 'none']
+score:-4.980515898065965e-35
+
+sentence:too	began	to
+
+decoded:['to', 'began', 'too']
+score:-4.0288352652681704e-32
+
+sentence:our	only	chance	now
+
+decoded:['now', 'only', 'our', 'chance']
+score:-1.9597107132939913e-34
+
+sentence:to	find	these
+
+decoded:['to', 'these', 'find']
+score:-4.291498908579334e-34
+
+sentence:might	need	it
+
+decoded:['it', 'might', 'need']
+score:-6.945885916413507e-34
+
+sentence:set	his	down
+
+decoded:['down', 'his', 'set']
+score:-3.2570542371286247e-34
+
+sentence:were	toward	him
+
+decoded:['were', 'him', 'toward']
+score:-1.0747875457354343e-34
+
+sentence:buildings	were	in
+
+decoded:['in', 'were', 'buildings']
+score:-7.872347380910278e-33
+
+sentence:this	to	yourself
+
+decoded:['to', 'this', 'yourself']
+score:-0.0
+
+sentence:all	into	action
+
+decoded:['into', 'all', 'action']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:they	as	men
+
+decoded:['as', 'men', 'they']
+score:-1.5405566110976264e-33
+
+sentence:had	a	red
+
+decoded:['a', 'had', 'red']
+score:-0.0
+
+sentence:the	square	head	fell	over
+
+decoded:['the', 'over', 'square', 'head', 'fell']
+score:-1.0266027098640841e-32
+
+sentence:we	waited	for
+
+decoded:['for', 'we', 'waited']
+score:-3.1734820989149296e-34
+
+sentence:would	to	me
+
+decoded:['to', 'me', 'would']
+score:-3.183486878271572e-32
+
+sentence:own	the	place
+
+decoded:['the', 'place', 'own']
+score:-9.9334562369062e-34
+
+sentence:you	know	him
+
+decoded:['you', 'him', 'know']
+score:-3.194231410916866e-34
+
+sentence:didn't	say	anything
+
+decoded:['say', 'anything']
+score:-0.0
+
+sentence:took	it	without
+
+decoded:['it', 'took', 'without']
+score:-0.0
+
+sentence:had	enough	of	you
+
+decoded:['of', 'had', 'you', 'enough']
+score:-6.448593476700295e-32
+
+sentence:took	me	by	surprise
+
+decoded:['by', 'me', 'took', 'surprise']
+score:-2.5117610640065393e-33
+
+sentence:all	of	it
+
+decoded:['of', 'it', 'all']
+score:-7.062025125616734e-32
+
+sentence:good	good	water
+
+decoded:['water', 'good', 'good']
+score:-5.153999980573437e-34
+
+sentence:there	was	water
+
+decoded:['was', 'water', 'there']
+score:-1.636693682075024e-33
+
+sentence:place	was	quiet
+
+decoded:['was', 'place', 'quiet']
+score:-0.0
+
+sentence:here	and	there
+
+decoded:['and', 'there', 'here']
+score:-9.584864308394671e-33
+
+sentence:as	if	waiting
+
+decoded:['as', 'if', 'waiting']
+score:-0.0
+
+sentence:far	from	it
+
+decoded:['from', 'it', 'far']
+score:-1.1596741254056388e-32
+
+sentence:stopped	by	the
+
+decoded:['the', 'by', 'stopped']
+score:-9.414735559143279e-33
+
+sentence:looked	at	him
+
+decoded:['at', 'him', 'looked']
+score:-1.2568679472579604e-34
+
+sentence:was	no	chance
+
+decoded:['was', 'no', 'chance']
+score:-0.0
+
+sentence:was	no	moon
+
+decoded:['was', 'no', 'moon']
+score:-0.0
+
+sentence:stared	at	him
+
+decoded:['at', 'him', 'stared']
+score:-1.6932996123595052e-35
+
+sentence:had	not	followed
+
+decoded:['had', 'not', 'followed']
+score:-0.0
+
+sentence:his	arm	aside
+
+decoded:['his', 'arm', 'aside']
+score:-0.0
+
+sentence:knew	the	place
+
+decoded:['the', 'place', 'knew']
+score:-4.3352231658325963e-35
+
+sentence:cursed	his	breath
+
+decoded:['his', 'breath', 'cursed']
+score:-7.806017173429253e-40
+
+sentence:had	come	up	also
+
+decoded:['up', 'had', 'also', 'come']
+score:-1.9498193071532434e-33
+
+sentence:never	saw	him
+
+decoded:['him', 'saw', 'never']
+score:-7.230851460991754e-35
+
+sentence:ran	the	change
+
+decoded:['the', 'change', 'ran']
+score:-1.4939357704600452e-34
+
+sentence:threw	out	the
+
+decoded:['the', 'out', 'threw']
+score:-4.182761548530946e-34
+
+sentence:was	really	quite	simple
+
+decoded:['was', 'simple', 'really', 'quite']
+score:-4.853708010041383e-35
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:rather	on	the
+
+decoded:['the', 'on', 'rather']
+score:-1.4462697996318578e-31
+
+sentence:meant	him	no
+
+decoded:['him', 'no', 'meant']
+score:-3.4835040402649226e-35
+
+sentence:was	like	he	was
+
+decoded:['was', 'was', 'he', 'like']
+score:-1.207577147526639e-31
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:were	all	good	men
+
+decoded:['were', 'all', 'men', 'good']
+score:-1.5183640124380709e-34
+
+sentence:on	the	key
+
+decoded:['the', 'on', 'key']
+score:-0.0
+
+sentence:others	followed	inside
+
+decoded:[]
+score:-0.22775563180473377
+
+sentence:never	got	that	chance
+
+decoded:['that', 'got', 'never', 'chance']
+score:-2.571505564387082e-33
+
+sentence:her	to	hurry
+
+decoded:['to', 'her', 'hurry']
+score:-0.0
+
+sentence:we're	on	even
+
+decoded:['on', 'even']
+score:-0.0
+
+sentence:had	had	enough
+
+decoded:['had', 'had', 'enough']
+score:-0.0
+
+sentence:out	of	here
+
+decoded:['of', 'out', 'here']
+score:-0.0
+
+sentence:stumbled	through	the	door
+
+decoded:['the', 'through', 'door', 'stumbled']
+score:-3.011205103783913e-34
+
+sentence:do	the	same
+
+decoded:['the', 'do', 'same']
+score:-0.0
+
+sentence:pushed	through	first
+
+decoded:['through', 'first', 'pushed']
+score:-3.448055538747938e-36
+
+sentence:said	no	more
+
+decoded:['said', 'no', 'more']
+score:-0.0
+
+sentence:moved	into	it
+
+decoded:['into', 'it', 'moved']
+score:-4.643261460465577e-34
+
+sentence:can	soon	tell
+
+decoded:['can', 'soon', 'tell']
+score:-0.0
+
+sentence:started	to	return	it
+
+decoded:['to', 'it', 'started', 'return']
+score:-8.466909484820314e-33
+
+sentence:did	it	mean
+
+decoded:['it', 'did', 'mean']
+score:-0.0
+
+sentence:he	must	chance	it
+
+decoded:['it', 'he', 'must', 'chance']
+score:-7.067023548001621e-33
+
+sentence:same	old	question
+
+decoded:['old', 'question', 'same']
+score:-1.9376371334374566e-36
+
+sentence:pushed	the	radio
+
+decoded:['the', 'radio', 'pushed']
+score:-1.9983403963978888e-37
+
+sentence:make	sure	first
+
+decoded:[]
+score:-0.25295945637322326
+
+sentence:hit	the	radio
+
+decoded:['the', 'radio', 'hit']
+score:-1.6674387366414148e-35
+
+sentence:take	'em	home
+
+decoded:['home', 'take', "'em"]
+score:-1.2983702446816797e-36
+
+sentence:enemy	did	not
+
+decoded:['not', 'did', 'enemy']
+score:-6.782822809435378e-35
+
+sentence:was	with	him
+
+decoded:['with', 'was', 'him']
+score:-0.0
+
+sentence:car	was	fast
+
+decoded:['was', 'car', 'fast']
+score:-0.0
+
+sentence:what	eyes	they	were
+
+decoded:['were', 'eyes', 'what', 'they']
+score:-3.259390899492869e-33
+
+sentence:was	her	first	smile
+
+decoded:['was', 'her', 'smile', 'first']
+score:-1.0443091812705202e-34
+
+sentence:worth	waiting	for
+
+decoded:['for', 'worth', 'waiting']
+score:-7.6163387621320956e-34
+
+sentence:it	hit	me
+
+decoded:['it', 'me', 'hit']
+score:-2.6225301925719274e-34
+
+sentence:shook	my	head
+
+decoded:['head', 'my', 'shook']
+score:-1.160065987467745e-36
+
+sentence:looked	at	my	watch
+
+decoded:['at', 'my', 'looked', 'watch']
+score:-1.6026689979111068e-34
+
+sentence:hurry	too	much
+
+decoded:[]
+score:-0.34604325513676204
+
+sentence:was	all	she	said
+
+decoded:['was', 'said', 'all', 'she']
+score:-2.429682170960373e-32
+
+sentence:his	opened	the
+
+decoded:['the', 'his', 'opened']
+score:-8.099849618832546e-33
+
+sentence:was	about	that
+
+decoded:['that', 'was', 'about']
+score:-1.0437446964854634e-31
+
+sentence:figure	it	out
+
+decoded:['out', 'it', 'figure']
+score:-2.235860050241071e-34
+
+sentence:worry	about	me
+
+decoded:['about', 'me', 'worry']
+score:-1.2024205182958105e-35
+
+sentence:be	of	yourself
+
+decoded:['of', 'be', 'yourself']
+score:-0.0
+
+sentence:didn't	have	the	heart
+
+decoded:['the', 'have', 'heart']
+score:-0.0
+
+sentence:set	down	her
+
+decoded:['down', 'her', 'set']
+score:-3.1108006993672543e-34
+
+sentence:then	we	shall	see
+
+decoded:['we', 'see', 'then', 'shall']
+score:-5.6083276288112895e-34
+
+sentence:began	in	love
+
+decoded:['in', 'love', 'began']
+score:-3.67707122564689e-34
+
+sentence:a	beautiful	room
+
+decoded:['a', 'room', 'beautiful']
+score:-3.096498973879578e-33
+
+sentence:he	read	on
+
+decoded:['on', 'he', 'read']
+score:-2.6370525987568713e-33
+
+sentence:third	time	rather
+
+decoded:['time', 'rather', 'third']
+score:-1.172045927941555e-35
+
+sentence:third	time	rather
+
+decoded:['time', 'rather', 'third']
+score:-1.172045927941555e-35
+
+sentence:it	was	water
+
+decoded:['was', 'it', 'water']
+score:-0.0
+
+sentence:laugh	was	hard
+
+decoded:['was', 'hard', 'laugh']
+score:-3.8475399470352e-36
+
+sentence:world	turned	black
+
+decoded:['world', 'black', 'turned']
+score:-1.4533885621963689e-36
+
+sentence:did	not	call	out
+
+decoded:['out', 'not', 'did', 'call']
+score:-1.9277896131844352e-33
+
+sentence:he	felt	better
+
+decoded:['he', 'felt', 'better']
+score:-0.0
+
+sentence:we	had	closer
+
+decoded:['had', 'we', 'closer']
+score:-0.0
+
+sentence:are	welcome	to
+
+decoded:['to', 'are', 'welcome']
+score:-1.2538792896051932e-32
+
+sentence:so	soon	anyway
+
+decoded:['so', 'soon', 'anyway']
+score:-0.0
+
+sentence:said	to	his
+
+decoded:['to', 'his', 'said']
+score:-6.103264382437229e-33
+
+sentence:two	moved	closer
+
+decoded:['two', 'moved', 'closer']
+score:-0.0
+
+sentence:what	is	it
+
+decoded:['is', 'it', 'what']
+score:-1.5418248228523557e-32
+
+sentence:did	not	look	around
+
+decoded:['around', 'not', 'did', 'look']
+score:-2.0851580010458073e-34
+
+sentence:smiled	at	her
+
+decoded:['at', 'her', 'smiled']
+score:-7.490250003439616e-35
+
+sentence:years	been	married
+
+decoded:['years', 'been', 'married']
+score:-0.0
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:enjoyed	the	killing
+
+decoded:['the', 'enjoyed', 'killing']
+score:-0.0
+
+sentence:couldn't	stop	killing
+
+decoded:[]
+score:-0.08166450008939896
+
+sentence:you	turn	around
+
+decoded:['you', 'around', 'turn']
+score:-4.322898842248194e-35
+
+sentence:going	down	again
+
+decoded:['down', 'again', 'going']
+score:-1.120969780043365e-34
+
+sentence:like	that	kid
+
+decoded:['that', 'like', 'kid']
+score:-0.0
+
+sentence:turned	to	face	him
+
+decoded:['to', 'him', 'face', 'turned']
+score:-5.744887746282192e-33
+
+sentence:started	out	the	door
+
+decoded:['the', 'out', 'door', 'started']
+score:-1.2642300683771603e-32
+
+sentence:guess	you're	right
+
+decoded:['right', 'guess']
+score:-0.0
+
+sentence:were	all	dead
+
+decoded:['were', 'all', 'dead']
+score:-0.0
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:and	recognized	it
+
+decoded:['and', 'it', 'recognized']
+score:-1.2220916815728522e-33
+
+sentence:marine	shut	his	eyes
+
+decoded:['his', 'eyes', 'shut', 'marine']
+score:-2.78360735694564e-35
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:marine	was	still
+
+decoded:['was', 'still', 'marine']
+score:-1.6333861346660317e-35
+
+sentence:marine	was	a
+
+decoded:['a', 'was', 'marine']
+score:-4.65380858352833e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:nothing	for	you
+
+decoded:['for', 'you', 'nothing']
+score:-6.038878883422846e-33
+
+sentence:brought	a	light
+
+decoded:['a', 'light', 'brought']
+score:-4.417801643977862e-35
+
+sentence:did	just	that
+
+decoded:['that', 'did', 'just']
+score:-1.7847583625780578e-32
+
+sentence:let	him	go
+
+decoded:['him', 'go', 'let']
+score:-7.058108892718573e-36
+
+sentence:be	all	right
+
+decoded:['be', 'all', 'right']
+score:-0.0
+
+sentence:some	other	day
+
+decoded:['day', 'some', 'other']
+score:-9.589173227004545e-35
+
+sentence:since	all	that
+
+decoded:['that', 'all', 'since']
+score:-4.732839217684722e-32
+
+sentence:not	just	yet
+
+decoded:['not', 'just', 'yet']
+score:-0.0
+
+sentence:grinned	at	them
+
+decoded:['at', 'them', 'grinned']
+score:-6.770847460736376e-36
+
+sentence:cleared	his	throat
+
+decoded:['his', 'throat', 'cleared']
+score:-4.793812899447141e-38
+
+sentence:snapped	at	him
+
+decoded:['at', 'him', 'snapped']
+score:-9.450974580611192e-36
+
+sentence:looked	up	and	grinned
+
+decoded:['and', 'up', 'looked', 'grinned']
+score:-3.514895616903632e-32
+
+sentence:we	ran	away
+
+decoded:['away', 'we', 'ran']
+score:-3.076277899651542e-35
+
+sentence:was	my	fault
+
+decoded:['was', 'my', 'fault']
+score:-0.0
+
+sentence:head	came	around	sharply
+
+decoded:['around', 'head', 'came', 'sharply']
+score:-3.6494691489216444e-35
+
+sentence:was	all	my	fault
+
+decoded:['was', 'all', 'my', 'fault']
+score:-0.0
+
+sentence:forget	all	this	other
+
+decoded:['this', 'all', 'other', 'forget']
+score:-1.2768219638631687e-34
+
+sentence:stared	at	the	man
+
+decoded:['the', 'at', 'man', 'stared']
+score:-1.701774926628934e-33
+
+sentence:hesitated	a	moment
+
+decoded:['a', 'moment', 'hesitated']
+score:-0.0
+
+sentence:had	not	why
+
+decoded:['had', 'not', 'why']
+score:-0.0
+
+sentence:did	not	answer	him
+
+decoded:['him', 'not', 'did', 'answer']
+score:-7.907736005683767e-34
+
+sentence:the	would	not
+
+decoded:['the', 'would', 'not']
+score:-0.0
+
+sentence:had	to	be	done
+
+decoded:['to', 'had', 'be', 'done']
+score:-0.0
+
+sentence:you	read	it
+
+decoded:['it', 'you', 'read']
+score:-1.790434383987797e-33
+
+sentence:had	more	to	say
+
+decoded:['to', 'had', 'more', 'say']
+score:-2.048434359991249e-31
+
+sentence:turned	to	go	inside
+
+decoded:['to', 'turned', 'inside', 'go']
+score:-1.1819831255565746e-33
+
+sentence:not	going	back
+
+decoded:['back', 'not', 'going']
+score:-6.6418883836114785e-34
+
+sentence:going	is	my	fault
+
+decoded:['is', 'my', 'going', 'fault']
+score:-2.744823390208197e-34
+
+sentence:for	his	lie
+
+decoded:['for', 'his', 'lie']
+score:-0.0
+
+sentence:what	had	happened
+
+decoded:['had', 'what', 'happened']
+score:-0.0
+
+sentence:was	an	idea
+
+decoded:['was', 'an', 'idea']
+score:-0.0
+
+sentence:they	were	well
+
+decoded:['were', 'they', 'well']
+score:-0.0
+
+sentence:scowled	at	her	flowers
+
+decoded:['at', 'her', 'flowers', 'scowled']
+score:-6.3976280043503e-36
+
+sentence:was	all	true
+
+decoded:['was', 'all', 'true']
+score:-0.0
+
+sentence:laughed	and	laughed
+
+decoded:['and', 'laughed', 'laughed']
+score:-0.0
+
+sentence:feel	it's	my
+
+decoded:['my', 'feel']
+score:-0.0
+
+sentence:why	go	on
+
+decoded:['on', 'why', 'go']
+score:-1.276473282851356e-32
+
+sentence:think	it	over
+
+decoded:['over', 'it', 'think']
+score:-1.782372696793064e-34
+
+sentence:not	my	game
+
+decoded:['not', 'my', 'game']
+score:-0.0
+
+sentence:to	know	you
+
+decoded:['to', 'you', 'know']
+score:-5.0802313274923555e-33
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:had	he	failed
+
+decoded:['had', 'he', 'failed']
+score:-0.0
+
+sentence:had	he	failed
+
+decoded:['had', 'he', 'failed']
+score:-0.0
+
+sentence:the	hope	was	gone
+
+decoded:['the', 'was', 'hope', 'gone']
+score:-2.6320729108132004e-33
+
+sentence:rubbed	my	hands	together
+
+decoded:['together', 'my', 'hands', 'rubbed']
+score:-2.6501924502457493e-34
+
+sentence:passed	by	him
+
+decoded:['by', 'him', 'passed']
+score:-3.800446704605382e-35
+
+sentence:didn't	look	at	him
+
+decoded:['at', 'him', 'look']
+score:-1.5539719403763857e-33
+
+sentence:loved	the	children
+
+decoded:['the', 'children', 'loved']
+score:-8.980776840282277e-36
+
+sentence:was	most	strange
+
+decoded:['was', 'most', 'strange']
+score:-0.0
+
+sentence:to	follow	her
+
+decoded:['to', 'her', 'follow']
+score:-1.1709451876846053e-33
+
+sentence:worked	very	hard
+
+decoded:[]
+score:-0.25499569486853374
+
+sentence:came	with	his	son
+
+decoded:['with', 'his', 'son', 'came']
+score:-5.586830775870627e-33
+
+sentence:she	was	alone
+
+decoded:['was', 'she', 'alone']
+score:-0.0
+
+sentence:she	did	not	care
+
+decoded:['not', 'care', 'did', 'she']
+score:-2.4490545015329167e-33
+
+sentence:could	wish	that
+
+decoded:['that', 'could', 'wish']
+score:-3.901171876791467e-34
+
+sentence:none	of	us	did
+
+decoded:['of', 'us', 'did', 'none']
+score:-1.3267947266421196e-32
+
+sentence:wanted	to	again
+
+decoded:['to', 'again', 'wanted']
+score:-1.3698858516177692e-33
+
+sentence:you	know	him
+
+decoded:['you', 'him', 'know']
+score:-3.194231410916866e-34
+
+sentence:with	him	is
+
+decoded:['with', 'is', 'him']
+score:-1.1796864621426823e-32
+
+sentence:could	certainly	talk
+
+decoded:['could', 'talk', 'certainly']
+score:-7.470725776956427e-36
+
+sentence:they	have	never	changed
+
+decoded:['have', 'they', 'never', 'changed']
+score:-0.0
+
+sentence:sleep	with	you
+
+decoded:['with', 'you', 'sleep']
+score:-9.185579180264213e-34
+
+sentence:his	poor	fault
+
+decoded:['his', 'poor', 'fault']
+score:-0.0
+
+sentence:was	all	too
+
+decoded:['was', 'all', 'too']
+score:-0.0
+
+sentence:can't	help	it
+
+decoded:['it', 'help']
+score:-0.0
+
+sentence:wanted	to	know
+
+decoded:['to', 'know', 'wanted']
+score:-6.251866704848336e-34
+
+sentence:she	heard	him	go
+
+decoded:['him', 'she', 'go', 'heard']
+score:-4.422870963365783e-35
+
+sentence:do	not	dream
+
+decoded:['not', 'do', 'dream']
+score:-0.0
+
+sentence:was	her	place
+
+decoded:['was', 'her', 'place']
+score:-0.0
+
+sentence:couldn't	change	it
+
+decoded:['it', 'change']
+score:-0.0
+
+sentence:he	must	have	slept	again
+
+decoded:['have', 'he', 'again', 'must', 'slept']
+score:-3.6293852884043056e-33
+
+sentence:would	have	to	understand
+
+decoded:['to', 'have', 'would', 'understand']
+score:-2.4284310446831293e-31
+
+sentence:time	was	it
+
+decoded:['was', 'it', 'time']
+score:-6.049346660616918e-33
+
+sentence:was	after	seven	o'clock
+
+decoded:['was', 'after', 'seven', "o'clock"]
+score:-0.0
+
+sentence:would	take	over
+
+decoded:['over', 'would', 'take']
+score:-4.746075545806145e-34
+
+sentence:did	not	reply
+
+decoded:['not', 'did', 'reply']
+score:-0.0
+
+sentence:stood	at	him
+
+decoded:['at', 'him', 'stood']
+score:-1.5193852231553477e-34
+
+sentence:won't	be	long
+
+decoded:['be', 'long']
+score:-0.0
+
+sentence:went	ahead	of	him
+
+decoded:['of', 'him', 'went', 'ahead']
+score:-5.238899766187989e-32
+
+sentence:but	that	didn't	matter
+
+decoded:['that', 'but', 'matter']
+score:-0.0
+
+sentence:took	her	hand
+
+decoded:['her', 'hand', 'took']
+score:-1.4568048426534462e-35
+
+sentence:a	few	more	steps
+
+decoded:['a', 'more', 'steps', 'few']
+score:-6.712636980483656e-33
+
+sentence:a	moment	he	smiled
+
+decoded:['a', 'he', 'moment', 'smiled']
+score:-3.394570545785524e-34
+
+sentence:work	too	hard
+
+decoded:['work', 'too', 'hard']
+score:-0.0
+
+sentence:seemed	on	fire
+
+decoded:['on', 'fire', 'seemed']
+score:-5.207146100555028e-35
+
+sentence:get	it	away
+
+decoded:['it', 'away', 'get']
+score:-1.868566279244589e-34
+
+sentence:win	hands	down
+
+decoded:['down', 'win', 'hands']
+score:-4.063399280754558e-36
+
+sentence:got	all	the	facts
+
+decoded:['the', 'all', 'got', 'facts']
+score:-1.8062682194249764e-32
+
+sentence:knew	about	it
+
+decoded:['about', 'it', 'knew']
+score:-2.6008988006293933e-34
+
+sentence:she	knew	that
+
+decoded:['that', 'she', 'knew']
+score:-1.6799224866471475e-33
+
+sentence:was	sick	of	it
+
+decoded:['of', 'was', 'it', 'sick']
+score:-6.240887771282648e-33
+
+sentence:her	mother	was
+
+decoded:['was', 'her', 'mother']
+score:-1.4503895822338336e-33
+
+sentence:it	was	only	too	true
+
+decoded:['was', 'it', 'only', 'too', 'true']
+score:-0.0
+
+sentence:opened	the	door
+
+decoded:['the', 'door', 'opened']
+score:-3.4231130179914276e-35
+
+sentence:can't	go	in
+
+decoded:['in', 'go']
+score:-0.0
+
+sentence:it	made	her
+
+decoded:['her', 'it', 'made']
+score:-2.574676460398425e-33
+
+sentence:morning	it	happened
+
+decoded:['it', 'morning', 'happened']
+score:-0.0
+
+sentence:only	this	one	didn't
+
+decoded:['this', 'one', 'did', 'only']
+score:-2.416642999873877e-33
+
+sentence:were	reasons	too
+
+decoded:['were', 'too', 'reasons']
+score:-2.2803855721983114e-35
+
+sentence:of	the	nodded
+
+decoded:['of', 'the', 'nodded']
+score:-0.0
+
+sentence:didn't	look	over
+
+decoded:['over', 'look']
+score:-0.0
+
+sentence:now	she	looked
+
+decoded:['now', 'looked', 'she']
+score:-1.6350028985758931e-34
+
+sentence:eyes	were	wild
+
+decoded:['were', 'eyes', 'wild']
+score:-0.0
+
+sentence:lost	his	job
+
+decoded:['his', 'job', 'lost']
+score:-1.2337915237833803e-35
+
+sentence:kept	on	being
+
+decoded:['on', 'being', 'kept']
+score:-6.848459934426898e-34
+
+sentence:just	stared	at	him
+
+decoded:['at', 'him', 'just', 'stared']
+score:-5.22279486910035e-33
+
+sentence:was	the	old
+
+decoded:['the', 'was', 'old']
+score:-0.0
+
+sentence:shook	her	head
+
+decoded:['her', 'head', 'shook']
+score:-4.957280082608366e-37
+
+sentence:found	my	voice
+
+decoded:['my', 'voice', 'found']
+score:-5.3852334947046046e-36
+
+sentence:made	me	welcome
+
+decoded:['me', 'made', 'welcome']
+score:-0.0
+
+sentence:never	got	there
+
+decoded:['there', 'got', 'never']
+score:-9.755280680680311e-35
+
+sentence:went	out	into	it
+
+decoded:['out', 'into', 'it', 'went']
+score:-4.495561559557466e-33
+
+sentence:knew	all	about	her
+
+decoded:['her', 'about', 'all', 'knew']
+score:-9.539532157966505e-33
+
+sentence:couldn't	be	sure
+
+decoded:['be', 'sure']
+score:-0.0
+
+sentence:head	was	clear
+
+decoded:['was', 'head', 'clear']
+score:-0.0
+
+sentence:said	with	eyes
+
+decoded:['with', 'said', 'eyes']
+score:-0.0
+
+sentence:but	she	was
+
+decoded:['was', 'but', 'she']
+score:-1.106102742791989e-32
+
+sentence:it	didn't	fair
+
+decoded:['it', 'fair']
+score:-0.0
+
+sentence:was	his	wife
+
+decoded:['was', 'his', 'wife']
+score:-0.0
+
+sentence:very	first	time
+
+decoded:['time', 'first', 'very']
+score:-2.529127523672e-34
+
+sentence:rose	on	one
+
+decoded:['on', 'one', 'rose']
+score:-7.782896668916517e-34
+
+sentence:course	he	would
+
+decoded:['he', 'would', 'course']
+score:-4.2833641203296595e-34
+
+sentence:cost	didn't	matter
+
+decoded:[]
+score:-0.1693453782066034
+
+sentence:along	with	me
+
+decoded:['with', 'me', 'along']
+score:-2.908082703723868e-33
+
+sentence:got	this	cold
+
+decoded:['this', 'got', 'cold']
+score:-0.0
+
+sentence:look	at	that
+
+decoded:['that', 'at', 'look']
+score:-1.1392693067348268e-32
+
+sentence:got	this	cold
+
+decoded:['this', 'got', 'cold']
+score:-0.0
+
+sentence:looked	in	the
+
+decoded:['the', 'in', 'looked']
+score:-3.534797691352213e-32
+
+sentence:you	don't	mind
+
+decoded:['you', 'mind']
+score:-0.0
+
+sentence:passed	back	and
+
+decoded:['and', 'back', 'passed']
+score:-1.48170592723409e-32
+
+sentence:yelled	to	the
+
+decoded:['to', 'the', 'yelled']
+score:-8.614492800566052e-34
+
+sentence:did	not	move
+
+decoded:['not', 'did', 'move']
+score:-0.0
+
+sentence:one	said	a	word
+
+decoded:['a', 'said', 'one', 'word']
+score:-7.186035004362051e-33
+
+sentence:shouted	to	the
+
+decoded:['to', 'the', 'shouted']
+score:-6.956108309161846e-33
+
+sentence:that's	just	fine
+
+decoded:['just', 'fine']
+score:-0.0
+
+sentence:pushed	his	forward
+
+decoded:['his', 'forward', 'pushed']
+score:-3.57368649749207e-36
+
+sentence:is	the	second	time
+
+decoded:['the', 'is', 'time', 'second']
+score:-5.724451776993146e-34
+
+sentence:not	you	wrong
+
+decoded:['you', 'not', 'wrong']
+score:-0.0
+
+sentence:his	voice	grew	hard
+
+decoded:['his', 'voice', 'hard', 'grew']
+score:-3.2849556975713456e-36
+
+sentence:know	got	talent
+
+decoded:[]
+score:-0.33360457516471914
+
+sentence:stood	up	slowly
+
+decoded:['up', 'stood', 'slowly']
+score:-0.0
+
+sentence:lips	felt	together
+
+decoded:['together', 'felt', 'lips']
+score:-7.752350805361927e-38
+
+sentence:shook	his	head
+
+decoded:['his', 'head', 'shook']
+score:-1.210171434171545e-35
+
+sentence:was	very	quiet
+
+decoded:['was', 'very', 'quiet']
+score:-0.0
+
+sentence:did	not	answer
+
+decoded:['not', 'did', 'answer']
+score:-0.0
+
+sentence:was	thoroughly	startled
+
+decoded:['was', 'thoroughly', 'startled']
+score:-0.0
+
+sentence:are	much	too	beautiful
+
+decoded:['are', 'too', 'much', 'beautiful']
+score:-5.9990913383833885e-34
+
+sentence:was	no	use
+
+decoded:['was', 'no', 'use']
+score:-0.0
+
+sentence:knew	the	boy	well
+
+decoded:['the', 'well', 'boy', 'knew']
+score:-1.2997925928461747e-33
+
+sentence:wouldn't	help	anyway
+
+decoded:[]
+score:-0.06672086142976001
+
+sentence:that	did	it
+
+decoded:['that', 'it', 'did']
+score:-1.0738942621512915e-32
+
+sentence:forget	the	rules
+
+decoded:['the', 'rules', 'forget']
+score:-5.116926909129418e-35
+
+sentence:isn't	like	you
+
+decoded:['you', 'like']
+score:-0.0
+
+sentence:the	beat	going
+
+decoded:['the', 'going', 'beat']
+score:-1.8993711188983448e-34
+
+sentence:was	almost	too	easy
+
+decoded:['was', 'too', 'almost', 'easy']
+score:-4.23264842675389e-34
+
+sentence:my	are	as	strong
+
+decoded:['as', 'are', 'my', 'strong']
+score:-7.204270594983785e-33
+
+sentence:turned	his	back
+
+decoded:['his', 'back', 'turned']
+score:-8.65858118556158e-35
+
+sentence:went	home	early
+
+decoded:['home', 'went', 'early']
+score:-0.0
+
+sentence:the	best	sex	win
+
+decoded:['the', 'sex', 'win', 'best']
+score:-2.0618538255407555e-34
+
+sentence:a	few	laughed
+
+decoded:['a', 'laughed', 'few']
+score:-2.4124082814750395e-35
+
+sentence:she	let	the
+
+decoded:['the', 'she', 'let']
+score:-1.6597146367305585e-32
+
+sentence:to	talk	about
+
+decoded:['to', 'about', 'talk']
+score:-1.7781232847148414e-33
+
+sentence:sound	of	their
+
+decoded:['of', 'their', 'sound']
+score:-1.9945031420264233e-33
+
+sentence:would	know	why
+
+decoded:['would', 'why', 'know']
+score:-2.370401462794302e-34
+
+sentence:not	any	more
+
+decoded:['not', 'more', 'any']
+score:-1.5450047092717868e-33
+
+sentence:me	think	about	it
+
+decoded:['it', 'about', 'me', 'think']
+score:-1.026851438556808e-32
+
+sentence:here	to	business
+
+decoded:['to', 'business', 'here']
+score:-3.265219882105009e-33
+
+sentence:has	been	lost
+
+decoded:['has', 'been', 'lost']
+score:-0.0
+
+sentence:luck	to	you
+
+decoded:['to', 'you', 'luck']
+score:-9.33719591100121e-34
+
+sentence:wanted	to	know	why
+
+decoded:['to', 'why', 'know', 'wanted']
+score:-1.1631310889875141e-33
+
+sentence:was	wild	with
+
+decoded:['with', 'was', 'wild']
+score:-2.220314137451446e-33
+
+sentence:here	it	is
+
+decoded:['is', 'it', 'here']
+score:-1.7910332432582434e-32
+
+sentence:here	it	was
+
+decoded:['was', 'it', 'here']
+score:-1.0321889531797652e-32
+
+sentence:sat	and	watched
+
+decoded:['and', 'sat', 'watched']
+score:-0.0
+
+sentence:not	it	right
+
+decoded:['it', 'not', 'right']
+score:-0.0
+
+sentence:had	shouted	each	time
+
+decoded:['had', 'time', 'each', 'shouted']
+score:-1.394400786304168e-33
+
+sentence:not	even	food
+
+decoded:['not', 'food', 'even']
+score:-1.485016707073181e-35
+
+sentence:it	do	otherwise
+
+decoded:['it', 'do', 'otherwise']
+score:-0.0
+
+sentence:it	was	small
+
+decoded:['was', 'it', 'small']
+score:-0.0
+
+sentence:get	you	started
+
+decoded:['you', 'started', 'get']
+score:-5.384645747529194e-35
+
+sentence:all	seemed	rather
+
+decoded:['all', 'rather', 'seemed']
+score:-3.6298530869422974e-35
+
+sentence:the	discussion	was
+
+decoded:['the', 'was', 'discussion']
+score:-2.2008575018934295e-33
+
+sentence:kissed	her	back
+
+decoded:['her', 'back', 'kissed']
+score:-5.176656715830575e-35
+
+sentence:yet	it	is	not
+
+decoded:['is', 'it', 'not', 'yet']
+score:-1.4323686663755384e-32
+
+sentence:friends	were	talking
+
+decoded:['were', 'friends', 'talking']
+score:-0.0
+
+sentence:was	a	long
+
+decoded:['a', 'was', 'long']
+score:-0.0
+
+sentence:then	he	turned	to	me
+
+decoded:['to', 'me', 'he', 'then', 'turned']
+score:-3.836194567801116e-31
+
+sentence:one	of	the	children
+
+decoded:['of', 'the', 'children', 'one']
+score:-5.006248385464539e-31
+
+sentence:was	the	man
+
+decoded:['the', 'was', 'man']
+score:-0.0
+
+sentence:and	they	did	some
+
+decoded:['and', 'did', 'they', 'some']
+score:-1.7430136380985665e-32
+
+sentence:helped	a	great	deal
+
+decoded:['a', 'great', 'deal', 'helped']
+score:-1.8642164909690658e-34
+
+sentence:thought	for	a	second
+
+decoded:['for', 'a', 'thought', 'second']
+score:-7.699217634185294e-33
+
+sentence:nobody	could	have	told	why
+
+decoded:['have', 'could', 'told', 'why', 'nobody']
+score:-1.4684645068344051e-34
+
+sentence:was	in	the	air
+
+decoded:['the', 'in', 'was', 'air']
+score:-5.8776883389455765e-31
+
+sentence:had	just	sat	down
+
+decoded:['had', 'down', 'just', 'sat']
+score:-2.829507839951358e-33
+
+sentence:would	not	look	up
+
+decoded:['up', 'would', 'not', 'look']
+score:-7.873087207667326e-33
+
+sentence:there	it	is
+
+decoded:['is', 'it', 'there']
+score:-2.1201907635586706e-32
+
+sentence:how	right	she	was
+
+decoded:['was', 'she', 'how', 'right']
+score:-7.321244038551576e-33
+
+
+
+
+
+Incorrectly decoded pairs
+Correct sentence first, decoded second
+
+brought	much	good
+[]
+
+too	much	fat
+[]
+
+whom	shall	fear
+[]
+
+whom	shall	fear
+[]
+
+whom	shall	fear
+[]
+
+formula	goes	thus
+[]
+
+drug's	chemical	name
+[]
+
+never	seemed	real
+[]
+
+couldn't	stop	'em
+[]
+
+hadn't	brought	his	along
+['his', 'along', 'brought']
+
+that's	what	he	did
+['he', 'what', 'did']
+
+wasn't	hard	to	understand
+['to', 'hard', 'understand']
+
+seemed	worried	too
+[]
+
+problem	needs	further
+[]
+
+hands	move	first
+[]
+
+hadn't	even	seen	him	yet
+['him', 'even', 'seen', 'yet']
+
+ain't	so	bad
+['so', 'bad']
+
+knew	he	couldn't
+['he', 'could', 'knew']
+
+didn't	believe	them
+['them', 'believe']
+
+just	wouldn't	listen
+['just', 'listen']
+
+didn't	like	to	travel
+['to', 'like', 'travel']
+
+goddamn	well	understand
+['well', 'understand']
+
+don't	come	back
+['back', 'come']
+
+don't	care	about
+['about', 'care']
+
+mouth	fell	open
+[]
+
+didn't	have	to	telephone
+['to', 'have', 'telephone']
+
+fat	man	didn't	answer
+['man', 'fat', 'answer']
+
+couldn't	feel	any
+['any', 'feel']
+
+won't	open	from	inside
+['from', 'open', 'inside']
+
+can't	do	anything
+['do', 'anything']
+
+don't	think	anything
+[]
+
+it	wasn't	so
+['it', 'so']
+
+that	wasn't	there
+['that', 'there']
+
+hadn't	he	called
+['he', 'called']
+
+he	hadn't	understood
+['he', 'understood']
+
+wasn't	like	that
+['that', 'like']
+
+hadn't	to	anything
+['to', 'anything']
+
+he	couldn't	where
+['he', 'where']
+
+he	didn't	even	look	up
+['up', 'he', 'look', 'even']
+
+hadn't	seen	him	since
+['him', 'since', 'seen']
+
+we'll	never	know	which
+['which', 'never', 'know']
+
+can't	touch	him
+['him', 'touch']
+
+don't	see	them
+['them', 'see']
+
+just	won't	be	easy
+['be', 'just', 'easy']
+
+isn't	this	nice
+['this', 'nice']
+
+isn't	much	time
+['time', 'much']
+
+didn't	say	anything
+['say', 'anything']
+
+others	followed	inside
+[]
+
+we're	on	even
+['on', 'even']
+
+make	sure	first
+[]
+
+hurry	too	much
+[]
+
+didn't	have	the	heart
+['the', 'have', 'heart']
+
+couldn't	stop	killing
+[]
+
+guess	you're	right
+['right', 'guess']
+
+feel	it's	my
+['my', 'feel']
+
+didn't	look	at	him
+['at', 'him', 'look']
+
+worked	very	hard
+[]
+
+can't	help	it
+['it', 'help']
+
+couldn't	change	it
+['it', 'change']
+
+won't	be	long
+['be', 'long']
+
+but	that	didn't	matter
+['that', 'but', 'matter']
+
+can't	go	in
+['in', 'go']
+
+only	this	one	didn't
+['this', 'one', 'did', 'only']
+
+didn't	look	over
+['over', 'look']
+
+couldn't	be	sure
+['be', 'sure']
+
+it	didn't	fair
+['it', 'fair']
+
+cost	didn't	matter
+[]
+
+you	don't	mind
+['you', 'mind']
+
+that's	just	fine
+['just', 'fine']
+
+know	got	talent
+[]
+
+wouldn't	help	anyway
+[]
+
+isn't	like	you
+['you', 'like']
+
+
+
+average distance:-0.005110128198906461
+exact matches:1003out of1075

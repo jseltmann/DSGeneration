@@ -1,0 +1,5716 @@
+sentence: that	the	city	take	steps	to	this	problem
+
+decoded: ['the', 'to', 'that', 'this', 'city', 'problem', 'take', 'steps']
+score: -1.384201644834089e-30
+
+sentence: of	title	law	was	also	recommended	by	the
+
+decoded: ['of', 'the', 'by', 'was', 'law', 'title', 'also', 'recommended']
+score: -1.9318070326363153e-30
+
+sentence: to	do	this	will	continue	to	place	a	on
+
+decoded: ['to', 'to', 'on', 'a', 'will', 'this', 'place', 'do', 'continue']
+score: -4.411517850849315e-30
+
+sentence: for	the	said	that	an	property	has	been	agreed	upon
+
+decoded: ['the', 'for', 'that', 'said', 'has', 'an', 'upon', 'property', 'been', 'agreed']
+score: -9.543459316992821e-32
+
+sentence: the	as	and	his	age	as
+
+decoded: ['and', 'the', 'as', 'as', 'his', 'age']
+score: -1.701369674951488e-30
+
+sentence: his	age	as	and	place	of	birth	as
+
+decoded: ['of', 'and', 'as', 'as', 'his', 'age', 'place', 'birth']
+score: -5.232758899945321e-30
+
+sentence: has	been	of	with	of	one	brief	since
+
+decoded: ['of', 'of', 'with', 'has', 'one', 'been', 'since', 'brief']
+score: -1.1019169129827971e-29
+
+sentence: political	goes	back	to	his	election	to	city	in
+
+decoded: ['to', 'to', 'in', 'his', 'back', 'city', 'political', 'election', 'goes']
+score: -3.9824060360879624e-30
+
+sentence: had	been	expected	for	some	time
+
+decoded: ['for', 'had', 'time', 'some', 'been', 'expected']
+score: -2.16961198042781e-32
+
+sentence: the	campaign	is	expected	to	become	a	campaign	for
+
+decoded: ['to', 'the', 'for', 'a', 'is', 'campaign', 'campaign', 'become', 'expected']
+score: -3.0361171351671782e-30
+
+sentence: is	expected	to	make	the	traditional	visit	to	both	as	they	work	toward
+
+decoded: ['to', 'to', 'the', 'is', 'as', 'work', 'they', 'visit', 'both', 'make', 'expected', 'traditional']
+score: -6.558844903422394e-30
+
+sentence: similar	resolution	passed	in	the	by	a	of
+
+decoded: ['of', 'the', 'in', 'by', 'a', 'resolution', 'similar', 'passed']
+score: -6.641142356121729e-30
+
+sentence: he	added	that	none	of	asked	him	to	offer	the	resolution
+
+decoded: ['of', 'the', 'to', 'that', 'him', 'he', 'asked', 'resolution', 'added', 'offer', 'none']
+score: -6.745330982087874e-30
+
+sentence: resolution	which	tossed	into	the	will	be	read
+
+decoded: ['the', 'into', 'which', 'will', 'be', 'resolution', 'read']
+score: -1.0805601633934524e-31
+
+sentence: with	a	pistol	stood	by	at	the	to	order
+
+decoded: ['the', 'to', 'with', 'by', 'a', 'at', 'order', 'stood']
+score: -6.888408900554663e-30
+
+sentence: at	the	was	just	like	being	at	church
+
+decoded: ['the', 'at', 'at', 'was', 'like', 'church', 'being', 'just']
+score: -6.957068129686651e-31
+
+sentence: didn't	a	drop	of	and	we	didn't	have	a	bit	of	trouble
+
+decoded: ['of', 'of', 'and', 'a', 'a', 'have', 'we', 'bit', 'trouble', 'drop']
+score: -3.01510326522082e-29
+
+sentence: campaign	to	the	election	was	not	so	quiet	however
+
+decoded: ['to', 'the', 'was', 'not', 'so', 'campaign', 'election', 'quiet', 'however']
+score: -5.066678345988405e-32
+
+sentence: was	marked	by	phone	calls	and	of
+
+decoded: ['of', 'and', 'by', 'was', 'calls', 'phone', 'marked']
+score: -6.299670798837009e-30
+
+sentence: the	election	campaign	both	and	received	telephone	calls
+
+decoded: ['and', 'the', 'campaign', 'both', 'calls', 'election', 'received', 'telephone']
+score: -3.3068080787784144e-31
+
+sentence: said	the	ordinary	apparently	made	good	his
+
+decoded: ['the', 'his', 'said', 'made', 'good', 'ordinary', 'apparently']
+score: -9.060795091731451e-32
+
+sentence: committee	rules	it	went	to	a	for	one	week
+
+decoded: ['to', 'for', 'a', 'it', 'committee', 'one', 'rules', 'went', 'week']
+score: -1.2966866840400168e-30
+
+sentence: take	out	of	many	of	dollars
+
+decoded: ['of', 'of', 'out', 'many', 'take']
+score: -3.49277783919419e-30
+
+sentence: was	no	as	the	passed	the	bill	on	to	the
+
+decoded: ['the', 'the', 'to', 'the', 'on', 'was', 'as', 'no', 'bill', 'passed']
+score: -1.810934753106786e-29
+
+sentence: was	one	of	a	series	of	by	the
+
+decoded: ['of', 'of', 'the', 'by', 'a', 'was', 'one', 'series']
+score: -1.7451463258981443e-29
+
+sentence: lost	to	the	water	needs	of	big	cities
+
+decoded: ['of', 'to', 'the', 'water', 'needs', 'lost', 'cities', 'big']
+score: -2.844402267323134e-30
+
+sentence: of	the	fire	was	directed	by	against	and
+
+decoded: ['of', 'and', 'the', 'by', 'was', 'against', 'fire', 'directed']
+score: -8.043964572080202e-30
+
+sentence: normal	work	in	college	is	hours
+
+decoded: ['in', 'is', 'college', 'hours', 'work', 'normal']
+score: -5.148032840640877e-32
+
+sentence: of	the	college	would	be	in	general	subjects
+
+decoded: ['of', 'the', 'in', 'would', 'college', 'be', 'general', 'subjects']
+score: -1.3117628751645247e-30
+
+sentence: in	are	not	required	to	have	the
+
+decoded: ['to', 'the', 'in', 'are', 'have', 'not', 'required']
+score: -3.839774270623839e-30
+
+sentence: of	the	immediately	as	of	the
+
+decoded: ['of', 'the', 'of', 'the', 'as', 'immediately']
+score: -1.3608211917956338e-29
+
+sentence: holds	an	of	degree	from	the	of
+
+decoded: ['of', 'of', 'the', 'from', 'an', 'degree', 'holds']
+score: -1.446047465087507e-29
+
+sentence: addition	has	studied	at	and	of
+
+decoded: ['of', 'and', 'at', 'has', 'studied', 'addition']
+score: -5.203499192514423e-30
+
+sentence: has	served	as	a	and	was	in	the	of	the
+
+decoded: ['of', 'the', 'and', 'the', 'in', 'a', 'was', 'as', 'has', 'served']
+score: -3.582613594795075e-29
+
+sentence: as	soon	as	possible	on	the	and	of	and
+
+decoded: ['of', 'the', 'and', 'on', 'as', 'possible', 'and', 'as', 'soon']
+score: -2.442686332886366e-29
+
+sentence: made	the	while	the	was	out	of	the
+
+decoded: ['the', 'of', 'the', 'the', 'was', 'out', 'made', 'while']
+score: -1.2922082603891255e-29
+
+sentence: may	be	highly	to	my	told	the	court
+
+decoded: ['to', 'the', 'be', 'may', 'court', 'my', 'told', 'highly']
+score: -8.319103332079858e-31
+
+sentence: of	the	indicated	they	knew	they	were	property
+
+decoded: ['of', 'the', 'were', 'they', 'property', 'they', 'knew', 'indicated']
+score: -2.792678617463577e-31
+
+sentence: said	evidence	was	obtained	in	of	the	legal	rights	of
+
+decoded: ['of', 'of', 'the', 'in', 'was', 'said', 'evidence', 'rights', 'legal', 'obtained']
+score: -2.3091746525407163e-29
+
+sentence: said	this	a	very	serious	of	the	court
+
+decoded: ['of', 'the', 'a', 'said', 'this', 'court', 'very', 'serious']
+score: -3.511516953011944e-30
+
+sentence: had	been	this	week	to	hear	seven	cases	persons
+
+decoded: ['to', 'had', 'this', 'been', 'week', 'cases', 'seven', 'persons', 'hear']
+score: -2.0844645475408985e-31
+
+sentence: tax	would	be	on	those	under	the	system
+
+decoded: ['the', 'on', 'system', 'would', 'be', 'under', 'tax', 'those']
+score: -6.980385500115791e-31
+
+sentence: figures	would	go	higher	in	later	years
+
+decoded: ['in', 'years', 'would', 'figures', 'later', 'higher', 'go']
+score: -6.31097320566997e-32
+
+sentence: would	be	paid	for	out	of	general	not
+
+decoded: ['of', 'for', 'out', 'would', 'be', 'not', 'general', 'paid']
+score: -2.1697970032386294e-30
+
+sentence: of	home	for	up	to	days	following	from	a	hospital
+
+decoded: ['of', 'to', 'for', 'from', 'a', 'up', 'days', 'hospital', 'home', 'following']
+score: -3.568747202473029e-30
+
+sentence: service	for	all	costs	in	of	a	patient
+
+decoded: ['of', 'in', 'for', 'a', 'service', 'all', 'costs', 'patient']
+score: -4.407974114475644e-30
+
+sentence: services	at	home	for	up	to	days	an
+
+decoded: ['to', 'for', 'at', 'up', 'an', 'days', 'home', 'services']
+score: -1.6093106232778573e-30
+
+sentence: is	a	program	of	of	health	costs	with	freedom	of	choice
+
+decoded: ['of', 'of', 'of', 'with', 'a', 'is', 'costs', 'health', 'program', 'freedom', 'choice']
+score: -5.0012139950099187e-29
+
+sentence: person	will	choose	his	own	doctor	and	hospital
+
+decoded: ['and', 'his', 'will', 'hospital', 'person', 'own', 'doctor', 'choose']
+score: -1.2108173683173218e-31
+
+sentence: would	still	be	paid	by	the	patient
+
+decoded: ['the', 'by', 'would', 'be', 'still', 'paid', 'patient']
+score: -3.1663688079092796e-31
+
+sentence: also	asked	to	of	a	national	child	health
+
+decoded: ['of', 'to', 'a', 'national', 'also', 'child', 'asked', 'health']
+score: -1.015231450651423e-30
+
+sentence: said	he	will	ask	to	increase	to	states	for
+
+decoded: ['to', 'to', 'for', 'said', 'will', 'he', 'states', 'increase', 'ask']
+score: -3.3076626190911415e-30
+
+sentence: did	not	say	by	how	much
+
+decoded: ['by', 'not', 'did', 'how', 'say', 'much']
+score: -1.9653378047513776e-32
+
+sentence: reaction	to	the	message	was	along	expected	lines
+
+decoded: ['to', 'the', 'was', 'along', 'reaction', 'lines', 'message', 'expected']
+score: -3.2201609795860826e-32
+
+sentence: who	last	year	under	the	social	security	system	the	plan
+
+decoded: ['the', 'the', 'who', 'system', 'under', 'year', 'plan', 'last', 'social', 'security']
+score: -2.6707069608900906e-30
+
+sentence: who	a	similar	plan	last	year	the	message
+
+decoded: ['the', 'a', 'who', 'year', 'plan', 'last', 'similar', 'message']
+score: -5.804610529404603e-31
+
+sentence: said	the	care	plan	last	year	should	be	given	a	fair	trial	first
+
+decoded: ['the', 'a', 'said', 'be', 'should', 'care', 'year', 'plan', 'last', 'first', 'fair', 'given', 'trial']
+score: -3.950909041115154e-31
+
+sentence: were	on	the	floor	and	there	was	no	record
+
+decoded: ['and', 'the', 'on', 'was', 'were', 'no', 'there', 'record', 'floor']
+score: -2.827240813883936e-30
+
+sentence: will	have	to	carry	out	long	since	laid	down	but	never	completely
+
+decoded: ['to', 'out', 'down', 'have', 'will', 'but', 'since', 'long', 'never', 'laid', 'completely', 'carry']
+score: -4.449702709255576e-31
+
+sentence: on	the	aid	of	the	countries	the	conference	to	this
+
+decoded: ['the', 'of', 'the', 'to', 'the', 'on', 'countries', 'this', 'conference', 'aid']
+score: -1.7383494647474242e-29
+
+sentence: that	any	future	would	not	become
+
+decoded: ['that', 'would', 'not', 'future', 'any', 'become']
+score: -1.502061081358263e-32
+
+sentence: it	is	apparent	that	no	formula	has	been	found	to	prevent	such	a
+
+decoded: ['to', 'that', 'a', 'is', 'it', 'has', 'no', 'such', 'been', 'found', 'formula', 'apparent', 'prevent']
+score: -3.146320233071993e-30
+
+sentence: these	as	being	the	reaction	to	basic	made	in	the	previous	administration
+
+decoded: ['the', 'to', 'the', 'in', 'as', 'made', 'reaction', 'being', 'these', 'administration', 'basic', 'previous']
+score: -1.1742157127208003e-29
+
+sentence: effective	have	administration	first	foreign	policy	been	in	with
+
+decoded: ['in', 'with', 'have', 'policy', 'been', 'first', 'foreign', 'administration', 'effective']
+score: -3.917237159726658e-31
+
+sentence: was	critical	of	what	he	is	to	be	too
+
+decoded: ['of', 'to', 'is', 'was', 'he', 'be', 'what', 'too', 'critical']
+score: -4.449033797133977e-30
+
+sentence: for	his	part	would	in	without	specific
+
+decoded: ['in', 'for', 'his', 'would', 'part', 'without', 'specific']
+score: -5.808775305889566e-31
+
+sentence: efforts	were	made	to	remove	from	administration
+
+decoded: ['to', 'from', 'were', 'made', 'efforts', 'administration', 'remove']
+score: -4.359202104482379e-31
+
+sentence: on	nuclear	test	were	and	changed
+
+decoded: ['and', 'on', 'were', 'test', 'nuclear', 'changed']
+score: -8.649831048059769e-31
+
+sentence: thus	far	there	has	been	no	response	in	kind
+
+decoded: ['in', 'has', 'no', 'there', 'been', 'response', 'far', 'kind', 'thus']
+score: -2.4368689671043225e-31
+
+sentence: and	again	it	asked	the	to	the	military	situation	in
+
+decoded: ['the', 'and', 'to', 'the', 'in', 'it', 'again', 'asked', 'situation', 'military']
+score: -1.2549488213687493e-29
+
+sentence: the	the	at	an	even	rate
+
+decoded: ['the', 'the', 'at', 'an', 'rate', 'even']
+score: -8.58219609327721e-34
+
+sentence: was	up	and	prepared	plans	for	with	the	military	in
+
+decoded: ['and', 'the', 'in', 'with', 'for', 'up', 'was', 'plans', 'military', 'prepared']
+score: -1.0548295409729152e-29
+
+sentence: administration	itself	in	favor	of	a
+
+decoded: ['of', 'in', 'a', 'itself', 'administration']
+score: -7.250383798385964e-31
+
+sentence: now	has	no	civil	defense	program
+
+decoded: ['has', 'no', 'now', 'program', 'civil']
+score: -4.8982335319986236e-34
+
+sentence: is	not	interested	in	being	named	a	director
+
+decoded: ['in', 'a', 'is', 'not', 'director', 'being', 'named', 'interested']
+score: -5.994965470768612e-31
+
+sentence: of	these	men	is	former	he	said
+
+decoded: ['of', 'is', 'said', 'he', 'men', 'these', 'former']
+score: -1.5653960777409428e-31
+
+sentence: steps	would	be	developed	after	information	down	to	the	local	level	from	the	federal	government
+
+decoded: ['the', 'to', 'the', 'from', 'down', 'would', 'be', 'after', 'government', 'information', 'level', 'local', 'developed', 'steps', 'federal']
+score: -7.145854091713669e-30
+
+sentence: is	going	to	its	sales	law	with	possible	in	mind
+
+decoded: ['to', 'in', 'with', 'is', 'its', 'law', 'possible', 'sales', 'mind', 'going']
+score: -2.835717459389955e-30
+
+sentence: will	then	the	study	committee	with	the	governor	said
+
+decoded: ['the', 'the', 'with', 'said', 'will', 'committee', 'study', 'then', 'governor']
+score: -3.47050436872735e-30
+
+sentence: general	has	local	police	that	it	is	their	duty	to	the	blue
+
+decoded: ['the', 'to', 'that', 'is', 'it', 'has', 'their', 'general', 'blue', 'police', 'duty', 'local']
+score: -6.940009326291638e-30
+
+sentence: that	sales	provide	great	to	the	local	government
+
+decoded: ['to', 'the', 'that', 'government', 'local', 'sales', 'great', 'provide']
+score: -1.4492557709126914e-30
+
+sentence: of	my	fellow	workers	were	me	for	an	office	in	the
+
+decoded: ['of', 'the', 'in', 'for', 'were', 'me', 'an', 'my', 'workers', 'office', 'fellow']
+score: -8.013311076543513e-30
+
+sentence: with	whom	studied	law	me	off	the
+
+decoded: ['the', 'with', 'off', 'me', 'law', 'studied', 'whom']
+score: -4.862856742983879e-31
+
+sentence: me	to	the	right	the	free
+
+decoded: ['the', 'to', 'the', 'me', 'free', 'right']
+score: -2.6828606320821124e-30
+
+sentence: far	from	really	being	is	in	industrial	relations
+
+decoded: ['in', 'from', 'is', 'relations', 'being', 'really', 'far', 'industrial']
+score: -6.849602996161072e-31
+
+sentence: can	be	expected	in	coming	weeks	it	was	indicated
+
+decoded: ['in', 'was', 'it', 'can', 'be', 'weeks', 'coming', 'indicated', 'expected']
+score: -3.9639924989513175e-31
+
+sentence: has	been	done	yet	to	take	advantage	of	the
+
+decoded: ['of', 'to', 'the', 'has', 'been', 'advantage', 'take', 'yet', 'done']
+score: -2.957175710737828e-30
+
+sentence: present	all	must	be	taken	to	for
+
+decoded: ['to', 'for', 'be', 'all', 'must', 'taken', 'present']
+score: -7.268759419951605e-31
+
+sentence: said	the	statement	should	become	a	major	issue	in	the	and	the	fall	campaign
+
+decoded: ['the', 'the', 'and', 'the', 'in', 'a', 'said', 'should', 'campaign', 'issue', 'major', 'statement', 'fall', 'become']
+score: -3.279022308744827e-29
+
+sentence: can	a	man	with	any	degree	of	common	charge	this
+
+decoded: ['of', 'with', 'a', 'can', 'this', 'man', 'any', 'common', 'degree', 'charge']
+score: -2.6021864724061146e-30
+
+sentence: said	he	had	made	a	personal	attack	on	a	past	president
+
+decoded: ['a', 'on', 'a', 'had', 'said', 'he', 'attack', 'made', 'president', 'past', 'personal']
+score: -8.095119047536348e-31
+
+sentence: audience	last	night	did	not	with	either	or	to	mention	of
+
+decoded: ['of', 'to', 'with', 'or', 'not', 'did', 'night', 'last', 'either', 'audience', 'mention']
+score: -7.459912486707817e-30
+
+sentence: spoke	on	the	of	having	an	open
+
+decoded: ['of', 'the', 'on', 'an', 'open', 'having', 'spoke']
+score: -1.9855334618528127e-30
+
+sentence: then	into	what	the	issues	should	be	in	the	campaign
+
+decoded: ['the', 'the', 'in', 'into', 'be', 'should', 'what', 'then', 'campaign', 'issues']
+score: -7.053507834455517e-30
+
+sentence: is	president	of	the	and	is	a	county
+
+decoded: ['of', 'and', 'the', 'is', 'a', 'is', 'president', 'county']
+score: -7.67511761669012e-30
+
+sentence: he	was	state	and	chief	of	the
+
+decoded: ['of', 'and', 'the', 'was', 'he', 'state', 'chief']
+score: -6.263299542344762e-30
+
+sentence: also	and	the	radio	system	with	a	central	control	station
+
+decoded: ['and', 'the', 'with', 'a', 'system', 'control', 'also', 'station', 'radio', 'central']
+score: -6.36140408809959e-31
+
+sentence: regular	for	district	fire	and	first	aid	training	for	section
+
+decoded: ['and', 'for', 'for', 'section', 'district', 'training', 'fire', 'first', 'aid', 'regular']
+score: -5.220301880681126e-31
+
+sentence: we'll	have	a	well	planned	forward	looking	honest	platform
+
+decoded: ['a', 'have', 'well', 'forward', 'looking', 'planned', 'platform', 'honest']
+score: -1.1881896898111682e-34
+
+sentence: said	can	see	signs	of	the	attack	on	the	administration
+
+decoded: ['of', 'the', 'the', 'on', 'said', 'can', 'attack', 'see', 'signs', 'administration']
+score: -4.833555617744214e-30
+
+sentence: shall	campaign	on	the	record	to	meet	the	needs	of	the	years	ahead
+
+decoded: ['the', 'of', 'the', 'to', 'the', 'on', 'years', 'record', 'campaign', 'needs', 'shall', 'ahead', 'meet']
+score: -2.111802947952817e-29
+
+sentence: plan	will	provide	million	for	of	open	land	by	the	state
+
+decoded: ['of', 'the', 'by', 'for', 'million', 'will', 'state', 'plan', 'land', 'open', 'provide']
+score: -4.669791982992106e-30
+
+sentence: other	million	is	to	be	to	on	a	basis
+
+decoded: ['to', 'to', 'on', 'a', 'is', 'million', 'be', 'other', 'basis']
+score: -4.311562251301957e-30
+
+sentence: would	not	on	tax	or	other	issues	in	which	the	are	involved
+
+decoded: ['the', 'in', 'on', 'are', 'or', 'which', 'would', 'not', 'tax', 'other', 'involved', 'issues']
+score: -4.745356659574081e-30
+
+sentence: served	one	term	on	the	national	committee
+
+decoded: ['the', 'on', 'committee', 'national', 'one', 'term', 'served']
+score: -4.2611058960245495e-31
+
+sentence: this	attempt	as	evidence	that	himself	as	bigger	than	the	party
+
+decoded: ['the', 'as', 'that', 'as', 'than', 'himself', 'party', 'this', 'evidence', 'attempt', 'bigger']
+score: -3.278047766898152e-30
+
+sentence: of	public	against	in	government	is	rising	in
+
+decoded: ['of', 'in', 'in', 'is', 'against', 'government', 'public', 'rising']
+score: -5.45513741072651e-30
+
+sentence: is	a	feeling	in	the	air	of	toward
+
+decoded: ['of', 'the', 'in', 'a', 'is', 'air', 'feeling']
+score: -8.034764042402587e-30
+
+sentence: there	are	reasons	for	the	current	on	the	subject
+
+decoded: ['the', 'the', 'on', 'for', 'are', 'there', 'subject', 'current', 'reasons']
+score: -5.9095682218265685e-30
+
+sentence: of	highly	has	the	public	within	the	last	year
+
+decoded: ['the', 'of', 'the', 'has', 'year', 'within', 'last', 'public', 'highly']
+score: -2.625236558941244e-30
+
+sentence: in	the	construction	of	and	other	public	works	has	brought	on	state	and
+
+decoded: ['of', 'and', 'the', 'on', 'in', 'and', 'has', 'state', 'other', 'works', 'public', 'construction', 'brought']
+score: -2.1912848848109983e-29
+
+sentence: after	day	some	new	is	reported
+
+decoded: ['is', 'new', 'after', 'day', 'some', 'reported']
+score: -1.4780690946494398e-32
+
+sentence: another	week	tomorrow	with	sharply	for	the	two
+
+decoded: ['the', 'with', 'for', 'two', 'week', 'another', 'tomorrow', 'sharply']
+score: -9.528437454278473e-31
+
+sentence: the	several	are	expected	to	pass	without	any	major	or
+
+decoded: ['to', 'the', 'are', 'or', 'any', 'without', 'major', 'pass', 'several', 'expected']
+score: -9.629902218122736e-31
+
+sentence: is	expected	to	be	reported	out	but	this	is	a	little
+
+decoded: ['to', 'is', 'a', 'is', 'out', 'but', 'be', 'this', 'little', 'reported', 'expected']
+score: -1.435132124005827e-30
+
+sentence: has	been	in	the	hospital	but	is	expected	back
+
+decoded: ['the', 'in', 'is', 'has', 'back', 'but', 'hospital', 'been', 'expected']
+score: -9.681077599899449e-31
+
+sentence: leadership	however	to	pass	it	this	week
+
+decoded: ['to', 'it', 'this', 'week', 'pass', 'leadership', 'however']
+score: -6.764622998030567e-32
+
+sentence: also	provides	for	funds	to	clear	and	help	build
+
+decoded: ['and', 'to', 'for', 'also', 'clear', 'provides', 'funds', 'help', 'build']
+score: -2.863241433331079e-30
+
+sentence: of	these	were	proposed	by	religious	groups
+
+decoded: ['of', 'by', 'were', 'groups', 'these', 'proposed', 'religious']
+score: -3.967247619132897e-31
+
+sentence: don't	work	for	the	the	said
+
+decoded: ['the', 'the', 'for', 'said', 'work']
+score: -2.5620231490060062e-30
+
+sentence: then	some	there	is	a	more	problem
+
+decoded: ['a', 'is', 'more', 'there', 'some', 'then', 'problem']
+score: -1.7435368907547499e-31
+
+sentence: director	of	the	corps	is	certain	that	they	can
+
+decoded: ['of', 'the', 'that', 'is', 'can', 'director', 'they', 'certain']
+score: -1.768358412011738e-30
+
+sentence: was	in	the	of	the	successful
+
+decoded: ['of', 'the', 'the', 'in', 'was', 'successful']
+score: -1.0469703864589778e-29
+
+sentence: more	than	were	present	in	those	countries
+
+decoded: ['in', 'were', 'than', 'countries', 'more', 'those', 'present']
+score: -3.126611142466852e-31
+
+sentence: is	the	most	member	with	more	than
+
+decoded: ['the', 'with', 'is', 'than', 'more', 'member', 'most']
+score: -4.11701958783913e-31
+
+sentence: on	and	is	expected	to	receive	the	report	this	week
+
+decoded: ['and', 'to', 'the', 'on', 'is', 'report', 'this', 'week', 'expected', 'receive']
+score: -6.0832924483708575e-30
+
+sentence: formula	is	understood	to	follow	these	lines
+
+decoded: ['to', 'is', 'lines', 'these', 'formula', 'understood', 'follow']
+score: -2.5902505850524696e-32
+
+sentence: agreement	among	the	on	a	government	would	ease	their
+
+decoded: ['the', 'on', 'a', 'their', 'would', 'government', 'agreement', 'among', 'ease']
+score: -4.397490747316443e-31
+
+sentence: of	the	has	with	each	week
+
+decoded: ['of', 'the', 'with', 'has', 'each', 'week']
+score: -4.368916367757055e-31
+
+sentence: in	the	service	he	radio	school	at	in
+
+decoded: ['in', 'the', 'in', 'at', 'he', 'service', 'school', 'radio']
+score: -4.084376186095229e-30
+
+sentence: is	married	to	the	former	and	has	a	daughter
+
+decoded: ['and', 'the', 'to', 'is', 'a', 'has', 'daughter', 'former', 'married']
+score: -4.7991147228014474e-30
+
+sentence: from	a	none	can	approach	it
+
+decoded: ['from', 'a', 'it', 'can', 'approach', 'none']
+score: -5.149832816365574e-32
+
+sentence: of	history	have	been	along	the	now	about	years	old
+
+decoded: ['of', 'the', 'about', 'have', 'years', 'now', 'along', 'old', 'been', 'history']
+score: -5.599587475779415e-31
+
+sentence: were	the	and	they	wanted	to
+
+decoded: ['and', 'to', 'the', 'were', 'they', 'wanted']
+score: -3.9594975922247654e-30
+
+sentence: car	run	down	the	center	of	with	lines	that	are
+
+decoded: ['of', 'the', 'with', 'that', 'are', 'down', 'car', 'lines', 'run']
+score: -1.2383625070349497e-30
+
+sentence: will	be	and	points	opposite	the
+
+decoded: ['and', 'the', 'will', 'be', 'points', 'opposite']
+score: -5.932110876814848e-31
+
+sentence: past	the	stand	and	will	be	at	least	units
+
+decoded: ['and', 'the', 'at', 'will', 'be', 'units', 'stand', 'past', 'least']
+score: -4.997660782097248e-31
+
+sentence: military	members	of	all	of	the	forces	will	take	part	in	the
+
+decoded: ['of', 'of', 'the', 'the', 'in', 'will', 'all', 'forces', 'part', 'members', 'take', 'military']
+score: -1.5916554786567555e-29
+
+sentence: one	of	the	will	be	the	service
+
+decoded: ['the', 'of', 'the', 'will', 'be', 'service', 'one']
+score: -3.9231718236933454e-30
+
+sentence: will	come	nine	other	states	in	the	order	of	their	to	the	union
+
+decoded: ['of', 'the', 'to', 'the', 'in', 'their', 'will', 'order', 'states', 'union', 'other', 'come', 'nine']
+score: -2.030590790977142e-29
+
+sentence: three	will	be	headed	by	the	followed	by	states
+
+decoded: ['the', 'by', 'by', 'will', 'be', 'states', 'three', 'followed', 'headed']
+score: -1.2609221839275922e-30
+
+sentence: division	four	will	be	headed	by	the	followed	by	states
+
+decoded: ['the', 'by', 'by', 'will', 'be', 'states', 'division', 'four', 'followed', 'headed']
+score: -9.594123968428525e-31
+
+sentence: division	five	by	the	followed	by	states
+
+decoded: ['the', 'by', 'by', 'states', 'division', 'five', 'followed']
+score: -4.031056802654431e-31
+
+sentence: does	offer	in	political	and	in
+
+decoded: ['in', 'and', 'in', 'does', 'political', 'offer']
+score: -1.381317701687461e-30
+
+sentence: favor	a	special	more	than	likely	early	in	the	year
+
+decoded: ['the', 'in', 'a', 'than', 'year', 'more', 'early', 'special', 'likely']
+score: -2.682809365834737e-30
+
+sentence: is	not	expected	to	be	able	to	the	pressure
+
+decoded: ['to', 'to', 'the', 'is', 'be', 'pressure', 'not', 'expected', 'able']
+score: -5.1225147537720356e-30
+
+sentence: there	has	been	no	effort	since	the	election	to	pull	it	back	together
+
+decoded: ['the', 'to', 'it', 'has', 'no', 'together', 'back', 'there', 'since', 'been', 'effort', 'election', 'pull']
+score: -1.8342374860552725e-30
+
+sentence: year	will	probably	start	out	with	still	the	most	issue
+
+decoded: ['the', 'with', 'out', 'will', 'year', 'still', 'issue', 'most', 'start', 'probably']
+score: -5.1913838380301345e-31
+
+sentence: it	might	give	way	to	another	issue	that	of	in	state	government
+
+decoded: ['of', 'to', 'in', 'that', 'it', 'way', 'government', 'state', 'might', 'issue', 'another', 'give']
+score: -8.352352511584445e-30
+
+sentence: administration	could	not	say	why	million	was	needed	for	a	program
+
+decoded: ['for', 'a', 'was', 'million', 'could', 'not', 'say', 'why', 'program', 'needed', 'administration']
+score: -4.896443371658931e-31
+
+sentence: tax	bill	will	be	up	for	in	the	when	the
+
+decoded: ['the', 'the', 'in', 'for', 'up', 'will', 'when', 'be', 'tax', 'bill']
+score: -9.05846190590323e-30
+
+sentence: would	have	to	in	the	soon	anyway
+
+decoded: ['to', 'the', 'in', 'have', 'would', 'soon', 'anyway']
+score: -2.4765677094158724e-30
+
+sentence: are	already	and	over	the	battle	to	block
+
+decoded: ['and', 'to', 'the', 'are', 'over', 'battle', 'block', 'already']
+score: -4.316208839411435e-30
+
+sentence: is	not	the	sort	of	thing	most	would	care	to
+
+decoded: ['of', 'to', 'the', 'is', 'would', 'not', 'care', 'thing', 'most', 'sort']
+score: -6.887369419719308e-30
+
+sentence: of	the	sales	tax	measure	would	also	give	the	means	to	effect	a
+
+decoded: ['the', 'of', 'the', 'to', 'a', 'would', 'effect', 'tax', 'also', 'measure', 'sales', 'means', 'give']
+score: -5.4020583688692905e-30
+
+sentence: could	tell	the	they	had	provided	the	needed	funds	to	carry	on	the	battle
+
+decoded: ['the', 'the', 'to', 'the', 'on', 'had', 'could', 'they', 'battle', 'needed', 'provided', 'funds', 'tell', 'carry']
+score: -1.0297763206842222e-29
+
+sentence: could	become	an	problem	in	the	coming	fiscal	year
+
+decoded: ['the', 'in', 'an', 'could', 'year', 'problem', 'coming', 'become']
+score: -1.0846716605998346e-30
+
+sentence: of	back	is	an	one	for	any	governor
+
+decoded: ['of', 'for', 'is', 'an', 'back', 'one', 'any', 'governor']
+score: -1.5359233266454634e-30
+
+sentence: of	the	loss	in	the	job	have	as	high	as
+
+decoded: ['of', 'the', 'the', 'in', 'as', 'as', 'have', 'high', 'loss', 'job']
+score: -6.713833939361325e-30
+
+sentence: city	has	for	the	full	amount	of	the	performance	the
+
+decoded: ['the', 'of', 'the', 'the', 'for', 'has', 'city', 'amount', 'performance', 'full']
+score: -1.513326548947057e-29
+
+sentence: is	the	part	its	organization	played	in	the	project
+
+decoded: ['the', 'the', 'in', 'is', 'its', 'part', 'project', 'played', 'organization']
+score: -8.33790110159635e-30
+
+sentence: has	been	fired	on	of	from	the
+
+decoded: ['of', 'the', 'on', 'from', 'has', 'been', 'fired']
+score: -3.4078936986747636e-30
+
+sentence: am	taking	the	position	that	the	was	clearly	said
+
+decoded: ['the', 'the', 'that', 'was', 'said', 'am', 'position', 'taking', 'clearly']
+score: -3.625761044170291e-30
+
+sentence: mostly	failure	to	work	on	along	the
+
+decoded: ['to', 'the', 'on', 'work', 'along', 'failure', 'mostly']
+score: -1.4308223649834992e-30
+
+sentence: added	from	other	from	to	per
+
+decoded: ['to', 'from', 'from', 'per', 'other', 'added']
+score: -2.264718075869847e-30
+
+sentence: said	the	city	paid	only	to	the	company
+
+decoded: ['the', 'to', 'the', 'said', 'company', 'city', 'only', 'paid']
+score: -2.6141541929273815e-30
+
+sentence: won't	know	the	full	amount	until	we	get	a	full	report	said
+
+decoded: ['the', 'a', 'said', 'report', 'until', 'we', 'full', 'amount', 'know', 'full', 'get']
+score: -4.677977900949862e-31
+
+sentence: can	on	the	maximum	amount	of	the	said
+
+decoded: ['of', 'the', 'the', 'on', 'said', 'can', 'amount', 'maximum']
+score: -6.656223411588798e-30
+
+sentence: that	we	know	enough	to	for	the	full	amount
+
+decoded: ['to', 'the', 'for', 'that', 'enough', 'we', 'amount', 'know', 'full']
+score: -3.362803990122322e-30
+
+sentence: want	to	find	out	who	knew	about	it	said
+
+decoded: ['to', 'out', 'about', 'said', 'it', 'who', 'knew', 'want', 'find']
+score: -1.5948268802041378e-31
+
+sentence: people	must	have	known	about	it
+
+decoded: ['about', 'it', 'have', 'people', 'must', 'known']
+score: -3.5964917491135947e-32
+
+sentence: cost	of	a	now	is	with	an	of
+
+decoded: ['of', 'of', 'with', 'a', 'is', 'an', 'now', 'cost']
+score: -2.0740465810386083e-29
+
+sentence: said	that	single	account	for	percent	of	the	in	some
+
+decoded: ['of', 'the', 'in', 'for', 'that', 'said', 'account', 'some', 'single', 'percent']
+score: -7.833012765599136e-30
+
+sentence: reported	that	the	for	animal	care	included	to	the
+
+decoded: ['the', 'to', 'the', 'for', 'that', 'care', 'reported', 'animal', 'included']
+score: -9.990473203225862e-30
+
+sentence: to	pay	six	as	dog	and	to	dog
+
+decoded: ['to', 'and', 'to', 'as', 'pay', 'dog', 'dog', 'six']
+score: -7.51473369348904e-30
+
+sentence: city	is	not	for	the	services	covered	by	the	he	said
+
+decoded: ['the', 'the', 'by', 'for', 'is', 'said', 'he', 'not', 'city', 'services', 'covered']
+score: -7.453682883877453e-30
+
+sentence: will	be	presented	in	open	court	to	said
+
+decoded: ['to', 'in', 'said', 'will', 'be', 'court', 'open', 'presented']
+score: -1.1144964009789958e-30
+
+sentence: was	caught	the	day	after	the	was	and	given	a
+
+decoded: ['the', 'and', 'the', 'was', 'a', 'was', 'after', 'day', 'given', 'caught']
+score: -1.0762116183547337e-29
+
+sentence: started	the	of	after	was	for	the
+
+decoded: ['of', 'the', 'the', 'for', 'was', 'after', 'started']
+score: -5.8201809292109234e-30
+
+sentence: also	a	plan	that	would	traffic	for	in	the	project
+
+decoded: ['the', 'in', 'for', 'that', 'a', 'would', 'plan', 'also', 'traffic', 'project']
+score: -5.435241401825909e-30
+
+sentence: plan	calls	for	the	project	into	which	would	be	to	traffic
+
+decoded: ['to', 'the', 'for', 'into', 'which', 'would', 'be', 'plan', 'traffic', 'project', 'calls']
+score: -3.0555352762153317e-30
+
+sentence: which	on	original	plans	ran	through	the	center	of	the	development
+
+decoded: ['of', 'the', 'the', 'on', 'through', 'which', 'development', 'plans', 'ran', 'original']
+score: -8.524952903815894e-30
+
+sentence: would	over	roads	in	the	project
+
+decoded: ['the', 'in', 'over', 'would', 'project', 'roads']
+score: -7.485107391978921e-31
+
+sentence: boy	said	the	him	out	of	bed	and	against	the	wall
+
+decoded: ['of', 'the', 'and', 'the', 'out', 'said', 'against', 'him', 'bed', 'boy', 'wall']
+score: -8.28451947870285e-30
+
+sentence: sent	the	of	the	car	over	the	roof	of	the	house
+
+decoded: ['of', 'the', 'the', 'the', 'of', 'the', 'over', 'house', 'car', 'roof', 'sent']
+score: -1.1762782233526616e-29
+
+sentence: was	first	believed	the	bomb	was	to	the
+
+decoded: ['the', 'to', 'the', 'was', 'was', 'bomb', 'first', 'believed']
+score: -5.526856034396242e-30
+
+sentence: was	offered	by	the	local	in
+
+decoded: ['the', 'in', 'by', 'was', 'local', 'offered']
+score: -2.1294238709975004e-30
+
+sentence: is	of	the	local	and	is	a	member	of	its	committee
+
+decoded: ['of', 'of', 'and', 'the', 'is', 'a', 'is', 'its', 'committee', 'member', 'local']
+score: -4.648746350315377e-29
+
+sentence: has	headed	the	military	the	last	months
+
+decoded: ['the', 'the', 'has', 'last', 'months', 'military', 'headed']
+score: -8.929880227105656e-31
+
+sentence: is	a	of	and	the	of
+
+decoded: ['of', 'of', 'and', 'the', 'a', 'is']
+score: -3.109742617801444e-29
+
+sentence: is	married	and	the	father	of	three	children
+
+decoded: ['of', 'and', 'the', 'is', 'children', 'three', 'father', 'married']
+score: -7.045496978575249e-30
+
+sentence: called	for	on	the	part	of
+
+decoded: ['of', 'the', 'on', 'for', 'called', 'part']
+score: -4.5320930590808846e-30
+
+sentence: calls	for	a	speech	in	at	the
+
+decoded: ['the', 'in', 'for', 'a', 'at', 'speech', 'calls']
+score: -3.813990556570468e-30
+
+sentence: dinner	is	by	labor	and	is	for	p.m.
+
+decoded: ['.', 'and', 'by', 'is', 'for', 'is', 'dinner']
+score: -2.3977221103395216e-29
+
+sentence: on	the	district	board	of	have
+
+decoded: ['of', 'the', 'on', 'have', 'board', 'district']
+score: -1.976788689013345e-30
+
+sentence: election	will	be	from	to	p.m.
+
+decoded: ['.', 'to', 'from', 'will', 'be', 'election']
+score: -5.5808396955262444e-30
+
+sentence: will	be	in	the	water	office
+
+decoded: ['the', 'in', 'will', 'water', 'be', 'office']
+score: -4.090116489413543e-31
+
+sentence: and	is	by	for	the	term
+
+decoded: ['and', 'the', 'by', 'for', 'is', 'term']
+score: -4.365715342367612e-30
+
+sentence: agreed	it	should	more	state	its	in	and	on	the
+
+decoded: ['and', 'the', 'in', 'on', 'it', 'its', 'should', 'state', 'more', 'agreed']
+score: -8.458378925255132e-30
+
+sentence: and	to	the	right	hand	of
+
+decoded: ['of', 'and', 'to', 'the', 'hand', 'right']
+score: -8.414493674499633e-30
+
+sentence: show	that	one	out	of	three	has	vital	contact	with	the	church
+
+decoded: ['of', 'the', 'with', 'that', 'out', 'has', 'one', 'church', 'show', 'three', 'contact', 'vital']
+score: -5.362274838143041e-30
+
+sentence: this	light	we	need	churches	in	where	we	have
+
+decoded: ['in', 'have', 'this', 'we', 'where', 'light', 'we', 'need', 'churches']
+score: -2.302292643280052e-31
+
+sentence: we	need	in	we	have	none	he	said
+
+decoded: ['in', 'said', 'have', 'he', 'we', 'we', 'need', 'none']
+score: -1.7514260447948396e-31
+
+sentence: this	would	some	changes	in	methods	he	said
+
+decoded: ['in', 'said', 'he', 'would', 'this', 'some', 'changes', 'methods']
+score: -2.8858485936120376e-31
+
+sentence: by	every	means	all	of	churches	to	start	new	churches
+
+decoded: ['of', 'to', 'by', 'new', 'all', 'every', 'means', 'churches', 'start', 'churches']
+score: -3.0253803703240116e-30
+
+sentence: experienced	men	to	or	open	new	churches	in	population
+
+decoded: ['to', 'in', 'or', 'new', 'men', 'population', 'open', 'churches', 'experienced']
+score: -1.159637790140571e-30
+
+sentence: for	to	from	months	as	in	churches
+
+decoded: ['to', 'in', 'for', 'from', 'as', 'months', 'churches']
+score: -3.8864089198302934e-30
+
+sentence: throw	in	an	effort	to	was	wide	and	in	the	dirt
+
+decoded: ['in', 'the', 'to', 'in', 'effort', 'and', 'was', 'an', 'wide', 'throw']
+score: -1.810875873398314e-29
+
+sentence: were	getting	a	pair	and	one
+
+decoded: ['and', 'a', 'were', 'one', 'pair', 'getting']
+score: -3.7893262047856566e-31
+
+sentence: deep	into	the	hole	at	short	to	start	the
+
+decoded: ['the', 'to', 'the', 'at', 'into', 'deep', 'start', 'hole', 'short']
+score: -5.5827318300080455e-30
+
+sentence: a	long	to	left	center	to	score	both
+
+decoded: ['to', 'to', 'a', 'long', 'left', 'both', 'score']
+score: -3.360108533821429e-30
+
+sentence: on	the	in	the	went	like	this
+
+decoded: ['the', 'the', 'in', 'on', 'this', 'like', 'went']
+score: -5.743984925478458e-30
+
+sentence: was	a	difficult	chance	and	a	hit
+
+decoded: ['and', 'a', 'a', 'was', 'difficult', 'hit', 'chance']
+score: -1.072157888468382e-30
+
+sentence: to	to	setting	up	over	the	wall	in	left	center
+
+decoded: ['to', 'to', 'the', 'in', 'up', 'over', 'left', 'wall', 'setting']
+score: -3.030452577754616e-30
+
+sentence: who	the	high	of	and	drove	in	on	a
+
+decoded: ['of', 'and', 'the', 'in', 'on', 'a', 'who', 'high', 'drove']
+score: -6.3055717621081676e-30
+
+sentence: to	off	an	additional	eight	pounds	before	the	camp	three	weeks	hence
+
+decoded: ['to', 'the', 'off', 'an', 'before', 'eight', 'three', 'weeks', 'pounds', 'camp', 'additional', 'hence']
+score: -1.2594678145622969e-30
+
+sentence: was	the	first	of	two	by	who	was	in	a	to
+
+decoded: ['of', 'the', 'to', 'in', 'by', 'was', 'a', 'was', 'who', 'two', 'first']
+score: -1.9548469667102787e-29
+
+sentence: arrived	just	before	two	hours	late	in	company	with
+
+decoded: ['in', 'with', 'hours', 'before', 'company', 'two', 'just', 'arrived', 'late']
+score: -5.240081453931847e-31
+
+sentence: was	moving	up	to	the	department	after	a
+
+decoded: ['the', 'to', 'a', 'up', 'was', 'after', 'department', 'moving']
+score: -2.077016366276223e-30
+
+sentence: were	under	the	meet	mark	of	set	in	by
+
+decoded: ['of', 'the', 'in', 'by', 'were', 'under', 'set', 'mark', 'meet']
+score: -4.6927563495375674e-30
+
+sentence: shot	out	in	front	and	kept	the	lead	through	two	of	the
+
+decoded: ['of', 'the', 'and', 'the', 'in', 'out', 'through', 'two', 'front', 'lead', 'shot', 'kept']
+score: -2.091290651464584e-29
+
+sentence: his	left	in	the	last	game	of	the	season
+
+decoded: ['of', 'the', 'the', 'in', 'his', 'last', 'season', 'left', 'game']
+score: -1.3183001748198926e-29
+
+sentence: because	he	already	has	points	in
+
+decoded: ['in', 'has', 'he', 'because', 'points', 'already']
+score: -2.7864819696058584e-31
+
+sentence: started	on	it	in	spring	training
+
+decoded: ['in', 'on', 'it', 'training', 'started', 'spring']
+score: -5.094329323278645e-31
+
+sentence: came	to	in	but	his	efforts	were	by	a
+
+decoded: ['to', 'in', 'by', 'a', 'were', 'his', 'but', 'came', 'efforts']
+score: -2.917688256916508e-30
+
+sentence: went	into	the	in	and	returned	two	years	later
+
+decoded: ['and', 'the', 'in', 'into', 'years', 'two', 'went', 'later', 'returned']
+score: -3.0769162371765563e-30
+
+sentence: he	was	in	and	merely	present	last	season
+
+decoded: ['and', 'in', 'was', 'he', 'last', 'season', 'present', 'merely']
+score: -2.3235112978501774e-30
+
+sentence: you	get	the	feel	of	it	there's	not	much	to	it
+
+decoded: ['of', 'the', 'to', 'it', 'it', 'you', 'not', 'much', 'get', 'feel']
+score: -4.834487164691146e-30
+
+sentence: however	only	about	or	points	during	each	practice
+
+decoded: ['or', 'about', 'each', 'points', 'only', 'during', 'practice', 'however']
+score: -8.456539466511901e-33
+
+sentence: you	too	much	your	leg	gets	dead	he	explained
+
+decoded: ['you', 'he', 'your', 'leg', 'too', 'much', 'gets', 'explained', 'dead']
+score: -1.5081539624521627e-32
+
+sentence: he	now	has	yards	in	during	three
+
+decoded: ['in', 'has', 'he', 'now', 'during', 'three', 'yards']
+score: -2.397942324732874e-31
+
+sentence: he	had	four	in	the	top	four
+
+decoded: ['the', 'in', 'had', 'he', 'four', 'four', 'top']
+score: -8.140370789896352e-31
+
+sentence: needed	it	and	we	got	it
+
+decoded: ['and', 'it', 'it', 'we', 'got', 'needed']
+score: -1.4327265454584547e-31
+
+sentence: expressed	particular	at	the	of	end	and
+
+decoded: ['of', 'and', 'the', 'at', 'end', 'expressed', 'particular']
+score: -6.18543667438704e-30
+
+sentence: turned	in	top	for	the	second	straight	game
+
+decoded: ['the', 'in', 'for', 'turned', 'game', 'top', 'straight', 'second']
+score: -1.226707089697545e-30
+
+sentence: down	the	and	made	key	lots	of	times
+
+decoded: ['of', 'and', 'the', 'down', 'made', 'times', 'key', 'lots']
+score: -4.60909778896772e-30
+
+sentence: he	caused	the	that	set	up	our
+
+decoded: ['the', 'that', 'up', 'he', 'our', 'set', 'caused']
+score: -3.896544366955302e-31
+
+sentence: plays	on	the	in	the	late
+
+decoded: ['the', 'the', 'in', 'on', 'plays', 'late']
+score: -5.6137014012360736e-30
+
+sentence: soon	as	it	started	to	form	it	said
+
+decoded: ['to', 'it', 'as', 'said', 'it', 'form', 'started', 'soon']
+score: -7.948549537001096e-31
+
+sentence: really	him	he	it	for	a	loss
+
+decoded: ['for', 'a', 'it', 'him', 'he', 'loss', 'really']
+score: -4.593704859449714e-31
+
+sentence: just	lay	back	there	and	waited	for	it	said
+
+decoded: ['and', 'for', 'it', 'said', 'back', 'there', 'just', 'lay', 'waited']
+score: -8.290038727323838e-31
+
+sentence: almost	brought	it	back	all	the	way
+
+decoded: ['the', 'it', 'back', 'way', 'all', 'brought', 'almost']
+score: -1.1170427950453134e-30
+
+sentence: is	very	for	the	game	said
+
+decoded: ['the', 'for', 'is', 'said', 'game', 'very']
+score: -6.155201572629255e-31
+
+sentence: be	out	of	action	all	this	week
+
+decoded: ['of', 'out', 'this', 'be', 'all', 'action', 'week']
+score: -3.1981054509146727e-31
+
+sentence: has	not	played	since	a	in	the	with
+
+decoded: ['the', 'in', 'with', 'a', 'has', 'not', 'since', 'played']
+score: -3.704358422711861e-30
+
+sentence: looking	a	lot	better	and	he's	able	to	run	explained
+
+decoded: ['and', 'to', 'a', 'better', 'run', 'lot', 'explained', 'looking', 'able']
+score: -1.564197030887129e-30
+
+sentence: would	that	problem	just	as	we	head	that	way
+
+decoded: ['that', 'that', 'as', 'would', 'way', 'head', 'we', 'just', 'problem']
+score: -1.42941493457987e-30
+
+sentence: fact	our	whole	unit	did	a	good	job
+
+decoded: ['a', 'did', 'unit', 'our', 'job', 'good', 'fact', 'whole']
+score: -2.8967264272880165e-32
+
+sentence: won	the	game	through	ball	control	with	only
+
+decoded: ['the', 'with', 'through', 'control', 'only', 'ball', 'won', 'game']
+score: -2.1933945307057687e-31
+
+sentence: principal	in	the	ball	was	giving	it	to	the
+
+decoded: ['the', 'to', 'the', 'in', 'was', 'it', 'ball', 'giving', 'principal']
+score: -1.3333384380360158e-29
+
+sentence: has	the	best	defense	against	yards	per	game
+
+decoded: ['the', 'per', 'against', 'has', 'game', 'yards', 'best']
+score: -3.816530406060508e-32
+
+sentence: now	lead	by	a	full	game	on	top	of	the
+
+decoded: ['of', 'the', 'by', 'on', 'a', 'now', 'lead', 'game', 'top', 'full']
+score: -7.184703598884805e-30
+
+sentence: six	and	walked	only	in	the	third
+
+decoded: ['and', 'the', 'in', 'only', 'six', 'walked', 'third']
+score: -2.9890270166135976e-30
+
+sentence: then	moved	across	with	a	line	drive	to	left
+
+decoded: ['to', 'with', 'a', 'across', 'drive', 'line', 'left', 'then', 'moved']
+score: -1.2803338531534495e-30
+
+sentence: the	ball	over	the	left	for	the	third	run	in	the
+
+decoded: ['the', 'the', 'the', 'the', 'in', 'for', 'over', 'left', 'ball', 'run', 'third']
+score: -2.0662652383729366e-29
+
+sentence: was	the	first	night	game	and	an	obvious	of	the	are	in	order
+
+decoded: ['of', 'the', 'and', 'the', 'in', 'was', 'are', 'an', 'order', 'night', 'first', 'game', 'obvious']
+score: -1.979294232892322e-29
+
+sentence: was	well	but	the	was	much	too	dark
+
+decoded: ['the', 'was', 'was', 'but', 'well', 'too', 'much', 'dark']
+score: -3.990716753344362e-31
+
+sentence: is	still	by	a	side	and	will	miss	his	turn
+
+decoded: ['and', 'by', 'a', 'is', 'his', 'will', 'side', 'still', 'turn', 'miss']
+score: -1.827672208311924e-30
+
+sentence: was	on	with	his	fourth	single	of	the	game	a	to	center
+
+decoded: ['of', 'the', 'to', 'with', 'on', 'a', 'was', 'his', 'game', 'single', 'fourth']
+score: -1.442465362050463e-29
+
+sentence: came	all	the	way	around	on	hit	before
+
+decoded: ['the', 'on', 'around', 'way', 'all', 'before', 'came', 'hit']
+score: -5.192749351042767e-31
+
+sentence: was	second	run	in	of	the	game	and	his	only	ones	of	the	year
+
+decoded: ['of', 'of', 'the', 'and', 'the', 'in', 'was', 'his', 'year', 'only', 'run', 'game', 'ones', 'second']
+score: -5.452845598763197e-29
+
+sentence: said	night	he	was	through	playing	baseball
+
+decoded: ['was', 'said', 'through', 'he', 'night', 'playing']
+score: -4.840199743240512e-32
+
+sentence: was	the	first	word	from	on	his
+
+decoded: ['the', 'on', 'from', 'was', 'his', 'word', 'first']
+score: -9.495200975990346e-31
+
+sentence: got	only	six	in	for	a	average	in	the	first
+
+decoded: ['in', 'the', 'in', 'for', 'a', 'only', 'got', 'first', 'average', 'six']
+score: -9.559419576858911e-30
+
+sentence: of	the	went	to	his	to	talk	with	him
+
+decoded: ['to', 'of', 'the', 'to', 'with', 'his', 'him', 'went', 'talk']
+score: -6.680227372839889e-30
+
+sentence: said	to	don't	think	you	want	to	talk	to	him
+
+decoded: ['to', 'to', 'to', 'said', 'you', 'him', 'think', 'want', 'talk']
+score: -7.040703951041486e-30
+
+sentence: probably	get	a	ball	on	the	head
+
+decoded: ['the', 'on', 'a', 'head', 'ball', 'get', 'probably']
+score: -8.77684406492822e-31
+
+sentence: walked	up	to	him	at	the	stand
+
+decoded: ['to', 'the', 'up', 'at', 'him', 'stand', 'walked']
+score: -1.768219115919686e-30
+
+sentence: told	him	who	was	and	he	was	quite	cold
+
+decoded: ['and', 'was', 'was', 'who', 'him', 'he', 'told', 'cold', 'quite']
+score: -1.4673191811787547e-30
+
+sentence: said	he	had	never	talked	to
+
+decoded: ['to', 'had', 'said', 'he', 'never', 'talked']
+score: -5.323357551693924e-31
+
+sentence: is	baseball	writer	for	the	who	as	saying
+
+decoded: ['the', 'for', 'is', 'as', 'who', 'saying', 'writer']
+score: -5.986093250853152e-31
+
+sentence: the	two	the	probably	reached	the	most
+
+decoded: ['the', 'the', 'the', 'two', 'most', 'reached', 'probably']
+score: -5.391177373119248e-30
+
+sentence: and	happy	off	his	new	as	one	of	those	good	days
+
+decoded: ['of', 'and', 'as', 'his', 'off', 'days', 'new', 'one', 'those', 'good', 'happy']
+score: -5.299653803157537e-30
+
+sentence: only	two	did	it	before	a	home	audience
+
+decoded: ['a', 'it', 'before', 'home', 'did', 'two', 'only', 'audience']
+score: -2.534363087377185e-31
+
+sentence: big	day	the	running	argument	about	the	of	and
+
+decoded: ['of', 'the', 'and', 'the', 'about', 'day', 'argument', 'running', 'big']
+score: -1.26206988826953e-29
+
+sentence: record	books	however	would	favor	the
+
+decoded: ['the', 'would', 'record', 'books', 'however']
+score: -5.679712774241537e-32
+
+sentence: they	were	to	do	anything	about	the	policy
+
+decoded: ['to', 'the', 'were', 'about', 'they', 'do', 'policy', 'anything']
+score: -1.3061951851129752e-30
+
+sentence: are	two	more	when	the	situation	will
+
+decoded: ['the', 'are', 'will', 'when', 'more', 'two', 'situation']
+score: -6.015020587256355e-31
+
+sentence: crowd	of	had	only	two	to
+
+decoded: ['of', 'to', 'had', 'two', 'only', 'crowd']
+score: -1.6171632223536737e-30
+
+sentence: received	a	at	a	believed	to	be	between	and	a	year
+
+decoded: ['and', 'to', 'a', 'a', 'a', 'at', 'between', 'be', 'year', 'received', 'believed']
+score: -8.412292055876627e-30
+
+sentence: who	at	the	end	of	last	season
+
+decoded: ['of', 'the', 'at', 'who', 'end', 'last', 'season']
+score: -2.287497583384487e-30
+
+sentence: the	past	the	club	largely	on
+
+decoded: ['the', 'the', 'on', 'club', 'past', 'largely']
+score: -3.7960381599794168e-31
+
+sentence: remained	there	for	four	years	before	moving	to	in
+
+decoded: ['to', 'in', 'for', 'years', 'before', 'there', 'four', 'remained', 'moving']
+score: -3.2303008937732955e-30
+
+sentence: was	there	one	season	before	the	as	an
+
+decoded: ['the', 'was', 'as', 'an', 'before', 'one', 'there', 'season']
+score: -7.8787614070895205e-31
+
+sentence: years	later	he	to	take	a	similar	job	with	the
+
+decoded: ['the', 'to', 'with', 'a', 'years', 'he', 'job', 'later', 'similar', 'take']
+score: -3.229676574041374e-30
+
+sentence: will	go	the	as	the	player	of	the	year
+
+decoded: ['the', 'the', 'of', 'the', 'as', 'will', 'year', 'player', 'go']
+score: -1.3081656852452351e-29
+
+sentence: goal	was	to	a	team	for	this	city
+
+decoded: ['to', 'for', 'a', 'was', 'this', 'city', 'team', 'goal']
+score: -1.2311664597576339e-30
+
+sentence: of	the	and	the	to	left	with	only	the
+
+decoded: ['the', 'of', 'the', 'and', 'to', 'the', 'with', 'only', 'left']
+score: -1.9117819262469995e-29
+
+sentence: and	his	wife	make	their	home	at
+
+decoded: ['and', 'at', 'his', 'their', 'home', 'wife', 'make']
+score: -3.6594366724542053e-31
+
+sentence: played	there	while	working	toward	a	law	degree
+
+decoded: ['a', 'law', 'there', 'while', 'working', 'degree', 'played']
+score: -2.897736415707663e-32
+
+sentence: was	the	for	old	in	the
+
+decoded: ['the', 'the', 'in', 'for', 'was', 'old']
+score: -6.952140051833932e-30
+
+sentence: was	quiet	in	the	office	of	the	and	the	local
+
+decoded: ['the', 'of', 'the', 'and', 'the', 'in', 'was', 'office', 'local', 'quiet']
+score: -2.8774312194304624e-29
+
+sentence: is	in	line	for	a	big
+
+decoded: ['in', 'for', 'a', 'is', 'line', 'big']
+score: -9.735719896322812e-31
+
+sentence: dinner	will	be	held	at	the
+
+decoded: ['the', 'at', 'will', 'be', 'dinner', 'held']
+score: -2.2069983505036824e-31
+
+sentence: has	been	a	figure	in	over	the	past	months
+
+decoded: ['the', 'in', 'a', 'over', 'has', 'been', 'figure', 'months', 'past']
+score: -2.3708285130961292e-30
+
+sentence: won	the	the	and	a	record	in	money
+
+decoded: ['the', 'and', 'the', 'in', 'a', 'record', 'money', 'won']
+score: -8.744649200971866e-30
+
+sentence: he	also	achieved	something	that	him	to	every	who	ever	a	shot
+
+decoded: ['to', 'that', 'a', 'who', 'him', 'he', 'also', 'every', 'something', 'shot', 'ever', 'achieved']
+score: -1.864842094940045e-30
+
+sentence: couple	of	weeks	ago	he	a	on	a	hole
+
+decoded: ['of', 'a', 'on', 'a', 'he', 'weeks', 'ago', 'hole', 'couple']
+score: -5.945288462389852e-31
+
+sentence: was	neither	a	spirit	of	nor	a	to	the	that
+
+decoded: ['of', 'the', 'to', 'a', 'that', 'a', 'was', 'spirit', 'nor', 'neither']
+score: -1.275403837192761e-29
+
+sentence: merely	became	by	a	form	of	that	no	one	and	all
+
+decoded: ['of', 'and', 'by', 'that', 'a', 'no', 'all', 'form', 'one', 'became', 'merely']
+score: -8.255865002410546e-30
+
+sentence: the	and	the	took	over	while	the	in	the	distance
+
+decoded: ['the', 'the', 'the', 'and', 'the', 'in', 'over', 'took', 'while', 'distance']
+score: -4.040329768897479e-29
+
+sentence: the	narrow	of	a	hole	into	his	second	shot
+
+decoded: ['of', 'the', 'a', 'into', 'his', 'shot', 'hole', 'second', 'narrow']
+score: -9.870178200507085e-32
+
+sentence: ball	went	off	in	a	an
+
+decoded: ['in', 'a', 'off', 'an', 'went', 'ball']
+score: -1.513556034838871e-31
+
+sentence: tried	again	and	once	more	out	of
+
+decoded: ['of', 'and', 'out', 'more', 'again', 'once', 'tried']
+score: -2.6955137803632107e-30
+
+sentence: the	next	two	out	of	on	the	opposite	side
+
+decoded: ['the', 'of', 'the', 'on', 'out', 'side', 'two', 'next', 'opposite']
+score: -6.411631104325837e-30
+
+sentence: of	the	four	cost	him	two
+
+decoded: ['of', 'the', 'him', 'two', 'four', 'cost']
+score: -7.822132098953073e-32
+
+sentence: at	one	stage	of	his	project
+
+decoded: ['of', 'at', 'his', 'one', 'project', 'stage']
+score: -6.104917362593355e-31
+
+sentence: were	there	any	rules	to	save	him
+
+decoded: ['to', 'were', 'him', 'save', 'rules', 'any', 'there']
+score: -3.8696407469345895e-31
+
+sentence: sent	for	the	secretary	of	the
+
+decoded: ['of', 'the', 'the', 'for', 'secretary', 'sent']
+score: -5.135557898026568e-30
+
+sentence: even	into	the	rules	when	he	is	sure	he's	right
+
+decoded: ['the', 'is', 'into', 'he', 'when', 'rules', 'right', 'even', 'sure']
+score: -3.275443802996003e-31
+
+sentence: how	he	first	won	the	in
+
+decoded: ['the', 'in', 'he', 'how', 'first', 'won']
+score: -6.704214475412733e-31
+
+sentence: wrong	said	a	man	who	knows	the	rules
+
+decoded: ['the', 'a', 'said', 'who', 'man', 'rules', 'wrong', 'knows']
+score: -4.403645283175139e-31
+
+sentence: a	for	the	ball	a	with	the	one
+
+decoded: ['the', 'the', 'with', 'a', 'for', 'a', 'one', 'ball']
+score: -1.5235080062801223e-29
+
+sentence: this	would	require	a	of	the	season	from	to	weeks
+
+decoded: ['of', 'the', 'to', 'from', 'a', 'would', 'this', 'season', 'weeks', 'require']
+score: -8.653910171425655e-30
+
+sentence: have	the	problem	of	baseball	at	one	end	and	weather	at	the	other
+
+decoded: ['of', 'the', 'and', 'the', 'at', 'at', 'have', 'one', 'end', 'other', 'problem', 'weather']
+score: -1.6635781651640064e-29
+
+sentence: of	the	play	in	baseball	and	therefore	face	an	in
+
+decoded: ['of', 'and', 'in', 'the', 'in', 'an', 'face', 'play', 'therefore']
+score: -1.2612501916671938e-29
+
+sentence: is	the	team	to	beat	said	here	the	other	day
+
+decoded: ['the', 'to', 'the', 'is', 'said', 'day', 'team', 'other', 'here', 'beat']
+score: -3.6334967227119826e-30
+
+sentence: showed	they	could	the	field	last	year
+
+decoded: ['the', 'field', 'could', 'year', 'they', 'last', 'showed']
+score: -7.045546090717747e-32
+
+sentence: have	a	record	this	year	and	the	are
+
+decoded: ['and', 'the', 'a', 'are', 'have', 'this', 'year', 'record']
+score: -4.088442365064261e-30
+
+sentence: desire	to	give	as	many	as	possible
+
+decoded: ['to', 'as', 'as', 'possible', 'many', 'give', 'desire']
+score: -2.092483652452773e-31
+
+sentence: has	a	record	against	the	despite	only	a	mark	in
+
+decoded: ['the', 'in', 'a', 'a', 'against', 'has', 'only', 'record', 'mark', 'despite']
+score: -4.945117054481311e-30
+
+sentence: said	he	hadn't	decided	between	and	for	game
+
+decoded: ['and', 'for', 'between', 'said', 'he', 'game', 'decided']
+score: -8.349082633186085e-31
+
+sentence: have	to	stay	with	for	a	while	said
+
+decoded: ['to', 'with', 'for', 'a', 'said', 'have', 'while', 'stay']
+score: -5.739192299828305e-31
+
+sentence: a	going	for	may	use	in	center
+
+decoded: ['in', 'for', 'a', 'may', 'use', 'going']
+score: -8.385431504493462e-31
+
+sentence: should	be	getting	back	in	the	before	long
+
+decoded: ['the', 'in', 'back', 'be', 'before', 'should', 'long', 'getting']
+score: -5.407564390274534e-31
+
+sentence: is	much	better	than	it	has	shown
+
+decoded: ['is', 'it', 'has', 'than', 'much', 'better', 'shown']
+score: -5.918837180198669e-32
+
+sentence: with	and	with	were	the	only	their	feet
+
+decoded: ['and', 'with', 'the', 'with', 'were', 'their', 'only', 'feet']
+score: -3.500128566099711e-30
+
+sentence: the	club	has	been	below	on	just	four	times
+
+decoded: ['the', 'on', 'has', 'club', 'times', 'been', 'just', 'four', 'below']
+score: -2.0207654196779606e-31
+
+sentence: boys	had	a	respect	for	each
+
+decoded: ['for', 'a', 'had', 'each', 'boys', 'respect']
+score: -1.3390807952322425e-31
+
+sentence: sports	editor	of	the	presented	with	his
+
+decoded: ['of', 'the', 'with', 'his', 'sports', 'presented', 'editor']
+score: -9.797943558370277e-32
+
+sentence: found	a	way	to	a	baseball	game
+
+decoded: ['to', 'a', 'a', 'way', 'found', 'game']
+score: -1.8711368613112267e-31
+
+sentence: was	the	first	of	the	season	for	the	after	nine	and	a
+
+decoded: ['the', 'of', 'the', 'and', 'the', 'for', 'a', 'was', 'after', 'season', 'first', 'nine']
+score: -3.0387774440331577e-29
+
+sentence: game	opened	a	busy	week	for
+
+decoded: ['for', 'a', 'week', 'game', 'opened', 'busy']
+score: -2.030240962090504e-32
+
+sentence: that's	meant	as	a	not	a
+
+decoded: ['a', 'a', 'as', 'not', 'meant']
+score: -5.702508537426773e-31
+
+sentence: truth	is	though	that	men	to	different	treatment
+
+decoded: ['to', 'that', 'is', 'treatment', 'men', 'different', 'though', 'truth']
+score: -1.022467926301153e-30
+
+sentence: decided	that	rather	than	be	led	the	could	lead
+
+decoded: ['the', 'that', 'than', 'be', 'could', 'rather', 'lead', 'led', 'decided']
+score: -4.884436637253587e-31
+
+sentence: what	leadership	a	has	given	so	far
+
+decoded: ['a', 'has', 'what', 'so', 'given', 'leadership', 'far']
+score: -1.5499216276538337e-32
+
+sentence: day	came	a	day	earlier	for	than	for	the	and	this	year
+
+decoded: ['and', 'the', 'for', 'for', 'a', 'than', 'day', 'this', 'day', 'year', 'came', 'earlier']
+score: -8.895590201765947e-30
+
+sentence: the	families	and	a	dozen	close	friends	will	be	present
+
+decoded: ['the', 'and', 'a', 'will', 'families', 'be', 'close', 'friends', 'present', 'dozen']
+score: -8.833511201884848e-32
+
+sentence: brother	will	give	her	in	marriage
+
+decoded: ['in', 'her', 'will', 'marriage', 'brother', 'give']
+score: -6.987851064737863e-32
+
+sentence: the	small	group	will	be	the	and
+
+decoded: ['the', 'and', 'the', 'will', 'group', 'be', 'small']
+score: -6.777347709397553e-30
+
+sentence: and	his	brother	and	his	wife	who	will	from
+
+decoded: ['and', 'and', 'from', 'his', 'his', 'who', 'will', 'wife', 'brother']
+score: -2.048068909083154e-30
+
+sentence: present	will	be	the	children	and
+
+decoded: ['and', 'the', 'will', 'be', 'children', 'present']
+score: -6.9242843269261864e-31
+
+sentence: children	were	here	for	the	and	can't	return
+
+decoded: ['and', 'the', 'for', 'were', 'children', 'here', 'return']
+score: -2.492831035235491e-30
+
+sentence: and	his	bride	will	live	in	his	house
+
+decoded: ['and', 'in', 'his', 'his', 'will', 'house', 'live']
+score: -1.6093920762201616e-30
+
+sentence: small	reception	will	follow	in	the	hotel
+
+decoded: ['the', 'in', 'will', 'hotel', 'small', 'reception', 'follow']
+score: -5.137412954477808e-31
+
+sentence: will	not	come	from	for	the
+
+decoded: ['the', 'for', 'from', 'will', 'not', 'come']
+score: -1.0547748168608223e-30
+
+sentence: of	will	give	his	in	marriage
+
+decoded: ['of', 'in', 'his', 'will', 'marriage', 'give']
+score: -1.3255092412848909e-30
+
+sentence: instance	has	three	groups	of	interested	in	coming	here
+
+decoded: ['of', 'in', 'has', 'groups', 'three', 'here', 'coming', 'interested', 'instance']
+score: -1.50918093448938e-30
+
+sentence: even	going	to	try	to	get	the	of
+
+decoded: ['to', 'of', 'to', 'the', 'even', 'try', 'going', 'get']
+score: -1.2136722370805502e-29
+
+sentence: the	daughter	in	the	the	next	night
+
+decoded: ['the', 'the', 'the', 'in', 'night', 'daughter', 'next']
+score: -1.437604719069154e-29
+
+sentence: already	has	her	and	it's	says	her	mother
+
+decoded: ['and', 'her', 'her', 'has', 'says', 'mother', 'already']
+score: -1.5909281603350938e-31
+
+sentence: supper	dance	in	the	will	wind	up	the	day
+
+decoded: ['the', 'the', 'in', 'up', 'will', 'day', 'dance', 'wind']
+score: -5.359625655900472e-30
+
+sentence: who	now	live	in	are	telling	friends	of	the
+
+decoded: ['of', 'the', 'in', 'are', 'who', 'now', 'friends', 'live', 'telling']
+score: -5.750642816748288e-30
+
+sentence: who	is	with	a	firm	many	books	from	into
+
+decoded: ['with', 'from', 'a', 'is', 'into', 'who', 'books', 'firm', 'many']
+score: -7.079201875187651e-31
+
+sentence: soon	as	he	ain't	talking	yet
+
+decoded: ['as', 'he', 'yet', 'soon', 'talking']
+score: -1.5987700760039712e-33
+
+sentence: watch	for	a	from	this	pair	any	time	now
+
+decoded: ['for', 'from', 'a', 'this', 'time', 'now', 'any', 'watch', 'pair']
+score: -2.918699046873495e-31
+
+sentence: at	the	same	has	something	to	cry	about
+
+decoded: ['to', 'the', 'at', 'about', 'has', 'something', 'cry', 'same']
+score: -1.5563596133179836e-30
+
+sentence: top	film	makes	an	honest	man	out	of	this	column
+
+decoded: ['of', 'out', 'an', 'man', 'this', 'column', 'film', 'makes', 'top', 'honest']
+score: -5.232431520360513e-31
+
+sentence: was	a	favorite	date	of	many	of	for	years
+
+decoded: ['of', 'of', 'for', 'a', 'was', 'years', 'date', 'many']
+score: -1.2659929496143753e-29
+
+sentence: is	no	such	thing	as	an	telephone	building	drive
+
+decoded: ['is', 'as', 'no', 'an', 'drive', 'such', 'building', 'thing', 'telephone']
+score: -6.702970890436845e-32
+
+sentence: if	anybody	by	phone	make	sure	you	the	to	the	above
+
+decoded: ['the', 'the', 'to', 'by', 'you', 'if', 'above', 'make', 'phone', 'sure', 'anybody']
+score: -8.302304999119725e-30
+
+sentence: when	you	buy	today	for	the
+
+decoded: ['the', 'for', 'you', 'when', 'today', 'buy']
+score: -7.606719998589874e-31
+
+sentence: off	is	tomorrow	night	when	the	meet	in	their	season	home
+
+decoded: ['the', 'in', 'is', 'off', 'their', 'when', 'home', 'night', 'season', 'tomorrow', 'meet']
+score: -1.6092816091500225e-30
+
+sentence: is	a	guy	with	a	rare	sense	of	humor
+
+decoded: ['of', 'with', 'a', 'a', 'is', 'sense', 'guy', 'rare']
+score: -4.843516550427604e-30
+
+sentence: of	is	several	days	in	her	apartment
+
+decoded: ['of', 'in', 'is', 'her', 'days', 'several']
+score: -2.38475824458028e-30
+
+sentence: are	leaving	soon	for	their	new	post
+
+decoded: ['for', 'are', 'their', 'new', 'post', 'soon', 'leaving']
+score: -1.7996089704591712e-32
+
+sentence: were	in	the	public	high	schools
+
+decoded: ['the', 'in', 'were', 'high', 'schools', 'public']
+score: -3.731797511256414e-31
+
+sentence: is	and	is	in	charge	of
+
+decoded: ['of', 'and', 'in', 'is', 'is', 'charge']
+score: -1.6423535881594682e-29
+
+sentence: first	committee	meeting	will	be	held	on
+
+decoded: ['on', 'will', 'be', 'committee', 'meeting', 'first', 'held']
+score: -8.024201616607439e-32
+
+sentence: smile	a	interest	in	others	and	a	practical	approach
+
+decoded: ['and', 'in', 'a', 'a', 'approach', 'interest', 'smile', 'others', 'practical']
+score: -1.9740939563761613e-30
+
+sentence: position	covers	a	number	of	daily	common	to	any	social	director
+
+decoded: ['of', 'to', 'a', 'position', 'director', 'any', 'number', 'common', 'social', 'daily', 'covers']
+score: -1.540369266685464e-30
+
+sentence: job	also	covers	a	number	of	other
+
+decoded: ['of', 'a', 'number', 'also', 'other', 'job', 'covers']
+score: -5.3919933586400005e-31
+
+sentence: has	worked	out	an	entire	program	to	this	using	the	facilities	of	the	center
+
+decoded: ['of', 'the', 'the', 'to', 'out', 'has', 'an', 'this', 'facilities', 'using', 'program', 'worked', 'entire']
+score: -1.7621714681422796e-29
+
+sentence: become	the	greatest	in	the	world
+
+decoded: ['the', 'the', 'in', 'world', 'become', 'greatest']
+score: -3.7395648899305316e-30
+
+sentence: where	is	home	that	place	of	the	heart
+
+decoded: ['of', 'the', 'that', 'is', 'home', 'place', 'where', 'heart']
+score: -4.38086683859036e-30
+
+sentence: is	where	we	turn	in	the	good	old
+
+decoded: ['the', 'in', 'is', 'where', 'old', 'we', 'good', 'turn']
+score: -1.2546706661976293e-30
+
+sentence: isn't	the	industry	but	it	certainly	looks	that	way	from	the
+
+decoded: ['the', 'the', 'that', 'from', 'it', 'but', 'way', 'industry', 'looks', 'certainly']
+score: -9.48791391459355e-30
+
+sentence: are	for	all	purposes	and	all
+
+decoded: ['and', 'for', 'are', 'all', 'all', 'purposes']
+score: -1.2850589819177987e-30
+
+sentence: are	even	for	local	weather	in	as	discovered
+
+decoded: ['in', 'for', 'as', 'are', 'local', 'even', 'weather', 'discovered']
+score: -1.114343045252021e-30
+
+sentence: even	two	one	for	and	one	for	children
+
+decoded: ['and', 'for', 'for', 'one', 'one', 'children', 'two', 'even']
+score: -1.962617416949987e-30
+
+sentence: and	the	bride	was	given	in	marriage	by	her	father
+
+decoded: ['and', 'the', 'in', 'by', 'was', 'her', 'father', 'marriage', 'given']
+score: -3.095548851183167e-30
+
+sentence: bride	was	given	in	marriage	by	her	father
+
+decoded: ['in', 'by', 'was', 'her', 'father', 'marriage', 'given']
+score: -5.030976437283916e-31
+
+sentence: was	caught	to	a	and	she	carried	and
+
+decoded: ['and', 'and', 'to', 'a', 'was', 'she', 'carried', 'caught']
+score: -1.2423594944113659e-29
+
+sentence: and	both	of	and	of	guests
+
+decoded: ['of', 'of', 'and', 'and', 'both', 'guests']
+score: -3.1725642849746246e-29
+
+sentence: will	live	at	after	a	trip	to
+
+decoded: ['to', 'a', 'at', 'will', 'after', 'trip', 'live']
+score: -1.4897655132326711e-30
+
+sentence: presented	music	and	the	bride	was	given	in	marriage	by	her	father
+
+decoded: ['and', 'the', 'in', 'by', 'was', 'her', 'music', 'father', 'marriage', 'given', 'presented']
+score: -3.2662498208678404e-30
+
+sentence: was	caught	to	a	and	she	carried	and
+
+decoded: ['and', 'and', 'to', 'a', 'was', 'she', 'carried', 'caught']
+score: -1.2423594944113659e-29
+
+sentence: reception	was	held	at	the	church
+
+decoded: ['the', 'at', 'was', 'church', 'held', 'reception']
+score: -3.0036978458752833e-31
+
+sentence: are	a	number	of	under	our
+
+decoded: ['of', 'a', 'are', 'under', 'number', 'our']
+score: -9.791230567279295e-31
+
+sentence: we	can't	tell	it	all	now	and	then	have	no	new	later
+
+decoded: ['and', 'it', 'have', 'no', 'new', 'all', 'now', 'we', 'then', 'later', 'tell']
+score: -6.9140761577742874e-31
+
+sentence: says	of	course	had	the	best
+
+decoded: ['of', 'the', 'had', 'says', 'course', 'best']
+score: -4.6630888763579e-31
+
+sentence: addition	to	the	guests	pay	the	cost	of	their
+
+decoded: ['the', 'of', 'the', 'to', 'their', 'pay', 'cost', 'guests', 'addition']
+score: -1.0208510124801755e-29
+
+sentence: business	this	little	business	say	the	members
+
+decoded: ['the', 'this', 'business', 'little', 'members', 'business', 'say']
+score: -3.2530248628991967e-31
+
+sentence: most	of	the	years	the	operation	was	under	direction
+
+decoded: ['of', 'the', 'the', 'was', 'years', 'under', 'operation', 'most', 'direction']
+score: -1.7334631980417906e-30
+
+sentence: the	past	few	years	the	men	mostly	of	members	have	taken	an	interest
+
+decoded: ['the', 'of', 'the', 'have', 'years', 'an', 'men', 'interest', 'members', 'past', 'taken', 'few', 'mostly']
+score: -6.0218975509830244e-30
+
+sentence: is	of	the	committee	for	the
+
+decoded: ['of', 'the', 'the', 'for', 'is', 'committee']
+score: -6.745652235877746e-30
+
+sentence: fashion	show	by	will	have	as
+
+decoded: ['by', 'as', 'have', 'will', 'show', 'fashion']
+score: -1.1587452460961992e-31
+
+sentence: party	for	of	the	and	for	the	is	set	for
+
+decoded: ['of', 'the', 'and', 'for', 'the', 'for', 'for', 'is', 'party', 'set']
+score: -1.568833974062589e-29
+
+sentence: will	be	open	to	the	public	the	following	day
+
+decoded: ['the', 'to', 'the', 'will', 'be', 'day', 'open', 'public', 'following']
+score: -2.6847844520026604e-30
+
+sentence: will	the	members	of	her	on
+
+decoded: ['of', 'the', 'on', 'her', 'will', 'members']
+score: -2.371991450228549e-30
+
+sentence: at	a	at	her	home	on
+
+decoded: ['at', 'on', 'a', 'at', 'her', 'home']
+score: -1.2518277110696465e-30
+
+sentence: and	will	return	next	week	from
+
+decoded: ['and', 'from', 'will', 'week', 'next', 'return']
+score: -3.4744535566096366e-31
+
+sentence: will	the	members	of	her	at	her	home	on
+
+decoded: ['of', 'the', 'on', 'at', 'her', 'her', 'will', 'home', 'members']
+score: -3.967622819297264e-30
+
+sentence: marriage	will	be	quietly	in	early
+
+decoded: ['in', 'will', 'be', 'marriage', 'early', 'quietly']
+score: -6.714593296957012e-32
+
+sentence: will	at	a	at	o'clock	in	the	early	afternoon
+
+decoded: ['the', 'in', 'at', 'a', 'at', 'will', 'early', 'afternoon', "o'clock"]
+score: -5.32200675687896e-30
+
+sentence: will	be	accomplished	in	two	ways
+
+decoded: ['in', 'will', 'be', 'two', 'ways']
+score: -5.658735765310426e-32
+
+sentence: are	about	officers	and	employees	in	this	class
+
+decoded: ['and', 'in', 'are', 'about', 'this', 'class', 'officers', 'employees']
+score: -2.1653359940957352e-30
+
+sentence: was	when	he	to	stop	the
+
+decoded: ['to', 'the', 'was', 'he', 'when', 'stop']
+score: -1.731352351276226e-30
+
+sentence: girl	was	in	critical	condition	with	over	per	cent	of	her	body
+
+decoded: ['of', 'in', 'with', 'was', 'over', 'per', 'her', 'condition', 'cent', 'body', 'girl', 'critical']
+score: -6.28608516026113e-30
+
+sentence: boy	received	of	the	face	neck	and	back
+
+decoded: ['of', 'and', 'the', 'back', 'face', 'boy', 'received', 'neck']
+score: -2.8700727717311087e-30
+
+sentence: condition	was	reported	to	be	fair
+
+decoded: ['to', 'was', 'be', 'condition', 'reported', 'fair']
+score: -5.528802276837094e-32
+
+sentence: write	what	you	tell	me	to
+
+decoded: ['to', 'me', 'you', 'what', 'tell', 'write']
+score: -3.454371345005806e-31
+
+sentence: at	the	hospital	said	he	was	on	the	right	side
+
+decoded: ['the', 'the', 'on', 'was', 'at', 'said', 'he', 'hospital', 'side', 'right']
+score: -5.579773407550829e-30
+
+sentence: condition	was	said	to	be	fair
+
+decoded: ['to', 'was', 'said', 'be', 'condition', 'fair']
+score: -2.0382693612137672e-31
+
+sentence: called	of	the	shop	who	police	and	an
+
+decoded: ['of', 'and', 'the', 'who', 'an', 'called', 'police', 'shop']
+score: -3.661778552543999e-30
+
+sentence: said	the	snow	plan	was	put	in	effect	too	slowly	in
+
+decoded: ['in', 'the', 'in', 'was', 'said', 'effect', 'plan', 'too', 'put', 'slowly', 'snow']
+score: -3.593459678996563e-30
+
+sentence: should	be	in	operation	almost	immediately	after	the	first	said
+
+decoded: ['the', 'in', 'said', 'be', 'after', 'should', 'operation', 'first', 'almost', 'immediately']
+score: -8.958058795647903e-31
+
+sentence: said	that	operations	continued	through	the	week
+
+decoded: ['the', 'that', 'said', 'through', 'operations', 'week', 'continued']
+score: -3.8181950236107073e-31
+
+sentence: had	been	shot	in	the	back	several	times	with	a
+
+decoded: ['the', 'in', 'with', 'a', 'had', 'back', 'times', 'been', 'shot', 'several']
+score: -1.7805728386178024e-30
+
+sentence: said	the	boy	will	have	a	in
+
+decoded: ['the', 'in', 'a', 'said', 'have', 'will', 'boy']
+score: -2.0994760688551754e-30
+
+sentence: husband	was	on	the	kitchen	floor	police	said
+
+decoded: ['the', 'on', 'was', 'said', 'police', 'floor', 'husband', 'kitchen']
+score: -3.666683565739666e-31
+
+sentence: of	the	car	was	immediately	throughout	on	police	radio
+
+decoded: ['of', 'the', 'on', 'was', 'car', 'police', 'radio', 'throughout', 'immediately']
+score: -1.1422516064145874e-30
+
+sentence: said	the	boys	are	natural	and	were	as	small	children	by	the
+
+decoded: ['the', 'and', 'the', 'by', 'are', 'as', 'were', 'said', 'children', 'boys', 'small', 'natural']
+score: -1.2563235487923163e-29
+
+sentence: that	a	will	be	held	in	his	office	next
+
+decoded: ['in', 'that', 'a', 'his', 'will', 'be', 'office', 'held', 'next']
+score: -8.806177519907254e-31
+
+sentence: was	from	the	of	of	in
+
+decoded: ['of', 'of', 'the', 'in', 'from', 'was']
+score: -2.1930405538726483e-29
+
+sentence: years	later	he	was	the	degree	in	law
+
+decoded: ['the', 'in', 'was', 'years', 'he', 'law', 'later', 'degree']
+score: -1.0650627485620067e-30
+
+sentence: and	heavy	at	down	per	cent
+
+decoded: ['and', 'at', 'down', 'per', 'cent', 'heavy']
+score: -1.362318312860763e-32
+
+sentence: and	heavy	at	down	per	cent
+
+decoded: ['and', 'at', 'down', 'per', 'cent', 'heavy']
+score: -1.362318312860763e-32
+
+sentence: building	consists	of	houses	and	other	buildings	designed	for	shelter
+
+decoded: ['of', 'and', 'for', 'houses', 'building', 'other', 'buildings', 'designed', 'consists']
+score: -6.499803413304353e-31
+
+sentence: is	therefore	the	key	to	the	market	today
+
+decoded: ['the', 'to', 'the', 'is', 'market', 'today', 'key', 'therefore']
+score: -3.5818307719926354e-30
+
+sentence: living	units	are	being	added	to	the	in	the	section
+
+decoded: ['the', 'to', 'the', 'in', 'are', 'section', 'units', 'being', 'added', 'living']
+score: -7.51457664745238e-30
+
+sentence: the	development	will	units	in	and
+
+decoded: ['and', 'the', 'in', 'will', 'development', 'units']
+score: -2.9170332215143295e-30
+
+sentence: which	are	reached	by	walking	up	a	single	flight	of	stairs	have
+
+decoded: ['of', 'by', 'a', 'up', 'are', 'which', 'have', 'flight', 'walking', 'single', 'reached', 'stairs']
+score: -4.314160775604715e-30
+
+sentence: the	are	of	and	frame	construction
+
+decoded: ['of', 'and', 'the', 'are', 'construction', 'frame']
+score: -5.586661331298692e-30
+
+sentence: is	by	individual	forced	warm	air	systems
+
+decoded: ['by', 'is', 'systems', 'air', 'individual', 'forced', 'warm']
+score: -5.349439691722066e-34
+
+sentence: is	a	that	is	a	of	enemy
+
+decoded: ['of', 'a', 'is', 'that', 'a', 'is', 'enemy']
+score: -8.147230675914245e-30
+
+sentence: are	of	out	of	over	which	they	kept	guard
+
+decoded: ['of', 'of', 'out', 'are', 'over', 'which', 'they', 'kept', 'guard']
+score: -7.928056882320924e-30
+
+sentence: couple	who	call	themselves	and	wife
+
+decoded: ['and', 'who', 'themselves', 'call', 'wife', 'couple']
+score: -8.966603096742046e-32
+
+sentence: is	money	said	for	the	office
+
+decoded: ['the', 'for', 'is', 'said', 'office', 'money']
+score: -5.947894033780526e-31
+
+sentence: information	he	said	would	have	been	of	the	value	to	a	enemy
+
+decoded: ['of', 'the', 'to', 'a', 'said', 'have', 'he', 'would', 'value', 'information', 'been', 'enemy']
+score: -6.168133285882452e-30
+
+sentence: any	information	about	the	would	also	about	the
+
+decoded: ['the', 'the', 'about', 'about', 'would', 'information', 'any', 'also']
+score: -5.026886828524205e-30
+
+sentence: the	machinery	went	a	complete	design	for	the
+
+decoded: ['the', 'the', 'for', 'a', 'design', 'went', 'machinery', 'complete']
+score: -6.486298512090745e-30
+
+sentence: was	there	that	the	two	civil	were	at	work
+
+decoded: ['the', 'that', 'at', 'was', 'were', 'work', 'there', 'two', 'civil']
+score: -1.1569115395725852e-30
+
+sentence: was	also	a	result	of	almost	a	of	work
+
+decoded: ['of', 'of', 'a', 'a', 'was', 'work', 'also', 'almost', 'result']
+score: -1.8478538047376818e-29
+
+sentence: was	first	tried	out	on	a	the	in
+
+decoded: ['the', 'in', 'on', 'a', 'was', 'out', 'first', 'tried']
+score: -4.625304567620113e-30
+
+sentence: could	go	miles	without	and	stay	down	more	than	a	month
+
+decoded: ['and', 'a', 'down', 'than', 'could', 'more', 'miles', 'without', 'go', 'stay', 'month']
+score: -6.671714407486404e-31
+
+sentence: the	calls	were	still	heard	days	after	the	five	were
+
+decoded: ['the', 'the', 'were', 'were', 'days', 'after', 'still', 'five', 'calls', 'heard']
+score: -1.6658583579666106e-30
+
+sentence: he	added	brought	about	and	personal
+
+decoded: ['and', 'about', 'he', 'personal', 'brought', 'added']
+score: -2.29376598932355e-31
+
+sentence: for	the	eight	other	said	only	that	there	was	no	of	their
+
+decoded: ['of', 'the', 'for', 'that', 'was', 'said', 'their', 'no', 'there', 'eight', 'only', 'other']
+score: -8.30623667875982e-30
+
+sentence: included	his	money	bag	to	and	his
+
+decoded: ['and', 'to', 'his', 'his', 'bag', 'money', 'included']
+score: -7.7395732074824275e-31
+
+sentence: was	when	he	to	end	the	relationship	that	the	murder	took	place
+
+decoded: ['the', 'to', 'the', 'that', 'was', 'he', 'when', 'place', 'end', 'relationship', 'took', 'murder']
+score: -8.582273041148894e-30
+
+sentence: has	been	living	under	a	ever	since
+
+decoded: ['a', 'has', 'under', 'been', 'since', 'ever', 'living']
+score: -3.026540896958328e-32
+
+sentence: the	came	in	against	his	young	said
+
+decoded: ['the', 'in', 'his', 'said', 'against', 'young', 'came']
+score: -3.0048888199886394e-31
+
+sentence: am	very	to	have	the	doubt	of
+
+decoded: ['of', 'to', 'the', 'have', 'am', 'very', 'doubt']
+score: -3.800097712087566e-30
+
+sentence: don't	wish	to	appear	happy	at	somebody
+
+decoded: ['to', 'at', 'appear', 'happy', 'wish', 'somebody']
+score: -1.866657937634426e-32
+
+sentence: the	while	being	about	several	in	the	area	by
+
+decoded: ['the', 'the', 'in', 'by', 'about', 'area', 'being', 'while', 'several']
+score: -6.81986510791814e-30
+
+sentence: did	not	set	a	date	for
+
+decoded: ['for', 'a', 'not', 'date', 'did', 'set']
+score: -1.2349203950913068e-31
+
+sentence: could	receive	from	to	years	in	or
+
+decoded: ['to', 'in', 'from', 'or', 'years', 'could', 'receive']
+score: -1.862374638992805e-30
+
+sentence: against	came	at	p.m.	after	almost	hours	of
+
+decoded: ['of', 'at', 'against', 'after', 'hours', 'came', 'almost']
+score: -1.951516751577051e-30
+
+sentence: trial	had	the	large	for	more	than	a	week
+
+decoded: ['the', 'for', 'a', 'had', 'than', 'more', 'week', 'large', 'trial']
+score: -1.2604869681644598e-30
+
+sentence: are	home	now	with	the	other	children
+
+decoded: ['the', 'with', 'are', 'home', 'children', 'now', 'other']
+score: -5.038498073008047e-31
+
+sentence: has	but	little	since	the	fire	last
+
+decoded: ['the', 'has', 'but', 'little', 'last', 'fire', 'since']
+score: -2.0229238037450173e-31
+
+sentence: today	he	wanted	to	make	a	public	statement
+
+decoded: ['to', 'a', 'he', 'today', 'public', 'statement', 'wanted', 'make']
+score: -3.4684479853586443e-31
+
+sentence: never	knew	there	were	such	and	friends	around	me	and	my	family
+
+decoded: ['and', 'and', 'were', 'me', 'around', 'family', 'there', 'my', 'such', 'never', 'knew', 'friends']
+score: -4.711405538026004e-30
+
+sentence: wasn't	sure	there	were	such	people	in	the	world
+
+decoded: ['the', 'in', 'were', 'people', 'world', 'there', 'such', 'sure']
+score: -1.427287474207688e-30
+
+sentence: a	car	the	but	lost	it	in	traffic
+
+decoded: ['the', 'in', 'a', 'it', 'but', 'car', 'traffic', 'lost']
+score: -2.6631149718850256e-30
+
+sentence: is	to	begin	the	day	after	from	in
+
+decoded: ['to', 'the', 'in', 'from', 'is', 'after', 'day', 'begin']
+score: -3.675668499421846e-30
+
+sentence: long	crisis	in	appeared	a	today
+
+decoded: ['in', 'a', 'long', 'today', 'crisis', 'appeared']
+score: -7.110387240729868e-32
+
+sentence: that	it	is	asking	the	to	agree	tomorrow	to	an
+
+decoded: ['to', 'the', 'to', 'that', 'is', 'it', 'an', 'tomorrow', 'agree', 'asking']
+score: -1.1335563156436235e-29
+
+sentence: conference	on	should	then	meet	on	he	said
+
+decoded: ['on', 'on', 'said', 'he', 'should', 'conference', 'then', 'meet']
+score: -3.6813003971817595e-31
+
+sentence: government	for	help	was	made	by
+
+decoded: ['by', 'for', 'was', 'government', 'made', 'help']
+score: -2.594667446761938e-31
+
+sentence: indicated	that	would	be	made	for	more	arms	and	more	military
+
+decoded: ['and', 'for', 'that', 'would', 'more', 'be', 'more', 'made', 'arms', 'military', 'indicated']
+score: -2.3983204078000065e-30
+
+sentence: the	government	is	thinking	of	asking	for	foreign	if	the	situation
+
+decoded: ['of', 'the', 'the', 'for', 'is', 'government', 'if', 'thinking', 'situation', 'foreign', 'asking']
+score: -9.716449858749524e-30
+
+sentence: was	no	of	such	from	independent	sources
+
+decoded: ['of', 'from', 'was', 'no', 'such', 'independent', 'sources']
+score: -1.0281044369580382e-30
+
+sentence: the	past	such	government	claims	have	been	found
+
+decoded: ['the', 'have', 'government', 'such', 'been', 'found', 'past', 'claims']
+score: -4.391145032339648e-32
+
+sentence: wife	and	four	children	live	in
+
+decoded: ['and', 'in', 'children', 'wife', 'four', 'live']
+score: -2.5841753069864736e-31
+
+sentence: least	other	were	reported	to	have	been	in	a	mass	political
+
+decoded: ['to', 'in', 'a', 'were', 'have', 'other', 'been', 'mass', 'reported', 'political', 'least']
+score: -1.6683502296547218e-30
+
+sentence: than	were	said	to	have	been	of	them
+
+decoded: ['of', 'to', 'were', 'said', 'than', 'have', 'them', 'been']
+score: -4.379148040849622e-30
+
+sentence: statement	did	not	mention	what	steps	might	be	taken	to	the	legal	to
+
+decoded: ['to', 'to', 'the', 'be', 'not', 'what', 'did', 'might', 'statement', 'taken', 'legal', 'steps', 'mention']
+score: -7.909528985013025e-30
+
+sentence: the	other	hand	its	existence	from	the	of
+
+decoded: ['the', 'of', 'the', 'from', 'its', 'hand', 'other', 'existence']
+score: -1.1463888112387418e-29
+
+sentence: letters	set	a	for	the	start	of
+
+decoded: ['of', 'the', 'for', 'a', 'set', 'start', 'letters']
+score: -4.38625123454247e-30
+
+sentence: indicated	that	and	would	be	started	if	failed	to
+
+decoded: ['and', 'to', 'that', 'would', 'be', 'if', 'started', 'failed', 'indicated']
+score: -3.127475369782147e-30
+
+sentence: began	efforts	to	several	months	ago
+
+decoded: ['to', 'began', 'months', 'efforts', 'ago', 'several']
+score: -3.0254432791082478e-33
+
+sentence: was	born	in	and	was	a	of
+
+decoded: ['of', 'and', 'in', 'was', 'a', 'was', 'born']
+score: -1.6122869814393582e-29
+
+sentence: was	a	member	of	the	church
+
+decoded: ['of', 'the', 'a', 'was', 'church', 'member']
+score: -2.7063008210911524e-30
+
+sentence: was	a	member	of	the	and	a	of
+
+decoded: ['of', 'of', 'the', 'and', 'a', 'a', 'was', 'member']
+score: -3.701314339020753e-29
+
+sentence: also	struck	his	and	wife	and	during	the	the	baby	also
+
+decoded: ['and', 'the', 'and', 'the', 'his', 'also', 'also', 'during', 'wife', 'baby', 'struck']
+score: -1.0801265414583147e-29
+
+sentence: police	arrived	the	man	was	still	said
+
+decoded: ['the', 'was', 'said', 'man', 'police', 'still', 'arrived']
+score: -5.653286467373602e-32
+
+sentence: one	of	the	officers	and	was
+
+decoded: ['of', 'and', 'the', 'was', 'one', 'officers']
+score: -3.6613561268940875e-30
+
+sentence: five	minutes	later	he	jumped	up	said	and	struck	the	two	again
+
+decoded: ['and', 'the', 'up', 'said', 'he', 'minutes', 'two', 'again', 'later', 'five', 'struck', 'jumped']
+score: -1.3201991542512162e-30
+
+sentence: he	the	two	officers	again	and	was	again	related
+
+decoded: ['and', 'the', 'was', 'he', 'again', 'again', 'two', 'related', 'officers']
+score: -1.2103422129410478e-30
+
+sentence: said	he	and	received	and	and	their	were
+
+decoded: ['and', 'and', 'and', 'were', 'said', 'their', 'he', 'received']
+score: -7.852759366226141e-30
+
+sentence: was	charged	with	four	of	and
+
+decoded: ['of', 'and', 'with', 'was', 'four', 'charged']
+score: -6.081685641624222e-30
+
+sentence: of	on	an	officer	and	police	said
+
+decoded: ['of', 'and', 'on', 'said', 'an', 'police', 'officer']
+score: -3.364064264799146e-30
+
+sentence: effort	is	being	pushed	in	and	over
+
+decoded: ['and', 'in', 'is', 'over', 'being', 'effort', 'pushed']
+score: -2.4682537905208116e-30
+
+sentence: department	has	just	finished	in	areas	of
+
+decoded: ['of', 'in', 'has', 'areas', 'just', 'department', 'finished']
+score: -2.488287878862462e-30
+
+sentence: have	been	using	electric	and	high	speed	during	the	study
+
+decoded: ['and', 'the', 'have', 'high', 'during', 'speed', 'been', 'study', 'electric', 'using']
+score: -8.201886525279508e-31
+
+sentence: the	can	find	out	what	all	the	and	methods	to	it
+
+decoded: ['the', 'and', 'the', 'to', 'out', 'it', 'can', 'all', 'what', 'methods', 'find']
+score: -1.6142872655156652e-29
+
+sentence: and	the	is	the	high	during	hours
+
+decoded: ['the', 'and', 'the', 'is', 'hours', 'high', 'during']
+score: -2.6664038816517195e-30
+
+sentence: the	of	the	and	and	and
+
+decoded: ['of', 'the', 'and', 'the', 'and', 'and']
+score: -1.0206166576967872e-29
+
+sentence: death	reported	was	that	of	of
+
+decoded: ['of', 'of', 'that', 'was', 'death', 'reported']
+score: -1.3120702093748475e-29
+
+sentence: death	occurred	at	p.m.	and	was	reported	the	said
+
+decoded: ['and', 'the', 'was', 'at', 'said', 'death', 'reported', 'occurred']
+score: -2.0563626271192754e-30
+
+sentence: for	had	yet	been	received	however
+
+decoded: ['for', 'had', 'been', 'received', 'yet', 'however']
+score: -4.523809653080435e-34
+
+sentence: continued	operation	of	this	program	depends	on	having	his	service
+
+decoded: ['of', 'on', 'his', 'this', 'service', 'operation', 'continued', 'program', 'having', 'depends']
+score: -4.280330322316288e-31
+
+sentence: staff	a	lot	of	credit	working	down	here	under	real
+
+decoded: ['of', 'a', 'down', 'under', 'staff', 'here', 'working', 'credit', 'lot', 'real']
+score: -8.150810237676569e-32
+
+sentence: said	his	objective	was	to	a	better	public	image	for
+
+decoded: ['to', 'for', 'a', 'was', 'his', 'said', 'image', 'better', 'public', 'objective']
+score: -2.2006420161465085e-30
+
+sentence: were	returned	against	the	pair	last	week	reported
+
+decoded: ['the', 'were', 'against', 'last', 'reported', 'week', 'returned', 'pair']
+score: -6.838961774768361e-32
+
+sentence: more	than	a	by	and	other	officers
+
+decoded: ['and', 'by', 'a', 'than', 'more', 'other', 'officers']
+score: -1.3030520770620111e-30
+
+sentence: was	by	after	they	received	the	papers	from
+
+decoded: ['the', 'by', 'from', 'was', 'after', 'they', 'papers', 'received']
+score: -1.0956090301517755e-30
+
+sentence: many	years	he	had	provided	music	and	for	functions	throughout	the
+
+decoded: ['and', 'the', 'for', 'had', 'years', 'he', 'music', 'throughout', 'many', 'provided', 'functions']
+score: -3.1071030290839566e-30
+
+sentence: was	born	in	and	came	to	in
+
+decoded: ['in', 'to', 'in', 'and', 'was', 'came', 'born']
+score: -1.3465875600496904e-29
+
+sentence: firms	funds	for	the	of	headquarters	here
+
+decoded: ['of', 'the', 'for', 'here', 'firms', 'funds', 'headquarters']
+score: -1.9295169626437052e-30
+
+sentence: will	receive	a	from	the	national	organization
+
+decoded: ['the', 'from', 'a', 'will', 'national', 'organization', 'receive']
+score: -8.38274761578449e-31
+
+sentence: from	the	of	of	won	the
+
+decoded: ['of', 'the', 'of', 'the', 'from', 'won']
+score: -1.2287480761445e-29
+
+sentence: of	was	second	and	of	third
+
+decoded: ['of', 'of', 'and', 'was', 'second', 'third']
+score: -1.9624269777550727e-29
+
+sentence: from	the	east	end	failed	to	place
+
+decoded: ['to', 'the', 'from', 'place', 'end', 'east', 'failed']
+score: -1.055756757250574e-30
+
+sentence: for	one	dozen	white	was	taken	by
+
+decoded: ['by', 'for', 'was', 'one', 'white', 'taken', 'dozen']
+score: -3.215554511098798e-31
+
+sentence: of	took	top	individual	home	with	a	called
+
+decoded: ['of', 'with', 'a', 'home', 'called', 'took', 'top', 'individual']
+score: -2.462707861070878e-31
+
+sentence: were	the	last	two	days	set	aside	by	the	board	for
+
+decoded: ['the', 'the', 'by', 'for', 'were', 'days', 'board', 'two', 'last', 'set', 'aside']
+score: -4.864066804215455e-30
+
+sentence: were	heard	for	two	days	two	weeks	ago
+
+decoded: ['for', 'were', 'days', 'two', 'two', 'weeks', 'ago', 'heard']
+score: -4.430943670820055e-33
+
+sentence: also	will	visit	properties	on	which	have	been	made
+
+decoded: ['on', 'which', 'have', 'will', 'made', 'also', 'been', 'visit', 'properties']
+score: -1.499977899585348e-31
+
+sentence: four	a	watch	and	a	set	of
+
+decoded: ['of', 'and', 'a', 'a', 'set', 'four', 'watch']
+score: -4.903849027207109e-30
+
+sentence: of	the	was	a	white	gold	with	a	setting	at
+
+decoded: ['of', 'the', 'with', 'a', 'a', 'at', 'was', 'gold', 'white', 'setting']
+score: -3.8016270214217784e-30
+
+sentence: watch	was	at	and	the	at
+
+decoded: ['and', 'the', 'at', 'at', 'was', 'watch']
+score: -3.133691865678308e-30
+
+sentence: who	said	the	broke	in	through	the	back	door
+
+decoded: ['the', 'the', 'in', 'said', 'through', 'who', 'back', 'door', 'broke']
+score: -4.7058876176677146e-30
+
+sentence: and	in	two	and	a	room	were
+
+decoded: ['and', 'and', 'in', 'a', 'were', 'room', 'two']
+score: -6.680179030634712e-30
+
+sentence: was	taken	to	the	hospital	by	the
+
+decoded: ['the', 'to', 'the', 'by', 'was', 'hospital', 'taken']
+score: -5.355628369739565e-30
+
+sentence: house	was	without	power	for	about	half	an	hour	a	said
+
+decoded: ['for', 'a', 'was', 'about', 'said', 'house', 'an', 'power', 'without', 'hour', 'half']
+score: -5.698086650939926e-31
+
+sentence: property	included	a	building	on	square	feet	of	land
+
+decoded: ['of', 'on', 'a', 'square', 'property', 'land', 'building', 'feet', 'included']
+score: -1.4515332625647348e-30
+
+sentence: this	year	is	to	provide	for
+
+decoded: ['to', 'for', 'is', 'this', 'year', 'provide']
+score: -1.2000608663851889e-30
+
+sentence: have	been	to	the	over	the	years
+
+decoded: ['the', 'to', 'the', 'over', 'have', 'years', 'been']
+score: -1.995196849008781e-30
+
+sentence: where	he	had	been	by	a
+
+decoded: ['by', 'a', 'had', 'he', 'where', 'been']
+score: -1.9650804174062956e-31
+
+sentence: officials	said	the	was	but	the	youth	was	in	good	condition	last	night
+
+decoded: ['the', 'the', 'in', 'was', 'was', 'said', 'but', 'condition', 'night', 'last', 'good', 'youth', 'officials']
+score: -4.6357892661012835e-30
+
+sentence: of	the	eight	was	on	a	directed	of
+
+decoded: ['of', 'of', 'the', 'on', 'a', 'was', 'eight', 'directed']
+score: -2.3645907011897735e-29
+
+sentence: said	the	men	had	him	to	be
+
+decoded: ['to', 'the', 'had', 'said', 'him', 'be', 'men']
+score: -1.0638506272765808e-30
+
+sentence: formal	have	been	as	a	result	of	either	of	the	two	reported
+
+decoded: ['of', 'of', 'the', 'a', 'as', 'have', 'two', 'been', 'reported', 'either', 'result', 'formal']
+score: -1.718622098735629e-29
+
+sentence: will	take	over	his	new	post
+
+decoded: ['over', 'his', 'will', 'new', 'post', 'take']
+score: -4.6967318056663537e-33
+
+sentence: to	that	he	was	with	in
+
+decoded: ['to', 'in', 'with', 'that', 'was', 'he']
+score: -4.11413381163017e-30
+
+sentence: said	other	in	had	caused	serious	in	and
+
+decoded: ['and', 'in', 'in', 'had', 'said', 'other', 'caused', 'serious']
+score: -7.864591375155484e-30
+
+sentence: rolled	down	a	and	took	off
+
+decoded: ['and', 'a', 'down', 'off', 'took', 'rolled']
+score: -1.9729691434642747e-31
+
+sentence: sat	in	his	office	and	that	flight	in
+
+decoded: ['in', 'and', 'in', 'that', 'his', 'office', 'sat', 'flight']
+score: -4.981440764439729e-30
+
+sentence: had	developed	the	and	therefore	knew	them
+
+decoded: ['and', 'the', 'had', 'them', 'knew', 'developed', 'therefore']
+score: -6.117887539508298e-31
+
+sentence: was	time	to	go	up	myself
+
+decoded: ['to', 'up', 'was', 'time', 'myself', 'go']
+score: -2.1222317998269564e-31
+
+sentence: was	a	effort	to	off	the	of
+
+decoded: ['of', 'the', 'to', 'a', 'was', 'off', 'effort']
+score: -8.15229898363947e-30
+
+sentence: success	of	the	project	upon	flight
+
+decoded: ['of', 'the', 'upon', 'success', 'project', 'flight']
+score: -4.560472568831514e-32
+
+sentence: was	probably	man's	first	successful	flight	in	a
+
+decoded: ['in', 'a', 'was', 'first', 'successful', 'flight', 'probably']
+score: -4.100916637642485e-31
+
+sentence: was	only	one	power	control	a	to	the	flow
+
+decoded: ['the', 'to', 'a', 'was', 'control', 'power', 'flow', 'one', 'only']
+score: -4.3473202516653054e-30
+
+sentence: had	exactly	minutes	to	get	down	to	the	test
+
+decoded: ['to', 'to', 'the', 'had', 'down', 'test', 'minutes', 'get', 'exactly']
+score: -3.247070788586346e-30
+
+sentence: went	on	to	make	several	other	test	before	took	over	the
+
+decoded: ['to', 'the', 'on', 'over', 'before', 'test', 'took', 'other', 'went', 'make', 'several']
+score: -2.364182700765438e-30
+
+sentence: were	to	be	with	an	bomb
+
+decoded: ['to', 'with', 'were', 'an', 'be', 'bomb']
+score: -2.847986216253651e-31
+
+sentence: only	way	out	of	this	state	of	affairs	is	agreement	to	nuclear
+
+decoded: ['of', 'of', 'to', 'is', 'out', 'way', 'this', 'state', 'agreement', 'only', 'nuclear', 'affairs']
+score: -1.2805237383964717e-29
+
+sentence: apparently	do	not	feel	to	make	the	people	aware	of	this	danger
+
+decoded: ['of', 'to', 'the', 'people', 'this', 'not', 'do', 'aware', 'make', 'feel', 'danger', 'apparently']
+score: -4.7511084944919764e-30
+
+sentence: said	was	per	cent	of	the	pay
+
+decoded: ['of', 'the', 'was', 'per', 'said', 'pay', 'cent']
+score: -1.3549949514665993e-30
+
+sentence: this	amount	at	about	or	a	month
+
+decoded: ['a', 'at', 'or', 'about', 'this', 'amount', 'month']
+score: -3.4040645434593752e-31
+
+sentence: weather	has	that	from	the	test	might	here	next	week
+
+decoded: ['the', 'from', 'that', 'has', 'test', 'might', 'here', 'week', 'next', 'weather']
+score: -7.523496833424869e-31
+
+sentence: was	discovered	after	failed	to	report	for	work	on
+
+decoded: ['to', 'on', 'for', 'was', 'report', 'after', 'work', 'failed', 'discovered']
+score: -2.2162471483211468e-30
+
+sentence: said	wrote	a	complete	statement	of	his
+
+decoded: ['of', 'a', 'his', 'said', 'wrote', 'statement', 'complete']
+score: -4.2021460160826615e-31
+
+sentence: to	another	check	there	hotel	officials	called	police
+
+decoded: ['to', 'hotel', 'there', 'called', 'police', 'officials', 'another', 'check']
+score: -1.2037309006233897e-32
+
+sentence: many	reasons	the	demand	to	buy	in	the	company	was
+
+decoded: ['the', 'to', 'the', 'in', 'was', 'company', 'demand', 'many', 'reasons', 'buy']
+score: -7.090779900930083e-30
+
+sentence: was	not	a	case	of	the	having	to	the	stock
+
+decoded: ['the', 'of', 'the', 'to', 'a', 'was', 'not', 'case', 'stock', 'having']
+score: -1.5774101348739956e-29
+
+sentence: firms	got	only	for	all	of	their
+
+decoded: ['of', 'for', 'their', 'all', 'only', 'got', 'firms']
+score: -1.424892346614395e-30
+
+sentence: stock	was	sold	in	the	at	a	price	of	a	share
+
+decoded: ['of', 'the', 'in', 'a', 'a', 'at', 'was', 'stock', 'price', 'share', 'sold']
+score: -1.1578777383194064e-29
+
+sentence: the	issue	was	hot	long	before	it	was	on	the	market
+
+decoded: ['the', 'the', 'on', 'was', 'was', 'it', 'market', 'before', 'long', 'issue', 'hot']
+score: -9.364862028658689e-30
+
+sentence: could	not	let	the	bank	have	even
+
+decoded: ['the', 'have', 'could', 'bank', 'not', 'even', 'let']
+score: -9.663234771033523e-32
+
+sentence: what	made	the	stock	issue	such	a	hot	one
+
+decoded: ['the', 'a', 'what', 'one', 'such', 'made', 'stock', 'issue', 'hot']
+score: -1.3554268009049147e-30
+
+sentence: answer	is	that	it	was	a	of	circumstances
+
+decoded: ['of', 'that', 'is', 'a', 'was', 'it', 'circumstances', 'answer']
+score: -6.002929001239141e-30
+
+sentence: than	employees	make	machinery	that's	sold	cotton	is
+
+decoded: ['is', 'than', 'make', 'employees', 'sold', 'cotton', 'machinery']
+score: -6.472879662941089e-33
+
+sentence: present	company	is	a	of	several	smaller	ones	that	date	back	to
+
+decoded: ['of', 'to', 'that', 'a', 'is', 'back', 'company', 'date', 'ones', 'several', 'present', 'smaller']
+score: -6.310384253613567e-30
+
+sentence: company	a	complete	line	of	machinery	all	over	the	world
+
+decoded: ['of', 'the', 'a', 'over', 'all', 'company', 'world', 'line', 'machinery', 'complete']
+score: -2.9466476946010636e-30
+
+sentence: of	makes	a	full	line	of	machinery	and	equipment
+
+decoded: ['of', 'of', 'and', 'a', 'line', 'equipment', 'makes', 'full', 'machinery']
+score: -8.84683692616798e-30
+
+sentence: company	began	operation	in	with	and	oil
+
+decoded: ['and', 'in', 'with', 'oil', 'company', 'operation', 'began']
+score: -2.747712356389123e-30
+
+sentence: people	on	the	season	of	the	year
+
+decoded: ['the', 'of', 'the', 'on', 'people', 'year', 'season']
+score: -5.915019532797469e-30
+
+sentence: has	had	a	sales	and	service	office	in	since
+
+decoded: ['and', 'in', 'a', 'had', 'has', 'service', 'office', 'since', 'sales']
+score: -3.4626482784333115e-30
+
+sentence: make	and	deal	in	parts	and	some	used	machinery
+
+decoded: ['and', 'and', 'in', 'some', 'used', 'parts', 'make', 'deal', 'machinery']
+score: -6.117805747153479e-30
+
+sentence: makes	cleaning	and	equipment	for	largely	in
+
+decoded: ['and', 'in', 'for', 'equipment', 'makes', 'largely', 'cleaning']
+score: -2.5017082245662334e-30
+
+sentence: of	makes	and	started	here	years	ago
+
+decoded: ['of', 'and', 'years', 'here', 'makes', 'ago', 'started']
+score: -3.236380817980713e-31
+
+sentence: firm	also	and	oil	such	as
+
+decoded: ['and', 'as', 'oil', 'such', 'also', 'firm']
+score: -2.187387394577922e-31
+
+sentence: equipment	is	a	of	business	economy
+
+decoded: ['of', 'a', 'is', 'business', 'equipment', 'economy']
+score: -1.1560504576230338e-30
+
+sentence: firms	provide	weeks	of	practical	to	in	these	fields
+
+decoded: ['of', 'to', 'in', 'these', 'weeks', 'fields', 'firms', 'provide', 'practical']
+score: -3.8288613711879924e-31
+
+sentence: support	for	for	both	defense	and	foreign	aid
+
+decoded: ['and', 'for', 'for', 'support', 'both', 'aid', 'foreign']
+score: -2.734245504458283e-30
+
+sentence: must	be	ready	for	any	needed
+
+decoded: ['for', 'be', 'any', 'must', 'needed', 'ready']
+score: -3.6649113610690075e-32
+
+sentence: rise	in	new	orders	and	sales	of	was	reported	for	last	month
+
+decoded: ['of', 'and', 'in', 'for', 'was', 'new', 'rise', 'last', 'reported', 'sales', 'orders', 'month']
+score: -9.213800398680244e-30
+
+sentence: for	the	year	nine	and	new
+
+decoded: ['and', 'the', 'for', 'new', 'year', 'nine']
+score: -1.1443016443293299e-30
+
+sentence: the	new	only	million	in	are	into	common
+
+decoded: ['the', 'in', 'into', 'million', 'are', 'new', 'common', 'only']
+score: -8.05777047694352e-31
+
+sentence: enjoyed	a	solid	rise	but	here	also
+
+decoded: ['a', 'but', 'rise', 'also', 'here', 'enjoyed', 'solid']
+score: -2.736552318082224e-33
+
+sentence: other	words	am	getting	only	half	the	should
+
+decoded: ['the', 'am', 'should', 'words', 'only', 'other', 'half', 'getting']
+score: -3.144553858850445e-31
+
+sentence: bank	a	data	system	to	handle	things
+
+decoded: ['to', 'a', 'system', 'data', 'bank', 'things', 'handle']
+score: -1.7974486542880697e-31
+
+sentence: letters	began	to	come	in	to	this	column	from
+
+decoded: ['to', 'to', 'in', 'from', 'this', 'column', 'began', 'come', 'letters']
+score: -6.271666587695529e-30
+
+sentence: the	bank	in	and	wrote	a	story	about	the	situation
+
+decoded: ['the', 'and', 'the', 'in', 'a', 'about', 'bank', 'wrote', 'story', 'situation']
+score: -1.3685575820865272e-29
+
+sentence: it's	taking	longer	to	get	things	away	than	the	expected
+
+decoded: ['to', 'the', 'than', 'away', 'things', 'get', 'taking', 'expected', 'longer']
+score: -5.89580576317706e-31
+
+sentence: these	kind	of	things	us	said
+
+decoded: ['of', 'said', 'us', 'these', 'things', 'kind']
+score: -3.1642597579855533e-32
+
+sentence: was	by	the	other	two	in	previous	to	make	it	a
+
+decoded: ['the', 'to', 'in', 'by', 'a', 'was', 'it', 'two', 'other', 'make', 'previous']
+score: -9.380809654899243e-30
+
+sentence: proposed	would	make	it	the	second
+
+decoded: ['the', 'it', 'would', 'make', 'second', 'proposed']
+score: -1.5987968680916203e-31
+
+sentence: their	own	production	volume	and	presumably	sales	to	percent	in
+
+decoded: ['and', 'to', 'in', 'their', 'production', 'sales', 'volume', 'own', 'percent', 'presumably']
+score: -1.4131162138992737e-30
+
+sentence: industry	has	said	was	a	poor	year
+
+decoded: ['was', 'a', 'said', 'has', 'year', 'industry', 'poor']
+score: -1.73465271016454e-31
+
+sentence: the	between	the	for	themselves	and	for	the	industry
+
+decoded: ['the', 'the', 'and', 'the', 'for', 'for', 'between', 'themselves', 'industry']
+score: -1.6635965161185578e-29
+
+sentence: sold	only	four	all	last	year
+
+decoded: ['all', 'year', 'only', 'last', 'four', 'sold']
+score: -2.551805748435239e-33
+
+sentence: the	sales	rise	is	due	in	large	measure	to	efforts	to	farm
+
+decoded: ['to', 'to', 'the', 'in', 'is', 'farm', 'rise', 'measure', 'large', 'efforts', 'sales', 'due']
+score: -1.1846045372479046e-29
+
+sentence: all	sections	are	showing	an	however
+
+decoded: ['are', 'an', 'all', 'sections', 'showing', 'however']
+score: -4.175093651943738e-33
+
+sentence: the	states	are	the	most	to	the
+
+decoded: ['the', 'the', 'to', 'the', 'are', 'states', 'most']
+score: -5.548917663102731e-30
+
+sentence: of	the	in	farm	machinery	sales	beyond	the	farm	equipment	industry
+
+decoded: ['of', 'the', 'the', 'in', 'farm', 'farm', 'industry', 'equipment', 'sales', 'beyond', 'machinery']
+score: -5.922807820577352e-30
+
+sentence: demand	for	farm	machinery	is	as	a	of	generally
+
+decoded: ['of', 'for', 'a', 'is', 'as', 'farm', 'demand', 'generally', 'machinery']
+score: -5.045201511716537e-30
+
+sentence: more	of	their	income	on	and	than	on	any	other	group	of	products
+
+decoded: ['of', 'of', 'and', 'on', 'on', 'than', 'their', 'group', 'more', 'any', 'income', 'other', 'products']
+score: -4.378499813498038e-29
+
+sentence: year	we	probably	would	have	given	him	for	a	machine
+
+decoded: ['for', 'a', 'have', 'him', 'would', 'year', 'machine', 'we', 'given', 'probably']
+score: -3.6007904585148535e-31
+
+sentence: support	may	total	another	this	year
+
+decoded: ['this', 'may', 'year', 'support', 'another', 'total']
+score: -2.132163265070306e-33
+
+sentence: income	may	reach	up	from	and	the	since
+
+decoded: ['and', 'the', 'from', 'up', 'may', 'income', 'since', 'reach']
+score: -1.8580815771359166e-30
+
+sentence: come	in	for	closer	by	the
+
+decoded: ['the', 'in', 'by', 'for', 'come', 'closer']
+score: -2.8053588484113136e-30
+
+sentence: rule	on	the	of	state	is
+
+decoded: ['of', 'the', 'on', 'is', 'state', 'rule']
+score: -2.169310160498293e-30
+
+sentence: however	an	income	tax	on	the	from	the
+
+decoded: ['the', 'the', 'on', 'from', 'an', 'tax', 'income', 'however']
+score: -5.776714012650311e-30
+
+sentence: has	not	said	what	its	next	step	will	be
+
+decoded: ['said', 'has', 'will', 'its', 'be', 'not', 'what', 'next', 'step']
+score: -5.365324752999002e-32
+
+sentence: are	a	tax	under	the	law	the
+
+decoded: ['the', 'the', 'a', 'are', 'law', 'under', 'tax']
+score: -5.9210099724859506e-30
+
+sentence: the	wife	for	one's	company	may	her	income
+
+decoded: ['the', 'for', 'her', 'may', 'company', 'income', 'wife']
+score: -5.619268542481568e-32
+
+sentence: itself	a	sales	tax	which	is	to	be	in	the	higher	area	tax
+
+decoded: ['the', 'to', 'in', 'a', 'is', 'which', 'itself', 'tax', 'area', 'be', 'tax', 'sales', 'higher']
+score: -6.961872701298144e-30
+
+sentence: down	in	after	rising	for	two	months	the	reported
+
+decoded: ['the', 'in', 'for', 'down', 'after', 'two', 'months', 'reported', 'rising']
+score: -2.08816855082297e-30
+
+sentence: favorite	dress	is	a	a	black	and	white	and
+
+decoded: ['and', 'and', 'a', 'a', 'is', 'black', 'white', 'dress']
+score: -8.41017304215743e-30
+
+sentence: rate	high	because	they	are	designed	for	her
+
+decoded: ['for', 'are', 'her', 'rate', 'high', 'because', 'they', 'designed']
+score: -2.216382226856558e-31
+
+sentence: also	the	and	of	by	and
+
+decoded: ['and', 'of', 'and', 'the', 'by', 'also']
+score: -1.562792638988312e-29
+
+sentence: mother	was	a	and	her	family	came	from	the
+
+decoded: ['and', 'the', 'from', 'a', 'was', 'her', 'family', 'came', 'mother']
+score: -5.449810937264277e-30
+
+sentence: stage	was	a	role	in	directed	by
+
+decoded: ['in', 'by', 'a', 'was', 'role', 'stage', 'directed']
+score: -1.2237360894371426e-30
+
+sentence: is	to	rear	back	and	his	rights
+
+decoded: ['and', 'to', 'is', 'his', 'back', 'rights', 'rear']
+score: -1.9621389202195414e-30
+
+sentence: as	food	enough	to	serve	a	week
+
+decoded: ['to', 'a', 'as', 'enough', 'food', 'week', 'serve']
+score: -5.507646596438078e-31
+
+sentence: that	to	the	little	wife	when	she	at	the
+
+decoded: ['the', 'to', 'the', 'that', 'at', 'when', 'little', 'she', 'wife']
+score: -8.722870267602052e-30
+
+sentence: does	he	feed	his	at	the	training	table
+
+decoded: ['the', 'at', 'his', 'he', 'training', 'table', 'does', 'feed']
+score: -8.610364236653933e-31
+
+sentence: do	the	pretty	girls	like	on	their
+
+decoded: ['the', 'on', 'their', 'like', 'do', 'girls', 'pretty']
+score: -2.265483977249731e-31
+
+sentence: there	is	still	little	demand	for	and
+
+decoded: ['and', 'for', 'is', 'little', 'there', 'demand', 'still']
+score: -1.6659069528915942e-30
+
+sentence: four	in	their	through	the	line
+
+decoded: ['the', 'in', 'through', 'their', 'line', 'four']
+score: -1.3342332137518208e-30
+
+sentence: aren't	to	look	at	women	you	know
+
+decoded: ['to', 'at', 'you', 'women', 'look', 'know']
+score: -5.471289966832112e-32
+
+sentence: with	all	those	pretty	girls	around	they	had	a	hard	time
+
+decoded: ['with', 'a', 'had', 'around', 'time', 'all', 'they', 'those', 'hard', 'girls', 'pretty']
+score: -2.9431814791410936e-31
+
+sentence: side	by	side	in	a	deep
+
+decoded: ['in', 'by', 'a', 'side', 'side', 'deep']
+score: -1.3300336543890166e-31
+
+sentence: slowly	about	one	hour	at	until	brown
+
+decoded: ['at', 'about', 'one', 'until', 'hour', 'brown', 'slowly']
+score: -2.7195638533189494e-32
+
+sentence: each	on	a	thin	of	and	with
+
+decoded: ['of', 'and', 'with', 'on', 'a', 'each', 'thin']
+score: -6.93715471465919e-30
+
+sentence: off	the	and	you	call	it	says
+
+decoded: ['and', 'the', 'it', 'off', 'you', 'says', 'call']
+score: -6.50608440334092e-31
+
+sentence: is	the	goal	of	two	new	being	in	this	month
+
+decoded: ['of', 'the', 'in', 'is', 'this', 'new', 'two', 'being', 'goal', 'month']
+score: -5.022302376311427e-30
+
+sentence: is	a	collection	with	a	look	with	variety	and
+
+decoded: ['and', 'with', 'with', 'a', 'a', 'is', 'collection', 'look', 'variety']
+score: -8.929660162808238e-30
+
+sentence: design	of	the	both	the	back	and	an
+
+decoded: ['of', 'the', 'and', 'the', 'back', 'an', 'design', 'both']
+score: -9.722306289189194e-30
+
+sentence: bring	to	the	area	are	used	in	the
+
+decoded: ['the', 'to', 'the', 'in', 'are', 'area', 'used', 'bring']
+score: -7.128272860425584e-30
+
+sentence: wood	actually	is	a	back	of	one	of	the	tall
+
+decoded: ['of', 'of', 'the', 'a', 'is', 'back', 'wood', 'one', 'tall', 'actually']
+score: -1.8040270509891838e-29
+
+sentence: are	on	their	way	to	not	by	stage	but	in	cars
+
+decoded: ['to', 'in', 'by', 'on', 'are', 'their', 'but', 'way', 'not', 'cars', 'stage']
+score: -6.130563249945572e-30
+
+sentence: have	been	extended	to	some	and
+
+decoded: ['and', 'to', 'have', 'some', 'been', 'extended']
+score: -1.09665649039546e-30
+
+sentence: is	the	theme	for	the	on	the
+
+decoded: ['the', 'the', 'the', 'for', 'on', 'is', 'theme']
+score: -1.4683414410247397e-29
+
+sentence: and	will	be	popular	dress	for	the	women
+
+decoded: ['and', 'the', 'for', 'will', 'be', 'women', 'dress', 'popular']
+score: -1.8553444356127705e-30
+
+sentence: men	will	be	in	western	and
+
+decoded: ['and', 'in', 'will', 'be', 'men', 'western']
+score: -1.3246560909949511e-30
+
+sentence: the	will	be	the	yellow	rose	of	in	tall
+
+decoded: ['of', 'the', 'the', 'in', 'will', 'be', 'rose', 'tall', 'yellow']
+score: -8.1439406516291e-30
+
+sentence: will	be	a	large	of	a	girl	with	eyes	that	at	the	guests
+
+decoded: ['of', 'the', 'with', 'a', 'that', 'a', 'at', 'will', 'be', 'eyes', 'girl', 'large', 'guests']
+score: -1.1391591307182082e-29
+
+sentence: activities	will	be	in	the	spring	of	when	they	go	to
+
+decoded: ['of', 'to', 'the', 'in', 'will', 'when', 'be', 'they', 'activities', 'go', 'spring']
+score: -1.1062387211878409e-29
+
+sentence: of	these	are	in	or	near	and	the	others	away	from	the
+
+decoded: ['of', 'the', 'and', 'the', 'in', 'from', 'are', 'or', 'away', 'these', 'near', 'others']
+score: -3.111231183618688e-29
+
+sentence: entered	past	before	she	got	into	the
+
+decoded: ['the', 'into', 'before', 'she', 'got', 'past', 'entered']
+score: -2.68255600163629e-31
+
+sentence: is	mother	of	five	children	and	wife	of	a
+
+decoded: ['of', 'of', 'and', 'a', 'is', 'children', 'wife', 'mother', 'five']
+score: -2.2353101942444378e-29
+
+sentence: her	for	only	the	third	time	in	the
+
+decoded: ['the', 'the', 'in', 'for', 'her', 'time', 'only', 'third']
+score: -9.909796923998093e-30
+
+sentence: second	was	for	when	told	she	was	a
+
+decoded: ['for', 'was', 'a', 'was', 'when', 'she', 'told', 'second']
+score: -6.261320324291237e-31
+
+sentence: and	flowers	will	for	the	formal	party	evening
+
+decoded: ['and', 'the', 'for', 'will', 'party', 'flowers', 'evening', 'formal']
+score: -1.7415536084524655e-30
+
+sentence: than	are	expected	at	the	which	is	in	the	spring
+
+decoded: ['the', 'the', 'in', 'is', 'at', 'are', 'than', 'which', 'spring', 'expected']
+score: -1.0379747563659521e-29
+
+sentence: started	practice	in	and	served	on	the	of
+
+decoded: ['of', 'and', 'the', 'in', 'on', 'started', 'practice', 'served']
+score: -1.3899320745887511e-29
+
+sentence: heart	attack	when	she	was	put	an	end	to	the	daily
+
+decoded: ['to', 'the', 'was', 'when', 'an', 'attack', 'she', 'end', 'heart', 'put', 'daily']
+score: -2.4875295917041875e-30
+
+sentence: they	continued	their	studies	at	the	university	she	in	art	he	in
+
+decoded: ['in', 'the', 'in', 'at', 'he', 'their', 'university', 'studies', 'they', 'she', 'art', 'continued']
+score: -6.799228737447869e-30
+
+sentence: there	she	had	her	first	showing	of	work
+
+decoded: ['of', 'had', 'her', 'work', 'there', 'she', 'first', 'showing']
+score: -1.580279971206793e-30
+
+sentence: a	lot	of	talk	about	the	problem	of	education	in	today
+
+decoded: ['of', 'of', 'the', 'in', 'a', 'about', 'education', 'problem', 'today', 'lot', 'talk']
+score: -1.6673092362491414e-29
+
+sentence: to	and	from	school	was	no	problem
+
+decoded: ['and', 'to', 'from', 'was', 'no', 'school', 'problem']
+score: -4.634335931859783e-32
+
+sentence: they	go	to	a	high	school	that	is	two	miles	away
+
+decoded: ['to', 'that', 'a', 'is', 'away', 'school', 'high', 'they', 'two', 'miles', 'go']
+score: -1.2364189182295471e-30
+
+sentence: might	think	the	problem	would	be	similar
+
+decoded: ['the', 'would', 'be', 'might', 'problem', 'similar', 'think']
+score: -2.8160216136695646e-32
+
+sentence: could	walk	ride	on	a	or	be
+
+decoded: ['on', 'a', 'or', 'be', 'could', 'ride', 'walk']
+score: -9.797852677963279e-32
+
+sentence: don't	you	walk	to	school	then
+
+decoded: ['to', 'you', 'school', 'then', 'walk']
+score: -6.537420731285963e-33
+
+sentence: father	walked	through	two	miles	of	snow	in
+
+decoded: ['of', 'in', 'through', 'two', 'miles', 'father', 'walked', 'snow']
+score: -1.062179540099348e-30
+
+sentence: said	didn't	happen	to	grow	up	in
+
+decoded: ['to', 'in', 'up', 'said', 'grow', 'happen']
+score: -6.272465935609031e-31
+
+sentence: had	to	ride	a	two	miles
+
+decoded: ['to', 'a', 'had', 'two', 'miles', 'ride']
+score: -1.354430922090898e-31
+
+sentence: had	to	stand	up	with	the
+
+decoded: ['to', 'the', 'with', 'up', 'had', 'stand']
+score: -1.7606207292521783e-30
+
+sentence: tried	to	by	them	take	the	little	car	now	and	then
+
+decoded: ['and', 'the', 'to', 'by', 'them', 'now', 'little', 'car', 'then', 'tried', 'take']
+score: -6.504400471959359e-30
+
+sentence: they	do	that	my	wife	has	to	drive	me	to	work	in	the	big	car
+
+decoded: ['to', 'to', 'the', 'in', 'that', 'me', 'has', 'work', 'drive', 'they', 'car', 'my', 'do', 'wife', 'big']
+score: -1.4706888474073501e-29
+
+sentence: has	to	have	at	least	one	car	herself
+
+decoded: ['to', 'at', 'has', 'have', 'herself', 'one', 'car', 'least']
+score: -2.5549912205765323e-31
+
+sentence: they	have	to	take	any	car	rather	take	the	big	one
+
+decoded: ['to', 'the', 'have', 'one', 'they', 'car', 'any', 'rather', 'take', 'take', 'big']
+score: -1.4318969674003538e-30
+
+sentence: wife	could	drive	us	down	the	and	we	could	all	walk	from	there
+
+decoded: ['and', 'the', 'from', 'down', 'could', 'all', 'could', 'us', 'drive', 'there', 'we', 'wife', 'walk']
+score: -1.9385243906959855e-30
+
+sentence: but	and	and	he's	already	got	an	education
+
+decoded: ['and', 'and', 'but', 'an', 'education', 'got', 'already']
+score: -1.8435773727463112e-30
+
+sentence: throughout	the	volume	of	during	the	past	year
+
+decoded: ['the', 'of', 'the', 'year', 'during', 'past', 'throughout', 'volume']
+score: -1.5636945334979056e-30
+
+sentence: is	the	former	daughter	of	of	this	city
+
+decoded: ['of', 'of', 'the', 'is', 'this', 'city', 'daughter', 'former']
+score: -1.31025655321009e-29
+
+sentence: marriage	of	note	is	that	of	and
+
+decoded: ['of', 'of', 'and', 'that', 'is', 'note', 'marriage']
+score: -2.307336423069555e-29
+
+sentence: and	now	live	on	and	the	on
+
+decoded: ['and', 'and', 'the', 'on', 'on', 'now', 'live']
+score: -7.036742710714601e-30
+
+sentence: as	the	the	children	and	are
+
+decoded: ['the', 'and', 'the', 'as', 'are', 'children']
+score: -8.133715390674545e-30
+
+sentence: such	a	order	a	from	any	shop
+
+decoded: ['a', 'from', 'a', 'order', 'any', 'such', 'shop']
+score: -9.940125551042384e-31
+
+sentence: are	of	a	top	or	a
+
+decoded: ['of', 'a', 'a', 'are', 'or', 'top']
+score: -1.3293120095908392e-30
+
+sentence: ago	there	were	plenty	of	people	who	and	fine
+
+decoded: ['of', 'and', 'were', 'who', 'people', 'there', 'ago', 'fine', 'plenty']
+score: -4.1202756491221754e-30
+
+sentence: the	division	the	simply	and	imagination	with	a	few
+
+decoded: ['the', 'and', 'the', 'with', 'a', 'division', 'simply', 'imagination', 'few']
+score: -6.0241764230947666e-30
+
+sentence: result	is	some	part	of	which	can	be	as	pure
+
+decoded: ['of', 'is', 'as', 'which', 'can', 'be', 'part', 'some', 'result', 'pure']
+score: -1.3918571340784237e-30
+
+sentence: have	as	a	popular	act	in	and
+
+decoded: ['and', 'in', 'a', 'as', 'have', 'act', 'popular']
+score: -3.971095405933746e-30
+
+sentence: features	for	both	dinner	hour	and	the	late	trade
+
+decoded: ['and', 'the', 'for', 'trade', 'features', 'hour', 'dinner', 'both', 'late']
+score: -1.896576910063202e-30
+
+sentence: is	the	new	show	group	which	also	plays	for
+
+decoded: ['the', 'for', 'is', 'which', 'group', 'new', 'show', 'also', 'plays']
+score: -7.2139554929689085e-31
+
+sentence: another	shop	her	in	the	this	week
+
+decoded: ['the', 'in', 'her', 'this', 'shop', 'week', 'another']
+score: -1.2587392314087137e-30
+
+sentence: were	in	the	same	years	ago
+
+decoded: ['the', 'in', 'were', 'years', 'ago', 'same']
+score: -3.6941446639580497e-31
+
+sentence: from	is	reported	to	be	the	only	one	extended	to	a	woman
+
+decoded: ['to', 'the', 'to', 'from', 'a', 'is', 'be', 'one', 'only', 'woman', 'reported', 'extended']
+score: -1.2977089256658393e-29
+
+sentence: include	a	company	of	and	a
+
+decoded: ['of', 'and', 'a', 'a', 'company', 'include']
+score: -2.288531551154206e-30
+
+sentence: business	education	program	with	the	of	local	high	schools	and	business	firms
+
+decoded: ['of', 'and', 'the', 'with', 'business', 'education', 'high', 'schools', 'business', 'local', 'firms', 'program']
+score: -6.866454897860965e-30
+
+sentence: that	time	the	second	half	of	the	against	will	be
+
+decoded: ['the', 'of', 'the', 'that', 'against', 'will', 'time', 'be', 'half', 'second']
+score: -7.067672397373388e-30
+
+sentence: was	particularly	struck	by	a	course	on
+
+decoded: ['by', 'on', 'a', 'was', 'course', 'struck', 'particularly']
+score: -6.099684245421661e-31
+
+sentence: first	one	two	years	ago	changed	the	of	their	home	life
+
+decoded: ['of', 'the', 'their', 'years', 'life', 'one', 'home', 'two', 'first', 'ago', 'changed']
+score: -1.955281501273287e-30
+
+sentence: their	surprise	the	children	all	were	and	quite	able	to	take	part
+
+decoded: ['and', 'the', 'to', 'were', 'their', 'all', 'children', 'part', 'take', 'quite', 'surprise', 'able']
+score: -4.2927758767453074e-30
+
+sentence: the	if	the	family	has	a	without	her
+
+decoded: ['the', 'the', 'a', 'her', 'has', 'if', 'family', 'without']
+score: -2.16791544526725e-30
+
+sentence: family	service	will	follow	the	program	at	p.m.
+
+decoded: ['.', 'the', 'at', 'will', 'service', 'family', 'program', 'follow']
+score: -3.79252390794567e-30
+
+sentence: officers	of	the	church	will	be	and	at	the	p.m.	service
+
+decoded: ['of', 'the', 'and', 'the', 'at', 'will', 'be', 'service', 'church', 'officers']
+score: -7.299690144030075e-30
+
+sentence: season	in	will	open	with	a	special	on
+
+decoded: ['in', 'with', 'on', 'a', 'will', 'season', 'open', 'special']
+score: -1.2649863491171022e-30
+
+sentence: work	is	no	favorite	of	mine
+
+decoded: ['of', 'is', 'no', 'work', 'mine']
+score: -5.737413249739763e-31
+
+sentence: that	its	is	and	its	score	a	of
+
+decoded: ['of', 'and', 'that', 'a', 'is', 'its', 'its', 'score']
+score: -1.0358851191425346e-29
+
+sentence: other	words	no	merely	can	that	corps	de
+
+decoded: ['that', 'de', 'no', 'can', 'words', 'other', 'merely']
+score: -1.089072329417954e-31
+
+sentence: production	designed	by	was	completely	traditional	but	traditional	in	the	right	way
+
+decoded: ['the', 'in', 'by', 'was', 'but', 'way', 'production', 'right', 'designed', 'traditional', 'completely', 'traditional']
+score: -3.3445260367088706e-30
+
+sentence: members	may	sign	up	at	for	the	season
+
+decoded: ['the', 'for', 'at', 'up', 'may', 'members', 'season', 'sign']
+score: -1.1969517042140266e-30
+
+sentence: will	not	be	at	this	year
+
+decoded: ['at', 'will', 'be', 'this', 'not', 'year']
+score: -2.9115988001817193e-32
+
+sentence: the	of	are	said	to	be	into	this	film
+
+decoded: ['of', 'to', 'the', 'into', 'are', 'said', 'be', 'this', 'film']
+score: -3.455324078761869e-30
+
+sentence: that's	all	the	did	it's	a	surprise	to	me	that	fell
+
+decoded: ['the', 'to', 'that', 'a', 'me', 'all', 'did', 'fell', 'surprise']
+score: -3.895902386143964e-30
+
+sentence: are	more	obvious	on	any	series
+
+decoded: ['on', 'are', 'more', 'any', 'series', 'obvious']
+score: -4.260248225958831e-32
+
+sentence: of	the	has	been	placed	on	a	wild	party	at	a
+
+decoded: ['of', 'the', 'a', 'on', 'a', 'at', 'has', 'party', 'been', 'placed', 'wild']
+score: -4.0580149788391266e-30
+
+sentence: caught	the	crowd	when	its	had	to
+
+decoded: ['to', 'the', 'had', 'its', 'when', 'crowd', 'caught']
+score: -1.3386459727087046e-30
+
+sentence: a	group	they	must	have	been	when	they	first	started
+
+decoded: ['a', 'have', 'when', 'they', 'group', 'they', 'must', 'been', 'first', 'started']
+score: -4.796407509352994e-32
+
+sentence: this	doesn't	from	its	as	an	interesting	if	not	great	film
+
+decoded: ['from', 'as', 'its', 'an', 'this', 'not', 'if', 'film', 'great', 'interesting']
+score: -1.2477429372608322e-31
+
+sentence: you	think	you	have	language	problems
+
+decoded: ['you', 'you', 'have', 'problems', 'language', 'think']
+score: -6.41935701742525e-33
+
+sentence: bought	a	new	little	foreign	bomb
+
+decoded: ['a', 'new', 'little', 'bomb', 'foreign', 'bought']
+score: -4.098361054141905e-34
+
+sentence: is	very	to	drive	foreign	cars
+
+decoded: ['to', 'is', 'drive', 'cars', 'very', 'foreign']
+score: -1.9129124023967948e-31
+
+sentence: for	a	foreign	bomb	is	a	little	expensive
+
+decoded: ['a', 'for', 'a', 'is', 'little', 'expensive', 'bomb', 'foreign']
+score: -6.480670156242247e-31
+
+sentence: we	couldn't	really	get	along	without	it
+
+decoded: ['it', 'along', 'we', 'without', 'get', 'really']
+score: -9.321535803641972e-33
+
+sentence: present	of	small	cars	is	humor
+
+decoded: ['of', 'is', 'cars', 'small', 'present']
+score: -5.734955994512094e-32
+
+sentence: station	people	are	very	about	small	cars
+
+decoded: ['are', 'about', 'people', 'station', 'cars', 'very', 'small']
+score: -1.052271392255815e-32
+
+sentence: drove	a	car	with	had	plenty	at	the
+
+decoded: ['the', 'with', 'a', 'at', 'had', 'car', 'drove', 'plenty']
+score: -1.8835131123585767e-30
+
+sentence: excellent	foreign	bomb	takes	only	six
+
+decoded: ['only', 'bomb', 'takes', 'foreign', 'six', 'excellent']
+score: -3.109843773497288e-35
+
+sentence: will	be	said	the	gas	station	man
+
+decoded: ['the', 'said', 'will', 'man', 'be', 'gas', 'station']
+score: -6.198248072871913e-32
+
+sentence: about	and	was	the	of	the
+
+decoded: ['of', 'the', 'and', 'the', 'was', 'about']
+score: -1.0067632830930562e-29
+
+sentence: off	my	hands	and	they	their
+
+decoded: ['and', 'off', 'their', 'my', 'they', 'hands']
+score: -9.719684361035697e-32
+
+sentence: last	that	saw	me	do	that	should	himself
+
+decoded: ['that', 'that', 'me', 'himself', 'should', 'do', 'last', 'saw']
+score: -4.422377490837308e-31
+
+sentence: blood	pressure	can	get	the	best	of	any	of	us
+
+decoded: ['of', 'of', 'the', 'can', 'pressure', 'us', 'blood', 'any', 'get', 'best']
+score: -1.159669281928103e-29
+
+sentence: suite	has	been	in	the	same	family	since	the	early
+
+decoded: ['the', 'the', 'in', 'has', 'family', 'since', 'been', 'early', 'same']
+score: -4.852431537798569e-30
+
+sentence: will	be	to	the	in	the	room
+
+decoded: ['the', 'to', 'the', 'in', 'will', 'be', 'room']
+score: -6.33335140020532e-30
+
+sentence: to	serve	from	each	section	of	the	country	include	of
+
+decoded: ['of', 'of', 'to', 'the', 'from', 'section', 'each', 'country', 'include', 'serve']
+score: -2.380876662684187e-29
+
+sentence: he	left	the	to	his	office	open	so	he	could	hear	the	music
+
+decoded: ['the', 'the', 'to', 'his', 'he', 'he', 'could', 'so', 'office', 'music', 'left', 'open', 'hear']
+score: -1.0513127557476947e-29
+
+sentence: it	turned	out	to	be	more	of	a	family	than	expected
+
+decoded: ['of', 'to', 'a', 'out', 'it', 'than', 'be', 'family', 'more', 'turned', 'expected']
+score: -4.475413565448749e-30
+
+sentence: was	an	art	major	in	college	explained
+
+decoded: ['in', 'was', 'college', 'an', 'art', 'major', 'explained']
+score: -1.4739722690919683e-31
+
+sentence: been	here	so	many	times	couldn't	them
+
+decoded: ['them', 'so', 'times', 'been', 'here', 'many']
+score: -4.218516413263113e-33
+
+sentence: decided	that	they	thought	made	him	look	sad
+
+decoded: ['that', 'him', 'made', 'they', 'thought', 'look', 'decided', 'sad']
+score: -2.3709227348458194e-32
+
+sentence: sure	you've	heard	of	him	and	his	record
+
+decoded: ['of', 'and', 'his', 'him', 'record', 'heard', 'sure']
+score: -3.7684081946506977e-31
+
+sentence: few	of	them	said	they	art
+
+decoded: ['of', 'said', 'them', 'they', 'art', 'few']
+score: -4.317678912646574e-33
+
+sentence: the	other	whose	were	discussed	were
+
+decoded: ['the', 'were', 'were', 'other', 'whose', 'discussed']
+score: -4.721511841879512e-32
+
+sentence: came	together	in	the	to	hear	the	late
+
+decoded: ['the', 'to', 'the', 'in', 'together', 'came', 'late', 'hear']
+score: -7.261750123473284e-30
+
+sentence: opening	of	the	will	begin	at	today
+
+decoded: ['of', 'the', 'at', 'will', 'today', 'opening', 'begin']
+score: -3.560356920526203e-31
+
+sentence: will	be	a	to	at	p.m.
+
+decoded: ['.', 'to', 'a', 'at', 'will', 'be']
+score: -7.66731146211931e-30
+
+sentence: marriage	of	and	had	clearly	reached	the	point	after	eight	years
+
+decoded: ['of', 'and', 'the', 'had', 'years', 'point', 'after', 'eight', 'marriage', 'reached', 'clearly']
+score: -9.070629395019866e-31
+
+sentence: had	a	job	in	a	small	firm	where	the	work	was	and
+
+decoded: ['and', 'the', 'in', 'a', 'was', 'a', 'had', 'work', 'where', 'job', 'firm', 'small']
+score: -1.4206441596555554e-29
+
+sentence: in	turn	told	her	she	too	much
+
+decoded: ['in', 'her', 'she', 'told', 'too', 'much', 'turn']
+score: -5.550005476595242e-33
+
+sentence: in	has	five	in	the	area
+
+decoded: ['in', 'the', 'in', 'has', 'area', 'five']
+score: -4.381244439699069e-30
+
+sentence: have	led	each	of	them	to	a	new	of	the	problems	the	other
+
+decoded: ['of', 'the', 'of', 'the', 'to', 'a', 'have', 'them', 'new', 'each', 'problems', 'other', 'led']
+score: -4.194683334654358e-29
+
+sentence: are	now	working	together	toward	their
+
+decoded: ['are', 'their', 'together', 'now', 'working']
+score: -3.816060208320179e-33
+
+sentence: gives	credit	for	the	to	his	new	on	life
+
+decoded: ['to', 'the', 'on', 'for', 'his', 'life', 'new', 'credit', 'gives']
+score: -3.1720651521469766e-30
+
+sentence: know	the	value	of	being	just	that	an	ordinary	happy	family
+
+decoded: ['of', 'the', 'that', 'an', 'value', 'family', 'being', 'just', 'know', 'happy', 'ordinary']
+score: -7.825084397210995e-31
+
+sentence: has	helped	of	families	in	this	area
+
+decoded: ['of', 'in', 'has', 'families', 'area', 'this', 'helped']
+score: -1.2054742527852072e-30
+
+sentence: to	some	their	work	does	not	seem	particularly	vital
+
+decoded: ['to', 'their', 'not', 'work', 'some', 'does', 'seem', 'particularly', 'vital']
+score: -8.424440049419455e-32
+
+sentence: to	the	families	it	their	help	cannot	be	measured
+
+decoded: ['the', 'to', 'it', 'their', 'be', 'families', 'can', 'not', 'help', 'measured']
+score: -1.3909229687178252e-31
+
+sentence: that	from	more	traditional	we	can	perhaps	find	greater	common	ground
+
+decoded: ['from', 'that', 'can', 'more', 'common', 'we', 'ground', 'perhaps', 'greater', 'find', 'traditional']
+score: -2.886565968398287e-32
+
+sentence: came	after	a	period	of	sharp	in	relations
+
+decoded: ['of', 'in', 'a', 'period', 'after', 'relations', 'came', 'sharp']
+score: -2.761242286816196e-30
+
+sentence: objective	set	the	high	and	of	the	meeting
+
+decoded: ['of', 'the', 'and', 'the', 'high', 'set', 'meeting', 'objective']
+score: -4.7987700649190504e-30
+
+sentence: spirit	served	to	the	while	made	into	the
+
+decoded: ['the', 'to', 'the', 'into', 'made', 'while', 'spirit', 'served']
+score: -2.0417320254840665e-30
+
+sentence: did	not	want	the	effort	by	any	that	might	make	it
+
+decoded: ['the', 'by', 'that', 'it', 'not', 'did', 'any', 'might', 'effort', 'make', 'want']
+score: -1.4201259490068834e-30
+
+sentence: he	knew	it	should	be	by	progress	at	lower	levels
+
+decoded: ['by', 'at', 'it', 'he', 'be', 'should', 'levels', 'knew', 'lower', 'progress']
+score: -2.9720475943291374e-31
+
+sentence: was	especially	concerned	about	the	in	the	nuclear	test	at
+
+decoded: ['the', 'the', 'in', 'at', 'was', 'about', 'test', 'nuclear', 'concerned', 'especially']
+score: -5.829093064539437e-30
+
+sentence: in	and	also	suggested	the	of	an	early	meeting
+
+decoded: ['of', 'and', 'the', 'in', 'an', 'also', 'meeting', 'suggested', 'early']
+score: -1.0570298321804051e-29
+
+sentence: reported	from	that	the	was	and
+
+decoded: ['and', 'the', 'from', 'that', 'was', 'reported']
+score: -3.743963687515756e-30
+
+sentence: has	indicated	that	he	plans	new	on	before	the	year	is	out
+
+decoded: ['the', 'on', 'that', 'is', 'out', 'has', 'he', 'new', 'before', 'year', 'plans', 'indicated']
+score: -2.452305141623131e-30
+
+sentence: told	he	would	give	his	answer	by	after	with	the
+
+decoded: ['the', 'with', 'by', 'his', 'he', 'would', 'after', 'told', 'give', 'answer']
+score: -2.7033185015541182e-30
+
+sentence: did	not	from	an	of	at
+
+decoded: ['of', 'from', 'at', 'an', 'not', 'did']
+score: -1.5936650204864766e-30
+
+sentence: was	to	accept	the	statement	that	there	would	be	no	formal
+
+decoded: ['to', 'the', 'that', 'was', 'no', 'would', 'be', 'there', 'statement', 'accept', 'formal']
+score: -1.3028536300942259e-30
+
+sentence: time	the	came	in	part	at	least	from
+
+decoded: ['the', 'in', 'from', 'at', 'time', 'part', 'came', 'least']
+score: -1.0519020284208996e-30
+
+sentence: is	no	single	issue	that	has	throughout	the	world
+
+decoded: ['the', 'that', 'is', 'has', 'no', 'world', 'throughout', 'issue', 'single']
+score: -1.1420876183519714e-30
+
+sentence: of	the	meeting	was	based	largely	on	the	that	the	could	hardly	be	worse
+
+decoded: ['the', 'of', 'the', 'the', 'on', 'that', 'was', 'be', 'could', 'meeting', 'based', 'worse', 'largely', 'hardly']
+score: -1.9264115482477162e-29
+
+sentence: is	however	one	curious	in	this	and	picture
+
+decoded: ['and', 'in', 'is', 'this', 'one', 'picture', 'however', 'curious']
+score: -2.736232536599026e-30
+
+sentence: have	not	done	so	for	the	simple	reason	that	such	have	hardly	ever	been	made
+
+decoded: ['the', 'for', 'that', 'have', 'have', 'not', 'so', 'made', 'such', 'been', 'simple', 'ever', 'reason', 'done', 'hardly']
+score: -1.4072307928760942e-30
+
+sentence: generally	have	not	this	as	their	direct	responsibility
+
+decoded: ['as', 'their', 'have', 'this', 'not', 'responsibility', 'generally', 'direct']
+score: -7.453018864811356e-32
+
+sentence: de	corps	has	been	the	which	has	made	the	possible
+
+decoded: ['the', 'the', 'has', 'de', 'has', 'which', 'made', 'possible', 'been']
+score: -2.3079838645664315e-30
+
+sentence: is	something	more	than	the	of	individual	of	and
+
+decoded: ['of', 'of', 'and', 'the', 'is', 'than', 'more', 'something', 'individual']
+score: -2.5423400025937633e-29
+
+sentence: spirit	is	the	real	explanation	of	the	of	our
+
+decoded: ['of', 'of', 'the', 'the', 'is', 'our', 'spirit', 'real', 'explanation']
+score: -2.429346556743764e-29
+
+sentence: this	of	the	total	picture	has	been	upon	often	enough
+
+decoded: ['of', 'the', 'has', 'upon', 'this', 'enough', 'been', 'often', 'picture', 'total']
+score: -7.976587898339855e-31
+
+sentence: would	seem	to	de	corps	run
+
+decoded: ['to', 'de', 'would', 'run', 'seem']
+score: -2.1569002947206132e-32
+
+sentence: the	first	place	there	is	the	obvious	problem	of	high	personnel
+
+decoded: ['of', 'the', 'the', 'is', 'high', 'place', 'there', 'problem', 'first', 'personnel', 'obvious']
+score: -8.940248275359004e-30
+
+sentence: rapidly	in	the	academic	much	given	to	and
+
+decoded: ['and', 'to', 'the', 'in', 'much', 'given', 'rapidly', 'academic']
+score: -6.602040665027682e-30
+
+sentence: has	been	made	of	the	fact	that	major	institutions	now	firm
+
+decoded: ['of', 'the', 'that', 'has', 'now', 'made', 'been', 'firm', 'major', 'fact', 'institutions']
+score: -1.5810112932622136e-30
+
+sentence: is	a	significant	but	its	should	not	be
+
+decoded: ['a', 'is', 'its', 'be', 'but', 'should', 'not', 'significant']
+score: -5.936774856363247e-32
+
+sentence: is	a	problem	that	goes	beyond	questions	of	and
+
+decoded: ['of', 'and', 'that', 'a', 'is', 'problem', 'questions', 'goes', 'beyond']
+score: -9.041805771025348e-30
+
+sentence: was	by	over	that	our	program
+
+decoded: ['by', 'that', 'was', 'over', 'our', 'program']
+score: -2.8912370674935256e-31
+
+sentence: of	has	brought	this	problem	to	the	attention	of	the
+
+decoded: ['of', 'of', 'the', 'to', 'the', 'has', 'this', 'attention', 'problem', 'brought']
+score: -3.046941073032138e-29
+
+sentence: has	nor	been	heard	from	on	the	matter
+
+decoded: ['the', 'on', 'from', 'has', 'been', 'matter', 'nor', 'heard']
+score: -7.954491903275418e-31
+
+sentence: they	are	with	labor	by	the	to	the
+
+decoded: ['the', 'to', 'the', 'with', 'by', 'are', 'they']
+score: -9.884613828025631e-30
+
+sentence: a	business	that	it	must	but	along	completely	lines
+
+decoded: ['that', 'a', 'it', 'but', 'along', 'business', 'must', 'lines', 'completely']
+score: -7.754997485994101e-32
+
+sentence: it	must	play	a	game	in	which	there	never	is	a
+
+decoded: ['in', 'a', 'a', 'is', 'it', 'which', 'there', 'must', 'play', 'never', 'game']
+score: -2.7786963795855105e-30
+
+sentence: fact	is	that	any	business	that	wants	to	cannot	follow	the	law
+
+decoded: ['to', 'the', 'that', 'that', 'is', 'can', 'law', 'not', 'any', 'business', 'fact', 'wants', 'follow']
+score: -8.458916569934055e-30
+
+sentence: thus	becomes	the	answer	to	a	public	policy
+
+decoded: ['the', 'to', 'a', 'policy', 'public', 'becomes', 'answer', 'thus']
+score: -2.361778916939078e-31
+
+sentence: procedures	can	be	varied	to	provide	a	for	almost	any	price
+
+decoded: ['to', 'for', 'a', 'can', 'be', 'any', 'procedures', 'price', 'almost', 'provide', 'varied']
+score: -1.186007040716769e-30
+
+sentence: would	then	them	of	a	by
+
+decoded: ['of', 'by', 'a', 'them', 'would', 'then']
+score: -1.4738630847613855e-30
+
+sentence: if	they	show	they	don't	get	the	orders
+
+decoded: ['the', 'they', 'if', 'show', 'they', 'orders', 'get']
+score: -2.990069482208762e-31
+
+sentence: in	such	a	was	an	act	of	by	the
+
+decoded: ['of', 'the', 'in', 'by', 'a', 'was', 'an', 'act', 'such']
+score: -1.2493127124003242e-29
+
+sentence: which	theory	would	the	of	the	law	on
+
+decoded: ['of', 'the', 'the', 'on', 'which', 'would', 'law', 'theory']
+score: -5.22676036990549e-30
+
+sentence: became	the	greatest	protection	to	business
+
+decoded: ['to', 'the', 'business', 'became', 'protection', 'greatest']
+score: -1.3299312982184187e-31
+
+sentence: secret	of	is	hardly	such	a
+
+decoded: ['of', 'a', 'is', 'such', 'secret', 'hardly']
+score: -5.473796708463494e-31
+
+sentence: individuals	who	trade	and	said	so	in	plain
+
+decoded: ['and', 'in', 'said', 'who', 'so', 'trade', 'plain', 'individuals']
+score: -1.5132419375983688e-30
+
+sentence: basic	purpose	of	an	effective	system	is	the	of	from
+
+decoded: ['of', 'of', 'the', 'from', 'is', 'system', 'an', 'purpose', 'effective', 'basic']
+score: -1.6990495935228095e-29
+
+sentence: labor	was	exactly	that	a	in	and
+
+decoded: ['and', 'in', 'that', 'a', 'was', 'exactly']
+score: -4.698951483946309e-30
+
+sentence: were	no	then	about	being	for	but	against	labor
+
+decoded: ['for', 'were', 'about', 'against', 'no', 'but', 'being', 'then']
+score: -2.1329328244875908e-31
+
+sentence: remained	a	but	presumably	a	one	from	the
+
+decoded: ['the', 'a', 'from', 'a', 'but', 'one', 'remained', 'presumably']
+score: -4.533457149022148e-30
+
+sentence: court	first	that	the	strike	only	an	with
+
+decoded: ['the', 'with', 'that', 'an', 'court', 'only', 'first', 'strike']
+score: -1.1985461124253873e-30
+
+sentence: presented	said	was	not	a	very
+
+decoded: ['a', 'was', 'said', 'not', 'very', 'presented']
+score: -9.74288692953256e-32
+
+sentence: began	the	that	in	the	of
+
+decoded: ['of', 'the', 'the', 'in', 'that', 'began']
+score: -1.4875240056679063e-29
+
+sentence: time	they	were	much	better	prepared	and	and	the	political	was
+
+decoded: ['and', 'and', 'the', 'was', 'were', 'time', 'they', 'much', 'better', 'political', 'prepared']
+score: -5.9687997188744355e-30
+
+sentence: they	seemed	to	have	the	to	work	their	will
+
+decoded: ['to', 'to', 'the', 'have', 'their', 'will', 'work', 'they', 'seemed']
+score: -6.33875573254449e-30
+
+sentence: years	he	has	enjoyed	his	power	on	the
+
+decoded: ['the', 'on', 'his', 'has', 'years', 'he', 'power', 'enjoyed']
+score: -1.0857115381645327e-30
+
+sentence: the	heat	of	the	drive	last	week	against
+
+decoded: ['the', 'of', 'the', 'against', 'drive', 'last', 'heat', 'week']
+score: -2.2350619189642214e-31
+
+sentence: the	offer	and	decided	to	join	the
+
+decoded: ['the', 'and', 'to', 'the', 'decided', 'offer', 'join']
+score: -4.211949837333191e-31
+
+sentence: in	the	of	the	battle	the	of	a	war
+
+decoded: ['of', 'the', 'the', 'of', 'the', 'in', 'a', 'war', 'battle']
+score: -3.5937787651679647e-29
+
+sentence: the	asked	power	for	a	of
+
+decoded: ['of', 'the', 'for', 'a', 'power', 'asked']
+score: -3.486097733288051e-30
+
+sentence: the	admitted	that	the	had	no	chance	of
+
+decoded: ['the', 'of', 'the', 'that', 'had', 'no', 'chance', 'admitted']
+score: -1.0303334353538799e-29
+
+sentence: his	with	then	went	beyond	the	required
+
+decoded: ['the', 'with', 'his', 'went', 'then', 'required', 'beyond']
+score: -7.675293319317325e-31
+
+sentence: that	is	just	what	happened	on	the	last	few
+
+decoded: ['the', 'on', 'that', 'is', 'what', 'last', 'just', 'few', 'happened']
+score: -2.2976921345606054e-30
+
+sentence: got	up	and	bit	both	and
+
+decoded: ['and', 'and', 'up', 'got', 'both', 'bit']
+score: -1.3894479995487157e-30
+
+sentence: was	the	first	to	feel	its	teeth
+
+decoded: ['to', 'the', 'was', 'its', 'teeth', 'first', 'feel']
+score: -9.062584664331143e-31
+
+sentence: he	his	and	walked	off	the	course	was	almost	in
+
+decoded: ['and', 'the', 'in', 'was', 'his', 'off', 'he', 'course', 'almost', 'walked']
+score: -5.7838905077946326e-30
+
+sentence: if	to	his	he	quickly	won	three	of	the	first	eight
+
+decoded: ['of', 'the', 'to', 'his', 'he', 'if', 'eight', 'three', 'first', 'won', 'quickly']
+score: -6.117013757823133e-30
+
+sentence: immediately	proved	he	was	not	in	the	least	by	the	of
+
+decoded: ['of', 'the', 'the', 'in', 'by', 'was', 'he', 'not', 'immediately', 'proved', 'least']
+score: -2.0945821508464807e-29
+
+sentence: all	around	the	course	and	finished	with	a	to
+
+decoded: ['and', 'the', 'to', 'with', 'a', 'around', 'all', 'course', 'finished']
+score: -6.691241396381317e-30
+
+sentence: got	him	off	to	an	early	lead	which	he	with
+
+decoded: ['to', 'with', 'off', 'him', 'which', 'he', 'an', 'got', 'lead', 'early']
+score: -8.677674483191296e-31
+
+sentence: was	only	one	back	with	a
+
+decoded: ['with', 'a', 'was', 'back', 'one', 'only']
+score: -3.8720569976186047e-31
+
+sentence: or	who	had	a	somewhat	but	was	to	do	better
+
+decoded: ['to', 'was', 'a', 'had', 'or', 'who', 'but', 'do', 'better', 'somewhat']
+score: -2.7471398730078573e-30
+
+sentence: last	week	at	the	and	did
+
+decoded: ['and', 'the', 'at', 'did', 'last', 'week']
+score: -1.2444357544344547e-30
+
+sentence: you're	playing	like	that	you'd	better	attack
+
+decoded: ['that', 'like', 'attack', 'better', 'playing']
+score: -2.19258275634761e-33
+
+sentence: with	his	and	hit	a	shot	that	few	who	saw	it	will	ever	forget
+
+decoded: ['and', 'with', 'that', 'a', 'his', 'it', 'who', 'will', 'saw', 'shot', 'hit', 'ever', 'few', 'forget']
+score: -1.6405256641864394e-30
+
+sentence: struck	the	green	on	the	and	stopped	just	off	the	edge
+
+decoded: ['the', 'the', 'and', 'the', 'on', 'off', 'green', 'just', 'edge', 'stopped', 'struck']
+score: -1.134871976752434e-29
+
+sentence: there	he	back	and	his	for	a
+
+decoded: ['and', 'for', 'a', 'his', 'he', 'back', 'there']
+score: -1.4196660684335349e-30
+
+sentence: the	second	nine	was	already	four	behind	and	knew	it
+
+decoded: ['and', 'the', 'was', 'it', 'behind', 'four', 'knew', 'already', 'second', 'nine']
+score: -1.2923439436337284e-30
+
+sentence: is	the	year	home	from	the	to	the
+
+decoded: ['the', 'the', 'to', 'the', 'from', 'is', 'year', 'home']
+score: -1.2872343958490603e-29
+
+sentence: point	to	the	of	in	the	caused	by
+
+decoded: ['of', 'the', 'to', 'the', 'in', 'by', 'point', 'caused']
+score: -1.0399696463925568e-29
+
+sentence: is	the	great	edge	the	two	have	going	for	them
+
+decoded: ['the', 'the', 'for', 'is', 'have', 'them', 'two', 'edge', 'great', 'going']
+score: -2.9206730369044156e-30
+
+sentence: day	and	until	this	year	the	was
+
+decoded: ['and', 'the', 'was', 'this', 'day', 'year', 'until']
+score: -1.4607216133517525e-30
+
+sentence: has	to	be	easier	with	two	of	them
+
+decoded: ['of', 'to', 'with', 'has', 'them', 'be', 'two', 'easier']
+score: -4.3495611173011e-30
+
+sentence: can	you	walk	to	get	to
+
+decoded: ['to', 'to', 'you', 'can', 'walk', 'get']
+score: -2.2840821735286307e-30
+
+sentence: and	use	the	in	the	bedroom
+
+decoded: ['the', 'and', 'the', 'in', 'use', 'bedroom']
+score: -6.663438239638337e-30
+
+sentence: on	a	green	in	the	living	room
+
+decoded: ['the', 'in', 'on', 'a', 'green', 'room', 'living']
+score: -2.789369077771026e-30
+
+sentence: an	extent	the	two	even	look
+
+decoded: ['the', 'an', 'two', 'look', 'even', 'extent']
+score: -6.21969342446633e-33
+
+sentence: have	blue	eyes	and	short	hair
+
+decoded: ['and', 'have', 'hair', 'eyes', 'blue', 'short']
+score: -2.653128439093526e-32
+
+sentence: their	and	shoulders	both	must	have	their	clothes	made	to	order
+
+decoded: ['and', 'to', 'their', 'have', 'their', 'order', 'made', 'must', 'both', 'clothes', 'shoulders']
+score: -2.9864064429676617e-30
+
+sentence: do	you	and	talk	about	at	home
+
+decoded: ['and', 'at', 'about', 'you', 'home', 'do', 'talk']
+score: -5.130006407047685e-31
+
+sentence: tell	you	the	truth	said	don't	talk	much
+
+decoded: ['the', 'said', 'you', 'much', 'talk', 'tell', 'truth']
+score: -2.53715820720323e-32
+
+sentence: the	two	is	by	nature	the	less	the	more
+
+decoded: ['the', 'the', 'the', 'by', 'is', 'more', 'two', 'nature', 'less']
+score: -1.7408601020388314e-29
+
+sentence: his	own	is	an	angry	young	man
+
+decoded: ['is', 'his', 'man', 'an', 'young', 'own', 'angry']
+score: -3.1043696432423025e-33
+
+sentence: did	and	led	the	team	to	in	the
+
+decoded: ['the', 'and', 'to', 'the', 'in', 'did', 'team', 'led']
+score: -8.919060827225158e-30
+
+sentence: you're	a	good	you've	got	to	get	mad
+
+decoded: ['to', 'a', 'got', 'good', 'get', 'mad']
+score: -1.17374841845037e-31
+
+sentence: afraid	to	talk	to	a	guy	you
+
+decoded: ['to', 'to', 'a', 'you', 'talk', 'guy', 'afraid']
+score: -1.470147232507737e-31
+
+sentence: all	the	he	is	the	most	friendly	to
+
+decoded: ['the', 'to', 'the', 'is', 'he', 'all', 'most', 'friendly']
+score: -8.839202775831012e-30
+
+sentence: nor	is	to	baseball	above	all	else
+
+decoded: ['to', 'is', 'all', 'above', 'else', 'nor']
+score: -1.3123270948205042e-31
+
+sentence: try	to	play	baseball	the	best	they	can
+
+decoded: ['to', 'the', 'can', 'they', 'play', 'try', 'best']
+score: -1.1337573659514264e-31
+
+sentence: beyond	any	question	can	do	more	things	well
+
+decoded: ['can', 'more', 'any', 'well', 'do', 'question', 'things', 'beyond']
+score: -3.5106028591886875e-33
+
+sentence: are	good	once	beat	out	of	in	the
+
+decoded: ['of', 'the', 'in', 'out', 'are', 'good', 'once', 'beat']
+score: -4.768165117344968e-30
+
+sentence: is	a	at	a	toward	first	base
+
+decoded: ['a', 'a', 'at', 'is', 'first', 'base']
+score: -6.986732640637773e-31
+
+sentence: this	weapon	the	two	may	have	saved	baseball	from	its	season
+
+decoded: ['the', 'from', 'have', 'its', 'this', 'may', 'two', 'season', 'weapon', 'saved']
+score: -7.55943492836767e-31
+
+sentence: the	something	was	the	home	run
+
+decoded: ['the', 'the', 'was', 'home', 'run', 'something']
+score: -1.7865073578589227e-30
+
+sentence: the	officer	with	the	yellow	or	the	bay	window
+
+decoded: ['the', 'the', 'the', 'with', 'or', 'bay', 'window', 'officer', 'yellow']
+score: -1.3846558808350934e-29
+
+sentence: few	of	these	people	are	still	around
+
+decoded: ['of', 'are', 'around', 'people', 'these', 'still', 'few']
+score: -1.2049515431426268e-31
+
+sentence: and	new	crossed	in	the	then	went	their	ways
+
+decoded: ['and', 'the', 'in', 'their', 'new', 'went', 'then', 'ways', 'crossed']
+score: -2.8757340465756964e-30
+
+sentence: before	he	hit	big	money	he	had	modern
+
+decoded: ['had', 'he', 'he', 'before', 'money', 'hit', 'modern', 'big']
+score: -4.1376039044865505e-32
+
+sentence: one	of	the	of	in	the	world
+
+decoded: ['of', 'of', 'the', 'the', 'in', 'world', 'one']
+score: -1.6633165248068947e-29
+
+sentence: years	ago	offered	his	collection	to	the	city
+
+decoded: ['the', 'to', 'his', 'years', 'city', 'collection', 'ago', 'offered']
+score: -9.412467648504879e-31
+
+sentence: he	that	it	be	in	a	special
+
+decoded: ['in', 'that', 'a', 'it', 'he', 'be', 'special']
+score: -1.1802700346601091e-30
+
+sentence: turned	him	down	just	as	society	had	been	him	for	years
+
+decoded: ['for', 'as', 'him', 'had', 'down', 'him', 'society', 'years', 'been', 'just', 'turned']
+score: -4.9963372121924205e-31
+
+sentence: week	most	of	the	other	once	offered	to	went	on	the	block
+
+decoded: ['of', 'the', 'to', 'the', 'on', 'went', 'other', 'week', 'block', 'once', 'most', 'offered']
+score: -7.978997867470552e-30
+
+sentence: fact	he	seemed	to	get	of	them
+
+decoded: ['of', 'to', 'them', 'he', 'seemed', 'fact', 'get']
+score: -1.6310717077417063e-30
+
+sentence: that	this	might	be	his	on	his	home	town
+
+decoded: ['on', 'that', 'his', 'his', 'be', 'this', 'home', 'town', 'might']
+score: -4.850070178286535e-31
+
+sentence: in	all	its	years	not	a	single	student	has	entered	its
+
+decoded: ['in', 'a', 'its', 'has', 'its', 'years', 'all', 'not', 'student', 'single', 'entered']
+score: -6.0942844578375256e-31
+
+sentence: was	again	on	the	basis	of	his	record	and
+
+decoded: ['of', 'and', 'the', 'on', 'was', 'his', 'again', 'record', 'basis']
+score: -1.1624703212796722e-29
+
+sentence: said	he	but	officials	still	called	him
+
+decoded: ['said', 'him', 'he', 'but', 'called', 'still', 'officials']
+score: -5.302276654315168e-33
+
+sentence: also	said	he	in	saying	that	he	had	never	been
+
+decoded: ['in', 'that', 'had', 'said', 'he', 'he', 'also', 'been', 'never', 'saying']
+score: -8.032148057601333e-31
+
+sentence: reason	once	paid	a	fine	had	his
+
+decoded: ['a', 'had', 'his', 'once', 'paid', 'fine', 'reason']
+score: -3.235098647517554e-32
+
+sentence: state	will	but	few	think	it	will	actually	try	to	close	the	university
+
+decoded: ['to', 'the', 'will', 'it', 'will', 'university', 'but', 'state', 'close', 'try', 'think', 'actually', 'few']
+score: -3.1981463125791546e-30
+
+sentence: went	letters	to	old	asking	for
+
+decoded: ['to', 'for', 'old', 'went', 'letters', 'asking']
+score: -1.6381328469762093e-31
+
+sentence: is	even	that	rare	who	takes	an	interest	in	money	matters
+
+decoded: ['in', 'that', 'is', 'who', 'an', 'interest', 'even', 'money', 'matters', 'takes', 'rare']
+score: -1.1003273087236921e-30
+
+sentence: is	an	area	nearly	as	large	as
+
+decoded: ['as', 'is', 'as', 'area', 'an', 'large', 'nearly']
+score: -1.5637807060518221e-31
+
+sentence: and	it	was	filled	then	as	now	by	with	no	political	or
+
+decoded: ['and', 'with', 'by', 'was', 'as', 'or', 'it', 'no', 'now', 'then', 'political', 'filled']
+score: -4.7338810487769644e-30
+
+sentence: had	nothing	to	do	with	or
+
+decoded: ['to', 'with', 'had', 'or', 'do', 'nothing']
+score: -3.3287926828979352e-31
+
+sentence: they	were	determined	by	the	points	at	which	and	got	tired	of	walking
+
+decoded: ['of', 'and', 'the', 'by', 'at', 'were', 'which', 'they', 'points', 'got', 'walking', 'determined', 'tired']
+score: -1.6900457340877073e-29
+
+sentence: contain	by	or	run	over	by	sports	cars
+
+decoded: ['by', 'by', 'or', 'over', 'cars', 'run', 'sports', 'contain']
+score: -1.005069011787679e-30
+
+sentence: first	the	family	the	as	its	own	private	property
+
+decoded: ['the', 'the', 'as', 'its', 'property', 'family', 'private', 'first', 'own']
+score: -8.829284182974009e-31
+
+sentence: by	its	record	of	had	touched	the	national
+
+decoded: ['of', 'the', 'by', 'had', 'its', 'national', 'record', 'touched']
+score: -2.137313163861292e-30
+
+sentence: honor	of	the	in	this	matter	is	not	to	be	only	their
+
+decoded: ['of', 'to', 'the', 'in', 'is', 'their', 'be', 'this', 'not', 'only', 'matter']
+score: -9.633109924739675e-30
+
+sentence: they	been	the	might	have	the	without
+
+decoded: ['the', 'the', 'have', 'they', 'might', 'been', 'without']
+score: -9.303289849090336e-31
+
+sentence: provided	a	social	security	system	which	covered	all	their
+
+decoded: ['a', 'their', 'which', 'system', 'all', 'social', 'security', 'provided', 'covered']
+score: -9.864831464524116e-32
+
+sentence: their	program	of	mass	medical	care	was	the	best	on	the
+
+decoded: ['the', 'of', 'the', 'on', 'was', 'their', 'care', 'mass', 'program', 'medical', 'best']
+score: -9.637627807984161e-30
+
+sentence: they	put	much	effort	into	public
+
+decoded: ['into', 'they', 'put', 'much', 'effort', 'public']
+score: -1.152104951976801e-33
+
+sentence: the	there	were	as	many	as	schools	in	the
+
+decoded: ['the', 'the', 'in', 'as', 'as', 'were', 'schools', 'there', 'many']
+score: -1.3738712009388966e-29
+
+sentence: they	did	not	believe	in	education	much	less	in	college
+
+decoded: ['in', 'in', 'college', 'not', 'education', 'did', 'they', 'much', 'less', 'believe']
+score: -1.752893949214202e-30
+
+sentence: did	the	to	a	so	to	accept	it
+
+decoded: ['to', 'the', 'to', 'a', 'it', 'did', 'so', 'accept']
+score: -8.027663818531932e-30
+
+sentence: time	to	the	as	the	and	had	prepared	their
+
+decoded: ['the', 'and', 'to', 'the', 'as', 'had', 'their', 'time', 'prepared']
+score: -1.1772031599071118e-29
+
+sentence: were	for	their	even	though	most	were	what	it	meant
+
+decoded: ['for', 'were', 'it', 'were', 'their', 'what', 'even', 'most', 'though', 'meant']
+score: -2.149600217691316e-31
+
+sentence: would	not	fight	for	the	of	being	the
+
+decoded: ['of', 'the', 'the', 'for', 'would', 'not', 'being', 'fight']
+score: -8.188061615450561e-30
+
+sentence: rather	than	where	was	not	wanted	they	would	their	hands	of	the
+
+decoded: ['of', 'the', 'was', 'than', 'their', 'would', 'not', 'where', 'they', 'rather', 'hands', 'wanted']
+score: -7.048478797054946e-30
+
+sentence: is	hard	to	blame	them	for	this
+
+decoded: ['to', 'for', 'is', 'them', 'this', 'hard', 'blame']
+score: -9.857089217847473e-31
+
+sentence: hours	after	the	wild	fighting	each	other
+
+decoded: ['the', 'after', 'hours', 'each', 'other', 'fighting', 'wild']
+score: -2.8019829785112817e-32
+
+sentence: the	of	who	had	remained	in	the	country
+
+decoded: ['of', 'the', 'the', 'in', 'had', 'who', 'country', 'remained']
+score: -7.255868587435975e-30
+
+sentence: government	decided	to	act	and	on	to	the
+
+decoded: ['to', 'and', 'to', 'the', 'on', 'government', 'act', 'decided']
+score: -8.895646481450811e-30
+
+sentence: took	the	three	months	to	bring	a	form	of	order	to	the
+
+decoded: ['to', 'the', 'of', 'the', 'to', 'a', 'order', 'form', 'took', 'three', 'months', 'bring']
+score: -2.154248275435056e-29
+
+sentence: were	to	their	and	often	efforts
+
+decoded: ['and', 'to', 'were', 'their', 'efforts', 'often']
+score: -1.3726563184201104e-30
+
+sentence: there	is	little	evidence	that	the	late	was	a
+
+decoded: ['the', 'that', 'is', 'a', 'was', 'evidence', 'little', 'there', 'late']
+score: -2.2764871862431314e-30
+
+sentence: to	the	forces	in	the	took	little	action
+
+decoded: ['the', 'to', 'the', 'in', 'action', 'little', 'forces', 'took']
+score: -5.494496364656796e-30
+
+sentence: the	civil	war	and	throughout	the
+
+decoded: ['the', 'and', 'the', 'war', 'throughout', 'civil']
+score: -1.1622674679816443e-30
+
+sentence: the	of	the	and	the	of	the	army
+
+decoded: ['of', 'the', 'the', 'of', 'the', 'and', 'the', 'army']
+score: -4.33615701735457e-29
+
+sentence: up	on	the	list	was	the	question	of
+
+decoded: ['of', 'the', 'the', 'on', 'up', 'was', 'list', 'question']
+score: -1.1272882561367506e-29
+
+sentence: conversation	apparently	that	the	of	and	were	not
+
+decoded: ['of', 'and', 'the', 'that', 'were', 'not', 'conversation', 'apparently']
+score: -6.746030153649595e-30
+
+sentence: sent	a	message	along	those	lines	to
+
+decoded: ['to', 'a', 'along', 'lines', 'those', 'message', 'sent']
+score: -4.095781490563743e-31
+
+sentence: was	in	his	to	the	of
+
+decoded: ['of', 'to', 'the', 'in', 'was', 'his']
+score: -1.1993946580835497e-29
+
+sentence: also	with	from	and	who	are	more	foreign	aid
+
+decoded: ['and', 'with', 'from', 'are', 'who', 'more', 'also', 'aid', 'foreign']
+score: -1.767984072885503e-30
+
+sentence: week	long	the	clearly	was	playing	a	larger	personal	role	in	foreign	affairs
+
+decoded: ['the', 'in', 'a', 'was', 'long', 'role', 'week', 'personal', 'affairs', 'foreign', 'playing', 'clearly', 'larger']
+score: -2.2529983317593577e-30
+
+sentence: plane	put	down	on	at	in
+
+decoded: ['in', 'on', 'at', 'down', 'put', 'plane']
+score: -1.2224512043159993e-30
+
+sentence: man	was	over	with	his	hand	on	his	stomach	said
+
+decoded: ['with', 'on', 'was', 'his', 'over', 'his', 'said', 'man', 'hand', 'stomach']
+score: -6.863338618255897e-31
+
+sentence: kid	had	a	like	they	issue	in	the	he	said
+
+decoded: ['the', 'in', 'a', 'had', 'said', 'he', 'like', 'they', 'issue']
+score: -2.47548171132745e-30
+
+sentence: saw	the	youth	hold	his	against	the	head	of
+
+decoded: ['the', 'of', 'the', 'his', 'against', 'head', 'saw', 'youth', 'hold']
+score: -1.0692245166630528e-29
+
+sentence: the	man	put	his	at	the	head	of
+
+decoded: ['the', 'of', 'the', 'at', 'his', 'man', 'head', 'put']
+score: -1.2479726191603024e-29
+
+sentence: didn't	know	what	had	happened	until	they	got	on	the	ground
+
+decoded: ['the', 'on', 'had', 'what', 'until', 'they', 'got', 'ground', 'know', 'happened']
+score: -8.297783009118124e-31
+
+sentence: the	man	wanted	was	four	persons	to	as	along	with	the
+
+decoded: ['the', 'to', 'the', 'with', 'was', 'as', 'man', 'along', 'four', 'wanted', 'persons']
+score: -9.094819364304459e-30
+
+sentence: ground	which	a	in	twenty	minutes	took	fully	three	hours
+
+decoded: ['in', 'a', 'which', 'hours', 'minutes', 'took', 'three', 'ground', 'fully', 'twenty']
+score: -2.0463471154949053e-31
+
+sentence: heat	and	began	to	tell	on	the
+
+decoded: ['and', 'to', 'the', 'on', 'heat', 'began', 'tell']
+score: -2.2047129823048045e-30
+
+sentence: more	than	three	hours	after	the	gave	an
+
+decoded: ['the', 'than', 'an', 'after', 'hours', 'more', 'three', 'gave']
+score: -5.137835074527887e-31
+
+sentence: p.m.	a	was	rolled	up	to	the	plane
+
+decoded: ['the', 'to', 'a', 'up', 'was', 'plane', 'rolled']
+score: -2.6539671903123523e-30
+
+sentence: the	and	dropped	out	of	a	rear	door
+
+decoded: ['of', 'the', 'and', 'a', 'out', 'door', 'dropped', 'rear']
+score: -4.294072188405507e-30
+
+sentence: had	one	pistol	in	his	hand	the	other	in	a	pocket
+
+decoded: ['in', 'the', 'in', 'a', 'had', 'his', 'one', 'hand', 'other', 'pocket']
+score: -7.045962183403323e-30
+
+sentence: started	talking	to	him	until	he	saw	his	chance
+
+decoded: ['to', 'his', 'him', 'he', 'until', 'saw', 'started', 'chance', 'talking']
+score: -1.7321569891783343e-31
+
+sentence: and	jumped	the	boy	and	it	was	all	over
+
+decoded: ['and', 'and', 'the', 'was', 'over', 'it', 'all', 'boy', 'jumped']
+score: -5.459446323387166e-30
+
+sentence: to	the	plane	to	and	live	high	in
+
+decoded: ['to', 'and', 'to', 'the', 'in', 'high', 'plane', 'live']
+score: -1.3160843709073284e-29
+
+sentence: other	areas	action	last	week	included
+
+decoded: ['areas', 'action', 'last', 'other', 'week', 'included']
+score: -1.5041331839534285e-34
+
+sentence: also	to	the	health	and	labor	activities
+
+decoded: ['and', 'to', 'the', 'also', 'activities', 'health']
+score: -2.355840777933e-30
+
+sentence: were	still	the	bill	would	pass
+
+decoded: ['the', 'were', 'would', 'bill', 'still', 'pass']
+score: -4.7217157901493794e-32
+
+sentence: because	they	are	they	like	to	talk	as	as	the
+
+decoded: ['to', 'the', 'as', 'as', 'are', 'they', 'like', 'because', 'they', 'talk']
+score: -5.685786179598095e-30
+
+sentence: of	are	in	reports	on	operation	of	the
+
+decoded: ['of', 'of', 'the', 'in', 'on', 'are', 'reports', 'operation']
+score: -2.606878088121723e-29
+
+sentence: of	traffic	on	these	roads	seems	clearly
+
+decoded: ['of', 'on', 'traffic', 'these', 'seems', 'roads', 'clearly']
+score: -3.982680655077484e-33
+
+sentence: on	nearly	all	the	has	been	growing
+
+decoded: ['the', 'on', 'has', 'all', 'been', 'growing', 'nearly']
+score: -5.411384453041119e-31
+
+sentence: added	traffic	means	rising	of	and	at
+
+decoded: ['of', 'and', 'at', 'traffic', 'means', 'added', 'rising']
+score: -6.2504527394279304e-31
+
+sentence: result	is	that	are	to	up	the	of	these
+
+decoded: ['of', 'to', 'the', 'that', 'is', 'up', 'are', 'these', 'result']
+score: -1.1832312437116322e-29
+
+sentence: balance	of	those	have	a	bit	since	then
+
+decoded: ['of', 'a', 'have', 'balance', 'since', 'then', 'those', 'bit']
+score: -1.7909923029940561e-31
+
+sentence: however	still	see	an	element	of	in	the
+
+decoded: ['of', 'the', 'in', 'an', 'see', 'still', 'element', 'however']
+score: -3.4689853567351304e-30
+
+sentence: find	the	evidence	of	that	in	the	on	this	page
+
+decoded: ['of', 'the', 'the', 'in', 'on', 'that', 'this', 'evidence', 'page', 'find']
+score: -1.2110377364846207e-29
+
+sentence: per	cent	is	well	below	the	return	to	be	had	on	good
+
+decoded: ['to', 'the', 'on', 'is', 'had', 'per', 'be', 'well', 'cent', 'good', 'below', 'return']
+score: -2.351607120409205e-30
+
+sentence: report	is	based	on	a	by
+
+decoded: ['by', 'on', 'a', 'is', 'report', 'based']
+score: -7.345631820765949e-31
+
+sentence: all	the	show	in	during	the	period
+
+decoded: ['the', 'the', 'in', 'period', 'all', 'show', 'during']
+score: -6.525167860125676e-30
+
+sentence: of	the	roads	also	were	hit	by	an	winter
+
+decoded: ['of', 'the', 'by', 'were', 'an', 'also', 'hit', 'roads', 'winter']
+score: -6.438358442824609e-31
+
+sentence: brought	an	per	cent	rise	in	after	operating	costs
+
+decoded: ['in', 'per', 'an', 'after', 'cent', 'rise', 'costs', 'brought', 'operating']
+score: -6.070536415658429e-32
+
+sentence: was	up	from	per	cent	in	the	months
+
+decoded: ['the', 'in', 'from', 'up', 'was', 'per', 'cent', 'months']
+score: -2.1017426570509515e-30
+
+sentence: same	pattern	of	shows	up	on	the
+
+decoded: ['of', 'the', 'on', 'up', 'pattern', 'shows', 'same']
+score: -1.6411568289689027e-30
+
+sentence: were	held	down	despite	a	bitter	winter
+
+decoded: ['a', 'down', 'were', 'held', 'bitter', 'winter', 'despite']
+score: -2.90179449771319e-32
+
+sentence: look	for	further	when	the	is	extended	into
+
+decoded: ['the', 'for', 'is', 'into', 'when', 'look', 'further', 'extended']
+score: -7.409256598639896e-31
+
+sentence: have	not	been	in	full	operation	long	enough	to	what	they	can	do
+
+decoded: ['to', 'in', 'have', 'can', 'enough', 'not', 'what', 'they', 'operation', 'do', 'been', 'long', 'full']
+score: -1.693849429273821e-30
+
+sentence: frequently	has	failed	to	measure	up	to
+
+decoded: ['to', 'to', 'up', 'has', 'measure', 'failed', 'frequently']
+score: -2.201475529986989e-30
+
+sentence: rate	already	have	been	put	into	effect
+
+decoded: ['into', 'have', 'effect', 'rate', 'been', 'put', 'already']
+score: -7.706607498807883e-33
+
+sentence: is	being	made	too	in	to	many
+
+decoded: ['to', 'in', 'is', 'made', 'being', 'too', 'many']
+score: -2.2354350333615173e-30
+
+sentence: the	for	find	that	not	all	roads	are	their	goals
+
+decoded: ['the', 'for', 'that', 'are', 'their', 'all', 'not', 'roads', 'goals', 'find']
+score: -5.85880937115809e-31
+
+sentence: and	on	the	have	been	a	great	to	and
+
+decoded: ['and', 'and', 'the', 'to', 'on', 'a', 'have', 'been', 'great']
+score: -1.9760416494229596e-29
+
+sentence: typical	picture	at	this	time	is	one	of
+
+decoded: ['of', 'at', 'is', 'this', 'time', 'one', 'picture', 'typical']
+score: -2.8648950489895562e-30
+
+sentence: others	are	the	traffic	needed	to	up	to	the	point
+
+decoded: ['to', 'the', 'to', 'the', 'up', 'are', 'point', 'traffic', 'needed', 'others']
+score: -7.006442742165186e-30
+
+sentence: through	the	plant	and	you	learn	this
+
+decoded: ['and', 'the', 'through', 'you', 'this', 'plant', 'learn']
+score: -4.395204065473929e-31
+
+sentence: costs	are	a	of	the	costs
+
+decoded: ['of', 'the', 'a', 'are', 'costs', 'costs']
+score: -2.5065185590387814e-30
+
+sentence: on	the	line	for	example	a	week
+
+decoded: ['the', 'on', 'for', 'a', 'line', 'week', 'example']
+score: -1.0771506420288924e-31
+
+sentence: officials	say	they	have	had	no	for	more	than	six	years
+
+decoded: ['for', 'had', 'than', 'have', 'no', 'years', 'more', 'they', 'say', 'officials', 'six']
+score: -2.1729738061090854e-31
+
+sentence: a	tough	for	the	to	face
+
+decoded: ['the', 'to', 'for', 'a', 'face', 'tough']
+score: -3.006449335762e-30
+
+sentence: result	has	been	that	of	products	have
+
+decoded: ['of', 'that', 'has', 'have', 'products', 'been', 'result']
+score: -1.369709883052187e-30
+
+sentence: plant	near	has	modern	modern	machinery
+
+decoded: ['has', 'plant', 'near', 'modern', 'modern', 'machinery']
+score: -1.1098563074758057e-34
+
+sentence: is	trying	to	get	more	foreign	business	to	go	to	the
+
+decoded: ['to', 'to', 'to', 'the', 'is', 'more', 'business', 'go', 'foreign', 'get', 'trying']
+score: -1.8817184337055855e-29
+
+sentence: of	foreign	capital	would	help	the	balance	of
+
+decoded: ['of', 'of', 'the', 'would', 'balance', 'capital', 'foreign', 'help']
+score: -1.1669733392099706e-29
+
+sentence: think	we	will	see	more	foreign	firms	coming	to	the
+
+decoded: ['to', 'the', 'will', 'more', 'we', 'see', 'firms', 'foreign', 'coming', 'think']
+score: -1.53778921234989e-30
+
+sentence: are	many	places	where	we	can	use	their	and	new	ideas
+
+decoded: ['and', 'are', 'their', 'can', 'new', 'where', 'use', 'we', 'ideas', 'many', 'places']
+score: -1.3188676805703297e-30
+
+sentence: international	conference	of	the	big	and	countries	will	be	called	by
+
+decoded: ['of', 'and', 'the', 'by', 'will', 'be', 'countries', 'international', 'called', 'conference', 'big']
+score: -3.739088321010821e-30
+
+sentence: of	the	proposed	conference	are	worth
+
+decoded: ['of', 'the', 'are', 'conference', 'worth', 'proposed']
+score: -2.8212258945026395e-32
+
+sentence: is	to	let	these	countries	their	way	as	much	as	possible
+
+decoded: ['to', 'as', 'is', 'as', 'their', 'way', 'countries', 'possible', 'these', 'much', 'let']
+score: -1.05747584941376e-30
+
+sentence: since	has	been	of	to	the
+
+decoded: ['of', 'to', 'the', 'has', 'been', 'since']
+score: -2.4184611371699647e-30
+
+sentence: of	these	countries	is	happy	with	these
+
+decoded: ['of', 'with', 'is', 'countries', 'these', 'these', 'happy']
+score: -9.978571807436385e-31
+
+sentence: and	are	under	similar	on	the	market	for	similar	reasons
+
+decoded: ['and', 'the', 'on', 'for', 'are', 'market', 'under', 'similar', 'similar', 'reasons']
+score: -3.668167032263564e-30
+
+sentence: of	the	trade	is	what	wants
+
+decoded: ['of', 'the', 'is', 'what', 'trade', 'wants']
+score: -2.0217491909001638e-32
+
+sentence: may	point	the	way	toward	international	in	other	products
+
+decoded: ['the', 'in', 'point', 'way', 'may', 'international', 'other', 'products']
+score: -3.364994226298072e-31
+
+sentence: terms	that's	what	the	is	saying	to	the	industry
+
+decoded: ['the', 'to', 'the', 'is', 'what', 'industry', 'terms', 'saying']
+score: -5.516614057912019e-30
+
+sentence: on	new	machinery	may	be	allowed
+
+decoded: ['on', 'be', 'new', 'may', 'allowed', 'machinery']
+score: -8.307765916818207e-33
+
+sentence: research	will	look	into	new	products	and	methods
+
+decoded: ['and', 'into', 'will', 'new', 'research', 'products', 'look', 'methods']
+score: -4.0528059460701385e-31
+
+sentence: aren't	out	where	the	national	interest	is	involved
+
+decoded: ['the', 'is', 'out', 'national', 'where', 'interest', 'involved']
+score: -2.1515505685308417e-31
+
+sentence: the	workers	in	the	world	are
+
+decoded: ['the', 'the', 'in', 'are', 'world', 'workers']
+score: -3.9405107121388076e-30
+
+sentence: is	enough	to	make	foreign	water
+
+decoded: ['to', 'is', 'water', 'enough', 'make', 'foreign']
+score: -8.417734441895189e-32
+
+sentence: of	the	in	the	are	narrow	and	very	deep
+
+decoded: ['of', 'the', 'and', 'the', 'in', 'are', 'very', 'deep', 'narrow']
+score: -1.7155488298799624e-29
+
+sentence: of	is	twice	that	of	the
+
+decoded: ['of', 'of', 'the', 'that', 'is', 'twice']
+score: -1.760139136711571e-29
+
+sentence: will	have	to	decide	whether	to	let	in
+
+decoded: ['to', 'to', 'in', 'have', 'will', 'whether', 'let', 'decide']
+score: -3.427184828302322e-30
+
+sentence: industry	is	has	large	it	can't
+
+decoded: ['is', 'it', 'has', "n't", 'industry', 'large', 'ca']
+score: -6.392721068486685e-32
+
+sentence: wouldn't	be	much	demand	for	it	afraid
+
+decoded: ['for', 'it', 'be', 'demand', 'much', 'afraid']
+score: -4.32713885037161e-32
+
+sentence: to	buy	out	of	the	of	nearly	book
+
+decoded: ['of', 'of', 'to', 'the', 'out', 'book', 'nearly', 'buy']
+score: -1.752033572278867e-29
+
+sentence: of	a	small	community	is	worse
+
+decoded: ['of', 'a', 'is', 'community', 'small', 'worse']
+score: -4.0190216506803305e-32
+
+sentence: this	law	are	given	to	systems	in
+
+decoded: ['to', 'in', 'are', 'systems', 'this', 'law', 'given']
+score: -1.3977900333306297e-30
+
+sentence: a	system	however	the	of	each	member	is
+
+decoded: ['of', 'the', 'a', 'is', 'system', 'each', 'member', 'however']
+score: -2.557382414123711e-30
+
+sentence: services	are	given	without	cost	to	members
+
+decoded: ['to', 'are', 'services', 'members', 'without', 'given', 'cost']
+score: -4.091932804509716e-31
+
+sentence: entire	headquarters	collection	is	available	to	the	of	all	members	on
+
+decoded: ['of', 'to', 'the', 'on', 'is', 'all', 'collection', 'members', 'available', 'headquarters', 'entire']
+score: -6.718173103374838e-30
+
+sentence: books	are	carried	around	by	truck	in	from	headquarters	to	the	other
+
+decoded: ['to', 'the', 'in', 'by', 'from', 'are', 'around', 'other', 'books', 'carried', 'headquarters']
+score: -7.928504508365665e-30
+
+sentence: houses	social	science	pure	science	and	language
+
+decoded: ['and', 'houses', 'social', 'language', 'science', 'science', 'pure']
+score: -3.043523851591833e-32
+
+sentence: has	applied	science	business	and	literature
+
+decoded: ['and', 'has', 'business', 'science', 'applied', 'literature']
+score: -7.043347034660946e-32
+
+sentence: while	is	the	of	art	music	and	foreign
+
+decoded: ['of', 'and', 'the', 'is', 'music', 'while', 'art', 'foreign']
+score: -6.906349060249522e-30
+
+sentence: kind	of	is	not	new	of	course
+
+decoded: ['of', 'of', 'is', 'new', 'not', 'course', 'kind']
+score: -1.1262582671203874e-29
+
+sentence: system	on	these	to	its	members
+
+decoded: ['to', 'on', 'system', 'its', 'members', 'these']
+score: -3.3210894645421953e-31
+
+sentence: money	is	saved	through	economy	in	and	detail	as	the	result	of	central
+
+decoded: ['of', 'and', 'the', 'in', 'is', 'as', 'through', 'central', 'money', 'economy', 'result', 'detail', 'saved']
+score: -1.9446574842761324e-29
+
+sentence: are	not	the	only	of	the	system
+
+decoded: ['of', 'the', 'the', 'are', 'system', 'not', 'only']
+score: -5.75846993699553e-30
+
+sentence: it	a	central	collection	to	share	already	created	and	used
+
+decoded: ['and', 'to', 'a', 'it', 'collection', 'used', 'central', 'share', 'already', 'created']
+score: -2.5017477094186077e-30
+
+sentence: system	itself	is	by	a	board	of	its	membership
+
+decoded: ['of', 'by', 'a', 'is', 'system', 'its', 'itself', 'board', 'membership']
+score: -3.1816848931862194e-30
+
+sentence: desire	and	to	read	are	important	of	our	life
+
+decoded: ['of', 'and', 'to', 'are', 'life', 'important', 'our', 'desire', 'read']
+score: -7.727650315402502e-30
+
+sentence: cannot	consider	ourselves	if	we	do	not	read
+
+decoded: ['not', 'can', 'not', 'if', 'do', 'we', 'ourselves', 'read', 'consider']
+score: -4.0049404038518303e-32
+
+sentence: if	we	are	not	in	our	reading
+
+decoded: ['in', 'are', 'if', 'not', 'we', 'our', 'reading']
+score: -4.683665464129964e-31
+
+sentence: if	we	do	not	know	how	to	use	what	we	do	read
+
+decoded: ['to', 'what', 'do', 'we', 'if', 'not', 'do', 'use', 'we', 'how', 'know', 'read']
+score: -7.635375419387297e-31
+
+sentence: source	of	knowledge	in	the	world	today	is	the	book	found	in	our
+
+decoded: ['of', 'the', 'in', 'the', 'in', 'is', 'world', 'book', 'our', 'knowledge', 'found', 'today', 'source']
+score: -1.1782425884358377e-29
+
+sentence: of	our	system	will	become	critical	we	act	to	correct	this	condition
+
+decoded: ['of', 'to', 'will', 'system', 'this', 'act', 'condition', 'we', 'our', 'correct', 'become', 'critical']
+score: -2.1394964528654283e-30
+
+sentence: public	understanding	and	support	can	provide	that	service
+
+decoded: ['and', 'that', 'can', 'service', 'support', 'public', 'provide', 'understanding']
+score: -4.324913375079274e-31
+
+sentence: for	instance	may	have	a	financial	crisis	two	years	from	now
+
+decoded: ['for', 'from', 'a', 'have', 'years', 'may', 'now', 'two', 'financial', 'crisis', 'instance']
+score: -5.183228845971305e-31
+
+sentence: all	the	some	good	was	passed
+
+decoded: ['the', 'was', 'all', 'some', 'good', 'passed']
+score: -8.631385829881719e-32
+
+sentence: other	good	were	lost	in	the	and	future	action
+
+decoded: ['and', 'the', 'in', 'were', 'action', 'future', 'other', 'good', 'lost']
+score: -3.812025124138421e-30
+
+sentence: most	of	its	time	on	the	schools	and	questions
+
+decoded: ['of', 'and', 'the', 'on', 'its', 'time', 'schools', 'questions', 'most']
+score: -7.148602738399253e-30
+
+sentence: the	entire	membership	on	its	record	of	good
+
+decoded: ['of', 'the', 'on', 'its', 'record', 'good', 'membership', 'entire']
+score: -2.399676364040697e-30
+
+sentence: the	choice	the	more	the	league	is	to	in
+
+decoded: ['the', 'the', 'to', 'the', 'in', 'is', 'league', 'more', 'choice']
+score: -1.3251917102902196e-29
+
+sentence: the	league	takes	a	stand	with	great	on	the	side	of	right
+
+decoded: ['the', 'of', 'the', 'with', 'on', 'a', 'side', 'league', 'stand', 'right', 'great', 'takes']
+score: -1.8479541872544125e-29
+
+sentence: danger	lay	not	in	that	our	own	would	use	of
+
+decoded: ['of', 'in', 'that', 'would', 'not', 'use', 'our', 'own', 'lay', 'danger']
+score: -5.174816435344042e-30
+
+sentence: that	theory	was	and	is	sound
+
+decoded: ['and', 'that', 'is', 'was', 'theory', 'sound']
+score: -1.8342029706023965e-30
+
+sentence: danger	lay	in	the	that	nuclear	was	enough
+
+decoded: ['the', 'in', 'that', 'was', 'enough', 'nuclear', 'lay', 'danger']
+score: -1.634442639601192e-31
+
+sentence: the	that	we	would	have	a	nuclear	war
+
+decoded: ['the', 'that', 'a', 'have', 'war', 'would', 'we', 'nuclear']
+score: -5.224742317938197e-31
+
+sentence: left	the	plenty	of	to	start	with	considerable
+
+decoded: ['of', 'to', 'the', 'with', 'left', 'start', 'considerable', 'plenty']
+score: -2.273454140454309e-30
+
+sentence: firm	does	a	large	amount	of	research	and	its	have	meaning
+
+decoded: ['of', 'and', 'a', 'have', 'its', 'research', 'does', 'amount', 'large', 'firm', 'meaning']
+score: -2.638711444632678e-30
+
+sentence: way	it	sounds	like	a	of	money	and	is
+
+decoded: ['of', 'and', 'a', 'is', 'it', 'way', 'like', 'money', 'sounds']
+score: -5.265936945890115e-30
+
+sentence: more	attention	than	they	are	getting
+
+decoded: ['are', 'than', 'more', 'they', 'attention', 'getting']
+score: -2.323302062794467e-32
+
+sentence: in	so	many	other	areas	we	still	are
+
+decoded: ['in', 'are', 'areas', 'so', 'we', 'other', 'still', 'many']
+score: -2.4515553584174514e-31
+
+sentence: even	of	a	is	to	men	of	good
+
+decoded: ['of', 'of', 'to', 'a', 'is', 'men', 'good', 'even']
+score: -2.270238237409207e-29
+
+sentence: the	price	was	the	silence	of	the	for	all	or
+
+decoded: ['the', 'of', 'the', 'the', 'for', 'was', 'or', 'all', 'price', 'silence']
+score: -1.2653299755070807e-29
+
+sentence: were	filled	to	with	political	who	had	his
+
+decoded: ['to', 'with', 'had', 'were', 'his', 'who', 'political', 'filled']
+score: -5.727182862252307e-31
+
+sentence: after	the	he	and	his	started
+
+decoded: ['and', 'the', 'his', 'he', 'after', 'started']
+score: -8.536403946884394e-31
+
+sentence: could	turn	toward	as	easily	as	toward	freedom
+
+decoded: ['as', 'as', 'could', 'freedom', 'turn', 'easily']
+score: -3.7136673218909643e-32
+
+sentence: is	well	to	seek	funds	for	this	purpose	from	the	present	of
+
+decoded: ['of', 'to', 'the', 'for', 'from', 'is', 'this', 'well', 'funds', 'present', 'purpose', 'seek']
+score: -1.3221514513695954e-29
+
+sentence: is	far	from	or	those	efforts	as	an	accomplished	fact
+
+decoded: ['from', 'is', 'as', 'or', 'an', 'those', 'efforts', 'fact', 'far']
+score: -2.8833984519332026e-31
+
+sentence: remained	when	an	car	was	but	with	a	broken	glass
+
+decoded: ['with', 'a', 'was', 'but', 'an', 'when', 'glass', 'car', 'remained', 'broken']
+score: -6.461865920048937e-31
+
+sentence: glass	may	seem	but	official	on	such	they	are
+
+decoded: ['on', 'are', 'but', 'may', 'glass', 'they', 'such', 'seem', 'official']
+score: -2.498795949064145e-31
+
+sentence: horizon	even	and	the	of	sky	to	earth
+
+decoded: ['of', 'and', 'to', 'the', 'sky', 'even', 'earth']
+score: -7.227942027996292e-30
+
+sentence: in	the	of	earth	would	be	saved
+
+decoded: ['of', 'the', 'in', 'would', 'be', 'earth', 'saved']
+score: -2.7085476022157267e-30
+
+sentence: makes	an	and	case	for	this	new	park
+
+decoded: ['and', 'for', 'park', 'an', 'this', 'new', 'case', 'makes']
+score: -2.7638343150425805e-31
+
+sentence: history	should	the	case	when	is	asked	to
+
+decoded: ['to', 'the', 'is', 'when', 'should', 'case', 'asked', 'history']
+score: -1.630574411691136e-30
+
+sentence: is	the	against	on	and	radio
+
+decoded: ['and', 'the', 'on', 'is', 'against', 'radio']
+score: -2.622808866282993e-30
+
+sentence: of	public	opinion	show	popular	favor	for	this	policy
+
+decoded: ['of', 'for', 'this', 'show', 'policy', 'public', 'popular', 'opinion']
+score: -1.1117146428216008e-31
+
+sentence: the	has	long	had	a	specific
+
+decoded: ['the', 'a', 'had', 'has', 'long', 'specific']
+score: -4.537240069094503e-31
+
+sentence: is	it	to	campaign	against	his	own	record
+
+decoded: ['to', 'is', 'his', 'it', 'against', 'record', 'campaign', 'own']
+score: -7.70625979308904e-31
+
+sentence: men	are	known	to	be	honest	and
+
+decoded: ['and', 'to', 'are', 'be', 'men', 'known', 'honest']
+score: -1.6332805311951596e-30
+
+sentence: election	on	the	other	hand	would	the
+
+decoded: ['the', 'the', 'on', 'would', 'hand', 'other', 'election']
+score: -3.388914482077289e-30
+
+sentence: his	would	the	and	the	labor	who	back	him
+
+decoded: ['the', 'and', 'the', 'his', 'who', 'him', 'would', 'back']
+score: -8.126268716246691e-30
+
+sentence: still	gives	a	voice	in	the	operation	of	their	government	and	their	party
+
+decoded: ['of', 'and', 'the', 'in', 'a', 'their', 'their', 'party', 'government', 'operation', 'voice', 'still', 'gives']
+score: -1.505995924023493e-29
+
+sentence: have	so	far	continued	to	speak	and	carry	big	over
+
+decoded: ['and', 'to', 'over', 'have', 'so', 'continued', 'far', 'big', 'carry', 'speak']
+score: -1.8447618361305097e-30
+
+sentence: at	the	same	time	he	moved	his	to	within	an	hour	of	the	fighting
+
+decoded: ['the', 'of', 'the', 'to', 'at', 'his', 'he', 'an', 'time', 'within', 'hour', 'moved', 'fighting', 'same']
+score: -2.2623418444096582e-29
+
+sentence: must	show	at	the	that	he	means	exactly	what	he	says
+
+decoded: ['the', 'that', 'at', 'he', 'he', 'says', 'what', 'show', 'must', 'means', 'exactly']
+score: -8.051650882740497e-31
+
+sentence: this	case	he	has	put	the	clearly	to	for	the	third	time
+
+decoded: ['the', 'to', 'the', 'for', 'has', 'he', 'time', 'this', 'case', 'put', 'clearly', 'third']
+score: -9.778525708259845e-30
+
+sentence: the	scene	he	has	just	as	clearly	shown	his	military	strength	in	but	ready	position
+
+decoded: ['the', 'in', 'as', 'his', 'has', 'he', 'but', 'position', 'just', 'strength', 'scene', 'military', 'clearly', 'shown', 'ready']
+score: -2.3954728991093918e-30
+
+sentence: go	is	an	extremely	little	one
+
+decoded: ['is', 'an', 'little', 'one', 'go', 'extremely']
+score: -2.3123972221070793e-33
+
+sentence: have	been	running	about	a	dozen	men	a	day
+
+decoded: ['a', 'a', 'about', 'have', 'day', 'men', 'been', 'running', 'dozen']
+score: -3.685932168184946e-31
+
+sentence: hard	of	the	force	numbers	only	some	tough
+
+decoded: ['of', 'the', 'force', 'some', 'only', 'hard', 'numbers', 'tough']
+score: -1.5219375740392882e-31
+
+sentence: previously	the	has	and	the	has	let	them	die
+
+decoded: ['the', 'and', 'the', 'has', 'has', 'them', 'let', 'die', 'previously']
+score: -1.9156779879559744e-30
+
+sentence: funds	would	be	used	for	equipment	not	for	land	buildings	or	operation
+
+decoded: ['for', 'for', 'or', 'would', 'be', 'not', 'operation', 'land', 'used', 'equipment', 'buildings', 'funds']
+score: -8.69419472832213e-31
+
+sentence: relatively	few	that	have	have	found	them	of	considerable	value
+
+decoded: ['of', 'that', 'have', 'have', 'them', 'value', 'found', 'few', 'considerable', 'relatively']
+score: -2.773246811469374e-30
+
+sentence: was	all	of	these	rolled	into	one	figure
+
+decoded: ['of', 'was', 'into', 'all', 'one', 'these', 'figure', 'rolled']
+score: -6.8756178616319455e-31
+
+sentence: and	at	one	and	the	same	time
+
+decoded: ['and', 'and', 'the', 'at', 'time', 'one', 'same']
+score: -5.343111065236109e-30
+
+sentence: was	not	an	easy	man	to	or	to
+
+decoded: ['to', 'to', 'was', 'or', 'an', 'man', 'not', 'easy']
+score: -7.594602551358478e-30
+
+sentence: might	be	added	that	as	he	kept	his	word	so	he	expected	that	others	keep
+
+decoded: ['that', 'that', 'as', 'his', 'he', 'he', 'be', 'so', 'might', 'word', 'added', 'kept', 'others', 'keep', 'expected']
+score: -3.487948619670212e-30
+
+sentence: of	his	power	was	never	or
+
+decoded: ['of', 'was', 'or', 'his', 'power', 'never']
+score: -2.573088874462403e-31
+
+sentence: it	was	not	one	of	the	great	of	would	be	presented
+
+decoded: ['of', 'of', 'the', 'was', 'it', 'would', 'be', 'not', 'one', 'great', 'presented']
+score: -1.9969264635974513e-29
+
+sentence: spoke	to	the	point	and	without
+
+decoded: ['and', 'to', 'the', 'point', 'without', 'spoke']
+score: -2.067752667782165e-30
+
+sentence: expected	to	do	their	duty	when	it	had	been	pointed	out	to	them
+
+decoded: ['to', 'to', 'out', 'it', 'had', 'their', 'them', 'when', 'do', 'been', 'duty', 'pointed', 'expected']
+score: -7.661991150442917e-30
+
+sentence: his	long	service	he	had	a	long	memory	an	excellent	thing	in	a	political
+
+decoded: ['in', 'a', 'a', 'had', 'his', 'he', 'an', 'service', 'long', 'memory', 'long', 'thing', 'political', 'excellent']
+score: -3.0540045122039905e-30
+
+sentence: was	of	course	in	the	for	a	very	long	time
+
+decoded: ['of', 'the', 'in', 'for', 'a', 'was', 'time', 'course', 'long', 'very']
+score: -5.420453612362904e-30
+
+sentence: be	officer	of	it	was	the	end	of	his	desire	and
+
+decoded: ['of', 'of', 'and', 'the', 'was', 'his', 'it', 'be', 'end', 'officer', 'desire']
+score: -2.814001652405572e-29
+
+sentence: the	roll	of	those	with	whom	he	served	and	who	him	in	death
+
+decoded: ['of', 'and', 'the', 'in', 'with', 'him', 'who', 'he', 'roll', 'death', 'those', 'served', 'whom']
+score: -1.1852339903762837e-29
+
+sentence: was	a	for	those	of	his	own	party
+
+decoded: ['of', 'for', 'a', 'was', 'his', 'party', 'those', 'own']
+score: -3.126022842809096e-30
+
+sentence: it	was	his	because	of	his	final	was	a	blow	to	the	administration
+
+decoded: ['of', 'the', 'to', 'was', 'a', 'his', 'was', 'his', 'it', 'because', 'final', 'administration', 'blow']
+score: -1.8054370884952162e-29
+
+sentence: was	his	own	man	not	an
+
+decoded: ['was', 'his', 'an', 'man', 'not', 'own']
+score: -1.144263816909641e-32
+
+sentence: months	no	more	has	been	reported	from	that
+
+decoded: ['from', 'that', 'has', 'no', 'more', 'been', 'months', 'reported']
+score: -2.822426089387686e-31
+
+sentence: out	of	their	the	bodies	and	tossed	the	remains	into	the	river
+
+decoded: ['the', 'of', 'the', 'and', 'the', 'out', 'into', 'their', 'river', 'bodies', 'remains']
+score: -2.60009624979225e-29
+
+sentence: was	offered	for	them	that	they	had	the	for
+
+decoded: ['the', 'for', 'for', 'that', 'was', 'had', 'them', 'they', 'offered']
+score: -5.561285957522694e-30
+
+sentence: the	contrary	through	the	past	six	weeks	has	been	upon
+
+decoded: ['the', 'the', 'through', 'has', 'upon', 'been', 'past', 'weeks', 'six', 'contrary']
+score: -7.5041243632623715e-31
+
+sentence: this	basic	condition	of	and	is	not	the	work	of
+
+decoded: ['of', 'of', 'and', 'the', 'is', 'this', 'not', 'work', 'condition', 'basic']
+score: -3.268619762066051e-29
+
+sentence: is	from	several	points	of	view
+
+decoded: ['of', 'from', 'is', 'points', 'view', 'several']
+score: -1.8269258781323793e-30
+
+
+
+
+
+Incorrectly decoded pairs
+Correct sentence first, decoded second
+
+is	expected	to	make	the	traditional	visit	to	both	as	they	work	toward
+['to', 'to', 'the', 'is', 'as', 'work', 'they', 'visit', 'both', 'make', 'expected', 'traditional']
+
+resolution	which	tossed	into	the	will	be	read
+['the', 'into', 'which', 'will', 'be', 'resolution', 'read']
+
+with	a	pistol	stood	by	at	the	to	order
+['the', 'to', 'with', 'by', 'a', 'at', 'order', 'stood']
+
+didn't	a	drop	of	and	we	didn't	have	a	bit	of	trouble
+['of', 'of', 'and', 'a', 'a', 'have', 'we', 'bit', 'trouble', 'drop']
+
+take	out	of	many	of	dollars
+['of', 'of', 'out', 'many', 'take']
+
+administration	itself	in	favor	of	a
+['of', 'in', 'a', 'itself', 'administration']
+
+now	has	no	civil	defense	program
+['has', 'no', 'now', 'program', 'civil']
+
+we'll	have	a	well	planned	forward	looking	honest	platform
+['a', 'have', 'well', 'forward', 'looking', 'planned', 'platform', 'honest']
+
+is	a	feeling	in	the	air	of	toward
+['of', 'the', 'in', 'a', 'is', 'air', 'feeling']
+
+don't	work	for	the	the	said
+['the', 'the', 'for', 'said', 'work']
+
+director	of	the	corps	is	certain	that	they	can
+['of', 'the', 'that', 'is', 'can', 'director', 'they', 'certain']
+
+car	run	down	the	center	of	with	lines	that	are
+['of', 'the', 'with', 'that', 'are', 'down', 'car', 'lines', 'run']
+
+favor	a	special	more	than	likely	early	in	the	year
+['the', 'in', 'a', 'than', 'year', 'more', 'early', 'special', 'likely']
+
+could	become	an	problem	in	the	coming	fiscal	year
+['the', 'in', 'an', 'could', 'year', 'problem', 'coming', 'become']
+
+won't	know	the	full	amount	until	we	get	a	full	report	said
+['the', 'a', 'said', 'report', 'until', 'we', 'full', 'amount', 'know', 'full', 'get']
+
+which	on	original	plans	ran	through	the	center	of	the	development
+['of', 'the', 'the', 'on', 'through', 'which', 'development', 'plans', 'ran', 'original']
+
+dinner	is	by	labor	and	is	for	p.m.
+['.', 'and', 'by', 'is', 'for', 'is', 'dinner']
+
+election	will	be	from	to	p.m.
+['.', 'to', 'from', 'will', 'be', 'election']
+
+throw	in	an	effort	to	was	wide	and	in	the	dirt
+['in', 'the', 'to', 'in', 'effort', 'and', 'was', 'an', 'wide', 'throw']
+
+a	long	to	left	center	to	score	both
+['to', 'to', 'a', 'long', 'left', 'both', 'score']
+
+to	to	setting	up	over	the	wall	in	left	center
+['to', 'to', 'the', 'in', 'up', 'over', 'left', 'wall', 'setting']
+
+you	get	the	feel	of	it	there's	not	much	to	it
+['of', 'the', 'to', 'it', 'it', 'you', 'not', 'much', 'get', 'feel']
+
+looking	a	lot	better	and	he's	able	to	run	explained
+['and', 'to', 'a', 'better', 'run', 'lot', 'explained', 'looking', 'able']
+
+has	the	best	defense	against	yards	per	game
+['the', 'per', 'against', 'has', 'game', 'yards', 'best']
+
+was	on	with	his	fourth	single	of	the	game	a	to	center
+['of', 'the', 'to', 'with', 'on', 'a', 'was', 'his', 'game', 'single', 'fourth']
+
+said	night	he	was	through	playing	baseball
+['was', 'said', 'through', 'he', 'night', 'playing']
+
+said	to	don't	think	you	want	to	talk	to	him
+['to', 'to', 'to', 'said', 'you', 'him', 'think', 'want', 'talk']
+
+is	baseball	writer	for	the	who	as	saying
+['the', 'for', 'is', 'as', 'who', 'saying', 'writer']
+
+record	books	however	would	favor	the
+['the', 'would', 'record', 'books', 'however']
+
+played	there	while	working	toward	a	law	degree
+['a', 'law', 'there', 'while', 'working', 'degree', 'played']
+
+even	into	the	rules	when	he	is	sure	he's	right
+['the', 'is', 'into', 'he', 'when', 'rules', 'right', 'even', 'sure']
+
+have	the	problem	of	baseball	at	one	end	and	weather	at	the	other
+['of', 'the', 'and', 'the', 'at', 'at', 'have', 'one', 'end', 'other', 'problem', 'weather']
+
+of	the	play	in	baseball	and	therefore	face	an	in
+['of', 'and', 'in', 'the', 'in', 'an', 'face', 'play', 'therefore']
+
+said	he	hadn't	decided	between	and	for	game
+['and', 'for', 'between', 'said', 'he', 'game', 'decided']
+
+a	going	for	may	use	in	center
+['in', 'for', 'a', 'may', 'use', 'going']
+
+found	a	way	to	a	baseball	game
+['to', 'a', 'a', 'way', 'found', 'game']
+
+that's	meant	as	a	not	a
+['a', 'a', 'as', 'not', 'meant']
+
+children	were	here	for	the	and	can't	return
+['and', 'the', 'for', 'were', 'children', 'here', 'return']
+
+and	his	bride	will	live	in	his	house
+['and', 'in', 'his', 'his', 'will', 'house', 'live']
+
+already	has	her	and	it's	says	her	mother
+['and', 'her', 'her', 'has', 'says', 'mother', 'already']
+
+supper	dance	in	the	will	wind	up	the	day
+['the', 'the', 'in', 'up', 'will', 'day', 'dance', 'wind']
+
+soon	as	he	ain't	talking	yet
+['as', 'he', 'yet', 'soon', 'talking']
+
+was	a	favorite	date	of	many	of	for	years
+['of', 'of', 'for', 'a', 'was', 'years', 'date', 'many']
+
+is	a	guy	with	a	rare	sense	of	humor
+['of', 'with', 'a', 'a', 'is', 'sense', 'guy', 'rare']
+
+of	is	several	days	in	her	apartment
+['of', 'in', 'is', 'her', 'days', 'several']
+
+has	worked	out	an	entire	program	to	this	using	the	facilities	of	the	center
+['of', 'the', 'the', 'to', 'out', 'has', 'an', 'this', 'facilities', 'using', 'program', 'worked', 'entire']
+
+isn't	the	industry	but	it	certainly	looks	that	way	from	the
+['the', 'the', 'that', 'from', 'it', 'but', 'way', 'industry', 'looks', 'certainly']
+
+and	the	bride	was	given	in	marriage	by	her	father
+['and', 'the', 'in', 'by', 'was', 'her', 'father', 'marriage', 'given']
+
+bride	was	given	in	marriage	by	her	father
+['in', 'by', 'was', 'her', 'father', 'marriage', 'given']
+
+presented	music	and	the	bride	was	given	in	marriage	by	her	father
+['and', 'the', 'in', 'by', 'was', 'her', 'music', 'father', 'marriage', 'given', 'presented']
+
+we	can't	tell	it	all	now	and	then	have	no	new	later
+['and', 'it', 'have', 'no', 'new', 'all', 'now', 'we', 'then', 'later', 'tell']
+
+will	be	accomplished	in	two	ways
+['in', 'will', 'be', 'two', 'ways']
+
+building	consists	of	houses	and	other	buildings	designed	for	shelter
+['of', 'and', 'for', 'houses', 'building', 'other', 'buildings', 'designed', 'consists']
+
+don't	wish	to	appear	happy	at	somebody
+['to', 'at', 'appear', 'happy', 'wish', 'somebody']
+
+against	came	at	p.m.	after	almost	hours	of
+['of', 'at', 'against', 'after', 'hours', 'came', 'almost']
+
+wasn't	sure	there	were	such	people	in	the	world
+['the', 'in', 'were', 'people', 'world', 'there', 'such', 'sure']
+
+death	occurred	at	p.m.	and	was	reported	the	said
+['and', 'the', 'was', 'at', 'said', 'death', 'reported', 'occurred']
+
+was	probably	man's	first	successful	flight	in	a
+['in', 'a', 'was', 'first', 'successful', 'flight', 'probably']
+
+than	employees	make	machinery	that's	sold	cotton	is
+['is', 'than', 'make', 'employees', 'sold', 'cotton', 'machinery']
+
+support	for	for	both	defense	and	foreign	aid
+['and', 'for', 'for', 'support', 'both', 'aid', 'foreign']
+
+it's	taking	longer	to	get	things	away	than	the	expected
+['to', 'the', 'than', 'away', 'things', 'get', 'taking', 'expected', 'longer']
+
+the	wife	for	one's	company	may	her	income
+['the', 'for', 'her', 'may', 'company', 'income', 'wife']
+
+favorite	dress	is	a	a	black	and	white	and
+['and', 'and', 'a', 'a', 'is', 'black', 'white', 'dress']
+
+aren't	to	look	at	women	you	know
+['to', 'at', 'you', 'women', 'look', 'know']
+
+don't	you	walk	to	school	then
+['to', 'you', 'school', 'then', 'walk']
+
+said	didn't	happen	to	grow	up	in
+['to', 'in', 'up', 'said', 'grow', 'happen']
+
+but	and	and	he's	already	got	an	education
+['and', 'and', 'but', 'an', 'education', 'got', 'already']
+
+family	service	will	follow	the	program	at	p.m.
+['.', 'the', 'at', 'will', 'service', 'family', 'program', 'follow']
+
+officers	of	the	church	will	be	and	at	the	p.m.	service
+['of', 'the', 'and', 'the', 'at', 'will', 'be', 'service', 'church', 'officers']
+
+work	is	no	favorite	of	mine
+['of', 'is', 'no', 'work', 'mine']
+
+other	words	no	merely	can	that	corps	de
+['that', 'de', 'no', 'can', 'words', 'other', 'merely']
+
+that's	all	the	did	it's	a	surprise	to	me	that	fell
+['the', 'to', 'that', 'a', 'me', 'all', 'did', 'fell', 'surprise']
+
+this	doesn't	from	its	as	an	interesting	if	not	great	film
+['from', 'as', 'its', 'an', 'this', 'not', 'if', 'film', 'great', 'interesting']
+
+we	couldn't	really	get	along	without	it
+['it', 'along', 'we', 'without', 'get', 'really']
+
+present	of	small	cars	is	humor
+['of', 'is', 'cars', 'small', 'present']
+
+suite	has	been	in	the	same	family	since	the	early
+['the', 'the', 'in', 'has', 'family', 'since', 'been', 'early', 'same']
+
+been	here	so	many	times	couldn't	them
+['them', 'so', 'times', 'been', 'here', 'many']
+
+sure	you've	heard	of	him	and	his	record
+['of', 'and', 'his', 'him', 'record', 'heard', 'sure']
+
+will	be	a	to	at	p.m.
+['.', 'to', 'a', 'at', 'will', 'be']
+
+are	now	working	together	toward	their
+['are', 'their', 'together', 'now', 'working']
+
+de	corps	has	been	the	which	has	made	the	possible
+['the', 'the', 'has', 'de', 'has', 'which', 'made', 'possible', 'been']
+
+would	seem	to	de	corps	run
+['to', 'de', 'would', 'run', 'seem']
+
+they	are	with	labor	by	the	to	the
+['the', 'to', 'the', 'with', 'by', 'are', 'they']
+
+if	they	show	they	don't	get	the	orders
+['the', 'they', 'if', 'show', 'they', 'orders', 'get']
+
+labor	was	exactly	that	a	in	and
+['and', 'in', 'that', 'a', 'was', 'exactly']
+
+were	no	then	about	being	for	but	against	labor
+['for', 'were', 'about', 'against', 'no', 'but', 'being', 'then']
+
+you're	playing	like	that	you'd	better	attack
+['that', 'like', 'attack', 'better', 'playing']
+
+tell	you	the	truth	said	don't	talk	much
+['the', 'said', 'you', 'much', 'talk', 'tell', 'truth']
+
+you're	a	good	you've	got	to	get	mad
+['to', 'a', 'got', 'good', 'get', 'mad']
+
+nor	is	to	baseball	above	all	else
+['to', 'is', 'all', 'above', 'else', 'nor']
+
+try	to	play	baseball	the	best	they	can
+['to', 'the', 'can', 'they', 'play', 'try', 'best']
+
+is	a	at	a	toward	first	base
+['a', 'a', 'at', 'is', 'first', 'base']
+
+this	weapon	the	two	may	have	saved	baseball	from	its	season
+['the', 'from', 'have', 'its', 'this', 'may', 'two', 'season', 'weapon', 'saved']
+
+honor	of	the	in	this	matter	is	not	to	be	only	their
+['of', 'to', 'the', 'in', 'is', 'their', 'be', 'this', 'not', 'only', 'matter']
+
+kid	had	a	like	they	issue	in	the	he	said
+['the', 'in', 'a', 'had', 'said', 'he', 'like', 'they', 'issue']
+
+didn't	know	what	had	happened	until	they	got	on	the	ground
+['the', 'on', 'had', 'what', 'until', 'they', 'got', 'ground', 'know', 'happened']
+
+p.m.	a	was	rolled	up	to	the	plane
+['the', 'to', 'a', 'up', 'was', 'plane', 'rolled']
+
+had	one	pistol	in	his	hand	the	other	in	a	pocket
+['in', 'the', 'in', 'a', 'had', 'his', 'one', 'hand', 'other', 'pocket']
+
+also	to	the	health	and	labor	activities
+['and', 'to', 'the', 'also', 'activities', 'health']
+
+may	point	the	way	toward	international	in	other	products
+['the', 'in', 'point', 'way', 'may', 'international', 'other', 'products']
+
+terms	that's	what	the	is	saying	to	the	industry
+['the', 'to', 'the', 'is', 'what', 'industry', 'terms', 'saying']
+
+aren't	out	where	the	national	interest	is	involved
+['the', 'is', 'out', 'national', 'where', 'interest', 'involved']
+
+wouldn't	be	much	demand	for	it	afraid
+['for', 'it', 'be', 'demand', 'much', 'afraid']
+
+books	are	carried	around	by	truck	in	from	headquarters	to	the	other
+['to', 'the', 'in', 'by', 'from', 'are', 'around', 'other', 'books', 'carried', 'headquarters']
+
+could	turn	toward	as	easily	as	toward	freedom
+['as', 'as', 'could', 'freedom', 'turn', 'easily']
+
+is	far	from	or	those	efforts	as	an	accomplished	fact
+['from', 'is', 'as', 'or', 'an', 'those', 'efforts', 'fact', 'far']
+
+horizon	even	and	the	of	sky	to	earth
+['of', 'and', 'to', 'the', 'sky', 'even', 'earth']
+
+of	public	opinion	show	popular	favor	for	this	policy
+['of', 'for', 'this', 'show', 'policy', 'public', 'popular', 'opinion']
+
+his	would	the	and	the	labor	who	back	him
+['the', 'and', 'the', 'his', 'who', 'him', 'would', 'back']
+
+out	of	their	the	bodies	and	tossed	the	remains	into	the	river
+['the', 'of', 'the', 'and', 'the', 'out', 'into', 'their', 'river', 'bodies', 'remains']
+
+
+
+average distance: -4.701390146672644e-30
+exact matches: 965 out of 1075

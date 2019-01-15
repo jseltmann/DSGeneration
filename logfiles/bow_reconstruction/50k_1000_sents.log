@@ -1,0 +1,50 @@
+sentence:up	to	a	year
+
+decoded:['to', 'a', 'up', 'year']
+score:-2.366331547785095e-31
+
+sentence:is	due	this
+
+decoded:['is', 'this', 'due']
+score:-1.2331562976564555e-33
+
+sentence:know	enough	to
+
+decoded:['to', 'enough', 'know']
+score:-7.279110646880794e-33
+
+sentence:the	life	of
+
+decoded:['of', 'the', 'life']
+score:-8.981300302610377e-32
+
+sentence:my	are	gone
+
+decoded:['are', 'my', 'gone']
+score:-0.0
+
+sentence:the	figure	was
+
+decoded:['the', 'was', 'figure']
+score:-2.276192730785722e-33
+
+sentence:works	with	the
+
+decoded:['the', 'with', 'works']
+score:-3.26763715766778e-32
+
+sentence:had	been	expected
+
+decoded:['had', 'been', 'expected']
+score:-0.0
+
+sentence:from	on	high
+
+decoded:['on', 'from', 'high']
+score:-0.0
+
+sentence:back	with	the
+
+decoded:['the', 'with', 'back']
+score:-1.716646957894591e-31
+
