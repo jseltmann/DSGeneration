@@ -55,10 +55,11 @@ def find_positions(sents_filename, matrix_filename, log_filename):
             dist = cosine(vec1, vec2)
 
             if not s1 in closest_words:
-                closest_words[s1] = (s2, dist)
+                closest_words[s1] = [(s2, dist)]
             else:
-                if dist < closest_words[s1][1]:
-                    closest_words[s1] = (s2, dist)
+                if len(closest_words[s1]) >= 10:
+                    closest_words.remove(max(closest_words, key=(lambda t:t[1])))
+                closest_words[s1].append((s2, dist))
 
     with open(log_filename, "w") as log_file:
         for s1 in sents:
@@ -75,4 +76,3 @@ def find_positions(sents_filename, matrix_filename, log_filename):
             log_file.write("\n\n")
 
                     
-    
