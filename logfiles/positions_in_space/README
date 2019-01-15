@@ -1,0 +1,12 @@
+Small test about the positions of sentences in space.
+
+sent_positions.log:
+Contains 300 sentences, from the brown corpus and from the SICK dataset.
+For each sentence s, it gives:
+* the sentence s' among the 299 others with the most similar encoding, 
+* the distance between s and s',
+* the closest word w in the 50k matrix,
+* the distance between the w and s
+
+word_positions.log:
+Same kind of file with some of the words that were the closest words to sentences, in order to see which ones are closest to them.

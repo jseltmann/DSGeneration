@@ -1,0 +1,9 @@
+This folder contains the files for the simple reconstruction testing I did before christmas.
+
+Each file contains the original sentences, the reconstructed bag of words, and the distance between the two. At the end of the file there is a little statistic giving the average distance and the number of correctly decoded sentences.
+
+How to read the filename:
+2000_mc_6-12_l_5k.log
+Words not contained in the 2000 most common words of the brown corpus are removed.
+The sentences (after removing the words) are 6 to 12 words long.
+The matrix was reduced to the vectors of the 5000 most common words in order to save on the computation. If the last number isn't given, it was reduced to the words contained in the sentences.
