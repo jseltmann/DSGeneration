@@ -3,6 +3,7 @@ import sowe2bow as s2b
 import nltk
 import numpy as np
 from copy import copy
+from datetime import datetime
 
 def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None):
     """
@@ -71,10 +72,13 @@ def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None)
         return True
 
     for i, line in enumerate(open(sents_filename)):
-        if i == 10:
-            print(i)
-        if i % 100 == 0:
-            print(i)
+        #if i == 10:
+        #    print(i)
+        #if i % 100 == 0:
+        #    print(i)
+        print(i)
+        print(line)
+        print(datetime.now())
         target = matrix.encode_sentence(line)
         res_sent, score = s2b.greedy_search(matrix, target)
 
@@ -196,10 +200,10 @@ def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None)
         
         
 
-test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
+#test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
-#print("Test decoding of brown sents on 10k matrix, excluding words not in matrix")
+print("Test decoding of brown sents on 10k matrix")
 #test_decoding("../brown_sents_bins_excl_non_10k/3to5.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/3to5.log", num_words=10000)
 #print("tested sentences of lengths 3-5")
 #test_decoding("../brown_sents_bins_excl_non_10k/6to8.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/6to8.log", num_words=10000)
@@ -208,8 +212,8 @@ test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", n
 #print("tested sentences of lengths 9-11")
 #test_decoding("../brown_sents_bins_excl_non_10k/12to14.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/12to14.log", num_words=10000)
 #print("tested sentences of lengths 12-14")
-#test_decoding("../brown_sents_bins_excl_non_10k/15to17.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/15to17.log", num_words=10000)
-#print("tested sentences of lengths 15-17")
+test_decoding("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../reconstruction_10k_logs_500/15to17.log", num_words=10000)
+print("tested sentences of lengths 15-17")
 #test_decoding("../brown_sents_bins_excl_non_10k/18to20.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/18to20.log", num_words=10000)
 #print("tested sentences of lengths 21-24")
 #test_decoding("../brown_sents_bins_excl_non_10k/21to24.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/21to24.log", num_words=10000)
