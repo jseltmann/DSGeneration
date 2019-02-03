@@ -70,15 +70,15 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
             #else:
             #    if closest_words[s1][1] > dist:
             #        closest_words[s1] = (w, dist)
-            if not s1 in closest_non_func_words:
-                closest_non_func_words[s1] = [(w, dist)]
-            elif len(closest_non_func_words[s1]) > 9:
-                furthest = max(closest_non_func_words[s1], key=(lambda x: x[1]))
+            if not s1 in closest_words:
+                closest_words[s1] = [(w, dist)]
+            elif len(closest_words[s1]) > 9:
+                furthest = max(closest_words[s1], key=(lambda x: x[1]))
                 if furthest[1] > dist:
-                    closest_non_func_words[s1].remove(furthest)
-                    closest_non_func_words[s1].append((w, dist))
+                    closest_words[s1].remove(furthest)
+                    closest_words[s1].append((w, dist))
             else:
-                closest_non_func_words[s1].append((w, dist))
+                closest_words[s1].append((w, dist))
 
         if w not in function_words:
             for s1 in sents:
@@ -114,10 +114,13 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
             #closest_word, dist = closest_non_func_words[s1]
             #log_file.write(closest_word + "\n")
             #log_file.write(str(dist) + "\n")
-            log_file.write(str(closest_words[s1]))
+            if s1 in closest_words:
+                log_file.write(str(closest_words[s1]))
+            else:
+                print(s1)
             log_file.write("\n")
-            log_file.write(str(closest_non_func_words[s1]))
-            log_file.write("\n")
+            #log_file.write(str(closest_non_func_words[s1]))
+            #log_file.write("\n")
 
             log_file.write("\n\n")
         log_file.write("\n\n\n")
@@ -140,15 +143,16 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
         #get average distance to closest word
         #dist_avg = np.mean(list(closest_words.values()))
         #dist_var = np.var(list(closest_words.values()))
-        values = list(map(lambda x:x[1], closest_words.values()))
-        dist_avg = np.mean(values)
-        dist_var = np.var(values)
+        values = list(map(lambda x:x[1][1], closest_words.values()))
+        return values
+        #dist_avg = np.mean(values)
+        #dist_var = np.var(values)
 
-        log_file.write("Average distance of closest word to sentence:\n")
-        log_file.write("avg: " + str(dist_avg) + "\n")
-        log_file.write("var: " + str(dist_var) + "\n")
+        #log_file.write("Average distance of closest word to sentence:\n")
+        #log_file.write("avg: " + str(dist_avg) + "\n")
+        #log_file.write("var: " + str(dist_var) + "\n")
 
-        log_file.write("\n\n")
+        #log_file.write("\n\n")
 
         #get average distance to closest non-function word
         #dist_avg = np.mean(list(closest_non_func_words.values()))
@@ -304,4 +308,4 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ] + [".", ","]
 
-#find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../sent_pos_non_func_10.log") 
+find_positions("../combined_sents.txt", stopwords, "../matrix_1k/_matrix.pkl", "../test.log") 
