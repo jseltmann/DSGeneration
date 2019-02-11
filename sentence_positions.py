@@ -1,6 +1,7 @@
 from matrix_class import DS_matrix
 from scipy.spatial.distance import cosine
 from scipy.cluster.vq import whiten, kmeans2
+from scipy.sparse import csr_matrix
 from collections import defaultdict
 import numpy as np
 import nltk
@@ -72,36 +73,49 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
             #        closest_words[s1] = (w, dist)
             if not s1 in closest_words:
                 closest_words[s1] = [(w, dist)]
-            elif len(closest_words[s1]) > 9:
-                furthest = max(closest_words[s1], key=(lambda x: x[1]))
-                if furthest[1] > dist:
-                    closest_words[s1].remove(furthest)
-                    closest_words[s1].append((w, dist))
+            #elif len(closest_words[s1]) > 9:
+            #    furthest = max(closest_words[s1], key=(lambda x: x[1]))
+            #    if furthest[1] > dist:
+            #        closest_words[s1].remove(furthest)
+            #        closest_words[s1].append((w, dist))
             else:
                 closest_words[s1].append((w, dist))
 
-        if w not in function_words:
-            for s1 in sents:
-                vec1 = sent_vectors[s1]
+        #if w not in function_words:
+        #    for s1 in sents:
+        #        vec1 = sent_vectors[s1]
 
-                dist = cosine(vec1, vec2)
+        #        dist = cosine(vec1, vec2)
 
-                if not s1 in closest_non_func_words:
-                    closest_non_func_words[s1] = [(w, dist)]
-                elif len(closest_non_func_words[s1]) > 9:
-                    furthest = max(closest_non_func_words[s1], key=(lambda x: x[1]))
-                    if furthest[1] > dist:
-                        closest_non_func_words[s1].remove(furthest)
-                        closest_non_func_words[s1].append((w, dist))
-                else:
-                    closest_non_func_words[s1].append((w, dist))
-                    #if closest_non_func_words[s1][1] > dist:
-                    #    closest_non_func_words[s1] = (w, dist)
+        #        if not s1 in closest_non_func_words:
+        #            closest_non_func_words[s1] = [(w, dist)]
+        #        elif len(closest_non_func_words[s1]) > 9:
+        #            furthest = max(closest_non_func_words[s1], key=(lambda x: x[1]))
+        #            if furthest[1] > dist:
+        #                closest_non_func_words[s1].remove(furthest)
+        #                closest_non_func_words[s1].append((w, dist))
+        #        else:
+        #            closest_non_func_words[s1].append((w, dist))
+        #            #if closest_non_func_words[s1][1] > dist:
+        #            #    closest_non_func_words[s1] = (w, dist)
             
 
     with open(log_filename, "w") as log_file:
         for s1 in sents:
             log_file.write(s1)
+
+            word_dists = closest_words[s1]
+
+            word_dists = sorted(word_dists, key=(lambda x: x[1]))
+
+            sent_words = nltk.word_tokenize(s1)
+            sent_words = list(map(lambda w: w.lower(), sent_words))
+
+            for i, (word, dist) in word_dists:
+                if word in sent_words:
+                    log_file.write(word)
+                    log_file.write(" " + str(i))
+                    log_file.write("\n")
             
             #closest_sent, dist = closest_sents[s1]
             #log_file.write(closest_sent)
@@ -114,37 +128,37 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
             #closest_word, dist = closest_non_func_words[s1]
             #log_file.write(closest_word + "\n")
             #log_file.write(str(dist) + "\n")
-            if s1 in closest_words:
-                log_file.write(str(closest_words[s1]))
-            else:
-                print(s1)
-            log_file.write("\n")
+            #if s1 in closest_words:
+            #    log_file.write(str(closest_non_func_words[s1]))
+            #else:
+            #    print(s1)
+            #log_file.write("\n")
             #log_file.write(str(closest_non_func_words[s1]))
             #log_file.write("\n")
 
-            log_file.write("\n\n")
-        log_file.write("\n\n\n")
+            log_file.write("\n")
+        #log_file.write("\n\n\n")
 
         #get average distance to closest sentences
         #print(type(list(closest_sents.values())[0]))
         #print(list(closest_sents.items())[0])
         #dist_avg = np.mean(list(closest_sents.values()))
         #dist_var = np.var(list(closest_sents.values()))
-        values = list(map(lambda x:x[1], closest_sents.values()))
-        dist_avg = np.mean(values)
-        dist_var = np.var(values)
+        #values = list(map(lambda x:x[1], closest_sents.values()))
+        #dist_avg = np.mean(values)
+        #dist_var = np.var(values)
 
-        log_file.write("Average distance of closest other sentence to sentence:\n")
-        log_file.write("avg: " + str(dist_avg) + "\n")
-        log_file.write("var: " + str(dist_var) + "\n")
+        #log_file.write("Average distance of closest other sentence to sentence:\n")
+        #log_file.write("avg: " + str(dist_avg) + "\n")
+        #log_file.write("var: " + str(dist_var) + "\n")
 
-        log_file.write("\n\n")
+        #log_file.write("\n\n")
 
         #get average distance to closest word
         #dist_avg = np.mean(list(closest_words.values()))
         #dist_var = np.var(list(closest_words.values()))
-        values = list(map(lambda x:x[1][1], closest_words.values()))
-        return values
+        #values = list(map(lambda x:x[1][1], closest_words.values()))
+        #return values
         #dist_avg = np.mean(values)
         #dist_var = np.var(values)
 
@@ -209,11 +223,17 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
 
     sents_and_words = sents + matrix.get_words()
 
-    vectors = []
+    vectors = None
 
-    for sent in sents_and_words:
-        vec = matrix.encode_sentence(sent).reshape((1002,))
-        vectors.append(vec)
+    for i, sent in enumerate(sents_and_words):
+        vec = matrix.encode_sentence(sent)#.reshape((1002,))
+        if vectors is None:
+            #vectors = csr_matrix((vec.shape[1], len(sents_and_words)))
+            vectors = csr_matrix((len(sents_and_words), vec.shape[1]))
+        if len(vec.shape) > 1:
+            vec = vec.reshape((vec.shape[1],))
+        #vectors.append(csr_matrix(vec))
+        vectors[i] = vec
 
     vectors = np.array(vectors)
 
@@ -306,6 +326,7 @@ stopwords = [
     "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
     "their", "there", "this", "these", "those", "to", "under", "was", "were",
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
-] + [".", ","]
+] + [".", ",", ";", "-", "—"] 
 
-find_positions("../combined_sents.txt", stopwords, "../matrix_1k/_matrix.pkl", "../test.log") 
+find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
+#find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters_sents_vs_words.log", num_clusters=2)
