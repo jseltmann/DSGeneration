@@ -6,9 +6,9 @@ from copy import copy
 from datetime import datetime
 import multiprocessing as mp
 
-def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, timeout=30):
+def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, timeout=30, sent_num=500):
     """
-    Encode and decode setences and write the results to log_filename.
+    Encode and decode sentences and write the resultinig bag of words to a log_filename.
     """
 
     matrix = DS_matrix(matrix_filename)
@@ -25,6 +25,8 @@ def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, 
         res_sent, _ = s2b.greedy_search(matrix,target)
         queue.put(res_sent)
         
+    decoded_count = 0
+
     for i, line in enumerate(open(sents_filename)):
         print(i)
         print(line)
@@ -43,21 +45,26 @@ def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, 
         if p.is_alive():
             res_sent = None
             p.terminate()
+            continue
         else:
             res_sent = output.get()
+            decoded_count += 1
 
-        with open(log_filename, "a") as log_file:
-            sent = list(map((lambda x:x.lower()), nltk.word_tokenize(line)))
-            line = str(i) + " || "
-            for word in sent:
-                line += word + " "
-            line += "|| "
-            if res_sent is not None:
-                for word in res_sent:
+            with open(log_filename, "a") as log_file:
+                sent = list(map((lambda x:x.lower()), nltk.word_tokenize(line)))
+                line = str(i) + " || "
+                for word in sent:
                     line += word + " "
-            line += "\n"
+                line += "|| "
+                if res_sent is not None:
+                    for word in res_sent:
+                        line += word + " "
+                line += "\n"
 
-            log_file.write(line)
+                log_file.write(line)
+
+            if decoded_count >= sent_num:
+                break
 
 
 def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None):
@@ -271,20 +278,5 @@ def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None)
 #test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
-#print("Test decoding of brown sents on 10k matrix")
-#test_decoding("../brown_sents_bins_excl_non_10k/3to5.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/3to5.log", num_words=10000)
-#print("tested sentences of lengths 3-5")
-#test_decoding("../brown_sents_bins_excl_non_10k/6to8.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/6to8.log", num_words=10000)
-#print("tested sentences of lengths 6-8")
-#test_decoding("../brown_sents_bins_excl_non_10k/9to11.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/9to11.log", num_words=10000)
-#print("tested sentences of lengths 9-11")
-#test_decoding("../brown_sents_bins_excl_non_10k/12to14.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/12to14.log", num_words=10000)
-#print("tested sentences of lengths 12-14")
-#test_decoding("../brown_sents_bins_incl_non_matrix_500/15to17.txt", "../matrix_50k/_matrix.pkl", "../reconstruction_10k_logs_500/15to17.log", num_words=10000)
-#print("tested sentences of lengths 15-17")
-#test_decoding("../brown_sents_bins_excl_non_10k/18to20.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/18to20.log", num_words=10000)
-#print("tested sentences of lengths 21-24")
-#test_decoding("../brown_sents_bins_excl_non_10k/21to24.txt", "../matrix_50k/_matrix.pkl", "../bins_excl_non_10k_logs/21to24.log", num_words=10000)
-#print("tested sentences of lengths 21-24")
-
-decode_sents("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000, timeout=60)
+decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_10k_15to17.log", num_words=10000, timeout=900)
+#decode_sents("../brown_sents_bins_incl_non_matrix/18to20.txt", "../matrix_50k/_matrix.pkl", "../decoded_10k_18to20.log", num_words=10000, timeout=900)

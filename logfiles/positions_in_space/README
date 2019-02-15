@@ -10,3 +10,21 @@ For each sentence s, it gives:
 
 word_positions.log:
 Same kind of file with some of the words that were the closest words to sentences, in order to see which ones are closest to them.
+
+find_func_words.log:
+for each sentence, find the 10 closest words that are closest to the sentence, but are neither contained in the sentence nor in a predefined stopword list. (Just an attempt to find out, which functions words are there that are close to sentences.)
+stopwords = [
+    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
+    "away", "be", "become", "became", "been", "being", "by", "did", "do",
+    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
+    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
+    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
+    "their", "there", "this", "these", "those", "to", "under", "was", "were",
+    "what", "when", "where", "which", "who", "will", "with", "you", "your"
+] + [".", ",", ";", "-", "—"]
+
+sent_pos_non_func.log:
+Like sent_positions.log, but it looks both at the closest words to the sentences and the closest words that aren't in the stopword list. (stopword list is the same as above, but without [".", ",", ";", "-", "—"]). There is a statistic with average distances at the end of the file.
+
+word_closeness_rank.log:
+For each sentence, order the words in the matrix according to their distance to the sentence. For each word in the sentence, show its rank.
