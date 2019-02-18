@@ -314,8 +314,52 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
                 
     
 
+def find_zeros(sent_filename, matrix_filename, log_filename, num_words=None):
+    """
+    For each sentence and word in the matrix, find the number of non-zero entries in the vector.
+    This is to test if the position differences are due to sparsity issues.
 
+    Parameters
+    ----------
+    sent_filename : str
+        Filename of the file containing the sentences to be clustered.
+    matrix_filename : str
+        Filename of the matrix.
+    log_filename : str
+        Filename of logfile.
+    num_words : int
+        Number of words from matrix to use.
+    """
 
+    matrix = DS_matrix(matrix_filename)
+    
+    sents_and_words = []
+    
+    with open(sent_filename) as sent_file:
+        for line in sent_file:
+            sents_and_words.append(line.strip())
+
+    if num_words is None:
+        sents_and_words += matrix.get_words()
+    else:
+        sents_and_words += matrix.get_words()[:num_words]
+
+    pairs = []
+
+    for w in sents_and_words:
+        vec = matrix.encode_sentence(w)
+        non_zero = np.count_nonzero(vec)
+        pairs.append((w,non_zero))
+
+    pairs = sorted(pairs, key=(lambda x: x[1]))
+
+    with open(log_filename, "w") as log_file:
+        for w, nz in pairs:
+            line = str(nz) + " " + w + "\n"
+            log_file.write(line)
+
+    
+        
                     
 
 stopwords = [
@@ -328,5 +372,6 @@ stopwords = [
     "what", "when", "where", "which", "who", "will", "with", "you", "your"
 ] + [".", ",", ";", "-", "—"] 
 
-find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
+#find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
 #find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters_sents_vs_words.log", num_clusters=2)
+find_zeros("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "count_nonzeros.log", num_words=2000)
