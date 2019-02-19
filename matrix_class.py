@@ -330,6 +330,9 @@ class DS_matrix:
         #beam search
         start_word_prob = lambda w : self.get_bigram_prob(w, "START$_")
 
+        if words == []:
+            return ""
+        
         first_word = max(words, key=start_word_prob)
         prob = start_word_prob(first_word)
 
