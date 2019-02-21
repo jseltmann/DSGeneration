@@ -221,7 +221,7 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
     with open(sent_filename) as sent_file:
         sents = sent_file.readlines()
 
-    sents_and_words = sents + matrix.get_words()[:20]
+    sents_and_words = sents + matrix.get_words()[:5000]
 
     vectors = None
 
@@ -235,8 +235,7 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
         #vectors.append(csr_matrix(vec))
         vectors[i] = vec
 
-    vectors = np.array(vectors)
-    print(vectors.dtype)
+    vectors = vectors.toarray()
 
     vectors = whiten(vectors)
 
