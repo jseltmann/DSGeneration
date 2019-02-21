@@ -6,7 +6,7 @@ from copy import copy
 from datetime import datetime
 import multiprocessing as mp
 
-def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, timeout=30, sent_num=500):
+def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename, num_words=None, timeout=30, sent_num=500):
     """
     Encode and decode sentences and write the resultinig bag of words to a log_filename.
     """
@@ -45,6 +45,8 @@ def decode_sents(sents_filename, matrix_filename, log_filename, num_words=None, 
         if p.is_alive():
             res_sent = None
             p.terminate()
+            with open(skipped_filename, "a") as skipped_file:
+                skipped_file.write(line)
             continue
         else:
             res_sent = output.get()
@@ -278,5 +280,5 @@ def test_decoding(sents_filename, matrix_filename, log_filename, num_words=None)
 #test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
-decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_10k_15to17.log", num_words=10000, timeout=900)
+decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=900)
 #decode_sents("../brown_sents_bins_incl_non_matrix/18to20.txt", "../matrix_50k/_matrix.pkl", "../decoded_10k_18to20.log", num_words=10000, timeout=900)
