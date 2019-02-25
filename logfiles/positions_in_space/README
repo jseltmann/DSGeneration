@@ -28,3 +28,6 @@ Like sent_positions.log, but it looks both at the closest words to the sentences
 
 word_closeness_rank.log:
 For each sentence, order the words in the matrix according to their distance to the sentence. For each word in the sentence, show its rank.
+
+words_vs_sents_clusters.log:
+I used k-means clustering on the 5000 first words in the matrix and the sentences, to find two clusters. The file gives some information about the clusters.

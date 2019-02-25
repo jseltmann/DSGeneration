@@ -1,0 +1,26 @@
+cluster_num: 0
+num_sents: 156
+num_words: 4966
+
+avg dist between points: 0.9953290188415559
+max dist between points: 1.0
+closest cluster mean: 1
+distance to closest cluster mean: 0.08450555619136413
+distance between closest two points of this cluster and another one: 0.021936552938173537
+distance of the point in the other cluster to the mean of this cluster: 0.5692860763445866
+
+
+
+cluster_num: 1
+num_sents: 144
+num_words: 34
+
+avg dist between points: 0.34742271286232357
+max dist between points: 0.78125886275668
+closest cluster mean: 0
+distance to closest cluster mean: 0.08450555619136413
+distance between closest two points of this cluster and another one: 0.021936552938173537
+distance of the point in the other cluster to the mean of this cluster: 0.44726884504958964
+
+
+

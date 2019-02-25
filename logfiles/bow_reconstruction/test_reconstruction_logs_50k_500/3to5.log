@@ -1,0 +1,804 @@
+
+
+
+
+Incorrectly decoded pairs for original sentences
+Correct sentence first, decoded second
+
+`` Must solve problem ''
+['must', 'problem', 'solve']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Mr. Hawksley said .
+['.', 'said', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Screvane and Beame hailed
+['and', 'hailed']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Led fight on teamsters
+['on', 'led', 'fight']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- emphasizes the Virgin birth
+['the', 'virgin', 'birth', 'emphasizes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Seeks `` improved fielding ''
+[]
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+Duren , Sheldon on hill
+[',', 'on', 'hill', 'sheldon']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Culmone gets first win
+['win', 'first', 'gets']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Bingles and bobbles :
+['and', ':']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Change in pitchers .
+['.', 'in', 'change']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Nieman kept in lineup .
+['.', 'in', 'kept']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Six Bucs over .
+['.', 'over', 'six']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She's a whiz .
+['.', "'s", 'a', 'she']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Annapolis , Jan. 7
+[',', '7', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Annapolis , Jan. 7
+[',', '7', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Of highest value ''
+['of', 'value', 'highest']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+No comments by U.S.
+['.', 'by', 'no', 'comments']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+and Bernardine , 1 .
+[',', '.', 'and', '1']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hillsboro ( special )
+[')', '(', 'special']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Vernava was uninjured .
+['.', 'was', 'mr.', 'uninjured']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Asilomar , March 26
+[',', 'march', '26']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Washington ( UPI )
+[')', '(', 'washington']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+bluebonnets and stagecoach silhouettes .
+['.', 'and', 'stagecoach', 'silhouettes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Tires OK ? ?
+['?', '?', 'ok']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+They polished the windshield .
+['.', 'the', 'they', 'polished']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` About 35 '' .
+['.', 'about', '35']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Unconscionable '' ! !
+['!', '!']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+He bogeyed the 10th .
+['.', 'the', 'he', '10th']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+I'm angry '' .
+['.', 'i', "'m", 'angry']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Play me '' .
+['.', 'me', 'play']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Maris's was Ted Williams .
+['.', "'s", 'was', 'williams', 'ted']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Lumumba fired Kasavubu .
+['.', 'fired']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Crime : ' skyjacked '
+[':', "'", "'", 'crime']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The end of Trujillo
+['of', 'the', 'end']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Goodby , Mr. Sam
+[',', 'sam', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Dr. Conant's call to action
+['to', "'s", 'action', 'call', 'dr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+but forgive anyway '' .
+['.', 'but', 'anyway', 'forgive']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Matthew 6 : 14-15 .
+['.', ':', '6', 'matthew']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Matthew 18 : 21-22 .
+['.', ':', '18', 'matthew']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Oh , no-o ! !
+[',', '!', '!', 'oh']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Podger smiled .
+['.', 'smiled', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Dad '' ! !
+['!', '!', 'dad']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Robby could be better
+['be', 'could', 'better']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( Quotations follow '' .
+['.', '(', 'follow', 'quotations']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+His bifocals blur .
+['.', 'his', 'blur']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` A lousy job ''
+['a', 'job', 'lousy']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Wilmette , Aug. 7
+[',', '7', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Downers Grove , Aug. 8
+[',', 'grove', '8', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Plus-one '' shelters
+['shelters']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+`` Natural causes ''
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+`` Deep Peep Show ''
+['show', 'deep', 'peep']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Section 2 : :
+[':', ':', '2', 'section']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Article 19 : :
+[':', ':', 'article', '19']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Why trust Jagan ? ?
+['?', '?', 'trust', 'why']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+not push-ups but stand-ups
+['but', 'not']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+U Thant of Burma
+['of', 'u', 'burma']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Regency -- Truman .
+['.', 'regency', 'truman']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Improper Bostonian ? ?
+['?', '?', 'improper']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Remaking an army to win
+['to', 'an', 'win', 'army']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+airdrops and airstrips ; ;
+['and', ';', ';']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+She's fat '' .
+['.', "'s", 'she', 'fat']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+I say chantey .
+['.', 'i', 'say']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Take hands ; ;
+[';', ';', 'hands', 'take']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+rhythm-and-blues mood music ; ;
+[';', ';', 'music', 'mood']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Franny and Zooey .
+['.', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+today there are 48,500 .
+['.', 'are', 'there', 'today']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Fats & coronaries .
+['.', '&', 'fats']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Welcome into the fellowship
+['the', 'into', 'fellowship', 'welcome']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Social and recreational activities
+['and', 'activities', 'social', 'recreational']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Opportunities for Christian service
+['for', 'service', 'christian', 'opportunities']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Creative prayer experiences
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+A speck -- and space
+['and', 'a', 'space', 'speck']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( 1 ) ''
+[')', '(', '1']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( 2 ) ''
+[')', '(', '2']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Evidences of the new birth
+['of', 'the', 'new', 'birth']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Philippians 1 : 6 .
+['.', ':', '1', '6']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Ephesians 2 : 8-10 .
+['.', ':', '2', 'ephesians']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+my name is Guideposts .
+['.', 'is', 'my', 'name']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pansies are gluttons .
+['.', 'are', 'pansies']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Nutritious and a cholesterol reducer
+['and', 'a', 'cholesterol', 'nutritious']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Harvey Barcus , second speaker
+[',', 'speaker', 'harvey', 'second']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Entries increasing -- requirements raised
+[]
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+`` Puppies '' ? ?
+['?', '?', 'puppies']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Tappets and locking bars
+['and', 'bars', 'locking']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Gear ratio -- speed relationships
+['ratio', 'speed', 'relationships', 'gear']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+, for Engine crankshaft speed
+[',', 'for', 'speed', 'engine']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hunting rifles , '61
+[',', 'rifles', 'hunting']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Beginners' guns , '61
+[',', "'", 'guns', 'beginners']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Vicksburg , Mississippi ; ;
+[',', ';', ';', 'mississippi']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pictures of the Midwest
+['of', 'the', 'pictures']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hamburger patties with nuts
+['with', 'hamburger', 'nuts']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Stoneware clay for tiles .
+['.', 'for', 'clay', 'tiles']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+No bisque firing .
+['.', 'no', 'firing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Sugar and creamer :
+['and', ':', 'sugar']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Make creamer the same .
+['.', 'the', 'make', 'same']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Fired to cone 06-05 .
+['.', 'to', 'fired', 'cone']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to measure armhole :
+['to', ':', 'measure']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Simple hole drilling operations
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+You need algaecide .
+['.', 'you', 'need']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Is it worth-while ? ?
+['is', '?', 'it', '?']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Inspiring -- yes ; ;
+[';', ';', 'yes', 'inspiring']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+instructive -- maybe ; ;
+[';', ';', 'maybe', 'instructive']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+duplicable -- no ! !
+['!', '!', 'no']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Breathing -- electronically analyzed
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+
+
+Incorrectly decoded pairs for limited sentences
+Correct sentence first, decoded second
+
+Seeks `` improved fielding ''
+[]
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+`` Natural causes ''
+[]
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- Creative prayer experiences
+[]
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Entries increasing -- requirements raised
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+Simple hole drilling operations
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+Breathing -- electronically analyzed
+[]
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+
+
+statistic using original sentences:
+average distance: -0.0012548597096616037
+exact matches: 396 out of 500
+fraction of exact matches: 0.792
+
+The following values don't consider exact matches.
+avg number of removed words: 1.3846153846153846 variance: 0.7366863905325443
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 1.3846153846153846 variance: 0.7366863905325443
+
+
+statistic using limited sentences:
+average distance: -0.0012548597096616037
+exact matches: 494 out of 500
+fraction of exact matches: 0.988
+
+The following values don't consider exact matches.
+avg number of removed words: 3.1666666666666665 variance: 0.47222222222222215
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 3.1666666666666665 variance: 0.47222222222222215

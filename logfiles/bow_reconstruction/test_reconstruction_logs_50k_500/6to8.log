@@ -1,0 +1,1371 @@
+
+
+
+
+Incorrectly decoded pairs for original sentences
+Correct sentence first, decoded second
+
+Two other cases also were under advisement .
+['.', 'were', 'under', 'also', 'two', 'other', 'cases']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( Some SEATO nations disagreed , however .
+[',', '.', '(', 'some', 'nations', 'however', 'disagreed']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` That was before I studied law .
+['.', 'that', 'was', 'i', 'law', 'before', 'studied']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+That , too , will fail '' .
+[',', ',', '.', 'that', 'will', 'fail', 'too']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Jim Sheeran fits that description '' .
+['.', 'that', 'fits', 'description', 'jim']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` It didn't come from me .
+['.', 'from', 'it', 'me', "n't", 'did', 'come']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` The hand is out '' .
+['.', 'the', 'is', 'out', 'hand']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Why do you worry ? ?
+['?', '?', 'you', 'do', 'why', 'worry']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Same thing '' , he said .
+[',', '.', 'said', 'he', 'thing', 'same']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Pfaff succeeds Martin Burke , who resigned .
+[',', '.', 'who', 'martin', 'resigned', 'burke', 'succeeds']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+They reside at 4911 Miles Dr. .
+['.', 'at', 'they', 'miles', 'reside', 'dr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Nobody really expects to evacuate .
+['.', 'to', 'really', 'expects', 'nobody', 'evacuate']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- His substitutionary work on the cross
+['the', 'on', 'his', 'cross', 'work']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- His bodily resurrection from the dead
+['the', 'from', 'his', 'bodily', 'dead', 'resurrection']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Then three consecutive pinch-hitters failed to produce .
+['.', 'to', 'three', 'then', 'failed', 'produce', 'consecutive']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The Mustangs don't play this week .
+['.', 'the', "n't", 'this', 'do', 'week', 'play']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Just our luck '' ! !
+['!', '!', 'our', 'just', 'luck']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+He's mad at the world '' .
+['.', 'the', "'s", 'at', 'he', 'world', 'mad']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Skorich began his new job auspiciously today .
+['.', 'his', 'new', 'job', 'began', 'today']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Thirteen '' , said Long Jim .
+[',', '.', 'said', 'long', 'jim', 'thirteen']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` No '' , said the official .
+[',', '.', 'the', 'said', 'no', 'official']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Boyer is suffering from a stiff neck .
+['.', 'from', 'a', 'is', 'neck', 'suffering', 'stiff']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mizell has won both of his starts .
+['.', 'of', 'his', 'has', 'both', 'won', 'starts']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Virdon has been blasting the ball .
+['.', 'the', 'has', 'been', 'ball', 'blasting']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+A year later they were 4-13 .
+['.', 'a', 'were', 'year', 'they', 'later']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+They honored the battling Billikens last night .
+['.', 'the', 'they', 'night', 'last', 'battling']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Mr. Wendell Jr. will be best man .
+['.', 'will', 'man', 'be', 'best', 'mr.', 'wendell']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Their mother is Mrs. Camilla Alsop Wendell .
+['.', 'is', 'their', 'mother', 'mrs.', 'camilla', 'wendell']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The Beadles formerly lived in Lake Forest .
+['.', 'the', 'in', 'forest', 'lake', 'lived', 'formerly']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Honolulu will be Mrs. Geraghty's first stop .
+['.', "'s", 'will', 'be', 'first', 'stop', 'mrs.', 'honolulu']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He's been warbling in severe pain ; ;
+['in', "'s", ';', ';', 'he', 'been', 'pain', 'severe']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+In honor of the Wackers' new baby .
+['.', 'of', 'the', 'in', "'", 'new', 'baby', 'honor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It's one of our town's worthiest charities .
+['.', 'of', "'s", "'s", 'it', 'town', 'one', 'our', 'charities']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+They'll start lessons , too , pronto .
+[',', ',', '.', 'they', 'too', "'ll", 'start', 'lessons']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mrs. H. J. Grinsfelder is chairman .
+['.', 'is', 'j.', 'chairman', 'h.', 'mrs.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mrs. Richard Newburger is chairman of hostesses .
+['.', 'of', 'is', 'chairman', 'richard', 'mrs.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` But there never is any need .
+['.', 'is', 'but', 'there', 'any', 'need', 'never']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It originated with the Wissahickon Section .
+['.', 'the', 'with', 'it', 'section', 'originated']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` These are the board's minutes .
+['.', 'the', "'s", 'are', 'board', 'minutes', 'these']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Annapolis , Jan. 7 ( special )
+[',', ')', '(', '7', 'special', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+A breakdown of the ten-month total showed :
+['of', 'the', 'a', ':', 'showed', 'total', 'breakdown']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+St. Johns , Mich. , April 19 .
+[',', ',', '.', 'april', '19', 'st.', 'johns']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pohl received the verdict without visible emotion .
+['.', 'the', 'without', 'received', 'verdict', 'emotion', 'visible']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He also admitted killing Mrs. Hengesbach .
+['.', 'he', 'also', 'admitted', 'killing', 'mrs.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Emory is affiliated with the Methodist Church .
+['.', 'the', 'with', 'is', 'church', 'methodist', 'affiliated']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He lived at 6124 N. Willamette Blvd. .
+['.', '.', 'at', 'he', 'lived', 'n.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Al Kader Temple of the Shrine ; ;
+['of', 'the', ';', ';', 'al', 'temple', 'shrine']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Survivors are his widow , Tearle ; ;
+[',', ';', 'are', 'his', ';', 'widow', 'survivors']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+a sister , Mrs. Birdie Gevurtz ; ;
+[',', 'a', ';', ';', 'sister', 'mrs.', 'birdie']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Phil Reifenrath , Madison high school ; ;
+[',', ';', ';', 'school', 'high', 'phil', 'madison']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Birmingham , Ala. -- ( AP )
+[',', ')', '(', 'ap', 'birmingham']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+The bus was burned outside Anniston .
+['.', 'the', 'was', 'bus', 'outside', 'burned']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Bonn , Oct. 24 ( UPI )
+[',', ')', '(', '24', 'bonn', 'oct.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Cable confirmation '' , it said translated .
+[',', '.', 'said', 'it', 'cable', 'translated', 'confirmation']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Headquarters is in Birmingham , Ala. .
+[',', '.', 'in', 'is', 'headquarters', 'birmingham']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Factory operations are in Columbus , Ga. .
+[',', '.', 'in', 'are', 'operations', 'factory', 'columbus']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Gordin manufacturing operations are in Lubbock .
+['.', 'in', 'are', 'operations', 'manufacturing']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+The rate a week ago was 2.295% .
+['.', 'the', 'a', 'was', 'rate', 'week', 'ago', '%']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Washington , March 11 ( UPI ) .
+[',', '.', ')', '(', '11', 'march', 'washington']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+A favorite is Norman Norell , however .
+[',', '.', 'a', 'is', 'norman', 'however']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Balenciaga is her favorite European designer .
+['.', 'is', 'her', 'european', 'designer']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+A. F. Schmalzried , secretary ; ;
+[',', ';', ';', 'secretary', 'a.', 'f.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She lives in Wellsville , Mo. .
+[',', '.', '.', 'in', 'she', 'lives', 'mo']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The young couple live in Pasadena .
+['.', 'the', 'in', 'young', 'live', 'couple']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The scalloped edge is particularly appealing .
+['.', 'the', 'is', 'edge', 'particularly', 'appealing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+George Kissak is the bossman ; ;
+['the', 'is', ';', ';', 'george']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Herbert Heilman in town for a day .
+['.', 'in', 'for', 'a', 'day', 'town', 'herbert']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Billy and Jean Moffett at the Rickshaw .
+['.', 'and', 'the', 'at', 'jean', 'billy']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+This work is no favorite of mine .
+['.', 'of', 'is', 'no', 'this', 'work', 'mine']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Get much mileage '' ? ?
+['?', '?', 'much', 'get', 'mileage']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Crunch , that's all she wrote '' .
+[',', '.', "'s", 'that', 'all', 'she', 'wrote', 'crunch']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` I will die rich '' .
+['.', 'i', 'will', 'rich', 'die']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` The windshield looks pretty clean '' .
+['.', 'the', 'clean', 'looks', 'pretty']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Mollusks are a case in point .
+['.', 'in', 'a', 'are', 'point', 'case']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+News of Rayburn's commitment soon leaked out .
+['.', 'of', "'s", 'out', 'news', 'soon', 'commitment', 'leaked']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` See that kid '' ? ?
+['that', '?', '?', 'kid', 'see']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` That's ( Yogi ) Berra's .
+['.', "'s", "'s", ')', '(', 'that']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Send me where I can play '' .
+['.', 'me', 'i', 'can', 'where', 'play', 'send']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` I tell people what I think .
+['.', 'i', 'i', 'people', 'what', 'think', 'tell']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Are you kidding '' ? ?
+['?', 'are', '?', 'you', 'kidding']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+But DiMaggio never said a word .
+['.', 'a', 'said', 'but', 'word', 'never']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+for Maris so far this year ) .
+['.', ')', 'for', 'this', 'year', 'so', 'far']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ordered an investigation of Lumumba's death ; ;
+['of', "'s", ';', ';', 'an', 'death', 'ordered', 'investigation']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` I figured he was sick '' .
+['.', 'was', 'i', 'he', 'sick', 'figured']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` The other fellow had a '' .
+['.', 'the', 'a', 'had', 'other', 'fellow']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Pfc. Truman Cleveland of St. Augustine .
+['.', '.', 'of', 'st.', 'cleveland', 'truman', 'augustine']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Three , labor troubles are infrequent .
+[',', '.', 'are', 'three', 'troubles', 'labor', 'infrequent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Get competitive or get out '' .
+['.', 'out', 'or', 'get', 'get', 'competitive']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Look to Coosa Valley for industrial progress
+['to', 'for', 'valley', 'look', 'industrial', 'progress']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+DeKalb budget shows county is on beam
+['on', 'is', 'county', 'shows', 'budget', 'beam']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Trujillo knew a great deal about assassination .
+['.', 'a', 'about', 'knew', 'great', 'deal', 'assassination']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He served `` with '' him .
+['.', 'with', 'him', 'he', 'served']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Unanimity on Interama is not surprising .
+['.', 'on', 'is', 'not', 'surprising', 'unanimity']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Outwardly , Ciudad Trujillo is calm .
+[',', '.', 'is', 'calm', 'outwardly']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+None of the Trujillo family remains .
+['.', 'of', 'the', 'family', 'remains', 'none']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It will be a 16-hour training day .
+['.', 'a', 'it', 'will', 'be', 'day', 'training']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Reason : the cannery loses $3,000 yearly .
+['.', 'the', ':', 'reason', 'loses', 'yearly', '3,000', '$']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Aren't you sure '' ? ?
+['?', 'are', '?', "n't", 'you', 'sure']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Why , he's so darling and ''
+[',', 'and', "'s", 'he', 'so', 'why', 'darling']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` We got one at home .
+['.', 'at', 'home', 'one', 'we', 'got']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Never happier in my life .
+['.', 'in', 'life', 'my', 'never', 'happier']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+In Nashville , a school was dynamited .
+[',', '.', 'in', 'a', 'was', 'school', 'nashville']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Miami , Fla. , March 17 .
+[',', ',', '.', 'march', '17', 'miami']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Robby's performance last year was tremendous .
+['.', "'s", 'was', 'year', 'last', 'performance', 'tremendous']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+State Sen. Dick Richards will keynote ; ;
+[';', ';', 'will', 'state', 'richards', 'dick', 'keynote']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It is a short course in Communese .
+['.', 'in', 'a', 'is', 'it', 'course', 'short']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Moscow TASS in Russian datelined Sochi :
+['in', ':', 'moscow', 'russian', 'tass']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Billie was really beautiful '' ! !
+['!', 'was', '!', 'beautiful', 'really', 'billie']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+the kingdom of Heaven is theirs '' .
+['.', 'of', 'the', 'is', 'kingdom', 'theirs', 'heaven']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The conscience is non-existent in the 2-year-old .
+['.', 'the', 'the', 'in', 'is', 'conscience', 'non-existent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She can remove all knick-knacks within reach .
+['.', 'can', 'all', 'within', 'she', 'reach', 'remove']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+the long runs on the kick-offs ; ;
+['the', 'the', 'on', ';', ';', 'long', 'runs']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+the desperate agony of goal-line stands .
+['.', 'of', 'the', 'stands', 'agony', 'desperate']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+This , again , applies to Katanga .
+[',', ',', '.', 'to', 'this', 'again', 'applies']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Article 17 , Section 1 : :
+[',', ':', ':', '1', 'section', '17', 'article']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Connally amendment's repeal held step toward world order
+["'s", 'order', 'world', 'held', 'step', 'amendment', 'toward', 'repeal']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+To the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+To the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Who wants this deed done '' ? ?
+['?', '?', 'who', 'this', 'wants', 'done', 'deed']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to the editor of the Inquirer :
+['of', 'the', 'to', 'the', ':', 'editor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Their privations are almost beyond endurance .
+['.', 'are', 'their', 'almost', 'beyond', 'endurance']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Leninism-Marxism , as understood by Exegete Mao .
+[',', '.', 'by', 'as', 'understood', 'mao']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+What explains this uni-directional paralysis ? ?
+['?', '?', 'this', 'what', 'explains', 'paralysis']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Becket , by France's Jean Anouilh ; ;
+[',', "'s", 'by', ';', ';', 'france', 'jean', 'becket']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+the def , a low-pitched tambourine .
+[',', '.', 'the', 'a', 'def']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Schiele's paintings are anything but pleasant .
+['.', "'s", 'are', 'but', 'paintings', 'anything', 'pleasant']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Indonesia Court Upholds Pope's Death Sentence .
+['.', "'s", 'court', 'death', 'sentence', 'pope', 'indonesia']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+And Marie Antoinette -- Jacqueline Bouvier .
+['.', 'and', 'marie', 'jacqueline', 'antoinette']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` The beautiful and light-hearted '' .
+['.', 'and', 'the', 'beautiful', 'light-hearted']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+French Revolution -- Conservative Revolution ? ?
+['?', '?', 'revolution', 'revolution', 'french', 'conservative']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He flounders and lets music sprawl .
+['.', 'and', 'he', 'music', 'lets', 'sprawl']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Richard Tucker sang Edgardo in glorious voice .
+['.', 'in', 'voice', 'richard', 'sang', 'tucker', 'glorious']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He talked about unauthentic storylines too .
+['.', 'about', 'he', 'too', 'talked']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+there is an enchanting polonaise ; ;
+['is', ';', ';', 'an', 'there', 'enchanting']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+All told , `` Where's Charley ? ?
+[',', "'s", '?', '?', 'all', 'where', 'told', 'charley']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+'' Ought not to be missed .
+['.', 'to', 'be', 'not', 'missed', 'ought']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The latest Low is a puzzler .
+['.', 'the', 'a', 'is', 'low', 'latest']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+it tends to be hard and colorless .
+['.', 'and', 'to', 'it', 'be', 'hard', 'tends']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Arlene Saunders was charming as poor Gontran .
+['.', 'was', 'as', 'poor', 'saunders', 'charming']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Yes , Arlene is her name ; ;
+[',', 'is', ';', 'her', ';', 'name', 'yes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Judy Garland has arrived in London .
+['.', 'in', 'has', 'london', 'arrived', 'garland', 'judy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Getz is a difficult musician to categorize .
+['.', 'to', 'a', 'is', 'difficult', 'musician', 'categorize']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Its abstract decor is by John Hultberg .
+['.', 'by', 'is', 'its', 'john', 'abstract', 'decor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+this urgent visage beckons us '' .
+['.', 'this', 'us', 'urgent', 'beckons']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Systematically he would open and ransack drawers .
+['.', 'and', 'he', 'would', 'open', 'drawers', 'systematically']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+His Tartuffe observes the golden mean .
+['.', 'the', 'his', 'mean', 'golden', 'observes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+And Django owed much to Louis Armstrong .
+['.', 'and', 'to', 'much', 'armstrong', 'owed', 'louis']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Elman is 70 years old .
+['.', 'is', 'years', 'old', '70', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Professor Bondi disagrees with the expansion-contraction theory .
+['.', 'the', 'with', 'theory', 'professor', 'disagrees']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Much Ado '' ends happily .
+['.', 'much', 'ends', 'happily', 'ado']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Schwarzkopf is , of course , Schwarzkopf .
+[',', ',', '.', 'of', 'is', 'course', 'danziger', 'mailer', 'hartnell', 'looe', 'looe', 'rasmussen']
+#removed words: 2
+#added words: 6
+#length difference: -4
+
+
+The armchair traveler preserves his illusions '' .
+['.', 'the', 'his', 'armchair', 'illusions', 'preserves']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+All are well written and are overwritten .
+['.', 'and', 'are', 'are', 'all', 'well', 'written']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+To transmit that feeling he writes '' .
+['.', 'to', 'that', 'he', 'feeling', 'writes', 'transmit']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The greenhouses alone cover 3-1/2 acres .
+['.', 'the', 'alone', 'cover', 'acres', 'greenhouses']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+I'll live to be 105 '' .
+['.', 'to', 'i', 'be', "'ll", 'live', '105']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Saturated fats can accommodate no more hydrogens .
+['.', 'no', 'can', 'more', 'fats', 'saturated', 'accommodate']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Therefore Irenaeus describes man's creation as follows :
+["'s", ':', 'as', 'man', 'describes', 'therefore', 'follows', 'creation']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The word is really `` stronghold '' .
+['.', 'the', 'is', 'word', 'really', 'stronghold']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- History of the Church ; ;
+['of', 'the', ';', ';', 'church', 'history']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Duties of Church Membership ; ;
+['of', ';', ';', 'church', 'duties', 'membership']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- The Local Church and Its Program
+['and', 'the', 'its', 'church', 'local', 'program']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( See sample on pp. 78-79 .
+['.', '.', 'on', '(', 'see', 'sample', 'pp']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Have a `` Question Box '' .
+['.', 'a', 'have', 'box', 'question']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+This is no spectator-type experience ; ;
+['is', ';', ';', 'no', 'this', 'experience']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Guidance in Christian social concerns .
+['.', 'in', 'social', 'christian', 'guidance', 'concerns']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Against the grain of creation ''
+['of', 'the', 'against', 'grain', 'creation']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Romans 3 : 10-12 , 23 .
+[',', '.', ':', '3', 'romans', '23']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He is in your hands -- now .
+['.', 'in', 'is', 'he', 'your', 'now', 'hands']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The minister was Norman Vincent Peale .
+['.', 'the', 'was', 'minister', 'norman', 'vincent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Len LeSourd is my executive editor today .
+['.', 'is', 'my', 'today', 'executive', 'editor', 'len']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Van Varner recently returned from Russia .
+['.', 'from', 'van', 'returned', 'russia', 'recently']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The hated dictator Batista had fled .
+['.', 'the', 'had', 'hated', 'fled', 'dictator']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` You will lose the paper .
+['.', 'the', 'you', 'will', 'paper', 'lose']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` It never seemed to widen .
+['.', 'to', 'it', 'seemed', 'never', 'widen']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It just got longer and longer '' .
+['.', 'and', 'it', 'just', 'got', 'longer', 'longer']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+It's a complete thigh contraction-extension exercise .
+['.', "'s", 'a', 'it', 'exercise', 'complete', 'thigh']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Place a suitably-loaded barbell across them ; ;
+['a', ';', ';', 'them', 'across', 'place']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+That's the One-Leg Lunge in a nutshell .
+['.', 'the', 'in', "'s", 'that', 'a', 'lunge', 'nutshell']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pansies don't have to be coddled ; ;
+['to', ';', ';', 'have', "n't", 'be', 'do', 'pansies']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+
+
+Incorrectly decoded pairs for limited sentences
+Correct sentence first, decoded second
+
+Schwarzkopf is , of course , Schwarzkopf .
+[',', ',', '.', 'of', 'is', 'course', 'danziger', 'mailer', 'hartnell', 'looe', 'looe', 'rasmussen']
+#removed words: 2
+#added words: 6
+#length difference: -4
+
+
+
+
+statistic using original sentences:
+average distance: -2.4142554235634124e-07
+exact matches: 310 out of 500
+fraction of exact matches: 0.62
+
+The following values don't consider exact matches.
+avg number of removed words: 1.263157894736842 variance: 0.22548476454293634
+avg number of added words: 0.031578947368421054 variance: 0.1884764542936288
+avg length difference: 1.231578947368421 variance: 0.36742382271468144
+
+
+statistic using limited sentences:
+average distance: -2.4142554235634124e-07
+exact matches: 499 out of 500
+fraction of exact matches: 0.998
+
+The following values don't consider exact matches.
+avg number of removed words: 2.0 variance: 0.0
+avg number of added words: 6.0 variance: 0.0
+avg length difference: -4.0 variance: 0.0

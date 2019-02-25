@@ -7,3 +7,5 @@ How to read the filename:
 Words not contained in the 2000 most common words of the brown corpus are removed.
 The sentences (after removing the words) are 6 to 12 words long.
 The matrix was reduced to the vectors of the 5000 most common words in order to save on the computation. If the last number isn't given, it was reduced to the words contained in the sentences.
+
+The folders test_reconstruction_logs_*0k_500 contain the log files for different sentence lengths, from 3-5 to 21-23. For each sentence, they give the original sentence and the decoded beg of words. This is then repeated, but this time only looking at the words that were contained in the matrix, ignoring the other ones. At the end of the file there is a small statistic about how many sentences were decoded correctly and how many words were lost.

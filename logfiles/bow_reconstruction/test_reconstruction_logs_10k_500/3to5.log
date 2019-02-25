@@ -1,0 +1,1637 @@
+
+
+
+
+Incorrectly decoded pairs for original sentences
+Correct sentence first, decoded second
+
+`` Must solve problem ''
+['must', 'problem', 'solve']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Mr. Hawksley said .
+['.', 'said', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Screvane and Beame hailed
+['and']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Baton Rouge , La.
+[',', '.', 'la']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Ignition sets off blast
+['off', 'sets', 'blast']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Led fight on teamsters
+['on', 'led', 'fight']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Salem ( AP )
+[')', '(']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- emphasizes the Virgin birth
+['the', 'virgin', 'birth']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Seeks `` improved fielding ''
+[]
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+Duren , Sheldon on hill
+[',', 'on', 'hill']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Culmone gets first win
+['win', 'first', 'gets']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+A quick touchdown resulted .
+['.', 'a', 'quick', 'resulted']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Bingles and bobbles :
+['and', ':']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Philadelphia , Jan. 23
+[',', '23', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Flushing stadium in works
+['in', 'works', 'stadium']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The ball floated downstream .
+['.', 'the', 'ball']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Change in pitchers .
+['.', 'in', 'change']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Nieman kept in lineup .
+['.', 'in', 'kept']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Six Bucks over .
+['.', 'over', 'six']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Six Bucs over .
+['.', 'over', 'six']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She's a whiz .
+['.', "'s", 'a', 'she']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+All for $14 ! !
+['for', '!', '!', 'all', '14']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+All for $14 .
+['.', 'for', 'all', '14']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Salary cut and lay-offs
+['and', 'cut', 'salary']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Annapolis , Jan. 7
+[',', '7', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Annapolis , Jan. 7
+[',', '7', 'jan.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Of highest value ''
+['of', 'value', 'highest']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+No comments by U.S.
+['.', 'by', 'no', 'comments']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+and Bernardine , 1 .
+[',', '.', 'and', '1']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Havana , April 19 .
+[',', '.', 'april', '19']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Salem ( special )
+[')', '(', 'special']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+and five grandchildren .
+['.', 'and', 'five']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hillsboro ( special )
+[')', '(', 'special']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Giorgio was uninjured .
+['.', 'was', 'mr.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Mr. Vernava was uninjured .
+['.', 'was', 'mr.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Asilomar , March 26
+[',', 'march', '26']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+New York ( AP )
+[')', '(', 'new', 'york']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+$70 by 1971 ; ;
+['by', ';', ';', '1971', '70']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+$75 by 1976 ; ;
+['by', ';', ';', '1976', '75']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+$80 by 1981 ; ;
+['by', ';', ';', '1981', '80']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+New York ( AP )
+[')', '(', 'new', 'york']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Washington ( AP )
+[')', '(', 'washington']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Washington ( UPI )
+[')', '(', 'washington']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Washington ( AP )
+[')', '(', 'washington']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+bluebonnets and stagecoach silhouettes .
+['.', 'and']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Very austere yet racy .
+['.', 'very', 'yet']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Tires OK ? ?
+['?', '?', 'ok']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+They polished the windshield .
+['.', 'the', 'they', 'polished']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He asked gloomily .
+['.', 'he', 'asked']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` About 35 '' .
+['.', 'about', '35']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Adequate compensation is indispensable .
+['.', 'is', 'compensation', 'adequate']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The committee remains unresponsive .
+['.', 'the', 'committee', 'remains']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+2 ) Laos .
+['.', ')', '2']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+turmoil in the House
+['the', 'in', 'house']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Unconscionable '' ! !
+['!', '!']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+He bogeyed the 10th .
+['.', 'the', 'he']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+The boldness of champions
+['of', 'the', 'champions']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+This is Baseball 1961 .
+['.', 'is', 'this', '1961']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+I'm angry '' .
+['.', 'i', "'m", 'angry']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Play me '' .
+['.', 'me', 'play']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Maris's was Ted Williams .
+['.', "'s", 'was', 'williams', 'ted']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Lumumba fired Kasavubu .
+['.', 'fired']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Crime : ' skyjacked '
+[':', "'", "'", 'crime']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Chin up , Soapy .
+[',', '.', 'up', 'chin']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The end of Trujillo
+['of', 'the', 'end']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+A good man departs .
+['.', 'a', 'man', 'good']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Goodby , Mr. Sam
+[',', 'sam', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+un off the Congo track
+['the', 'off', 'track', 'un']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Meditations from a fallout shelter
+['from', 'a', 'shelter']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+An excess of zeal
+['of', 'an', 'excess']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Eisenhower , politician
+[',', 'politician', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+This was juvenile ridicule .
+['.', 'was', 'this', 'juvenile']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mission to Viet Nam
+['to', 'mission']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Dr. Conant's call to action
+['to', "'s", 'action', 'call', 'dr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+but forgive anyway '' .
+['.', 'but', 'anyway', 'forgive']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Matthew 6 : 14-15 .
+['.', ':', '6', 'matthew']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Matthew 18 : 21-22 .
+['.', ':', '18', 'matthew']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Oh , no-o ! !
+[',', '!', '!', 'oh']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+And the turtle ? ?
+['and', 'the', '?', '?']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mr. Podger smiled .
+['.', 'smiled', 'mr.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Dad '' ! !
+['!', '!', 'dad']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Robby could be better
+['be', 'could', 'better']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( Quotations follow '' .
+['.', '(', 'follow']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+It motivates his behavior .
+['.', 'his', 'it']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Actions speak louder .
+['.', 'actions', 'speak']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+His bifocals blur .
+['.', 'his']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+These men are spenders .
+['.', 'are', 'men', 'these']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` A lousy job ''
+['a', 'job']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Short shorts on the campus
+['the', 'on', 'shorts', 'short']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Minneapolis , Aug. 7
+[',', '7', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Wilmette , Aug. 7
+[',', '7', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Downers Grove , Aug. 8
+[',', 'grove', '8', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Providence , Aug. 5
+[',', '5', 'aug.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Plus-one '' shelters
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+`` Natural causes ''
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+It was very refreshing .
+['.', 'was', 'it', 'very']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Deep Peep Show ''
+['show', 'deep']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Dissenting views of senators
+['of', 'views']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Section 2 : :
+[':', ':', '2', 'section']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Article 19 : :
+[':', ':', 'article', '19']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+For better subway services
+['for', 'services', 'better']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Good for Mr. Trimmer .
+['.', '.', 'for', 'good', 'mr']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+' we tremble not '
+["'", "'", 'not', 'we']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Why trust Jagan ? ?
+['?', '?', 'trust', 'why']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+not push-ups but stand-ups
+['but', 'not']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+U Thant of Burma
+['of', 'u']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Key to the puzzles
+['to', 'the', 'key']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Continuum of mankind .
+['.', 'of', 'mankind']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The melting pot .
+['.', 'the', 'pot']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Some Manhattan examples :
+[':', 'some', 'examples']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+A short , tormented span
+[',', 'a', 'short', 'span']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Mental telepathy ? ?
+['?', '?', 'mental']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The impending death of Pope
+['of', 'the', 'death', 'pope']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Regency -- Truman .
+['.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Improper Bostonian ? ?
+['?', '?']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Rudolf Kempe conducts .
+['.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Not La Dietrich .
+['.', 'la', 'not']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Remaking an army to win
+['to', 'an', 'win', 'army']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+logistics and transport ; ;
+['and', ';', ';', 'transport']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+airdrops and airstrips ; ;
+['and', ';', ';']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+It depresses them .
+['.', 'it', 'them']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Tempos were lively .
+['.', 'were', 'lively']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Their Eisenhower is insubstantial .
+['.', 'is', 'their']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+She's not chubby .
+['.', "'s", 'not', 'she']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She's not plump .
+['.', "'s", 'not', 'she']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+She's fat '' .
+['.', "'s", 'she', 'fat']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+I say chantey .
+['.', 'i', 'say']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Take hands ; ;
+[';', ';', 'hands', 'take']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Yet the idyll ended .
+['.', 'the', 'yet', 'ended']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+rhythm-and-blues mood music ; ;
+[';', ';', 'music', 'mood']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+He ignores guidebook facts .
+['.', 'he', 'facts']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Beauty borrowed from afar
+['from', 'beauty', 'borrowed']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Franny and Zooey .
+['.', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Russians , Filipinos .
+[',', '.', 'russians']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+today there are 48,500 .
+['.', 'are', 'there', 'today']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+it is an absurdity .
+['.', 'is', 'it', 'an']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Each feels intensely national .
+['.', 'national', 'each', 'feels']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Obesity : a malnutrition .
+['.', 'a', ':']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Fats & coronaries .
+['.', '&']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+But fatty foods do .
+['.', 'but', 'foods', 'do']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+) Tillich as well .
+['.', ')', 'as', 'well']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Parker was never excommunicated .
+['.', 'was', 'never', 'parker']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+So it is spiritually .
+['.', 'is', 'it', 'so']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+she was fatally injured .
+['.', 'was', 'she', 'injured']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Use audio-visual aids .
+['.', 'use', 'aids']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Welcome into the fellowship
+['the', 'into', 'fellowship', 'welcome']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Social and recreational activities
+['and', 'activities', 'social']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- Opportunities for Christian service
+['for', 'service', 'christian', 'opportunities']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+-- Creative prayer experiences
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+A speck -- and space
+['and', 'a', 'space']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Music of the spheres
+['of', 'the', 'music']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Others were ephemeral .
+['.', 'were', 'others']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( 1 ) ''
+[')', '(', '1']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+( 2 ) ''
+[')', '(', '2']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Ephesians 2 : 1 .
+['.', ':', '2', '1']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Evidences of the new birth
+['of', 'the', 'new', 'birth']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Philippians 1 : 6 .
+['.', ':', '1', '6']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+St. Jude 24 .
+['.', '24', 'st.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+2 Corinthians 17 .
+['.', '2', '17']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Ephesians 2 : 8-10 .
+['.', ':', '2']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+They cursed Him .
+['.', 'him', 'they']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Men spit on Him .
+['.', 'on', 'him', 'men']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+God withheld His wrath .
+['.', 'his', 'god']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+And then 500,000 .
+['.', 'and', 'then']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+my name is Guideposts .
+['.', 'is', 'my', 'name']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Castro's reforms ? ?
+["'s", '?', '?', 'reforms']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pansies are gluttons .
+['.', 'are']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+They need mulch .
+['.', 'they', 'need']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Pansies have character .
+['.', 'have', 'character']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Nutritious and a cholesterol reducer
+['and', 'a', 'cholesterol']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Harvey Barcus , second speaker
+[',', 'speaker', 'harvey', 'second']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Entries increasing -- requirements raised
+[]
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+Judging class for intermediates proposed
+['for', 'class', 'proposed', 'judging']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Other awards for Juniors
+['for', 'other', 'awards']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+`` Puppies '' ? ?
+['?', '?']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Tappets and locking bars
+['and', 'bars']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+For example : Af .
+['.', 'for', ':', 'example']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+For example : Af .
+['.', 'for', ':', 'example']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+For example : Af .
+['.', 'for', ':', 'example']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Gear ratio -- speed relationships
+['ratio', 'speed', 'relationships', 'gear']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+MPH for Car speed
+['for', 'car', 'speed']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+, for Engine crankshaft speed
+[',', 'for', 'speed', 'engine']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+, for Tire size
+[',', 'for', 'size']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hunting rifles , '61
+[',', 'hunting']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Beginners' guns , '61
+[',', "'", 'guns']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Photographing in the Northeast
+['the', 'in']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Vicksburg , Mississippi ; ;
+[',', ';', ';']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Pictures of the Midwest
+['of', 'the', 'pictures']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Do without fancy tablecloths .
+['.', 'do', 'without', 'fancy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Serve on buns .
+['.', 'on', 'serve']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Makes 6 barbecues .
+['.', '6', 'makes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Make sauces ahead .
+['.', 'make', 'ahead']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Simmer 15 minutes .
+['.', 'minutes', '15']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Hamburger patties with nuts
+['with', 'nuts']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Stoneware clay for tiles .
+['.', 'for', 'clay', 'tiles']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+No bisque firing .
+['.', 'no', 'firing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Remove jar from mold .
+['.', 'from', 'jar', 'remove']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Little folks set :
+[':', 'little', 'set']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Turn shaker upside down .
+['.', 'down', 'turn']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Sugar and creamer :
+['and', ':', 'sugar']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Make creamer the same .
+['.', 'the', 'make', 'same']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Fired to cone 06-05 .
+['.', 'to', 'fired']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+to measure armhole :
+['to', ':', 'measure']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+To insert markers :
+['to', ':', 'insert']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+To sew in sleeves :
+['to', 'in', ':', 'sleeves']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+to weave seams together :
+['to', ':', 'together']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Simple hole drilling operations
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+Our book of etiquette
+['of', 'book', 'our']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+You need more chlorine .
+['.', 'you', 'more', 'need']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+The walls feel slippery .
+['.', 'the', 'walls', 'feel']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+You need algaecide .
+['.', 'you', 'need']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Its upkeep ? ?
+['?', '?', 'its']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Is it worth-while ? ?
+['is', '?', 'it', '?']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Housekeeping is easier .
+['.', 'is', 'easier']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+What size conditioner ? ?
+['?', '?', 'what', 'size']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Keeping conditioners quiet .
+['.', 'quiet', 'keeping']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Quality is vitally important .
+['.', 'is', 'quality', 'important']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Inspiring -- yes ; ;
+[';', ';', 'yes']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+instructive -- maybe ; ;
+[';', ';', 'maybe']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+duplicable -- no ! !
+['!', '!', 'no']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+Breathing -- electronically analyzed
+['breathing']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Sonar in medical research
+['in', 'research', 'medical']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Ferment of scientific activity
+['of', 'activity', 'scientific']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+Bacterial and fungal enzymes .
+['.', 'and']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+
+
+Incorrectly decoded pairs for limited sentences
+Correct sentence first, decoded second
+
+Seeks `` improved fielding ''
+[]
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+`` Natural causes ''
+[]
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+-- Creative prayer experiences
+[]
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+Entries increasing -- requirements raised
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+Simple hole drilling operations
+[]
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+
+
+statistic using original sentences:
+average distance: -0.001150641116694537
+exact matches: 276 out of 500
+fraction of exact matches: 0.552
+
+The following values don't consider exact matches.
+avg number of removed words: 1.4017857142857142 variance: 0.5439253826530611
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 1.4017857142857142 variance: 0.5439253826530611
+
+
+statistic using limited sentences:
+average distance: -0.001150641116694537
+exact matches: 495 out of 500
+fraction of exact matches: 0.99
+
+The following values don't consider exact matches.
+avg number of removed words: 3.0 variance: 0.8
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 3.0 variance: 0.8
