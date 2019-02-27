@@ -51,9 +51,11 @@ class DS_matrix:
         """
 
         if not word in self.vocab_order:
+            print(word)
             raise Exception("Word not in matrix")
 
         if not prev_word in self.vocab_order:
+            print(prev_word)
             raise Exception("Previous word not in matrix")
 
         prev_pos = self.vocab_order[prev_word]
@@ -147,15 +149,40 @@ class DS_matrix:
         """
 
         prob = 1
-        prev_word = "START$_"
+        prev_word = ("START$_",)
 
-        for word in sentence:
-            if not word in self.vocab_order:
+        sent = list(map(lambda x: x.lower(), sentence))
+        while sent != []:
+            ngram = (sent[0],)
+            for ngram2 in self.vocab_order:
+                if len(ngram2) > 1:
+                    if sent[:len(ngram2)] == list(ngram2):
+                        ngram = ngram2
+            sent = sent[len(ngram):]
+
+            if not ngram in self.vocab_order:
                 continue
-            prob *= self.get_bigram_prob(word, prev_word)
-            prev_word = word
 
-        prob *= self.get_bigram_prob("END$_", prev_word)
+            curr_prob = self.get_bigram_prob(ngram, prev_word)
+
+            while curr_prob == 0 and len(prev_word)>1: #backoff
+                prev_word = prev_word[:-1]
+                if prev_word in self.vocab_order:
+                    curr_prob = self.get_bigram_prob(ngram, prev_word)
+                    if curr_prob != 0:
+                        break
+            
+            prob *= curr_prob
+            prev_word = ngram
+        
+        curr_prob = self.get_bigram_prob(("END$_",), prev_word)
+        while curr_prob == 0 and len(prev_word)>1: #backoff
+                prev_word = prev_word[:-1]
+                if prev_word in self.vocab_order:
+                    curr_prob = self.get_bigram_prob(("END$_",), prev_word)
+                    if curr_prob != 0:
+                        break
+        prob *= curr_prob#self.get_bigram_prob("END$_", prev_word)
 
         return prob
 
