@@ -25,7 +25,7 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
 
 
     print("reading the frequency file ....\n")
-    freqs_from_file = [tuple(i.split()) for i in open(freq_dist_file)]
+    freqs_from_file = [(i.split()[0], tuple(i.split()[1:])) for i in open(freq_dist_file)]
     
     # we take only the first 100,000 words
     # Note: here a very bizarre things happens if I don't restrict the number of words: some of the values are randomly reduced
@@ -49,13 +49,17 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     print("building frequency list dictionary...")
     #vocab_order = {w:i for i,w in enumerate(freq_dict.keys())}
     vocab_order = {w[1]:i for i,w in enumerate(freqs_from_file[:num_words])}
-    vocab_order["START$_"] = len(vocab_order)
-    vocab_order["END$_"] = len(vocab_order)
+    vocab_order[("START$_",)] = len(vocab_order)
+    vocab_order[("END$_",)] = len(vocab_order)
     print("number of types (including START$_ and END$_ ):", len(vocab_order), "\n")
 
     freq_dict = {i:0 for i in range(len(vocab_order))}
 
     unigram_counts = {w:0 for w in vocab_order}
+
+    #get maximum length of ngrams in vocabulary
+    max_n = max(map(len, vocab_order.keys()))
+    print(max_n)
     
     
     # the empty matrix is instantiated, the shape of it is equal to the brigram lexicon
@@ -67,16 +71,23 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     for sent in open(corpus):
 
         # every line in the corpus file is transformed in a list
-        current_sent = sent.strip().split()
+        current_sent = sent.lower().strip().split()
 
         # we extend the list of tokens by adding sentence start and end strings
         current_sent = ["START$_"] + current_sent + ["END$_"]
 
-        # we create the list of brigrams (as tuples) form the sentence 
-        bigrams =[(current_sent[i], current_sent[i+1]) for i in range(len(current_sent)-1)]
+        # we create the list of brigrams (as tuples) form the sentence
+        n_plus1_grams = []#[([current_sent[i]], [current_sent[i+1]]) for i in range(len(current_sent)-1)]
+        #bigrams =[(current_sent[i], current_sent[i+1]) for i in range(len(current_sent)-1)]
+        for n1 in list(range(max_n+1))[1:]:
+            for n2 in list(range(max_n+1))[1:]:
+                n_plus1_grams += [(tuple(current_sent[i:i+n1]), tuple(current_sent[i+n1:i+n1+n2]))
+                                  for i in range(len(current_sent) - (n1+n2) + 1)]
+                    
+
         
         # if both words in the bigram are in the lexicon we add the count to the matrix
-        for i in bigrams:
+        for i in n_plus1_grams:
             if i[0] in vocab_order and i[1] in vocab_order:
                 if i[0] in stopwords:
                     continue
@@ -98,14 +109,14 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     print("do_counter", do_counter)
 
     print("counted bigrams ...")
-    print("calculating bigram probabilities ...")
+    print("calculating ngram probabilities ...")
     #normalize the counts
     count = 0
     for row, col in non_zero_positions:
         matrix[row, col] /= freq_dict[col]
 
         if count % 500000 == 0:
-            print(count, "bigrams processed ...")
+            print(count, "ngrams processed ...")
         count += 1
 
 

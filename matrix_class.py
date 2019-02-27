@@ -68,14 +68,14 @@ class DS_matrix:
 
         return list(self.vocab_order.keys())
 
-    def generate_bigram_sentence(self, start_word="START$_"):
+    def generate_bigram_sentence(self, start_word=("START$_",)):
         """
         Generate a sentence according to the bigram probabilities in the matrix.
         
         Parameter
         ---------
-        start_word : string
-            First word from which to generate sentences.
+        start_word : tuple(string)
+            First word(s) from which to generate sentences.
 
         Return
         ------
@@ -87,8 +87,8 @@ class DS_matrix:
         
         sentence = []
 
-        if start_word != "START$_" and start_word != "END$_":
-            start_word = start_word.lower()
+        if start_word != ("START$_",) and start_word != ("END$_",):
+            start_word = map(lambda x:x.lower(), start_word)
 
         if not start_word in self.vocab_order:
             raise Exception("given start_word not in matrix")
@@ -123,10 +123,10 @@ class DS_matrix:
                 index = np.random.choice(range(len(words)), p=prob_list)
                 word = words[index]
 
-            if word == "END$_":
+            if word == ("END$_",):
                 break
             
-            sentence.append(word)
+            sentence += list(word)
             
 
         return sentence
