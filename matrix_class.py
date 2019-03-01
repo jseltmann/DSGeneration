@@ -207,7 +207,7 @@ class DS_matrix:
         return prob
 
 
-    def encode_sentence(self, sent):
+    def encode_sentence(self, sent, encode_ngrams=True):
         """
         Encode a sentence as sum of word vectors.
         Unknown words are ignored.
@@ -216,6 +216,9 @@ class DS_matrix:
         ---------
         sent : String
             Sentence to be encoded.
+        encode_ngrams : Bool
+            Whether to use the vectors representing ngrams (n>1) for the encoding,
+            or whether to encode each word separately.
 
         Return
         ------
@@ -223,12 +226,21 @@ class DS_matrix:
             Vector representing the words of the sentence.
         """
 
-        words = nltk.word_tokenize(sent)
+        words = list(map(lambda x:x.lower(), nltk.word_tokenize(sent)))
         vectors = []
 
-        for word in words:
-            if word.lower() in self.vocab_order:
-                vectors.append(self.get_vector(word.lower()))
+        #for word in words:
+        #    if word.lower() in self.vocab_order:
+        #        vectors.append(self.get_vector(word.lower()))
+        while words != []:
+            prefixes = [tuple(words[:i]) for i in range(len(words) + 1)]
+            prefixes.reverse()
+
+            for pref in prefixes:
+                if pref in self.vocab_order:
+                    vectors.append(self.get_vector(pref))
+                    words = words[len(pref):]
+                    break
 
         if len(vectors) == 0:
             encoding = np.zeros((1,self.matrix.shape[1]))
@@ -265,8 +277,8 @@ class DS_matrix:
                 contained_words.add(word)
         word_set = contained_words
 
-        word_set.add("START$_")
-        word_set.add("END$_")
+        word_set.add(("START$_",))
+        word_set.add(("END$_",))
 
         new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), len(self.vocab_order)))
 
@@ -355,7 +367,7 @@ class DS_matrix:
         self.todok()
 
         #beam search
-        start_word_prob = lambda w : self.get_bigram_prob(w, "START$_")
+        start_word_prob = lambda w : self.get_bigram_prob(w, ("START$_",))
 
         if words == []:
             return ""
@@ -409,13 +421,16 @@ class DS_matrix:
 
                 new_prob = (prob_thus_far
                             * self.get_bigram_prob(w, last_word)
-                            * self.get_bigram_prob("END$_", w))
+                            * self.get_bigram_prob(("END$_",), w))
                 sent = word_list + [w]
 
                 solutions.append((sent, new_prob))
                     
 
-        best_sent, _ = max(solutions, key=(lambda t: t[1]))
+        best_order, _ = max(solutions, key=(lambda t: t[1]))
+        best_sent = []
+        for t in best_order:
+            best_sent += t
         best_sent = ' '.join(best_sent)
 
 
