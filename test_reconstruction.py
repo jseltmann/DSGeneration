@@ -27,7 +27,26 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
         
     decoded_count = 0
 
+
+
+    with open(log_filename) as log_file:
+        already_decoded = log_file.readlines()
+
+    sent_num -= len(already_decoded)
+    if sent_num == 0:
+        return
+
+    decoded_ids = []
+    for line in already_decoded:
+        id_str = already_decoded.split(" || ")[0]
+        decoded_ids = int(id_str)
+
+    print(decoded_ids)
+
     for i, line in enumerate(open(sents_filename)):
+        if i in decoded_ids:
+            print(i)
+            continue
         print(i)
         print(line)
         print(datetime.now())
@@ -276,5 +295,5 @@ def evaluate_decoding(results_filename, log_filename):
 #test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
-decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=900)
+decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=1800)
 #decode_sents("../brown_sents_bins_incl_non_matrix/18to20.txt", "../matrix_50k/_matrix.pkl", "../decoded_10k_18to20.log", num_words=10000, timeout=900)
