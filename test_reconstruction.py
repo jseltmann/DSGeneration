@@ -38,8 +38,8 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
 
     decoded_ids = []
     for line in already_decoded:
-        id_str = already_decoded.split(" || ")[0]
-        decoded_ids = int(id_str)
+        id_str = line.split(" || ")[0]
+        decoded_ids.append(int(id_str))
 
     print(decoded_ids)
 
@@ -88,7 +88,7 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
                 break
 
 
-def evaluate_decoding(results_filename, log_filename):
+def evaluate_decoding(results_filename, log_filename, num_words=None):
     """
     Test the decoding of sentence vectors with the greedy search from White et.al.
 
@@ -100,14 +100,14 @@ def evaluate_decoding(results_filename, log_filename):
         File to write log to.
     """
 
-    #matrix = DS_matrix(matrix_filename)
+    matrix = DS_matrix(matrix_filename)
 
-    #if num_words is not None:
-    #    vocab = list(matrix.vocab_order.keys())[:num_words]
+    if num_words is not None:
+        vocab = list(matrix.vocab_order.keys())[:num_words]
 
-    #    matrix = matrix.less_words_matrix(vocab)
-    #else:
-    #    vocab = list(matrix.vocab_order.keys())
+        matrix = matrix.less_words_matrix(vocab)
+    else:
+        vocab = list(matrix.vocab_order.keys())
 
 
     #get differences between original and reconstruction both for original sentence
@@ -173,11 +173,17 @@ def evaluate_decoding(results_filename, log_filename):
             
         _, orig_sent, res_sent = line.split("||")
 
-        res_sent = nltk.word_tokenize(res_sent)
+
+        target = matrix.encode_sentence(orig_sent)
+        dec_vec = matrix.encode_sentence(res_sent)
+        diff = dec_vec - target
+        diff = diff * diff
+        score = - np.sum(diff)
 
         diff_sum_ori += score
         diff_count_ori += 1
 
+        res_sent = nltk.word_tokenize(res_sent)
         corr_sent = [w.lower() for w in nltk.word_tokenize(orig_sent)]
         if check_same(corr_sent, res_sent):
             exact_match_count_ori += 1
@@ -295,5 +301,6 @@ def evaluate_decoding(results_filename, log_filename):
 #test_decoding("../test_sents.txt", "../matrix_50k/_matrix.pkl", "../test.log", num_words=10000)#, words_filename="sents_from_brown/5000_words.txt")
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
-decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=1800)
+#decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=1800)
+evaluate_decoding("../decoded_500_50k_15to17.log", "../test_reconstruction_logs_50k_500/15to17.log")
 #decode_sents("../brown_sents_bins_incl_non_matrix/18to20.txt", "../matrix_50k/_matrix.pkl", "../decoded_10k_18to20.log", num_words=10000, timeout=900)
