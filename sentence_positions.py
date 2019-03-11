@@ -254,7 +254,8 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
 
     with open(log_filename, "w") as log_file:
         for cluster_num, cluster in enumerate(sent_clusters):
-            num_sents = len(list(filter(lambda x: x in sents, cluster)))
+            sents = list(filter(lambda x: x in sents, cluster))
+            num_sents = len(sents)
             num_words = len(cluster) - num_sents
 
             log_file.write("cluster_num: " + str(cluster_num) + "\n")
@@ -308,6 +309,10 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
 
             log_file.write("distance between closest two points of this cluster and another one: " + str(closest_point_dist) + "\n")
             log_file.write("distance of the point in the other cluster to the mean of this cluster: " + str(closest_point_dist_to_mean) + "\n")
+
+            log_file.write("\n\n")
+            for sent in sents:
+                log_file.write(sent + "\n")
 
             log_file.write("\n\n\n")
 
@@ -373,5 +378,5 @@ stopwords = [
 ] + [".", ",", ";", "-", "—"] 
 
 #find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
-find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters_sents_vs_words.log", num_clusters=2)
+find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters_log_sents.log", num_clusters=2)
 #find_zeros("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "count_nonzeros.log", num_words=2000)
