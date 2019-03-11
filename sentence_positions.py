@@ -263,52 +263,52 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
             log_file.write("num_words: " + str(num_words) + "\n")
             log_file.write("\n")
 
-            vectors = vector_clusters[cluster_num]
+            #vectors = vector_clusters[cluster_num]
 
-            for i, vec1 in enumerate(vectors):
-                for j, vec2 in enumerate(vectors):
-                    if i == j:
-                        continue
-                    dist = cosine(vec1, vec2)
-                    dist_lists[cluster_num].append(dist)
+            #for i, vec1 in enumerate(vectors):
+            #    for j, vec2 in enumerate(vectors):
+            #        if i == j:
+            #            continue
+            #        dist = cosine(vec1, vec2)
+            #        dist_lists[cluster_num].append(dist)
 
-            log_file.write("avg dist between points: " + str(np.nanmean(dist_lists[cluster_num])) + "\n")
-            if len(dist_lists[cluster_num]) > 0:
-                log_file.write("max dist between points: " + str(max(dist_lists[cluster_num])) + "\n")
-            else:
-                log_file.write("max dist between points:")
+            #log_file.write("avg dist between points: " + str(np.nanmean(dist_lists[cluster_num])) + "\n")
+            #if len(dist_lists[cluster_num]) > 0:
+            #    log_file.write("max dist between points: " + str(max(dist_lists[cluster_num])) + "\n")
+            #else:
+            #    log_file.write("max dist between points:")
 
-            mean1 = np.mean(vectors, axis=0)
+            #mean1 = np.mean(vectors, axis=0)
 
-            closest_cluster = None
-            closest_cluster_dist = None
+            #closest_cluster = None
+            #closest_cluster_dist = None
 
-            closest_point_dist = None
+            #closest_point_dist = None
 
-            for cluster_num2, cluster2 in enumerate(vector_clusters):
-                if cluster_num2 == cluster_num:
-                    continue
+            #for cluster_num2, cluster2 in enumerate(vector_clusters):
+            #    if cluster_num2 == cluster_num:
+            #        continue
 
-                mean2 = np.mean(cluster2, axis=0)
-                dist = cosine(mean1, mean2)
+            #    mean2 = np.mean(cluster2, axis=0)
+            #    dist = cosine(mean1, mean2)
 
-                if closest_cluster_dist is None or closest_cluster_dist > dist:
-                    closest_cluster = cluster_num2
-                    closest_cluster_dist = dist
+            #    if closest_cluster_dist is None or closest_cluster_dist > dist:
+            #        closest_cluster = cluster_num2
+            #        closest_cluster_dist = dist
 
-                for vec1 in vectors:
-                    for vec2 in cluster2:
-                        dist = cosine(vec1, vec2)
+            #    for vec1 in vectors:
+            #        for vec2 in cluster2:
+            #            dist = cosine(vec1, vec2)
 
-                        if closest_point_dist is None or closest_point_dist > dist:
-                            closest_point_dist = dist
-                            closest_point_dist_to_mean = cosine(vec2, mean1)
+            #            if closest_point_dist is None or closest_point_dist > dist:
+            #                closest_point_dist = dist
+            #                closest_point_dist_to_mean = cosine(vec2, mean1)
 
-            log_file.write("closest cluster mean: " + str(closest_cluster) + "\n")
-            log_file.write("distance to closest cluster mean: " + str(closest_cluster_dist) + "\n")
+            #log_file.write("closest cluster mean: " + str(closest_cluster) + "\n")
+            #log_file.write("distance to closest cluster mean: " + str(closest_cluster_dist) + "\n")
 
-            log_file.write("distance between closest two points of this cluster and another one: " + str(closest_point_dist) + "\n")
-            log_file.write("distance of the point in the other cluster to the mean of this cluster: " + str(closest_point_dist_to_mean) + "\n")
+            #log_file.write("distance between closest two points of this cluster and another one: " + str(closest_point_dist) + "\n")
+            #log_file.write("distance of the point in the other cluster to the mean of this cluster: " + str(closest_point_dist_to_mean) + "\n")
 
             log_file.write("\n\n")
             for sent in sents:
