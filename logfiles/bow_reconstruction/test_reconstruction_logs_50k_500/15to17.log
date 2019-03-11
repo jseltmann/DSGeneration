@@ -1,0 +1,2417 @@
+
+
+
+
+Incorrectly decoded pairs for original sentences
+Correct sentence first, decoded second
+
+ `` failure to do this will continue to place a disproportionate burden `` on fulton taxpayers . 
+['.', 'to', 'to', 'on', 'a', 'will', 'this', 'place', 'do', 'failure', 'burden', 'continue', 'fulton', 'taxpayers', 'disproportionate']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ attorneys for the mayor said that an amicable property settlement has been agreed upon . 
+['.', 'the', 'for', 'that', 'said', 'has', 'an', 'upon', 'property', 'been', 'mayor', 'agreed', 'settlement', 'amicable']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the petition listed the mayor 's occupation as `` attorney `` and his age as 71 . 
+['.', 'the', 'and', 'the', "'s", 'as', 'as', 'his', 'age', 'mayor', 'petition', '71', 'occupation', 'listed', 'attorney']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ all dallas members voted with roberts , except rep. bill jones , who was absent . 
+[',', ',', '.', 'with', 'was', 'who', 'all', 'jones', 'bill', 'members', 'roberts', 'except', 'absent', 'voted', 'dallas']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` some of the defendants strongly indicated they knew they were receiving stolen property . 
+['.', 'of', 'the', 'were', 'they', 'property', 'they', 'some', 'knew', 'indicated', 'strongly', 'receiving', 'stolen', 'defendants']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he said evidence was obtained `` in violation of the legal rights of citizens `` . 
+['of', '.', 'of', 'the', 'in', 'was', 'said', 'he', 'evidence', 'rights', 'citizens', 'legal', 'obtained', 'violation']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ he said this constituted a `` very serious misuse `` of the criminal court processes . 
+['.', 'of', 'the', 'a', 'said', 'he', 'this', 'court', 'processes', 'very', 'serious', 'criminal', 'constituted', 'misuse']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ one diplomat described the tenor of secretary of state dean rusk 's speeches as `` inconclusive `` . 
+['of', '.', 'of', 'the', "'s", 'as', 'state', 'one', 'described', 'secretary', 'speeches', 'dean', 'tenor', 'diplomat', 'inconclusive']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ again and again it asked the communists to `` freeze `` the military situation in laos . 
+['.', 'the', 'and', 'to', 'the', 'in', 'it', 'again', 'again', 'asked', 'situation', 'military', 'communists', 'freeze', 'laos']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ one of these men is former fire chief john a. laughlin , he said . 
+[',', '.', 'of', 'is', 'said', 'he', 'one', 'men', 'john', 'fire', 'these', 'chief', 'former', 'a', '.']
+#removed words: 2
+#added words: 1
+#length difference: 0
+
+
+ it declares that sunday sales licenses provide `` great revenue `` to the local government . 
+['.', 'the', 'to', 'that', 'it', 'government', 'revenue', 'local', 'sales', 'great', 'sunday', 'provide', 'declares', 'licenses']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mr. reama , far from really being retired , is engaged in industrial relations counseling . 
+[',', ',', '.', 'in', 'from', 'is', 'relations', 'being', 'really', 'far', 'industrial', 'retired', 'engaged', 'mr', '.']
+#removed words: 3
+#added words: 1
+#length difference: 1
+
+
+ `` how can a man with any degree of common decency charge this `` ? ? 
+['of', 'with', 'a', '?', '?', 'this', 'can', 'man', 'any', 'common', 'how', 'degree', 'charge', 'decency']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ -- a wave of public resentment against corruption in government is rising in massachusetts . 
+['.', 'of', 'in', 'in', 'a', 'is', 'against', 'government', 'wave', 'public', 'rising', 'corruption', 'resentment', 'massachusetts']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- congress starts another week tomorrow with sharply contrasting forecasts for the two chambers . 
+['.', 'the', 'with', 'for', 'congress', 'two', 'week', 'another', 'tomorrow', 'starts', 'sharply', 'chambers', 'forecasts', 'contrasting']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they are james j. delaney of queens and thomas p. o'neill jr. of massachusetts . 
+['of', '.', 'of', 'and', 'are', 'j.', 'they', 'thomas', 'james', 'p.', "o'neill", 'queens', 'massachusetts', 'delaney']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ and then , some churchmen remarked , there is a more classical church-state problem : 
+[',', ',', 'and', 'a', ':', 'is', 'more', 'there', 'some', 'then', 'problem', 'remarked', 'classical', 'churchmen']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ r. sargent shriver jr. , director of the corps , is certain that they can . 
+[',', ',', '.', 'of', 'the', 'that', 'is', 'can', 'director', 'they', 'corps', 'certain', 'r.', 'sargent']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ while in the service he attended radio school at scott field in belleville , ill. . 
+[',', '.', 'in', 'the', 'in', 'at', 'he', 'field', 'service', 'school', 'while', 'radio', 'scott', 'attended']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ he is married to the former audrey knecht and has a daughter , karol , 13 . 
+[',', ',', '.', 'and', 'the', 'to', 'is', 'a', 'has', 'he', 'daughter', '13', 'former', 'married', 'audrey']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the administration could not say why $ 28 million was needed for a grant-in-aid program . 
+['.', 'the', 'for', 'a', 'was', 'million', 'could', 'not', 'say', 'why', 'program', 'needed', 'administration', '28', '$']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ this is not the sort of thing most politicos would care to acknowledge publicly . 
+['.', 'of', 'to', 'the', 'is', 'would', 'this', 'not', 'care', 'thing', 'most', 'sort', 'publicly', 'acknowledge']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` i am taking the position that the contract was clearly violated `` , berger said . 
+[',', '.', 'the', 'the', 'that', 'was', 'said', 'i', 'am', 'position', 'contract', 'berger', 'taking', 'clearly', 'violated']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` we can claim on the maximum amount of the bond `` , berger said . 
+[',', '.', 'of', 'the', 'the', 'on', 'said', 'can', 'we', 'amount', 'berger', 'claim', 'bond', 'maximum']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ berger insisted that `` we know enough to sue for the full amount `` . 
+['.', 'to', 'the', 'for', 'that', 'enough', 'we', 'amount', 'berger', 'know', 'full', 'insisted', 'sue']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` we want to find out who knew about it `` , pratt said . 
+[',', '.', 'to', 'out', 'about', 'said', 'it', 'who', 'we', 'knew', 'want', 'find', 'pratt']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ goodis said that single rooms account for 95 percent of the accomodations in some hotels . 
+['.', 'of', 'the', 'in', 'for', 'that', 'said', 'account', 'some', 'hotels', 'rooms', 'single', 'percent', '95']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mining is secretary-treasurer of the local and shiflett is a member of its executive committee . 
+['of', '.', 'of', 'and', 'the', 'is', 'a', 'is', 'its', 'committee', 'member', 'local', 'mining', 'executive']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ incumbent richard salter seeks re-election and is opposed by donald huffman for the five-year term . 
+['.', 'and', 'the', 'by', 'for', 'is', 'opposed', 'term', 'donald', 'richard', 'seeks', 'incumbent', 'five-year', 're-election', 'salter']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ we need 100 in rhode island , we have none `` , he said . 
+[',', ',', '.', 'in', 'said', 'have', 'he', 'we', 'island', '100', 'we', 'need', 'none', 'rhode']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- arranging for ministerial graduates to spend from 6-12 months as apprentices in well-established churches . 
+['.', 'to', 'in', 'for', 'from', 'as', 'months', 'churches', 'graduates', 'spend', 'ministerial', 'arranging', 'apprentices', 'well-established']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` but they shouldda brought in tokyo , too `` , added old scrapiron . 
+[',', ',', '.', 'in', 'but', 'they', 'old', 'too', 'brought', 'added', 'tokyo']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ both were under the meet mark of 1.10.8 set in 1950 by mal whitfield . 
+['.', 'of', 'the', 'in', 'by', 'were', 'under', 'mal', 'set', 'both', 'mark', 'meet', '1950', 'whitfield']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a 208-pound , 6-foot 1-inch senior from stamford , moritz practices nothing but place-kicking . 
+[',', ',', '.', 'from', 'a', 'but', 'practices', 'moritz', 'nothing', 'senior', 'stamford']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ `` he just lay back there and waited for it `` , meek said . 
+[',', '.', 'and', 'for', 'it', 'said', 'he', 'back', 'there', 'just', 'lay', 'waited', 'meek']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` buster would solve that quarterback problem just as we head that way `` . 
+['.', 'that', 'that', 'as', 'would', 'way', 'head', 'we', 'just', 'problem', 'buster', 'solve', 'quarterback']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ a & m has the best defense against passes , 34.7 yards per game . 
+[',', '.', 'the', 'a', 'per', 'against', 'has', '&', 'm', 'game', 'yards', 'best', 'passes', 'defense']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ after al paschal gruonded out , jay cooke walked and jim mcdaniel singled home mcauliffe . 
+[',', '.', 'and', 'out', 'after', 'home', 'al', 'walked', 'jim', 'cooke', 'jay', 'singled']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ -- boston red sox outfielder jackie jensen said monday night he was through playing baseball . 
+['.', 'was', 'said', 'through', 'he', 'night', 'red', 'playing', 'monday', 'jackie', 'baseball', 'boston', 'jensen']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ of the two cherished achievements the elderly spahn 's hitless pitching probably reached the most hearts . 
+['.', 'the', 'the', 'of', 'the', "'s", 'two', 'most', 'reached', 'probably', 'elderly', 'achievements', 'hearts', 'cherished', 'pitching']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ shea and his wife , nori , make their home at sands point , l. i. . 
+[',', ',', ',', '.', 'and', 'at', 'his', 'their', 'point', 'home', 'wife', 'make', 'sands', 'l.', 'i', '.']
+#removed words: 3
+#added words: 1
+#length difference: 1
+
+
+ all was quiet in the office of the yankees and the local national leaguers yesterday . 
+['.', 'the', 'of', 'the', 'and', 'the', 'in', 'was', 'national', 'all', 'office', 'yesterday', 'local', 'quiet']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ but he also achieved something that endeared him to every duffer who ever flubbed a shot . 
+['.', 'to', 'that', 'a', 'who', 'him', 'he', 'but', 'also', 'every', 'something', 'shot', 'ever', 'achieved', 'endeared']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ then the pixies and the zombies took over while the banshees wailed in the distance . 
+['.', 'the', 'the', 'the', 'and', 'the', 'in', 'over', 'took', 'then', 'while', 'distance', 'wailed', 'pixies', 'zombies']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ on the narrow fairway of a 508-yard hole , arnold whipped into his second shot . 
+[',', '.', 'of', 'the', 'on', 'a', 'into', 'his', 'shot', 'hole', 'second', 'arnold', 'narrow', 'whipped', 'fairway']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` you 're wrong `` , said arnold , a man who knows the rules . 
+[',', ',', '.', 'the', 'a', 'said', 'you', 'who', 'man', 'rules', 'wrong', 'knows', 'arnold', "'re"]
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` pittsburgh definitely is the team to beat `` , mauch said here the other day . 
+[',', '.', 'the', 'to', 'the', 'is', 'said', 'day', 'team', 'other', 'here', 'beat', 'definitely', 'pittsburgh']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ haddix has a 13-8 record against the redbirds , despite only a 1-3 mark in 1960 . 
+[',', '.', 'the', 'in', 'a', 'a', 'against', 'has', 'only', 'record', 'mark', 'despite', '1960']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ `` i have to stay with nieman for a while `` , hemus said . 
+[',', '.', 'to', 'with', 'for', 'a', 'said', 'i', 'have', 'while', 'stay']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ with a lefthander going for pittsburgh , i may use don taussig in center `` . 
+[',', '.', 'in', 'with', 'for', 'a', 'i', 'may', 'use', 'going', 'don', 'center', 'pittsburgh']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ bill mazeroski with and hal smith with were the only pirates dragging their feet . 
+['.', 'and', 'with', 'the', 'with', 'were', 'their', 'smith', 'bill', 'only', 'feet', 'pirates', 'dragging', 'hal']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ bob burnes , sports editor of the globe-democrat , presented bob nordmann with his award . 
+[',', ',', '.', 'of', 'the', 'with', 'his', 'award', 'bob', 'sports', 'presented', 'bob', 'editor']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ the major decided that , rather than be led , the slugger could lead . 
+[',', ',', '.', 'the', 'the', 'that', 'than', 'be', 'could', 'rather', 'lead', 'major', 'led', 'decided']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the bride 's brother , walter d. monroe jr. , will give her in marriage . 
+[',', ',', '.', 'the', 'in', "'s", 'her', 'will', 'monroe', 'marriage', 'brother', 'give', 'walter', 'd.', 'bride']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mrs. hamm will not come from vero beach , fla. , for the wedding . 
+[',', ',', '.', 'the', 'for', 'from', 'will', 'not', 'come', 'beach', 'wedding', 'mrs', '.']
+#removed words: 4
+#added words: 1
+#length difference: 2
+
+
+ i 'm even going to try to get the whirling dervishes of damascus `` ! ! 
+['to', 'of', 'to', 'the', '!', '!', 'i', 'even', 'try', 'going', 'get', "'m", 'whirling', 'damascus']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the geraghtys ' youngest daughter , molly , bows in the passavant debutante cotillion the next night . 
+[',', ',', '.', 'the', 'the', 'the', 'in', "'", 'night', 'daughter', 'next', 'bows', 'molly', 'youngest']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ molly already has her cotillion gown , and it 's fitted , says her mother . 
+[',', ',', '.', 'and', "'s", 'her', 'her', 'it', 'has', 'says', 'mother', 'already', 'gown', 'fitted', 'molly']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ miss abra prentice 's debut supper dance in the casino will wind up the day . 
+['.', 'the', 'the', 'in', "'s", 'up', 'will', 'day', 'dance', 'wind', 'debut', 'miss', 'supper', 'casino', 'prentice']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the burkes , who now live in kankakee , are telling friends of the engagement . 
+[',', ',', '.', 'of', 'the', 'the', 'in', 'are', 'who', 'now', 'friends', 'live', 'telling', 'engagement']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ handsome bachelor charley was a favorite date of many of hollywood 's glamor gals for years . 
+['of', '.', 'of', "'s", 'for', 'a', 'was', 'years', 'date', 'many', 'handsome', 'hollywood', 'bachelor', 'charley']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ there is no such thing as an `` emergency telephone building fund drive `` . 
+['.', 'is', 'as', 'no', 'an', 'drive', 'there', 'such', 'building', 'fund', 'thing', 'emergency', 'telephone']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ you can mail contribs to danny thomas , post office box 7599 , chicago . 
+[',', ',', '.', 'to', 'you', 'can', 'box', 'office', 'post', 'thomas', 'mail', 'chicago', 'danny']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ actually johnny is a glib , garrulous guy , with a rare sense of humor . 
+[',', ',', '.', 'of', 'with', 'a', 'a', 'is', 'sense', 'johnny', 'actually', 'guy', 'rare', 'glib']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mrs. john c. vroman jr. of manzanola is spending several days in her sherman plaza apartment . 
+['.', 'of', 'in', 'is', 'her', 'days', 'john', 'sherman', 'c.', 'several', 'apartment', 'spending', 'mrs.', 'plaza']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ and where is `` home `` , that magic place of the heart ? ? 
+[',', 'of', 'and', 'the', 'that', 'is', '?', '?', 'home', 'place', 'where', 'heart', 'magic']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ parents of the bride are mr. and mrs. ferris m. gay , 7034 coronado . 
+[',', '.', 'of', 'and', 'the', 'are', 'parents', 'm.', 'gay', 'mr.', 'bride', 'mrs.', 'ferris']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ her veil was caught to a crown , and she carried gardenias and stephanotis . 
+[',', '.', 'and', 'and', 'to', 'a', 'was', 'her', 'she', 'crown', 'carried', 'caught', 'veil']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` big business , this little thrift shop business `` , say the members . 
+[',', ',', '.', 'the', 'this', 'business', 'little', 'business', 'members', 'shop', 'say', 'big', 'thrift']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the fashion show , by natalie collett will have mrs. john newbold as commentator . 
+[',', '.', 'the', 'by', 'as', 'have', 'will', 'show', 'john', 'fashion', 'mrs.', 'commentator', 'collett', 'natalie']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mrs. a. voorhees anderson entertained at a luncheon at her home , on monday . 
+[',', '.', 'at', 'on', 'a', 'at', 'her', 'home', 'a.', 'anderson', 'monday', 'mrs.', 'entertained', 'luncheon']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mr. and mrs. frederick heinze are entertaining mr. walter lehner , of vienna ; ; 
+[',', 'of', 'and', ';', 'are', ';', 'walter', 'mr.', 'mr.', 'mrs.', 'entertaining', 'frederick', 'vienna']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mr. ingo dussa , of dusseldorf , germany , and mr. bietnar haaek , of brelin . 
+[',', ',', ',', ',', 'of', '.', 'of', 'and', 'germany', 'mr.', 'mr.', 'dusseldorf']
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+ she will entertain at a vieux carre restaurant at 1 o'clock in the early afternoon . 
+['.', 'the', 'in', 'at', 'a', 'at', 'will', '1', 'she', 'restaurant', 'early', 'afternoon', "o'clock", 'entertain']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ governor tawes announced that a triple swearing-in ceremony will be held in his office next friday . 
+['.', 'in', 'that', 'a', 'his', 'will', 'be', 'office', 'held', 'announced', 'next', 'governor', 'ceremony', 'triple', 'friday']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it is a killer sub -- that is , a hunter of enemy subs . 
+[',', '.', 'of', 'a', 'is', 'that', 'a', 'is', 'it', 'hunter', 'killer', 'enemy', 'sub', 'subs']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they are accused of whisking secrets out of naval strongrooms over which they kept guard . 
+['of', '.', 'of', 'out', 'are', 'over', 'which', 'they', 'they', 'kept', 'accused', 'guard', 'secrets', 'naval', 'whisking']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` this is russian money `` , said mervin griffith-jones for the attorney general 's office . 
+[',', '.', 'the', "'s", 'for', 'is', 'said', 'this', 'general', 'office', 'money', 'russian', 'attorney']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ it was first tried out on a conventional submarine , the albacore , in 1954 . 
+[',', ',', '.', 'the', 'in', 'on', 'a', 'was', 'out', 'it', 'first', 'tried', 'submarine', 'conventional', '1954']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a verdict against pohl came at 4:05 p.m. after almost 13-1/2 hours of deliberation . 
+['.', 'of', 'a', 'at', 'against', 'after', 'hours', 'came', 'p.m.', 'almost', 'verdict', 'deliberation']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ they are home now with the other kowalski children , vicky , 14 ; ; 
+[',', ',', 'the', 'with', ';', 'are', ';', 'home', 'now', 'children', 'they', 'other', '14', 'vicky']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` i never knew there were such neighbors and friends around me and my family . 
+['.', 'and', 'and', 'were', 'me', 'i', 'around', 'family', 'there', 'my', 'such', 'never', 'knew', 'friends']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ a 14-power conference on laos should then meet on may 5 , he said . 
+[',', '.', 'on', 'on', 'a', 'said', 'he', 'may', 'should', 'conference', '5', 'then', 'meet', 'laos']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a havana radio broadcast identified the americans as howard anderson and august jack mcnair . 
+['.', 'and', 'the', 'a', 'as', 'radio', 'howard', 'anderson', 'identified', 'august', 'jack', 'broadcast', 'americans', 'havana']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they indicated that stand-ins and picketing would be started if theater owners failed to cooperate . 
+['.', 'and', 'to', 'that', 'would', 'be', 'if', 'they', 'started', 'failed', 'owners', 'indicated', 'theater', 'cooperate', 'picketing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the eradication effort is being pushed in bibb and jones counties , over 37,679 acres . 
+[',', '.', 'and', 'the', 'in', 'is', 'over', 'jones', 'being', 'effort', 'counties', 'acres', 'pushed', 'eradication']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ incidentally , 14th street and the expressway is the high accident intersection during daylight hours . 
+[',', '.', 'the', 'and', 'the', 'is', 'street', 'hours', 'high', 'during', 'accident', 'daylight', '14th', 'incidentally', 'intersection']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the staff deserves a lot of credit working down here under real obstacles `` . 
+['.', 'of', 'the', 'a', 'down', 'under', 'staff', 'here', 'working', 'credit', 'lot', 'real', 'deserves', 'obstacles']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ harvey said his objective was to create a better public image for welfare `` . 
+['.', 'to', 'for', 'a', 'was', 'his', 'said', 'image', 'better', 'public', 'harvey', 'welfare', 'objective', 'create']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ bill davis quartet of hillsboro was second and baton twirler sue ann nuttall of reedville third . 
+['of', '.', 'of', 'and', 'was', 'davis', 'bill', 'second', 'ann', 'third', 'quartet', 'sue', 'baton', 'nuttall']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ janet jossy of north plains won grand champion honors of the 4-h sheep showman contest . 
+['of', '.', 'of', 'the', 'champion', 'north', 'grand', 'won', 'plains', 'contest', 'sheep', 'janet', 'showman']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ joan zurcher of hillsboro , phyllis jossy of north plains , jane cox of north plains . 
+[',', 'of', ',', 'of', '.', 'of', 'north', 'north', 'plains', 'jane', 'plains', 'cox', 'joan', 'phyllis']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ tom day of beaverton exhibited the grand champion 4-h market hog , a chester white . 
+[',', '.', 'of', 'the', 'a', 'market', 'day', 'champion', 'white', 'grand', 'tom', 'hog', 'exhibited', 'chester']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the property included a one-story brick manufacturing building on 8,293 square feet of land . 
+['.', 'of', 'the', 'on', 'a', 'square', 'property', 'land', 'building', 'feet', 'manufacturing', 'included', 'brick']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` there was only one power control -- a valve to adjust the fuel flow . 
+['.', 'the', 'to', 'a', 'was', 'control', 'power', 'flow', 'one', 'there', 'only', 'valve', 'fuel', 'adjust']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the stock was sold in the underwriting at a price of $ 12.50 a share . 
+['.', 'the', 'of', 'the', 'in', 'a', 'a', 'at', 'was', 'stock', 'price', 'share', 'sold', 'underwriting', '$']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the company sells a complete line of gin machinery all over the cotton-growing world . 
+['.', 'the', 'of', 'the', 'a', 'over', 'all', 'company', 'world', 'line', 'gin', 'machinery', 'complete', 'sells']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ presently , hardwicke-etter employs 300-450 people , depending on the season of the year . 
+[',', ',', '.', 'the', 'of', 'the', 'on', 'people', 'year', 'season', 'depending', 'employs', 'presently']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the moss gordin lint cleaner co. and gordin unit system of ginning have joint headquarters here . 
+['.', 'of', 'and', 'the', 'system', 'have', 'unit', 'here', 'joint', 'headquarters', 'cleaner', 'moss', 'co', '.']
+#removed words: 5
+#added words: 1
+#length difference: 3
+
+
+ arnold hayes , mary ann shay , and lloyd satterfield of thomas jefferson ; ; 
+[',', ',', 'of', 'and', ';', ';', 'thomas', 'mary', 'lloyd', 'arnold', 'ann', 'hayes', 'jefferson']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ william cluck , deloris carrel carty , and edna earl eaton of north dallas ; ; 
+[',', ',', 'of', 'and', ';', ';', 'north', 'william', 'edna', 'earl', 'dallas', 'eaton']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ patricia ann neal , johnny carruthers , and david mclauchlin of rylie of seagoville ; ; 
+[',', ',', 'of', 'of', 'and', ';', ';', 'david', 'johnny', 'ann', 'patricia', 'neal', 'carruthers']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ david wolverton , sharon flanagan , and james weaver of w. w. samuels ; ; 
+[',', ',', 'of', 'and', ';', ';', 'james', 'david', 'w.', 'sharon', 'w.', 'weaver', 'flanagan', 'wolverton']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- american stock exchange prices enjoyed a fairly solid rise but here also trading dwindled . 
+['.', 'a', 'but', 'rise', 'also', 'here', 'stock', 'american', 'prices', 'exchange', 'trading', 'enjoyed', 'solid', 'fairly', 'dwindled']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ but it seems that this `` electronic brain `` was n't `` programmed `` correctly . 
+['.', 'that', 'was', 'it', "n't", 'but', 'this', 'electronic', 'seems', 'brain', 'correctly', 'programmed']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ harry rolnick , president of the byer-rolnick hat corporation and designer of men 's hats ; ; 
+[',', 'of', 'of', 'and', 'the', "'s", ';', ';', 'men', 'hat', 'president', 'corporation', 'hats', 'designer', 'harry']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ her favorite cocktail dress is a norell , a black and white organdy and silk jersey . 
+[',', '.', 'and', 'and', 'a', 'a', 'is', 'her', 'black', 'white', 'jersey', 'dress', 'cocktail', 'silk']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ she also likes the femininity and charm of designs by ceil chapman and helen rose . 
+['.', 'and', 'of', 'and', 'the', 'by', 'also', 'she', 'rose', 'designs', 'likes', 'charm', 'chapman', 'helen', 'femininity']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ among stage performances was a starring role in `` golden arrow `` directed by noel coward . 
+['.', 'in', 'by', 'a', 'was', 'among', 'role', 'stage', 'arrow', 'performances', 'coward', 'directed', 'golden', 'starring', 'noel']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` they are n't supposed to look at women , you know `` , ramsey recalled . 
+[',', ',', '.', 'to', 'at', 'are', 'you', "n't", 'they', 'women', 'look', 'know', 'ramsey', 'recalled', 'supposed']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` what with all those pretty girls around , they had a hard time `` . 
+[',', '.', 'with', 'a', 'had', 'around', 'all', 'time', 'what', 'they', 'those', 'hard', 'girls', 'pretty']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ while this is baking , saute mushrooms , fresh or canned , in butter . 
+[',', ',', ',', '.', 'in', 'is', 'or', 'this', 'butter', 'while', 'baking', 'fresh', 'mushrooms', 'canned']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ serve each breast on a thin slice of slow-baked ham and sprinkle with thompson seedless grapes . 
+['.', 'of', 'and', 'with', 'on', 'a', 'each', 'thompson', 'thin', 'ham', 'breast', 'slice', 'grapes', 'serve', 'sprinkle']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ ( leave off the ham and you call it chicken pontiac , says ramsey . 
+[',', '.', 'and', 'the', '(', 'it', 'off', 'you', 'says', 'call', 'leave', 'chicken', 'ham', 'ramsey']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ see-through design of the chairs combines both the nostalgic ladder back and an oriental shoji flavor . 
+['.', 'of', 'the', 'and', 'the', 'back', 'an', 'design', 'both', 'chairs', 'ladder', 'combines', 'oriental', 'nostalgic', 'see-through']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ their activities will be climaxed in the spring of 1962 when they go to europe . 
+['.', 'of', 'to', 'the', 'in', 'will', 'their', 'when', 'be', 'they', 'activities', 'europe', 'go', 'spring', '1962']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mrs. reese baked her cookies for only the third time in the bake-off finals . 
+['.', 'the', 'the', 'in', 'for', 'her', 'time', 'only', 'third', 'finals', 'baked', 'mrs.', 'cookies']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ a heart attack when she was barely 20 put an end to the 10-hour daily practicing . 
+['.', 'the', 'to', 'a', 'was', 'when', 'an', 'attack', 'she', 'end', 'heart', 'put', 'daily', '20', 'barely']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` my father walked , through two miles of snow , in illinois `` . 
+[',', ',', '.', 'of', 'in', 'through', 'my', 'two', 'miles', 'father', 'walked', 'snow', 'illinois']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ but the raoul esnards have exchanged their residence in southern california for mexico city . 
+['.', 'the', 'in', 'for', 'have', 'their', 'but', 'city', 'southern', 'residence', 'exchanged', 'mexico', 'california', 'raoul']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` flip `` phillips for a return engagement at fireside steak ranch wednesday ; ; 
+['for', 'a', 'at', ';', ';', 'phillips', 'return', 'steak', 'wednesday', 'ranch', 'engagement', 'flip', 'fireside']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ bandstand features hal decicco , pianist , for both dinner hour and the late trade . 
+[',', ',', '.', 'and', 'the', 'for', 'trade', 'features', 'hour', 'dinner', 'both', 'late', 'pianist', 'hal']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the tic-tac-toe trio is the club 's new show group which also plays for dancing . 
+['.', 'the', 'the', "'s", 'for', 'is', 'which', 'group', 'new', 'club', 'show', 'also', 'plays', 'dancing', 'trio']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ( which is understandable -- if you 've ever sampled the exotic , peppery fare . 
+[',', '.', 'the', '(', 'is', 'you', 'which', 'if', 'ever', "'ve", 'fare', 'sampled', 'exotic', 'understandable']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ new officers of the church will be ordained and installed at the 7:30 p.m. service . 
+['.', 'of', 'the', 'and', 'the', 'at', 'will', 'be', 'service', 'new', 'church', 'p.m.', 'officers', 'installed', 'ordained']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ pianists leon fleisher , ruth slenczynka and stephen bishop and conductor earl bernard murray . 
+[',', '.', 'and', 'and', 'bernard', 'bishop', 'stephen', 'murray', 'earl', 'ruth', 'leon', 'conductor', 'pianists']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` where do you put the lighter fluid , ha , ha `` ? ? 
+[',', ',', 'the', '?', '?', 'you', 'where', 'do', 'put', 'ha', 'fluid', 'ha', 'lighter']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ they decided that they thought rembrandt 's self-portrait made him look `` sad `` ; ; 
+["'s", 'that', ';', ';', 'him', 'they', 'made', 'they', 'thought', 'look', 'decided', 'sad', 'rembrandt', 'self-portrait']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ family service , sharing in ugf , has five agencies in the washington area . 
+[',', ',', '.', 'in', 'the', 'in', 'has', 'area', 'service', 'family', 'five', 'agencies', 'washington', 'sharing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they know the value of being just that -- an ordinary , happy family . 
+[',', '.', 'of', 'the', 'that', 'an', 'value', 'family', 'they', 'being', 'just', 'know', 'happy', 'ordinary']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ developments in cuba and laos also suggested the advisability of an early summit meeting . 
+['.', 'of', 'and', 'the', 'in', 'an', 'also', 'meeting', 'summit', 'cuba', 'suggested', 'early', 'developments', 'laos']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ this `` family-community `` spirit is the real explanation of the marvel of our achievement . 
+['of', '.', 'the', 'of', 'the', 'is', 'this', 'our', 'spirit', 'real', 'explanation', 'achievement', 'marvel']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ in the first place there is the obvious problem of recruiting high caliber personnel . 
+['.', 'of', 'the', 'the', 'in', 'is', 'high', 'place', 'there', 'problem', 'first', 'personnel', 'obvious', 'recruiting']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they are preoccupied with ending labor abuses by extending the anti-monopoly laws to the unions . 
+['.', 'the', 'to', 'the', 'with', 'by', 'are', 'they', 'laws', 'unions', 'ending', 'extending', 'abuses', 'preoccupied', 'labor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ uncle sam would then accuse them of creating a monopoly by `` unfair competition `` . 
+['.', 'of', 'by', 'a', 'them', 'would', 'then', 'competition', 'unfair', 'sam', 'monopoly', 'uncle', 'creating', 'accuse']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the basic purpose of an effective collective-bargaining system is the removal of wages from competition . 
+['of', '.', 'of', 'the', 'the', 'from', 'is', 'system', 'an', 'competition', 'purpose', 'effective', 'removal', 'wages', 'basic']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ human labor was exactly that -- a commodity -- in eighteenth- and nineteenth-century america . 
+['.', 'and', 'in', 'that', 'a', 'was', 'america', 'human', 'exactly', 'commodity', 'nineteenth-century', 'labor', 'eighteenth-']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ in people vs. fisher , justice savage of the new york supreme court declared : 
+[',', 'of', 'the', 'in', ':', 'people', 'new', 'court', 'justice', 'supreme', 'declared', 'fisher', 'york', 'savage']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ labor remained a commodity -- but presumably a privileged one granted immunization from the anti-trust laws . 
+['.', 'the', 'a', 'from', 'a', 'but', 'one', 'laws', 'remained', 'granted', 'commodity', 'presumably', 'privileged', 'anti-trust', 'labor']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ what herter presented , said gore , was `` not a very encouraging review `` . 
+[',', ',', '.', 'a', 'was', 'said', 'not', 'what', 'review', 'very', 'presented', 'encouraging', 'gore']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ but in the prospect of winning the battle loomed the specter of losing a costlier war . 
+['of', '.', 'the', 'the', 'of', 'the', 'in', 'a', 'war', 'but', 'battle', 'prospect', 'winning', 'losing', 'loomed']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ after 108 games in 1961 , mickey mantle has 43 , roger maris 41 . 
+[',', ',', '.', 'in', 'has', 'after', '108', 'games', '43', '41', 'mantle', 'roger', '1961', 'mickey']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ in ruth 's day -- and until this year -- the schedule was 154 games . 
+['.', 'and', 'the', "'s", 'in', 'was', 'this', 'day', 'year', 'until', 'games', 'schedule', 'ruth', '154']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ neither mantle nor maris , understandably , will predict 60 home runs for himself . 
+[',', ',', '.', 'for', 'will', 'himself', 'home', 'nor', 'runs', '60', 'mantle', 'neither', 'predict', 'understandably']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ( farrell did -- and maris led the team to victory in the little world series . 
+['.', 'the', 'and', 'to', 'the', 'in', '(', 'world', 'did', 'little', 'team', 'series', 'victory', 'led', 'farrell']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ with this ultimate weapon , the two yankees may have saved baseball from its dullest season . 
+[',', '.', 'the', 'with', 'from', 'have', 'its', 'this', 'may', 'two', 'season', 'weapon', 'saved', 'baseball', 'ultimate']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ pittsburgh turned him down , just as pittsburgh society had been snubbing him for years . 
+[',', '.', 'for', 'as', 'him', 'had', 'down', 'him', 'society', 'years', 'been', 'just', 'turned', 'pittsburgh', 'pittsburgh']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ but holmes was rejected again `` on the basis of his record and interview `` . 
+['.', 'of', 'and', 'the', 'on', 'was', 'his', 'but', 'holmes', 'again', 'record', 'basis', 'interview', 'rejected']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ they also said he lied in saying that he had never been `` arrested `` . 
+['.', 'in', 'that', 'had', 'said', 'he', 'he', 'they', 'also', 'been', 'never', 'saying', 'arrested', 'lied']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ and in brussels , street crowds shouted , `` pas une goutte de sang ! ! 
+[',', ',', 'and', 'in', '!', '!', 'de', 'street', 'shouted', 'crowds', 'sang', 'une', 'pas', 'brussels']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the belgians would not fight for the privilege of being the detested pedagogue ; ; 
+['the', 'of', 'the', 'the', 'for', ';', ';', 'would', 'not', 'being', 'fight', 'privilege', 'detested', 'belgians']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ( however , there is little evidence that the late lumumba was a communist . 
+[',', '.', 'the', '(', 'that', 'is', 'a', 'was', 'evidence', 'little', 'there', 'communist', 'late', 'however']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` the man was bent over with his hand on his stomach `` , berry said . 
+[',', '.', 'the', 'with', 'on', 'was', 'his', 'over', 'his', 'said', 'man', 'hand', 'bent', 'berry', 'stomach']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ salvador saw the youth hold his against the head of stewardess lois carnegey ; ; 
+['the', 'of', 'the', ';', 'his', ';', 'against', 'head', 'salvador', 'saw', 'youth', 'hold', 'lois', 'stewardess']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ at 7:30 a.m. , more than three hours after landing , the beardens gave an ultimatum : 
+[',', ',', 'the', 'at', ':', 'than', 'an', 'after', 'hours', 'more', 'three', 'gave', 'a.m.', 'landing', 'ultimatum']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ holders of toll-road bonds are finding improvements in monthly reports on operation of the turnpikes . 
+['of', '.', 'of', 'the', 'in', 'on', 'are', 'reports', 'operation', 'bonds', 'holders', 'improvements', 'monthly', 'finding']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ investors , however , still see an element of more-than-ordinary risk in the toll-road bonds . 
+[',', ',', '.', 'of', 'the', 'in', 'an', 'see', 'still', 'element', 'risk', 'bonds', 'investors', 'however']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ then march brought an 18 per cent rise in net revenues -- after operating costs . 
+['.', 'in', 'per', 'an', 'after', 'cent', 'rise', 'net', 'then', 'march', 'costs', 'brought', 'operating', '18', 'revenues']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ progress is being made , too , in improving motorists ' access to many turnpikes . 
+[',', ',', '.', 'to', 'in', 'is', "'", 'made', 'being', 'access', 'too', 'many', 'progress', 'motorists', 'improving']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` hodges is trying to get more foreign business to go to the u.s. . 
+['.', 'to', 'to', 'to', 'the', 'is', 'more', 'business', 'go', 'foreign', 'get', 'trying', 'u.s.', 'hodges']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there are many places where we can use their vigor and new ideas ' `` . 
+['.', 'and', 'are', "'", 'their', 'can', 'new', 'there', 'where', 'use', 'we', 'ideas', 'many', 'places']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ this left the soviets plenty of leeway to start low-grade brushfire aggressions with considerable impunity . 
+['.', 'of', 'to', 'the', 'with', 'this', 'left', 'start', 'considerable', 'plenty', 'soviets', 'low-grade', 'leeway', 'impunity']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the dominican republic could turn toward communist-type authoritarianism as easily as toward western freedom . 
+['.', 'the', 'as', 'as', 'could', 'republic', 'freedom', 'toward', 'turn', 'easily', 'toward', 'western', 'authoritarianism', 'dominican']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a horizon even and seamless , binding the vast sun-bleached dome of sky to earth . 
+[',', '.', 'of', 'and', 'the', 'to', 'a', 'binding', 'sky', 'even', 'earth', 'dome', 'horizon', 'vast', 'seamless']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a philadelphia distiller is currently breaching the customary prohibition against hard-liquor advertising on tv and radio . 
+['.', 'and', 'the', 'on', 'a', 'is', 'against', 'radio', 'tv', 'advertising', 'currently', 'prohibition', 'customary', 'philadelphia', 'breaching']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ his election , on the other hand , would unquestionably strengthen the `` regulars `` . 
+[',', ',', '.', 'the', 'the', 'on', 'his', 'would', 'hand', 'other', 'election', 'regulars', 'unquestionably', 'strengthen']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ but his reelection would strengthen the liberal democrats and the labor unions who back him . 
+['.', 'the', 'and', 'the', 'his', 'who', 'him', 'would', 'back', 'but', 'liberal', 'democrats', 'unions', 'strengthen', 'labor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ yet this basic condition of outlawry and anarchy is not the work of katanga . 
+['of', '.', 'of', 'and', 'the', 'is', 'this', 'not', 'work', 'condition', 'yet', 'basic', 'anarchy']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ further , it has its work cut out stopping anarchy where it is now garrisoned . 
+[',', '.', 'is', 'out', 'it', 'it', 'has', 'its', 'work', 'now', 'where', 'further', 'cut', 'stopping', 'anarchy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the u.n. session scheduled for today will meet under the cloud of his passing . 
+['.', 'the', 'of', 'the', 'for', 'his', 'will', 'under', 'session', 'today', 'cloud', 'meet', 'passing', 'scheduled']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ one specific example is a secret `` fraternity `` which will `` coordinate anti-communist efforts `` . 
+['.', 'is', 'a', 'which', 'will', 'one', 'specific', 'efforts', 'example', 'secret', 'coordinate', 'fraternity', 'anti-communist']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ he lost , but settled for a cake in the shape of a fedora . 
+[',', '.', 'of', 'the', 'in', 'a', 'for', 'a', 'he', 'but', 'lost', 'shape', 'cake', 'settled']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ politics-ridden st. clair county in illinois presents another piece of the problem of metropolitan development . 
+['of', '.', 'of', 'the', 'in', 'development', 'county', 'problem', 'another', 'piece', 'st.', 'presents', 'metropolitan', 'clair', 'illinois']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he should be , as dag hammarskjold certainly was , a citizen of the world . 
+[',', ',', '.', 'of', 'the', 'a', 'was', 'as', 'he', 'be', 'should', 'world', 'certainly', 'citizen']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` do n't ask me if i think the cannery helps `` , he said . 
+[',', '.', 'the', 'said', 'me', 'i', "n't", 'he', 'if', 'do', 'think', 'helps', 'ask']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ i know a man who held resentment against a neighbor for more than three decades . 
+['.', 'a', 'for', 'a', 'against', 'than', 'who', 'i', 'man', 'more', 'three', 'held', 'know', 'resentment', 'decades']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` how do you know you love somebody enough to get married `` ? ? 
+['to', '?', 'you', '?', 'you', 'enough', 'love', 'do', 'how', 'know', 'get', 'married', 'somebody']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mr. podger always particularly enjoyed the last night of each summer at loon lake . 
+['.', 'of', 'the', 'at', 'lake', 'each', 'night', 'last', 'always', 'summer', 'enjoyed', 'particularly', 'mr', '.']
+#removed words: 3
+#added words: 1
+#length difference: 1
+
+
+ but mr. podger and the driver of the sports car waved at each other . 
+['.', 'of', 'the', 'and', 'the', 'at', 'but', 'car', 'each', 'other', 'driver', 'sports', 'waved', 'mr', '.']
+#removed words: 2
+#added words: 1
+#length difference: 0
+
+
+ they point out simply that `` it is the law of the land `` . 
+['.', 'the', 'of', 'the', 'that', 'is', 'out', 'it', 'point', 'law', 'they', 'land', 'simply']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it is a `` stair-step `` plan , in which desegregation begins in the first grade . 
+[',', '.', 'in', 'the', 'in', 'a', 'is', 'it', 'which', 'plan', 'first', 'grade', 'begins']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ several conventions have been held in recent months in hotels on a nonsegregated basis . 
+['.', 'in', 'in', 'on', 'a', 'have', 'been', 'basis', 'months', 'held', 'hotels', 'several', 'conventions', 'recent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ but it will include 200-odd officeholders , organization leaders and `` interested party people `` . 
+[',', '.', 'and', 'it', 'will', 'people', 'but', 'party', 'leaders', 'include', 'organization', 'interested']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ like most democratic spokesmen , carvey predicts 1962 will be a tremendously `` partisan year `` . 
+[',', '.', 'a', 'will', 'be', 'like', 'year', 'most', 'spokesmen', 'democratic', '1962', 'predicts', 'partisan', 'tremendously']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ naturally , the statewide races will provide the major test for the expanding council . 
+[',', 'the', '.', 'the', 'the', 'for', 'will', 'council', 'test', 'major', 'races', 'provide', 'naturally', 'expanding']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` remember the night will rogers filled a tooth for me between numbers `` ? ? 
+['the', 'for', 'a', '?', 'between', '?', 'me', 'will', 'night', 'numbers', 'filled', 'rogers', 'remember', 'tooth']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` we have a tremendous amount of talent -- but we lack cohesion `` . 
+['.', 'of', 'a', 'have', 'but', 'we', 'we', 'amount', 'talent', 'lack', 'tremendous', 'cohesion']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ ( the paragraphing , spelling and punctuation are reproduced as printed in each version . 
+[',', '.', 'and', 'the', 'in', '(', 'as', 'are', 'each', 'version', 'printed', 'spelling', 'reproduced', 'punctuation']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ if he bites a playmate she says , `` danny wo n't like you `` . 
+[',', '.', 'a', 'you', "n't", 'he', 'like', 'if', 'says', 'she', 'wo', 'bites', 'danny']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ bitterness comes over him and the taste of time is like unripe persimmons in his mouth . 
+['.', 'of', 'and', 'the', 'in', 'is', 'his', 'over', 'him', 'time', 'like', 'comes', 'mouth', 'taste', 'bitterness']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it wanted the state democratic executive committee to pick the `` serious candidates `` . 
+['.', 'the', 'the', 'to', 'it', 'committee', 'state', 'executive', 'candidates', 'wanted', 'democratic', 'serious', 'pick']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ former british prime minister attlee says eisenhower was not a `` great soldier `` . 
+['.', 'a', 'was', 'not', 'says', 'minister', 'british', 'great', 'prime', 'former', 'eisenhower', 'soldier', 'attlee']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ every man is a piece of the continent , a part of the main `` . 
+[',', 'of', '.', 'the', 'of', 'the', 'a', 'a', 'is', 'man', 'part', 'every', 'piece', 'main', 'continent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ but why is it the special responsibility of the cta to help these people ? ? 
+['of', 'the', 'to', 'the', 'is', '?', 'it', '?', 'people', 'but', 'these', 'responsibility', 'why', 'help', 'special']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ i regret that bertha madeira ( today 's `` voice `` ) obtained incorrect information . 
+['.', "'s", ')', '(', 'that', 'i', 'information', 'voice', 'today', 'obtained', 'incorrect', 'madeira', 'regret', 'bertha']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ as we understand , this directive was given to all city and county employes . 
+[',', '.', 'and', 'to', 'was', 'as', 'this', 'all', 'city', 'we', 'county', 'given', 'directive', 'understand']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ sir -- people continue to inquire the reason for the race for outer space . 
+['.', 'the', 'to', 'the', 'for', 'for', 'people', 'space', 'race', 'sir', 'reason', 'continue', 'outer', 'inquire']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he said , `` let 's work for peace instead of protection from aggression `` . 
+[',', '.', 'of', "'s", 'for', 'from', 'said', 'he', 'work', 'peace', 'protection', 'instead', 'let', 'aggression']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ i have just returned from a seven-week trip to europe and the far east . 
+['.', 'and', 'the', 'to', 'from', 'a', 'i', 'have', 'just', 'europe', 'east', 'returned', 'trip', 'far']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the u.s.s.r. and her followers are careful in paying their obligations to the regular budget . 
+['.', 'the', 'and', 'to', 'the', 'in', 'are', 'her', 'their', 'budget', 'obligations', 'regular', 'followers', 'paying', 'careful']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ hazel park donates its recreation center , five days a week , to the school . 
+[',', ',', '.', 'the', 'to', 'a', 'park', 'its', 'days', 'school', 'week', 'five', 'center', 'recreation', 'hazel']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ thank you for the article by george sokolsky on the public apathy to impudence . 
+['.', 'the', 'to', 'the', 'by', 'on', 'for', 'you', 'george', 'public', 'article', 'thank', 'apathy']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ maybe he will help to turn our fair city into a `` ghost `` town . 
+['.', 'to', 'a', 'into', 'will', 'he', 'town', 'city', 'our', 'fair', 'turn', 'help', 'ghost', 'maybe']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ what we need is more vocational training in high schools , not more dropouts . 
+[',', '.', 'in', 'is', 'more', 'not', 'what', 'high', 'more', 'training', 'schools', 'we', 'need', 'vocational']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is a trend today to bemoan the fact that americans are too `` soft `` . 
+['.', 'the', 'to', 'that', 'a', 'is', 'are', 'there', 'too', 'today', 'fact', 'trend', 'soft', 'americans']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ unfortunately , those who would remedy our `` softness `` seek to do so with calisthenics . 
+[',', '.', 'to', 'with', 'who', 'would', 'so', 'do', 'our', 'those', 'remedy', 'seek', 'softness', 'unfortunately']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ america does n't need to `` push-up `` , she needs to stand up ! ! 
+[',', 'to', 'to', '!', 'up', '!', "n't", 'need', 'she', 'does', 'stand', 'america', 'needs']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ west berlin morale is low and , in age distribution , the situation is unfavorable . 
+[',', ',', '.', 'and', 'the', 'in', 'is', 'is', 'age', 'west', 'distribution', 'low', 'situation', 'berlin', 'morale']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ if nikita buys a small plot in some modest rural cemetery , everyone will understand . 
+[',', '.', 'in', 'a', 'will', 'if', 'some', 'small', 'plot', 'rural', 'cemetery', 'everyone', 'modest', 'understand', 'buys']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the west may or not remain satisfied with the kind of neutralism that u thant represents . 
+['.', 'of', 'the', 'the', 'with', 'that', 'or', 'may', 'not', 'u', 'west', 'kind', 'represents', 'remain', 'satisfied']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the effect of radiation is cumulative over the years -- and on to succeeding generations . 
+['.', 'of', 'the', 'and', 'to', 'the', 'on', 'is', 'over', 'years', 'effect', 'radiation', 'generations', 'cumulative', 'succeeding']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ furthermore , we find his defense of the unbalanced budget more dismaying than reassuring . 
+[',', '.', 'of', 'the', 'his', 'than', 'more', 'we', 'budget', 'find', 'reassuring', 'unbalanced', 'furthermore', 'defense']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ usually questions from the floor were directed to the non-catholic speaker or discussion leader . 
+['.', 'the', 'to', 'the', 'from', 'or', 'were', 'floor', 'leader', 'speaker', 'questions', 'usually', 'discussion', 'directed']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ i was searching for an accent of self-delusion or , even , of hypocrisy . 
+[',', ',', 'of', '.', 'of', 'for', 'was', 'or', 'i', 'an', 'even', 'accent', 'searching', 'hypocrisy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ that , i smarted , is a royal rebuff if ever there was one . 
+[',', ',', '.', 'that', 'is', 'a', 'was', 'i', 'if', 'one', 'there', 'royal', 'ever', 'rebuff']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ first and foremost , they depend on the inhuman idiocies of the communist regime . 
+[',', '.', 'of', 'the', 'and', 'the', 'on', 'they', 'first', 'regime', 'communist', 'depend', 'inhuman', 'foremost']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ secondly , they depend on america 's `` moral cooperation `` when the crucial moment arrives . 
+[',', '.', 'the', "'s", 'on', 'when', 'they', 'moment', 'america', 'moral', 'arrives', 'depend', 'cooperation', 'crucial', 'secondly']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ right now , with almost cartoon emphasis , in the temporally linked complex of tshombe-gizenga-goa-ghana . 
+[',', ',', '.', 'of', 'the', 'in', 'with', 'complex', 'now', 'right', 'linked', 'almost', 'emphasis', 'cartoon', 'temporally']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ we can mass our fleet against the trujillos , but not against the castros . 
+[',', '.', 'the', 'the', 'against', 'against', 'can', 'but', 'not', 'we', 'our', 'mass', 'fleet']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ advise and consent , lively but shallow theater drawn from the mountainously detailed bestseller ; ; 
+[',', 'and', 'the', 'from', ';', ';', 'but', 'drawn', 'consent', 'detailed', 'advise', 'shallow', 'theater', 'lively', 'bestseller']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ face of a hero ( closed ) , based on a pierre boulle novel . 
+[',', '.', 'of', ')', 'a', 'on', '(', 'a', 'face', 'based', 'hero', 'closed', 'novel', 'pierre']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ and other defenders invariably argue that , after all , shakespeare and moliere were adapters too . 
+[',', ',', '.', 'and', 'and', 'that', 'were', 'after', 'all', 'other', 'too', 'argue', 'shakespeare', 'defenders', 'invariably']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the darbuka , a small drum with the treelike shape of a roemer glass ; ; 
+[',', 'the', 'of', 'the', 'with', 'a', 'a', ';', ';', 'glass', 'small', 'shape', 'drum']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ eleven dummy rounds were fired by lauchli in a demonstration of rapid-fire mortar shooting . 
+['.', 'of', 'in', 'by', 'a', 'were', 'demonstration', 'fired', 'mortar', 'shooting', 'rounds', 'eleven', 'dummy']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ we would be crippled by reduced output , industrial decline , widespread unemployment `` . 
+[',', ',', '.', 'by', 'would', 'be', 'we', 'output', 'reduced', 'industrial', 'unemployment', 'decline', 'widespread', 'crippled']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ if the un troops are not mercenaries then the hessians were not mercenaries either . 
+['.', 'the', 'the', 'are', 'were', 'not', 'if', 'not', 'then', 'troops', 'un', 'either', 'mercenaries', 'mercenaries']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ pope was convicted last year of having aided north celebes rebels by flying bombing missions . 
+['.', 'of', 'by', 'was', 'year', 'last', 'north', 'rebels', 'having', 'bombing', 'flying', 'missions', 'pope', 'convicted', 'aided']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` he opened his mouth , said little , and thought not at all `` . 
+[',', ',', '.', 'and', 'at', 'his', 'said', 'he', 'all', 'not', 'little', 'thought', 'opened', 'mouth']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` confrontation `` should fortify us all , whether in southeast asia or the u.s. . 
+[',', '.', 'the', 'in', 'or', 'all', 'should', 'us', 'whether', 'asia', 'u.s.', 'confrontation', 'southeast']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ the radio stations did run `` transcripts `` ( i thought ) during the evening hours . 
+['.', 'the', 'the', ')', '(', 'i', 'hours', 'did', 'during', 'thought', 'radio', 'stations', 'run', 'evening', 'transcripts']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ congratulations on the article `` do we need a college of propaganda `` ? ? 
+['of', 'the', 'on', 'a', '?', '?', 'college', 'do', 'we', 'need', 'article', 'propaganda', 'congratulations']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the text of the book leaves a somewhat milder impression than the prepublication excerpt . 
+['.', 'the', 'the', 'of', 'the', 'a', 'than', 'book', 'leaves', 'text', 'impression', 'somewhat', 'milder']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ but he had in walter hendl a willing conductor able only up to a point . 
+['.', 'to', 'in', 'a', 'a', 'up', 'had', 'he', 'point', 'but', 'only', 'walter', 'able', 'willing', 'conductor']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ if there is a moral lurking among the shenanigans , it is hard to find . 
+[',', '.', 'the', 'to', 'is', 'a', 'is', 'it', 'if', 'there', 'among', 'hard', 'moral', 'find', 'lurking']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ also , perhaps , table-tennis and other indoor sports to keep them fit and contented . 
+[',', ',', '.', 'and', 'and', 'to', 'them', 'also', 'other', 'fit', 'sports', 'keep', 'perhaps', 'indoor', 'contented']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ one of those capital-gains ventures , in fact , has saddled him with gore court . 
+[',', ',', '.', 'of', 'in', 'with', 'has', 'him', 'court', 'one', 'those', 'fact', 'ventures', 'saddled', 'gore']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ cherkasov does not caricature him , as some actors have been inclined to do . 
+[',', '.', 'to', 'as', 'him', 'have', 'not', 'do', 'some', 'does', 'been', 'actors', 'inclined', 'caricature']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he treats this deep-eyed , bearded , bony crackpot with tangible affection and respect . 
+[',', ',', '.', 'and', 'with', 'he', 'this', 'affection', 'respect', 'treats', 'bearded', 'tangible', 'bony']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` chicago and all that jazz `` could not be faulted on the choice of artists . 
+['.', 'of', 'and', 'the', 'on', 'that', 'be', 'all', 'could', 'not', 'artists', 'jazz', 'choice', 'chicago', 'faulted']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the performance also marked the debut of a most promising young conductor , silvio varviso . 
+[',', '.', 'the', 'of', 'the', 'a', 'young', 'also', 'performance', 'most', 'marked', 'debut', 'silvio', 'conductor', 'promising']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ( the first metropolitan opera broadcast on dec. 9 will introduce her as lucia . 
+['.', 'the', 'on', '(', 'as', 'her', 'will', '9', 'first', 'opera', 'metropolitan', 'broadcast', 'introduce', 'lucia', 'dec', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ drums , xylophones , castanets , and other percussive instruments are reproduced remarkably well . 
+[',', ',', ',', '.', 'and', 'are', 'well', 'other', 'instruments', 'drums', 'reproduced', 'remarkably']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ in vying with him , mr. d'albert also seemed to be overdriving his tone . 
+[',', '.', 'to', 'in', 'with', 'his', 'him', 'be', 'also', 'tone', 'seemed', 'mr.', 'vying']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mr. d'albert has a firm , attractive tone , which eschews an overly sweet vibrato . 
+[',', ',', '.', 'a', 'has', 'which', 'an', 'tone', 'firm', 'attractive', 'sweet', 'mr.', 'vibrato', 'overly']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ of the japanese private he says : `` he fought and marched till he died . 
+['.', 'of', 'and', 'the', ':', 'he', 'he', 'he', 'says', 'private', 'died', 'till', 'fought', 'japanese', 'marched']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is , for example , a stunning krakowiak that closes the first act ; ; 
+[',', ',', 'the', 'for', 'that', 'is', 'a', ';', ';', 'act', 'there', 'first', 'example', 'closes', 'stunning']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ and the dances and songs from the tatras contain a magnificent dance for the men . 
+['.', 'the', 'and', 'the', 'and', 'the', 'for', 'from', 'a', 'men', 'dance', 'songs', 'dances', 'contain', 'magnificent']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ john heffernan , playing larry larkin , the cartoonist , carries the show in marvelous fashion . 
+[',', ',', ',', '.', 'the', 'the', 'in', 'show', 'john', 'fashion', 'playing', 'carries', 'larkin', 'larry', 'cartoonist']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ i 'm glad to say there 's none of that distraction in this `` fiorello ! ! 
+['of', 'to', 'in', "'s", 'that', '!', '!', 'i', 'this', 'there', 'say', "'m", 'none', 'glad', 'distraction']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ a couple of the males made good comedy , too -- jim hutton and frank gorshin . 
+[',', '.', 'of', 'the', 'and', 'a', 'made', 'too', 'good', 'comedy', 'frank', 'couple', 'jim', 'males', 'hutton']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ here kennan , operating with precise facts and figures , performs an excellent job of debunking . 
+[',', ',', '.', 'of', 'and', 'with', 'an', 'here', 'job', 'figures', 'operating', 'facts', 'performs', 'precise', 'excellent']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the male dancers sometimes wear kilts and their performance in them is spirited and stimulating . 
+['.', 'and', 'and', 'the', 'in', 'is', 'their', 'them', 'performance', 'male', 'sometimes', 'wear', 'dancers', 'stimulating', 'spirited']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he swept through the music with ease , in a non-sentimental and ultra-efficient manner . 
+[',', '.', 'and', 'the', 'in', 'with', 'a', 'through', 'he', 'music', 'manner', 'ease', 'swept']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` la gioconda `` , like it or not , is a singer 's opera . 
+[',', ',', '.', "'s", 'a', 'is', 'or', 'it', 'la', 'like', 'not', 'opera', 'singer']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ one of those parts is that of evil , evil barnaba , the spy . 
+[',', ',', 'of', '.', 'of', 'the', 'that', 'is', 'one', 'those', 'parts', 'evil', 'evil', 'spy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ if only they and fausto cleva in the pit had got together a bit more . 
+['.', 'and', 'the', 'in', 'a', 'had', 'together', 'if', 'more', 'they', 'only', 'got', 'pit', 'bit']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ in france , it remained always more picturesque , more dancelike , more full of flavor . 
+[',', ',', ',', '.', 'of', 'in', 'it', 'more', 'more', 'more', 'full', 'remained', 'always', 'france', 'picturesque']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ if couperin shows the fashionable trend , the others do so all the more . 
+[',', 'the', '.', 'the', 'the', 'all', 'if', 'more', 'so', 'do', 'shows', 'others', 'trend', 'fashionable']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ what a silly , artificial way of life , chabrier and his librettists chuckle . 
+[',', ',', '.', 'of', 'and', 'a', 'his', 'life', 'way', 'what', 'chuckle', 'artificial', 'silly']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the male chorus of the robert shaw chorale sings sea shanties in fine style . 
+['.', 'of', 'the', 'the', 'in', 'style', 'sea', 'shaw', 'fine', 'male', 'robert', 'chorus', 'sings']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` signal `` is choreographed for three male dancers to an electronic score by alwin nikolais . 
+['.', 'to', 'by', 'for', 'is', 'an', 'electronic', 'three', 'score', 'signal', 'male', 'dancers', 'choreographed']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ mr. cliburn gave the slow movement some of the quality of a chopin nocturne . 
+['of', '.', 'the', 'of', 'the', 'a', 'quality', 'movement', 'some', 'gave', 'slow', 'mr.', 'chopin']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ yet there is the classic case of the gershwins ' `` the man i love `` . 
+['.', 'the', 'of', 'the', 'the', 'is', "'", 'i', 'man', 'love', 'there', 'case', 'yet', 'classic']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ rudy vallee , who shares star billing with mr. morse , makes only two appearances . 
+[',', ',', '.', 'with', 'who', 'only', 'shares', 'two', 'star', 'appearances', 'makes', 'billing', 'mr.', 'morse', 'rudy']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the artkino presentation , with english titles , opened on saturday at the cameo theatre . 
+[',', ',', '.', 'the', 'the', 'with', 'on', 'at', 'theatre', 'english', 'opened', 'saturday', 'titles', 'presentation', 'cameo']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the place is camusfearna , the site of a long-vanished sea-village opposite the isle of skye . 
+[',', 'of', '.', 'the', 'the', 'of', 'the', 'a', 'is', 'place', 'site', 'opposite', 'isle', 'skye']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ mij , as his owner was soon to learn , had strange , inexplicable habits . 
+[',', ',', ',', '.', 'to', 'was', 'as', 'had', 'his', 'soon', 'owner', 'habits', 'strange', 'learn', 'inexplicable']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ one influential french critic remarked : `` pity for arnolphe comes with age `` . 
+['.', 'with', 'for', ':', 'age', 'one', 'comes', 'french', 'remarked', 'critic', 'pity', 'influential']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ his red face , his coarse gestures , and his lustful stares bespeak his sensuality . 
+[',', ',', '.', 'and', 'his', 'his', 'his', 'his', 'face', 'red', 'gestures', 'coarse', 'sensuality', 'stares']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ here , he is , quite persuasively , the very embodiment of meanness and slyness . 
+[',', ',', ',', '.', 'of', 'and', 'the', 'is', 'he', 'here', 'very', 'quite', 'embodiment', 'persuasively', 'meanness']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ you can catch up with him -- if you have n't already -- on rca-victor 's album . 
+['.', "'s", 'with', 'on', 'up', 'you', 'you', 'have', 'him', "n't", 'can', 'if', 'already', 'album', 'catch']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ that is an evening of music-making that would faze many a younger man ; ; 
+['of', 'that', 'that', 'a', 'is', ';', ';', 'would', 'an', 'man', 'many', 'evening', 'younger', 'music-making']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a winning little `` snow maiden `` variation by the adorable galina kekisheva ; ; 
+['the', 'by', 'a', ';', ';', 'little', 'variation', 'snow', 'winning', 'maiden', 'adorable']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ mr. white , who is only a competent novelist , is a brilliant reporter . 
+[',', ',', '.', 'a', 'is', 'a', 'is', 'who', 'only', 'white', 'competent', 'reporter', 'novelist', 'brilliant', 'mr', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ as a dramatic narrative `` the making of the president 1960 `` is continuously engrossing . 
+['.', 'the', 'of', 'the', 'a', 'is', 'as', 'making', 'president', 'narrative', 'continuously', '1960', 'dramatic']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ recently , wwrl won praise for its expose of particular cases of employment agency deceit . 
+[',', 'of', '.', 'of', 'for', 'its', 'cases', 'employment', 'won', 'recently', 'agency', 'praise', 'particular', 'expose', 'deceit']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the multifigure `` traveling carnival `` , in which action is vivified by lighting ; ; 
+[',', 'the', 'in', 'by', 'is', ';', ';', 'which', 'action', 'lighting', 'carnival']
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+ the two were separated from each other by the six bagatelles of op . 126 . 
+['.', '.', 'the', 'of', 'the', 'by', 'from', 'were', 'each', 'two', 'other', 'six', 'separated', 'op', '126']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ dr. w. b. bonnor , reader in mathematics at queen elizabeth college , london ; ; 
+[',', ',', 'in', 'at', ';', ';', 'college', 'london', 'b.', 'queen', 'reader', 'w.', 'elizabeth', 'mathematics', 'dr', '.']
+#removed words: 2
+#added words: 2
+#length difference: 0
+
+
+ said benedick : `` lady beatrice , have you wept all this while `` ? ? 
+[',', ':', '?', '?', 'said', 'you', 'have', 'this', 'all', 'while', 'lady', 'wept', 'beatrice']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ replied beatrice : `` yea , and i will weep a while longer `` . 
+[',', '.', 'and', 'a', ':', 'i', 'will', 'while', 'replied', 'longer', 'beatrice', 'yea', 'weep']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the parks department has done an admirable job of preparing the wollman rink for shakespeare . 
+['.', 'of', 'the', 'the', 'for', 'has', 'an', 'department', 'job', 'done', 'shakespeare', 'rink', 'parks', 'preparing', 'admirable']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ how far that pedimented and pillared style has shed its influence mr. sansom reminds us thus : 
+['and', 'that', ':', 'has', 'its', 'us', 'style', 'how', 'influence', 'far', 'shed', 'thus', 'reminds', 'mr', '.']
+#removed words: 4
+#added words: 2
+#length difference: 2
+
+
+ the sweet and funny little dance about potato planting called `` bul'ba `` ; ; 
+['and', 'the', ';', 'about', ';', 'little', 'called', 'dance', 'potato', 'funny', 'sweet', 'planting']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ in minnesota , arrowhead county and route 53 north to international falls are outstanding . 
+[',', '.', 'and', 'to', 'in', 'are', 'international', 'route', 'county', '53', 'falls', 'north', 'outstanding', 'minnesota']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is probably a moral in all this about `` mind vs. heart `` . 
+['.', 'in', 'a', 'is', 'about', 'this', 'all', 'there', 'heart', 'mind', 'probably', 'moral']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ a sailboat may have a bone in her teeth one minute and lie becalmed the next . 
+['.', 'and', 'the', 'in', 'a', 'a', 'her', 'have', 'may', 'one', 'teeth', 'minute', 'next', 'bone', 'lie']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the mississippi sound leads into a protected waterway running about 200 miles from pascagoula to apalachicola . 
+['.', 'the', 'to', 'from', 'a', 'into', 'about', 'miles', 'sound', 'running', '200', 'leads', 'protected', 'waterway', 'mississippi']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ if this was in fact mr. remarque 's intention he has achieved a notable failure . 
+['.', "'s", 'in', 'a', 'was', 'has', 'he', 'this', 'if', 'failure', 'fact', 'intention', 'achieved', 'mr.', 'notable']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a clerfayt may moon on about the face of death in the cockpit ; ; 
+['of', 'the', 'the', 'in', 'on', 'a', ';', 'about', ';', 'may', 'face', 'death', 'moon', 'cockpit']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` but where is the leader who will handle all these things for us `` ? ? 
+['the', 'for', 'is', '?', '?', 'who', 'will', 'but', 'all', 'us', 'where', 'these', 'leader', 'things', 'handle']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ he has -- for unclear reasons -- a 25 % higher death rate from cancer . 
+['.', 'for', 'from', 'a', 'has', 'he', 'cancer', 'rate', 'death', 'higher', '25', 'reasons', '%', 'unclear']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ all natural food fats fall into one of three categories -- saturated , mono-unsaturated and poly-unsaturated . 
+[',', '.', 'of', 'and', 'into', 'all', 'one', 'three', 'food', 'fall', 'fats', 'natural', 'categories', 'saturated']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ just what is meant by `` spirit `` and by `` matter `` ? ? 
+['and', 'by', 'by', 'is', '?', '?', 'what', 'just', 'spirit', 'matter', 'meant']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ i hear the boot of lucifer , i see his filthy face `` ! ! 
+[',', 'of', 'the', '!', 'i', '!', 'his', 'i', 'face', 'see', 'boot', 'hear', 'filthy', 'lucifer']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ it is not material and is not a `` thing `` occupying space and time . 
+['.', 'and', 'and', 'is', 'a', 'is', 'it', 'not', 'time', 'not', 'material', 'space', 'thing', 'occupying']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it is spirit which gives life to a community and causes it to cohere . 
+['.', 'to', 'and', 'to', 'a', 'is', 'it', 'it', 'which', 'life', 'community', 'spirit', 'gives', 'causes']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the absurd notion that demythologization entails the expurgation of all mythological concepts completely misrepresents bultmann 's intention . 
+['.', 'the', 'of', 'the', "'s", 'that', 'all', 'notion', 'intention', 'completely', 'concepts', 'entails', 'absurd', 'mythological']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ ( 2 ) accepts instead a special biblical hermeneutics or method of interpretation ; ; 
+['of', ')', '(', 'a', ';', 'or', ';', '2', 'method', 'instead', 'interpretation', 'special', 'accepts', 'biblical']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ death reminds man of his sin , but it reminds him also of his transience . 
+[',', 'of', '.', 'of', 'his', 'his', 'it', 'him', 'man', 'but', 'also', 'death', 'sin', 'reminds', 'reminds']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ it is true that we must keep up our national defenses and scientific accomplishments ; ; 
+['and', 'that', 'is', 'up', ';', 'it', ';', 'national', 'we', 'must', 'our', 'keep', 'true', 'scientific', 'accomplishments']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ your spiritual `` inner `` space helps determine the spirituality of america as a nation . 
+['.', 'of', 'the', 'a', 'as', 'your', 'space', 'america', 'nation', 'helps', 'inner', 'spiritual', 'determine', 'spirituality']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ accept the sinless son of god , jesus christ , as your own personal saviour . 
+[',', ',', '.', 'of', 'the', 'as', 'your', 'son', 'god', 'personal', 'jesus', 'own', 'christ', 'accept', 'saviour']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a certain teacher scheduled a `` fear party `` for her fourth grade pupils . 
+['.', 'a', 'for', 'a', 'her', 'party', 'pupils', 'grade', 'fear', 'teacher', 'certain', 'scheduled', 'fourth']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ i doubt that `` fear parties `` and `` group confessionals `` will help very much . 
+['.', 'and', 'that', 'i', 'will', 'group', 'much', 'parties', 'very', 'fear', 'help', 'doubt']
+#removed words: 5
+#added words: 0
+#length difference: 5
+
+
+ it listed his wife 's age as 74 and place of birth as opelika , ala. . 
+[',', '.', 'of', 'and', "'s", 'as', 'as', 'his', 'it', 'age', 'place', 'wife', '74', 'listed', 'birth']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ hartsfield has been mayor of atlanta , with exception of one brief interlude , since 1937 . 
+[',', ',', 'of', '.', 'of', 'with', 'has', 'one', 'been', 'mayor', 'since', 'brief', 'exception', 'interlude', '1937', 'atlanta']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` the statements may be highly prejudicial to my client `` , bellows told the court . 
+[',', '.', 'the', 'to', 'the', 'be', 'may', 'court', 'my', 'told', 'statements', 'client', 'highly', 'prejudicial', 'bellows']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it is a program of prepayment of health costs with absolute freedom of choice guaranteed . 
+['of', 'of', '.', 'of', 'with', 'a', 'is', 'it', 'costs', 'health', 'program', 'freedom', 'choice', 'guaranteed', 'absolute']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ legislators who last year opposed placing aged-care under the social security system criticized the president 's plan . 
+['.', 'the', 'the', "'s", 'who', 'system', 'under', 'year', 'plan', 'opposed', 'last', 'president', 'social', 'security', 'legislators', 'criticized', 'placing']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ halleck said the voluntary care plan enacted last year should be given a fair trial first . 
+['.', 'the', 'a', 'said', 'be', 'should', 'care', 'year', 'plan', 'last', 'first', 'fair', 'given', 'trial', 'voluntary', 'enacted']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ seato was steamed up and prepared contingency plans for coping with the military losses in laos . 
+['.', 'and', 'the', 'in', 'with', 'for', 'up', 'was', 'plans', 'military', 'losses', 'prepared', 'steamed', 'coping', 'contingency', 'laos']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he will then appoint the study committee with mr. nugent 's cooperation , the governor said . 
+[',', '.', 'the', 'the', "'s", 'with', 'said', 'will', 'he', 'committee', 'study', 'then', 'governor', 'mr.', 'appoint', 'cooperation']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mrs. greenfield is president of the westfield women 's republican club and is a westfield county committeewoman . 
+['.', 'of', 'and', 'the', "'s", 'is', 'a', 'is', 'club', 'women', 'president', 'county', 'mrs.', 'republican', 'greenfield', 'westfield', 'westfield']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the other $ 15 million is to be alloted to municipalities on a matching fund basis . 
+['.', 'to', 'the', 'to', 'on', 'a', 'is', 'million', 'be', 'other', 'fund', 'basis', '15', 'matching', 'municipalities', '$']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the tax bill will be up for reconsideration wednesday in the house when the legislature reconvenes . 
+['.', 'the', 'the', 'the', 'in', 'for', 'up', 'will', 'house', 'when', 'be', 'tax', 'bill', 'legislature', 'wednesday', 'reconsideration']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ many legislators are already weary and frustrated over the so-far losing battle to block token integration . 
+['.', 'and', 'to', 'the', 'are', 'over', 'battle', 'block', 'many', 'already', 'integration', 'legislators', 'losing', 'token', 'weary', 'frustrated']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ estimates of the city 's loss in the $ 344,000 job have ranged as high as $ 200,000 . 
+['.', 'of', 'the', 'the', 'in', "'s", 'as', 'as', 'have', 'high', 'city', 'loss', 'job', 'estimates', 'ranged', '$', '$', '200,000']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the city has sued for the full amount of the $ 172,400 performance bond covering the contract . 
+['the', '.', 'the', 'of', 'the', 'the', 'for', 'has', 'city', 'contract', 'amount', 'performance', 'full', 'bond', 'covering', 'sued', '$']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ but , hemphill added , bids from other contractors ranged from $ 2400 to $ 3100 per joint . 
+[',', ',', '.', 'to', 'from', 'from', 'per', 'but', 'other', 'added', 'joint', 'bids', 'contractors', 'ranged', '$', '2400', '$']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ he reported that the city 's contributions for animal care included $ 67,000 to the women 's s.p.c.a . ; ; 
+['.', 'the', "'s", 'to', 'the', "'s", 'for', 'that', ';', ';', 'he', 'care', 'city', 'women', 'reported', 'animal', 'contributions', 'included', '$']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ $ 15,000 to pay six policemen assigned as dog catchers and $ 15,000 to investigate dog bites . 
+['.', 'to', 'and', 'to', 'as', 'pay', 'dog', 'dog', 'six', 'policemen', 'bites', 'assigned', '15,000', '$', '15,000', '$', 'investigate']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ a $ 500 reward was offered by the association 's local in kansas city , kas . . 
+[',', '.', '.', 'the', 'in', "'s", 'by', 'a', 'was', 'city', 'association', 'local', '500', 'offered', 'reward', '$', 'kansas']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ his schedule calls for a noon speech monday in eugene at the emerald empire kiwanis club . 
+['.', 'the', 'in', 'for', 'a', 'at', 'his', 'club', 'empire', 'speech', 'noon', 'calls', 'monday', 'schedule', 'emerald', 'eugene']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- three positions on the oak lodge water district board of directors have attracted 11 candidates . 
+['.', 'of', 'the', 'on', 'have', 'water', 'board', 'district', 'three', 'directors', '11', 'lodge', 'oak', 'candidates', 'positions', 'attracted']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` surveys show that one out of three americans has vital contact with the church . 
+['.', 'of', 'the', 'with', 'that', 'out', 'has', 'one', 'church', 'show', 'three', 'surveys', 'contact', 'vital', 'americans']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` in this light we need 1,000 churches in illinois , where we have 200 ; ; 
+[',', 'in', 'in', ';', ';', 'have', 'this', 'we', 'where', 'light', 'we', 'need', '200', 'churches', '1,000', 'illinois']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- encouraging by every means , all existing assemblies of god churches to start new churches . 
+[',', '.', 'of', 'to', 'by', 'new', 'all', 'every', 'god', 'means', 'churches', 'start', 'churches', 'existing', 'assemblies', 'encouraging']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- engaging mature , experienced men to pioneer or open new churches in strategic population centers . 
+[',', '.', 'to', 'in', 'or', 'new', 'men', 'population', 'open', 'churches', 'experienced', 'strategic', 'pioneer', 'mature', 'engaging', 'centers']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ hansen arrived just before nightfall , two hours late , in company with lee macphail ; ; 
+[',', ',', 'in', 'with', ';', ';', 'hours', 'before', 'company', 'two', 'just', 'lee', 'arrived', 'late', 'hansen', 'nightfall']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` once you get the feel of it , there 's not much to it . 
+[',', '.', 'of', 'the', 'to', "'s", 'it', 'it', 'you', 'not', 'there', 'much', 'once', 'get', 'feel']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+
+
+Incorrectly decoded pairs for limited sentences
+Correct sentence first, decoded second
+
+ one of these men is former fire chief john a. laughlin , he said . [',', '.', 'of', 'is', 'said', 'he', 'one', 'men', 'john', 'fire', 'these', 'chief', 'former', 'a', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ mr. reama , far from really being retired , is engaged in industrial relations counseling . [',', ',', '.', 'in', 'from', 'is', 'relations', 'being', 'really', 'far', 'industrial', 'retired', 'engaged', 'mr', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ shea and his wife , nori , make their home at sands point , l. i. . [',', ',', ',', '.', 'and', 'at', 'his', 'their', 'point', 'home', 'wife', 'make', 'sands', 'l.', 'i', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ mrs. hamm will not come from vero beach , fla. , for the wedding . [',', ',', '.', 'the', 'for', 'from', 'will', 'not', 'come', 'beach', 'wedding', 'mrs', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ the moss gordin lint cleaner co. and gordin unit system of ginning have joint headquarters here . ['.', 'of', 'and', 'the', 'system', 'have', 'unit', 'here', 'joint', 'headquarters', 'cleaner', 'moss', 'co', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ mr. podger always particularly enjoyed the last night of each summer at loon lake . ['.', 'of', 'the', 'at', 'lake', 'each', 'night', 'last', 'always', 'summer', 'enjoyed', 'particularly', 'mr', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ but mr. podger and the driver of the sports car waved at each other . ['.', 'of', 'the', 'and', 'the', 'at', 'but', 'car', 'each', 'other', 'driver', 'sports', 'waved', 'mr', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ ( the first metropolitan opera broadcast on dec. 9 will introduce her as lucia . ['.', 'the', 'on', '(', 'as', 'her', 'will', '9', 'first', 'opera', 'metropolitan', 'broadcast', 'introduce', 'lucia', 'dec', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ mr. white , who is only a competent novelist , is a brilliant reporter . [',', ',', '.', 'a', 'is', 'a', 'is', 'who', 'only', 'white', 'competent', 'reporter', 'novelist', 'brilliant', 'mr', '.']
+#removed words: 1
+#added words: 1
+#length difference: -1
+
+
+ dr. w. b. bonnor , reader in mathematics at queen elizabeth college , london ; ; [',', ',', 'in', 'at', ';', ';', 'college', 'london', 'b.', 'queen', 'reader', 'w.', 'elizabeth', 'mathematics', 'dr', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
+
+
+ how far that pedimented and pillared style has shed its influence mr. sansom reminds us thus : ['and', 'that', ':', 'has', 'its', 'us', 'style', 'how', 'influence', 'far', 'shed', 'thus', 'reminds', 'mr', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
+
+
+
+
+statistic using original sentences:
+average distance: -14.493290591807146
+exact matches: 169 out of 500
+fraction of exact matches: 0.338
+
+The following values don't consider exact matches.
+avg number of removed words: 1.8217522658610272 variance: 0.847381823824171
+avg number of added words: 0.03927492447129909 variance: 0.04981699692408796
+avg length difference: 1.755287009063444 variance: 0.8555234070517793
+
+
+statistic using limited sentences:
+average distance: -14.493290591807146
+exact matches: 489 out of 500
+fraction of exact matches: 0.978
+
+The following values don't consider exact matches.
+avg number of removed words: 1.0 variance: 0.0
+avg number of added words: 1.1818181818181819 variance: 0.14876033057851237
+avg length difference: -1.0 variance: 0.0
