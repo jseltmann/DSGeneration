@@ -59,8 +59,9 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
                     line += word + " "
                 line += "|| "
                 if res_sent is not None:
-                    for word in res_sent:
-                        line += word + " "
+                    for ngram in res_sent:
+                        #line += word + " "
+                        line += " ".join(ngram)
                 line += "\n"
 
                 log_file.write(line)
