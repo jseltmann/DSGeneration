@@ -6,7 +6,7 @@ import nltk
 import numpy as np
 import math
 
-def calculate_ciderD(decoded_filename, ref_filename, log_filename, max_n=4):
+def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename, max_n=4, num_bins=2):
     """
     Calculate ciderD scores for decoded sentences.
 
@@ -16,18 +16,49 @@ def calculate_ciderD(decoded_filename, ref_filename, log_filename, max_n=4):
         File containing the decoded sentences.
     ref_filename : str
         File containing reference sentences for each decoded sentence.
+    orig_filename : str
+        File containing the original sentences.
     log_filename : str
         File to write the results to.
     max_n : int
         Maximum size of ngrams to use for ciderD calculation.
+    num_bins : int
+        Number of different bins of sentence lengths to compare.
     """
 
     with open(decoded_filename, "rb") as decoded_file:
         decoded_dict = pickle.load(decoded_file)
     with open(ref_filename, "rb") as ref_file:
         ref_dict = pickle.load(ref_file)
+    with open(orig_filename, "rb") as orig_file:
+        orig_dict = pickle.load(orig_file)
 
-    scores = []
+    len_counts = col.defaultdict(int)
+    for img_id in orig_dict:
+        sent = nltk.word_tokenize(orig_dict[img_id])
+        len_counts[len(sent)] += 1
+
+    generated_bins = 0
+    len_to_bin = dict()
+    bin_to_len = dict()
+    sent_num = len(orig_dict)
+    bin_size = sent_num / num_bins
+
+    curr_sum = 0
+    curr_bin = 0
+    for length in sorted(len_counts):
+        curr_sum += len_counts[length]
+        len_to_bin[length] = curr_bin
+        if curr_bin in bin_to_len:
+            bin_to_len[curr_bin].append(length)
+        else:
+            bin_to_len[curr_bin] = [length]
+        if curr_sum >= bin_size and generated_bins < num_bins:
+            curr_sum = 0
+            curr_bin += 1
+            generated_bins += 1
+        
+    scores = dict()
 
     ngram_counts = get_ngram_counts(ref_dict, max_n)
     
@@ -43,19 +74,29 @@ def calculate_ciderD(decoded_filename, ref_filename, log_filename, max_n=4):
         for n in list(range(max_n+1))[1:]:
             score += 1/max_n * calculate_ciderD_n(image_id, dec_sent, ref_dict, ngram_counts, n)
 
-        scores.append(score)
+        orig_sent = nltk.word_tokenize(orig_dict[image_id])
+        bin_num = len_to_bin[len(orig_sent)]
+        if bin_num in scores:
+            scores[bin_num].append(score)
+        else:
+            scores[bin_num] = [score]
 
         with open(log_filename, "a") as log_file:
             line = str(image_id) + " | " + str(dec_sent) + " | " + str(score) + "\n"
             log_file.write(line)
 
-    avg = np.mean(scores)
-    stddev = np.std(scores)
+    for bin_num in range(generated_bins):
+        avg = np.mean(scores[bin_num])
+        stddev = np.std(scores[bin_num])
 
-    with open(log_filename, "a") as log_file:
-        log_file.write("\n\n")
-        log_file.write("average ciderD score: " + str(avg) + "\n")
-        log_file.write("standard deviation: " + str(stddev) + "\n")
+        len_min = min(bin_to_len[bin_num])
+        len_max = max(bin_to_len[bin_num])
+
+        with open(log_filename, "a") as log_file:
+            log_file.write("\n\n")
+            log_file.write("sentence lengths: " + str(len_min) + " to " + str(len_max))
+            log_file.write("average ciderD score: " + str(avg) + "\n")
+            log_file.write("standard deviation: " + str(stddev) + "\n")
 
 def calculate_ciderD_n(cand_id, cand_sent, ref_dict, ngram_counts, n, sigma=6):
     """
@@ -382,9 +423,9 @@ def save_orig_dict(data_filename, orig_filename):
     with open(orig_filename, "wb") as orig_file:
         pickle.dump(orig_dict, orig_file)
 
-save_orig_dict("../cider/data/pascal50S.json", "../pascal_orig_sents.pkl")
+#save_orig_dict("../cider/data/pascal50S.json", "../pascal_orig_sents.pkl")
 
 #decode_sentences("../cider/data/pascal50S.json", "../test_decoded.pkl", "../test_ref.pkl", "../matrix_1k/_matrix.pkl")
 #decode_sentences("../cider/data/pascal50S.json", "../debug_decoded.pkl", "../debug_ref.pkl", "../matrix_1k/_matrix.pkl")
                  
-#calculate_ciderD("../test_decoded.pkl", "../test_ref.pkl", "../test.log", max_n=4)
+calculate_ciderD("../test_decoded.pkl", "../test_ref.pkl", "../test.log", max_n=4)
