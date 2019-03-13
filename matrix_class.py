@@ -241,6 +241,7 @@ class DS_matrix:
                     vectors.append(self.get_vector(pref))
                     words = words[len(pref):]
                     break
+            words = words[1:] #ignore word if it isn't in the matrix
 
         if len(vectors) == 0:
             encoding = np.zeros((1,self.matrix.shape[1]))
