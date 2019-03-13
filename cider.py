@@ -367,6 +367,22 @@ def decode_sentences(data_filename, decoded_filename, ref_filename, matrix_filen
     with open(ref_filename, "wb") as ref_file:
         pickle.dump(ref_dict, ref_file)
 
+def save_orig_dict(data_filename, orig_filename):
+    with open(data_filename) as f:
+        data = json.loads(f.read())
+
+    orig_dict = dict()
+
+    for entry in data:
+        image_id = entry['image_id']
+        sent = entry['caption']
+        if not image_id in orig_dict:
+            orig_dict[image_id] = sent
+
+    with open(orig_filename, "wb") as orig_file:
+        pickle.dump(orig_dict, orig_file)
+
+save_orig_dict("../cider/data/pascal50S.json", "../pascal_orig_sents.pkl")
 
 #decode_sentences("../cider/data/pascal50S.json", "../test_decoded.pkl", "../test_ref.pkl", "../matrix_1k/_matrix.pkl")
 #decode_sentences("../cider/data/pascal50S.json", "../debug_decoded.pkl", "../debug_ref.pkl", "../matrix_1k/_matrix.pkl")

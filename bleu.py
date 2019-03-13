@@ -1,7 +1,8 @@
 import pickle
 import json
-from nltk.translate import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu
 import nltk
+import numpy as np
 
 def bleu_pascal(orig_filename, decoded_filename, log_filename):
     """
@@ -26,14 +27,14 @@ def bleu_pascal(orig_filename, decoded_filename, log_filename):
         if not img_id in orig_sents:
             orig_sents[img_id] = entry['caption']
 
-    with open(decoded_filename, "rb") as decoded_file
+    with open(decoded_filename, "rb") as decoded_file:
         decoded_sents = pickle.load(decoded_file)
 
     scores = []
             
     for img_id in decoded_sents:
         orig = nltk.word_tokenize(orig_sents[img_id])
-        decoded = nltk.word_tokenize(decoded_sents[img_id])
+        decoded = decoded_sents[img_id]
 
         score = sentence_bleu(orig, decoded)
         with open(log_filename, "a") as log_file:
@@ -51,4 +52,4 @@ def bleu_pascal(orig_filename, decoded_filename, log_filename):
         log_file.write("average BLEU score: " + str(avg_score) + "\n")
         log_file.write("standard deviation: " + str(std_dev) + "\n")
         
-
+bleu_pascal("../cider/data/pascal50S.json", "../decoded_pascal50S.pkl", "../pascal_bleu.log")
