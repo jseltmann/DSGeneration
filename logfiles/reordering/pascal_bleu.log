@@ -1,0 +1,3876 @@
+['man', 'in', 'a', 'boat', 'fishing', '.']
+['in', 'a', 'man', 'fishing', 'boat', '.']
+8.167583944917616e-78
+
+['train', 'and', 'flags', 'in', 'snow', '.']
+['in', '.', 'and', 'train', 'snow', 'flags']
+9.975386110402101e-155
+
+['a', 'car', 'port', 'appears', 'to', 'be', 'deserted', '.']
+['a', 'car', '.', 'to', 'be', 'deserted', 'appears', 'port']
+6.313993041533344e-78
+
+['a', 'team', 'of', 'planes', 'stream', 'past', '.']
+['a', 'team', '.', 'of', 'past', 'planes', 'stream']
+1.133422688662942e-154
+
+['a', 'group', 'of', 'military', 'couples', 'enjoying', 'a', 'nice', 'dinner', '.']
+['a', 'group', 'of', 'a', 'nice', '.', 'dinner', 'couples', 'enjoying', 'military']
+6.269681580989379e-78
+
+['a', 'man', 'kneels', 'on', 'pavement', 'with', 'his', 'cell', 'phone', 'and', 'is', 'taking', 'notes', '.']
+['a', 'man', 'and', 'is', 'on', 'his', 'cell', 'phone', 'taking', 'notes', 'with', 'pavement', '.']
+0.42234644192081094
+
+['there', 'are', 'three', 'bottles', 'on', 'a', 'shelf', '.']
+['a', 'shelf', 'on', 'there', 'are', 'three', 'bottles', '.']
+0.4671379777282001
+
+['a', 'yawning', 'dog', 'is', 'lying', 'on', 'a', 'deck', '.']
+['a', 'dog', '.', 'is', 'lying', 'on', 'deck', 'a', 'yawning']
+6.313993041533344e-78
+
+['a', 'teal-oufitted', 'rider', 'races', 'his', 'grey', 'horse', '.']
+['a', 'grey', 'horse', 'races', 'his', 'rider', '.']
+6.86809206056511e-78
+
+['a', 'baby', 'ewe', 'sits', 'quietly', 'on', 'the', 'ground', '.']
+['the', 'ground', 'a', 'baby', 'sits', 'quietly', 'on', 'ewe', '.']
+6.313993041533344e-78
+
+['a', 'man', 'awaits', 'a', 'train', 'as', 'it', 'approaches', '.']
+['it', '.', 'a', 'man', 'as', 'a', 'train', 'approaches', 'awaits']
+0.392814650900513
+
+['a', 'brown', ',', 'thin', 'dog', 'lays', 'in', 'green', 'grass', '.']
+['in', '.', 'a', 'thin', 'brown', 'grass', 'green', 'dog', ',', 'lays']
+1.821831989445342e-231
+
+['a', 'bush', 'with', 'pink', 'flowers', 'growing', 'next', 'to', 'a', 'wall', 'in', 'a', 'yard', '.']
+['in', 'a', 'growing', 'a', 'wall', 'to', 'a', 'pink', 'flowers', 'with', 'bush', 'next', 'yard', '.']
+1.2294877053301477e-154
+
+['a', 'dog', 'looking', 'into', 'an', 'open', 'refrigerator', 'next', 'to', 'a', 'man', '.']
+['a', 'man', 'to', 'an', 'open', 'next', 'dog', 'into', 'looking', 'a', 'refrigerator', '.']
+5.333384990808849e-78
+
+['a', 'collared', 'dog', 'takes', 'a', 'nap', 'in', 'an', 'amusing', 'position', '.']
+['in', 'an', 'amusing', 'a', 'dog', 'takes', 'position', 'a', 'nap', '.']
+7.803659209895733e-78
+
+['a', 'naked', 'baby', 'is', 'posed', 'over', 'an', 'adult', 'in', 'a', 'living', 'room', '.']
+['in', 'a', 'baby', 'is', 'an', 'adult', 'living', 'room', 'over', 'a', 'posed', 'naked', '.']
+5.3880935331694e-78
+
+['a', 'little', 'girl', 'in', 'a', 'pink', 'dress', 'is', 'sitting', 'on', 'a', 'floor', '.']
+['in', 'a', 'little', 'girl', 'is', 'a', 'a', 'pink', 'dress', 'sitting', 'on', 'floor', '.']
+0.3672056269893592
+
+['a', 'shuttle', 'bus', 'is', 'driving', 'by', '.']
+['a', 'is', 'by', 'driving', 'bus', 'shuttle', '.']
+1.821831989445342e-231
+
+['a', 'man', 'with', 'black', 'curly', 'hair', 'is', 'looking', 'at', 'a', 'beer', '.']
+['a', 'black', 'man', 'with', 'a', 'beer', 'is', 'looking', 'at', 'curly', 'hair', '.']
+7.767943585154982e-78
+
+['several', 'chickens', 'are', 'standing', 'in', 'a', 'road', '.']
+['in', 'a', 'road', '.', 'are', 'several', 'chickens', 'standing']
+0.5410822690539396
+
+['a', 'bird', 'is', 'sitting', 'on', 'a', 'log', 'in', 'a', 'pond', '.']
+['in', 'a', 'bird', 'is', 'a', 'pond', 'a', 'sitting', 'on', 'log', '.']
+6.44985558187996e-78
+
+['a', 'train', ',', 'by', 'a', 'station', ',', 'waiting', 'to', 'be', 'boarded', 'by', 'passengers']
+['a', ',', 'by', 'a', 'train', 'station', ',', 'to', 'be', 'waiting', 'passengers', 'boarded', 'by']
+7.713428332537954e-78
+
+['a', 'motorcyclist', 'riding', 'through', 'a', 'grass', 'field']
+['a', 'grass', 'field', 'through', 'riding', 'a', 'motorcyclist']
+7.380245217279165e-78
+
+['a', 'cat', 'on', 'a', 'railing', 'staring', 'down', 'at', 'a', 'black', 'dog', '.']
+['a', 'dog', 'at', 'a', 'cat', 'on', 'down', 'black', 'staring', 'a', 'railing', '.']
+0.33180774028439425
+
+['a', 'view', 'of', 'a', 'street', 'with', 'building', 'with', 'boarded', 'windows', '.']
+['a', 'view', 'of', 'building', 'with', 'with', 'a', 'street', 'boarded', 'windows', '.']
+7.670214148711776e-78
+
+['three', 'friends', 'are', 'having', 'a', 'good', 'time', 'smiling', 'at', 'the', 'camera', '.']
+['the', 'good', 'time', 'a', 'camera', 'at', 'having', 'three', 'friends', 'are', 'smiling', '.']
+5.639368026146393e-78
+
+['the', 'green', 'bird', 'is', 'sitting', 'on', 'a', 'branch', '.']
+['the', 'green', 'is', 'a', 'bird', 'sitting', 'on', 'branch', '.']
+0.4153509237206396
+
+['a', 'motorcyclist', 'is', 'popping', 'a', 'wheelie', 'while', 'passing', 'a', 'car', '.']
+['a', 'car', '.', 'a', 'while', 'passing', 'a', 'motorcyclist', 'is', 'popping']
+0.4854917717073234
+
+['a', 'puppy', 'and', 'his', 'owner', 'are', 'looking', 'from', 'opposite', 'ends', 'of', 'the', 'bed', '.']
+['the', 'owner', 'of', 'his', 'bed', 'and', 'a', 'puppy', 'are', 'looking', 'from', 'opposite', 'ends', '.']
+0.3955332535877179
+
+['a', 'woman', 'sitting', 'in', 'a', 'chair', 'is', 'modeling', 'a', 'tube', 'something', '.']
+['in', 'a', 'chair', 'a', 'woman', 'sitting', 'a', 'tube', 'is', 'something', '.']
+0.4132584091896901
+
+['a', 'man', 'is', 'photoshopped', 'between', 'two', 'huge', 'glass', 'bottles', 'of', 'coke', '.']
+['a', 'man', 'is', 'between', 'two', 'huge', 'glass', 'bottles', 'of', 'coke', '.']
+0.8132882808488929
+
+['a', 'large', 'british', 'airways', 'plane', 'is', 'landed', 'at', 'the', 'airport', '.']
+['the', 'british', 'airways', 'is', 'a', 'large', 'plane', 'landed', 'at', 'airport', '.']
+1.254338396921439e-154
+
+['there', 'is', 'one', 'moped', 'parked', 'at', 'the', 'bike', 'rail', '.']
+['the', 'one', '.', 'there', 'is', 'at', 'rail', 'parked', 'moped', 'bike']
+8.612150057732663e-155
+
+['a', 'white', 'and', 'brown', 'dog', 'is', 'asleep', 'underneath', 'a', 'small', 'table', '.']
+['a', 'small', 'table', 'and', 'white', 'dog', 'is', 'a', 'brown', 'underneath', 'asleep', '.']
+0.3672056269893592
+
+['a', 'dog', 'is', 'standing', 'on', 'his', 'back', 'legs', 'looking', 'out', 'a', 'window', '.']
+['a', 'dog', 'is', 'a', 'window', 'looking', 'back', 'on', 'his', 'legs', 'standing', 'out', '.']
+5.3880935331694e-78
+
+['cows', 'are', 'sitting', 'in', 'a', 'field', '.']
+['in', 'a', 'field', '.', 'are', 'cows', 'sitting']
+0.5081327481546147
+
+['there', 'is', 'a', 'woman', 'sitting', 'at', 'a', 'table', '.']
+['a', 'table', 'at', 'a', 'woman', 'sitting', 'there', 'is', '.']
+6.676234799681113e-78
+
+['this', 'is', 'a', 'picture', 'of', 'a', 'kitchen', '.']
+['a', 'picture', 'of', 'this', 'is', 'a', 'kitchen', '.']
+9.88193314799387e-78
+
+['a', 'huge', ',', 'black', 'bull', 'with', 'white', 'horns', 'give', 'the', 'camera', 'the', 'eye', '.']
+['the', 'white', 'with', 'a', 'huge', ',', 'the', 'camera', 'eye', 'give', 'black', 'bull', 'horns', '.']
+5.167701971508585e-78
+
+['a', 'yellow', 'and', 'black', 'bird', 'eats', 'fruit', 'off', 'a', 'metal', 'grate', '.']
+['a', 'black', '.', 'off', 'a', 'metal', 'bird', 'eats', 'and', 'grate', 'yellow', 'fruit']
+4.963273987908844e-78
+
+['an', 'endless', 'field', 'of', 'adult', 'and', 'baby', 'sheep', '.']
+['and', 'of', 'an', 'adult', '.', 'baby', 'endless', 'field', 'sheep']
+8.869511863657866e-155
+
+['two', 'men', 'ride', 'a', 'two-person', 'bicycle', '.']
+['a', 'two', '.', 'men', 'bicycle', 'ride']
+9.975386110402101e-155
+
+['three', 'cows', 'are', 'in', 'a', 'barn', '.']
+['in', 'a', 'barn', 'three', 'cows', 'are', '.']
+8.776640122853315e-78
+
+['a', 'black', 'and', 'white', 'scene', 'of', 'a', 'living', 'room']
+['a', 'black', 'and', 'white', 'a', 'scene', 'of', 'living', 'room']
+0.48109772909788073
+
+['a', 'large', 'bag', 'of', 'cotton', 'balls', 'is', 'in', 'front', 'of', 'a', 'couch']
+['in', 'front', 'of', 'a', 'large', 'bag', 'of', 'cotton', 'is', 'balls', 'a', 'couch']
+0.6834466815318615
+
+['two', 'small', 'kids', 'looking', 'into', 'a', 'small', 'brick', 'house']
+['a', 'small', 'brick', 'house', 'looking', 'into', 'two', 'small', 'kids']
+0.5
+
+['a', 'boat', 'is', 'making', 'a', 'silhouette', 'against', 'the', 'horizon', '.']
+['the', 'boat', 'is', 'making', 'a', 'horizon', 'a', 'silhouette', 'against', '.']
+0.4153509237206396
+
+['the', 'sun', 'is', 'glaring', 'on', 'a', 'large', 'kid', 'riding', 'a', 'small', 'bicycle', '.']
+['the', 'small', '.', 'is', 'large', 'a', 'kid', 'a', 'bicycle', 'on', 'glaring', 'sun', 'riding']
+1.133422688662942e-154
+
+['a', 'plane', 'is', 'sitting', 'in', 'a', 'marsh']
+['in', 'a', 'plane', 'is', 'sitting', 'a', 'marsh']
+0.537284965911771
+
+['a', 'woman', 'lays', 'next', 'to', 'a', 'man', 'while', 'he', 'is', 'fishing']
+['he', 'is', 'a', 'while', 'fishing', 'to', 'a', 'woman', 'next', 'man', 'lays']
+1.1039579450411396e-154
+
+['a', 'cow', 'is', 'looking', 'at', 'the', 'camera', 'with', 'her', 'ears', 'standing', 'out', '.']
+['the', 'camera', 'is', 'at', 'a', 'cow', 'with', 'standing', 'looking', 'out', 'her', 'ears', '.']
+5.3880935331694e-78
+
+['a', 'car', 'is', 'driving', 'by', 'the', 'kuwait', 'towers', '.']
+['the', 'driving', 'a', 'car', 'is', 'kuwait', 'by', 'towers', '.']
+5.87583260478785e-78
+
+['a', 'row', 'of', 'cows', 'are', 'sitting', 'in', 'some', 'hay', '.']
+['in', 'a', 'row', 'of', 'hay', 'some', 'cows', 'are', 'sitting', '.']
+8.975482560776546e-78
+
+['the', 'lady', 'is', 'wearing', 'pajamas', 'and', 'bunny', 'slippers', 'and', 'is', 'smiling', '.']
+['the', 'lady', 'is', 'is', 'wearing', 'slippers', 'and', 'smiling', 'and', 'bunny', '.']
+6.206021746903507e-78
+
+['a', 'formal', 'dinning', 'room', 'with', 'dark', 'wood', 'furniture', '.']
+['a', 'formal', 'furniture', 'with', 'dark', 'wood', 'room', '.']
+6.784827072174911e-78
+
+['a', 'plane', 'taxis', 'down', 'a', 'tarmac', '.']
+['a', 'a', '.', 'down', 'taxis', 'plane', 'tarmac']
+1.821831989445342e-231
+
+['a', 'brightly-painted', 'rolls', 'royce', 'sits', 'on', 'display', '.']
+['a', '.', 'on', 'display', 'royce', 'sits', 'rolls']
+1.133422688662942e-154
+
+['a', 'small', 'plane', 'sits', 'on', 'the', 'runway', '.']
+['the', 'small', 'plane', 'on', 'runway', 'a', 'sits', '.']
+9.170599044431425e-155
+
+['a', 'group', 'of', 'cars', 'crosses', 'the', 'road', 'in', 'front', 'of', 'cars', '.']
+['the', 'front', 'of', 'a', 'group', 'of', 'cars', 'cars', 'in', 'road', 'crosses', '.']
+0.31702331385234306
+
+['two', 'round', 'headlights', 'decorate', 'one', 'side', 'of', 'the', 'blue', 'classic', 'car', '.']
+['the', 'two', 'of', 'one', '.', 'classic', 'car', 'side', 'round', 'decorate', 'blue', 'headlights']
+8.190757052088229e-155
+
+['a', 'metro', 'train', 'makes', 'a', 'curve', 'around', 'the', 'tracks', '.']
+['the', 'train', 'a', 'curve', 'around', 'makes', 'tracks', 'a', 'metro', '.']
+5.929498746342409e-78
+
+['a', 'mans', 'celebrating', 'his', 'birthday', 'with', 'a', 'cake', 'and', 'candles', '.']
+['a', '.', 'and', 'his', 'birthday', 'cake', 'celebrating', 'a', 'mans', 'with', 'candles']
+5.929498746342409e-78
+
+['people', 'walking', 'by', 'a', 'tour', 'bus', '.']
+['a', 'bus', 'by', 'people', 'walking', 'tour', '.']
+1.133422688662942e-154
+
+['several', 'white', 'sheep', 'graze', 'in', 'a', 'grassy', 'field', '.']
+['in', 'several', 'white', 'sheep', 'graze', 'a', 'grassy', 'field', '.']
+0.6147881529512643
+
+['a', 'cluttered', 'computer', 'desk', 'with', 'a', 'lot', 'of', 'water', 'bottles', '.']
+['a', 'computer', '.', 'lot', 'of', 'water', 'bottles', 'with', 'a', 'cluttered', 'desk']
+0.4591497693322866
+
+['the', 'rundown', 'bus', 'is', 'plastered', 'with', 'graffiti', '.']
+['the', 'bus', '.', 'is', 'with', 'graffiti', 'rundown', 'plastered']
+6.313993041533344e-78
+
+['the', 'old', 'train', 'is', 'coming', 'down', 'the', 'tracks', '.']
+['the', 'train', 'is', 'coming', 'down', 'the', 'old', 'tracks', '.']
+0.6389431042462724
+
+['view', 'of', 'the', 'airport', 'from', 'just', 'above', 'an', 'airplanes', 'propeller', '.']
+['the', 'view', 'from', 'an', 'airport', 'just', 'above', 'of', 'propeller', '.']
+1.2179419412838124e-154
+
+['a', 'man', 'is', 'looking', 'at', 'large', 'computer', 'monitors', '.']
+['a', 'man', 'is', 'looking', 'at', 'large', 'computer', 'monitors', '.']
+1.0
+
+['a', 'brown', 'and', 'white', 'looking', 'over', 'the', 'back', 'of', 'a', 'chair', '.']
+['the', 'back', 'of', 'a', 'white', 'and', 'looking', 'over', 'a', 'brown', 'chair', '.']
+0.39458812555917666
+
+['a', 'seated', 'man', 'showing', 'a', 'bib', 'and', 'a', 'baby', 'rattle', '.']
+['a', 'baby', '.', 'man', 'seated', 'and', 'showing', 'a', 'rattle', 'a', 'bib']
+5.607773684948284e-78
+
+['race', 'car', 'passing', 'by', 'as', 'bystanders', 'watch', '.']
+['as', 'by', '.', 'passing', 'car', 'race', 'watch', 'bystanders']
+9.170599044431425e-155
+
+['a', 'pasture', 'with', 'cows', 'grazing', 'on', 'the', 'grass', '.']
+['the', 'grass', 'with', 'a', 'pasture', 'on', 'grazing', 'cows', '.']
+1.0547686614863434e-154
+
+['a', 'train', 'on', 'the', 'tracks', 'heading', 'out', '.']
+['the', 'train', 'on', 'a', 'heading', 'out', 'tracks', '.']
+1.2969185543721047e-154
+
+['a', 'baby', 'is', 'holding', 'a', 'ketchup', 'packet', '.']
+['a', 'baby', '.', 'a', 'is', 'holding', 'ketchup', 'packet']
+6.784827072174911e-78
+
+['train', 'at', 'a', 'sidewalk', 'intersection', '.']
+['a', 'train', '.', 'at', 'sidewalk', 'intersection']
+1.1862800137389335e-154
+
+['jade', 'cargo', 'airplane', 'at', 'takeoff', '.']
+['at', '.', 'cargo', 'jade', 'airplane']
+1.4915898767001428e-231
+
+['a', 'couple', 'sit', 'together', 'on', 'a', 'multicolored', 'couch', '.']
+['a', '.', 'a', 'couch', 'on', 'couple', 'sit', 'together']
+6.313993041533344e-78
+
+['two', 'rams', 'stand', 'by', 'a', 'beautiful', 'hillside', 'lake', '.']
+['a', 'beautiful', '.', 'by', 'two', 'stand', 'lake', 'hillside', 'rams']
+8.869511863657866e-155
+
+['a', 'small', 'cow', 'is', 'nursing', 'from', 'a', 'larger', 'cow', '.']
+['a', 'larger', '.', 'a', 'cow', 'from', 'nursing', 'is', 'small', 'cow']
+1.133422688662942e-154
+
+['a', 'person', 'with', 'a', 'helmet', 'is', 'trying', 'to', 'get', 'on', 'a', 'moving', 'motorcycle', '.']
+['a', 'person', 'is', 'to', 'get', 'a', 'moving', 'with', 'a', 'motorcycle', 'helmet', 'on', 'trying', '.']
+6.432062707336974e-78
+
+['a', 'group', 'of', 'people', 'all', 'dressed', 'alike', 'are', 'standing', 'near', 'a', 'bus', '.']
+['a', 'bus', 'group', 'of', 'a', 'standing', 'near', 'people', 'are', 'all', 'dressed', 'alike', '.']
+5.860938105778317e-78
+
+['a', 'horse', 'is', 'wearing', 'a', 'blue', 'bridle', '.']
+['a', 'horse', 'is', 'wearing', 'blue', 'a', 'bridle', '.']
+0.5169731539571706
+
+['a', 'group', 'of', 'animals', 'are', 'lying', 'in', 'the', 'shade', 'of', 'a', 'tree', '.']
+['the', 'tree', 'in', 'a', 'group', 'of', 'a', 'shade', 'of', 'animals', 'are', 'lying', '.']
+0.4272870063962341
+
+['two', 'steamboats', 'are', 'in', 'the', 'ocean', '.']
+['the', 'ocean', 'are', 'in', 'two', '.']
+1.1862800137389335e-154
+
+['tiny', 'green', 'sprouts', 'in', 'a', 'small', 'terra', 'cotta', 'pot', '.']
+['in', 'a', 'small', '.', 'tiny', 'green', 'sprouts', 'pot', 'terra']
+7.508645449069235e-78
+
+['beer', 'brewed', 'in', 'a', 'green', 'bottle', 'with', 'a', 'fancy', 'top', '.']
+['in', 'a', 'bottle', 'green', 'with', 'top', 'fancy', 'a', 'beer', 'brewed', '.']
+5.607773684948284e-78
+
+['people', 'standing', 'around', 'an', 'old', 'fashioned', 'train', 'with', 'the', 'number', '1225', 'on', 'it', '.']
+['the', 'number', 'with', 'an', 'old', 'fashioned', 'it', 'around', 'people', 'standing', 'on', 'train', '.']
+6.969869295982248e-78
+
+['a', 'red', 'double-decker', 'bus', 'in', 'front', 'of', 'big', 'ben', '.']
+['in', 'front', 'a', 'big', 'ben', 'of', 'red', 'double-decker', 'bus', '.']
+6.562069055463047e-78
+
+['a', 'tan', 'colored', 'dairy', 'cow', 'looking', 'at', 'the', 'camera']
+['the', 'camera', 'a', 'tan', 'looking', 'at', 'dairy', 'cow']
+1.2969185543721047e-154
+
+['an', 'office', 'space', 'with', 'a', 'printer', 'and', 'computer']
+['a', 'computer', 'with', 'an', 'office', 'space', 'and', 'printer']
+7.1740811735312e-78
+
+['the', 'bird', 'was', 'in', 'the', 'tree', '.']
+['the', 'bird', 'was', 'in', 'the', 'tree', '.']
+1.0
+
+['the', 'people', 'raced', 'their', 'bikes', '.']
+['the', 'people', '.', 'their', 'bikes', 'raced']
+1.312834642906688e-154
+
+['an', 'emaciated', 'white', 'cow', 'with', 'droopy', 'ears', '.']
+['with', 'an', '.', 'ears', 'cow', 'white', 'emaciated']
+1.821831989445342e-231
+
+['a', 'blue', 'train', 'outside', 'of', 'a', 'teal', 'city', 'building', '.']
+['a', 'building', 'a', 'blue', 'train', 'outside', 'city', 'of', 'teal', '.']
+0.3549481056010053
+
+['a', 'meeting', 'is', 'being', 'held', 'in', 'a', 'building', '.']
+['in', 'a', 'building', 'is', 'being', 'held', 'a', 'meeting', '.']
+7.939425925209436e-78
+
+['a', 'cat', 'is', 'hiding', 'in', 'the', 'window', 'blinds', '.']
+['the', 'cat', 'is', 'a', 'window', 'blinds', 'in', 'hiding', '.']
+6.313993041533344e-78
+
+['a', 'mother', 'penguin', 'feeding', 'her', 'young', '.']
+['a', 'mother', 'feeding', 'her', 'young', 'penguin', '.']
+7.380245217279165e-78
+
+['a', 'statue', 'in', 'front', 'of', 'a', 'whiskey', 'bottle', '.']
+['in', 'front', 'a', 'a', 'statue', 'of', 'whiskey', 'bottle', '.']
+8.309682159925016e-78
+
+['a', 'man', 'is', 'walking', 'a', 'dog', 'at', 'the', 'waterline', 'on', 'a', 'beach', '.']
+['the', 'beach', 'at', 'a', 'dog', 'is', 'a', 'man', 'on', 'a', 'walking', '.']
+1.1583479709166584e-154
+
+['cows', 'are', 'grazing', 'in', 'a', 'median', '.']
+['in', 'are', 'grazing', 'cows', 'a', 'median', '.']
+6.86809206056511e-78
+
+['a', 'fighter', 'airplane', 'is', 'sitting', 'with', 'its', 'cock', 'pit', 'open', 'at', 'a', 'hangar', '.']
+['a', '.', 'a', 'sitting', 'with', 'its', 'open', 'at', 'fighter', 'airplane', 'hangar', 'is', 'cock', 'pit']
+5.167701971508585e-78
+
+['a', 'tv', 'is', 'on', 'in', 'a', 'very', 'swanky', 'living', 'room', '.']
+['in', 'a', 'very', 'room', 'is', 'a', 'living', 'on', 'tv', '.']
+6.269681580989379e-78
+
+['a', 'ship', 'is', 'anchored', 'off', 'shore', '.']
+['a', 'ship', 'is', 'anchored', 'off', 'shore', '.']
+1.0
+
+['a', 'cow', 'is', 'standing', 'in', 'a', 'pen', '.']
+['in', 'is', 'standing', 'a', 'pen', 'a', 'cow', '.']
+1.2069187085583323e-154
+
+['a', 'train', 'is', 'going', 'down', 'a', 'track', '.']
+['a', 'train', 'is', 'going', 'down', 'a', 'track', '.']
+1.0
+
+['a', 'panama', 'canal', 'train', 'is', 'going', 'down', 'a', 'track', 'away', 'from', 'the', 'camera', '.']
+['the', 'track', 'down', 'a', 'train', 'is', 'going', 'away', 'from', 'panama', 'canal', 'a', 'camera', '.']
+6.911701184907751e-78
+
+['black', 'sheep', 'looking', 'directly', 'into', 'the', 'camera', '.']
+['the', 'camera', 'looking', 'directly', 'into', 'black', 'sheep', '.']
+7.1740811735312e-78
+
+['group', 'of', 'cyclists', 'riding', 'on', 'a', 'bridge', '.']
+['a', 'bridge', 'on', 'group', 'of', 'cyclists', 'riding', '.']
+0.4417918226831577
+
+['a', 'woman', 'sits', 'on', 'a', 'couch', 'and', 'holds', 'a', 'crying', 'baby', '.']
+['a', 'woman', 'on', '.', 'and', 'holds', 'a', 'couch', 'a', 'crying', 'baby', 'sits']
+7.294910122145053e-78
+
+['two', 'men', 'play', 'a', 'game', 'of', 'cards', 'at', 'a', 'kitchen', 'counter', '.']
+['a', 'game', 'of', 'two', 'men', 'a', 'kitchen', 'counter', 'at', 'play', 'cards', '.']
+8.073145138016786e-78
+
+['dad', 'and', 'his', 'two', 'sons', 'poising', 'for', 'a', 'picture', '.']
+['a', 'picture', 'for', 'two', 'sons', 'and', 'his', 'dad', '.']
+1.1672934071334108e-154
+
+['two', 'sheep', 'outside']
+['two', 'sheep', 'outside']
+1.2213386697554703e-77
+
+['a', 'yellow', 'motorcycle', 'parked', 'with', 'a', 'black', 'jacket', 'on', 'the', 'ground', 'beside', 'it', '.']
+['the', 'black', '.', 'it', 'on', 'a', 'yellow', 'ground', 'with', 'parked', 'beside', 'a', 'motorcycle', 'jacket']
+6.432062707336974e-78
+
+['a', 'close', 'up', 'of', 'a', 'plant', 'sprouting', 'from', 'a', 'blue', 'container', '.']
+['a', 'close', 'up', 'a', 'blue', 'of', 'plant', 'from', 'sprouting', 'a', 'container', '.']
+5.333384990808849e-78
+
+['a', 'bright', 'yellow', 'and', 'orange', 'bird', 'perched', 'in', 'a', 'cage', '.']
+['in', 'a', 'bright', 'yellow', 'and', 'orange', 'a', 'cage', 'bird', 'perched', '.']
+0.49144984054308527
+
+['an', 'empty', 'city', 'bus', 'passes', 'by', 'at', 'night', '.']
+['at', 'an', 'empty', 'bus', 'passes', 'by', 'night', 'city', '.']
+5.87583260478785e-78
+
+['a', 'laptop', 'and', 'a', 'desktop', 'are', 'perched', 'on', 'a', 'desk', '.']
+['a', 'and', 'a', 'desk', '.', 'are', 'perched', 'on', 'desktop', 'a', 'laptop']
+7.380245217279165e-78
+
+['a', 'yellow', 'school', 'bus', 'is', 'parked', 'in', 'a', 'lot', '.']
+['in', 'a', 'lot', 'is', 'yellow', 'a', 'school', 'bus', 'parked', '.']
+0.43472087194499137
+
+['a', 'man', 'maneuvers', 'his', 'bike', 'down', 'a', 'step', '.']
+['a', 'step', 'down', 'his', 'bike', 'a', 'man', '.']
+1.2069187085583323e-154
+
+['a', 'man', 'trying', 'to', 'make', 'a', 'puppy', 'drop', 'something', 'from', 'its', 'mouth', '.']
+['a', 'man', 'from', 'its', 'mouth', 'a', 'drop', 'something', 'trying', 'to', 'make', 'puppy', '.']
+6.969869295982248e-78
+
+['a', 'horse', 'in', 'a', 'field', 'coming', 'towards', 'the', 'camera', '.']
+['the', 'coming', 'towards', 'a', 'horse', 'in', 'a', 'field', 'camera', '.']
+0.5169731539571706
+
+['four', 'people', 'floating', 'on', 'a', 'boat']
+['a', 'boat', 'floating', 'on', 'four', 'people']
+1.410732632723846e-154
+
+['a', 'baby', 'dressed', 'in', 'lavender', 'colored', 'clothing', ',', 'with', 'a', 'blue', 'bib', 'on']
+['in', 'with', ',', 'dressed', 'baby', 'blue', 'clothing', 'a', 'bib', 'on', 'a', 'lavender']
+5.333384990808849e-78
+
+['two', 'guys', 'standing', 'next', 'to', 'another', 'person', 'on', 'a', 'motorcycle', '.']
+['a', 'person', '.', 'two', 'guys', 'next', 'to', 'another', 'standing', 'on', 'motorcycle']
+5.929498746342409e-78
+
+['a', 'brunette', 'lady', 'smiling', 'at', 'the', 'camera', '.']
+['the', 'lady', '.', 'a', 'camera', 'at', 'brunette', 'smiling']
+9.170599044431425e-155
+
+['a', 'blue', 'scooter', 'parked', 'next', 'to', 'a', 'little', 'bit', 'of', 'ice', '.']
+['a', 'bit', 'of', 'little', 'blue', 'ice', 'to', 'next', 'parked', 'a', 'scooter', '.']
+1.077964250266083e-154
+
+['a', 'man', 'doing', 'a', 'stunt', 'jump', 'on', 'his', 'dirt', 'bike', '.']
+['a', 'man', '.', 'a', 'bike', 'on', 'his', 'doing', 'jump', 'stunt', 'dirt']
+1.1862800137389335e-154
+
+['a', 'view', 'of', 'a', 'small', 'bedroom', 'with', 'colorful', 'wallpaper', 'and', 'some', 'pictures', 'on', 'the', 'wall', '.']
+['the', 'wall', 'and', 'on', 'a', 'view', 'of', 'a', 'small', 'bedroom', 'wallpaper', 'with', 'some', 'pictures', '.']
+0.45788313721339824
+
+['an', 'airplane', 'is', 'sitting', 'on', 'the', 'runway', '.']
+['the', 'runway', 'is', 'an', 'airplane', 'on', 'sitting', '.']
+1.2069187085583323e-154
+
+['a', 'cat', 'laying', 'ona', 'bag', 'of', 'litter']
+['a', 'cat', 'of', 'laying', 'bag', 'litter']
+9.975386110402101e-155
+
+['a', 'man', 'standing', 'next', 'to', 'a', 'pile', 'of', 'rubble']
+['a', 'pile', 'of', 'a', 'man', 'standing', 'next', 'to', 'rubble']
+0.6389431042462724
+
+['people', 'walking', 'down', 'the', 'sidewalk', 'not', 'far', 'from', 'the', 'bus', 'stop', '.']
+['the', 'people', '.', 'the', 'far', 'from', 'down', 'not', 'bus', 'stop', 'sidewalk', 'walking']
+9.740506563602454e-155
+
+['a', 'abandon', 'building', 'with', 'shrubs', 'growing', 'everywhere', '.']
+['a', 'growing', '.', 'with', 'building', 'shrubs', 'abandon', 'everywhere']
+1.821831989445342e-231
+
+['a', 'girl', 'in', 'a', 'red', 'shirt', 'is', 'riding', 'a', 'horse', '.']
+['in', 'a', 'girl', 'is', 'a', 'horse', 'riding', 'a', 'red', 'shirt', '.']
+8.776640122853315e-78
+
+['a', 'close-up', 'view', 'of', 'a', 'horse', 'that', 'is', 'looking', 'at', 'the', 'camera', '.']
+['the', 'view', 'of', 'a', 'horse', 'is', 'that', 'at', 'a', 'close-up', 'camera', 'looking', '.']
+0.34172334076593075
+
+['the', 'cow', 'is', 'about', 'to', 'be', 'milked', '.']
+['the', 'cow', 'is', 'about', 'to', 'be', 'milked', '.']
+1.0
+
+['the', 'trolley', 'is', 'waiting', 'for', 'people', 'to', 'get', 'on', '.']
+['the', 'waiting', 'for', 'people', 'on', 'to', 'get', 'trolley', 'is', '.']
+6.269681580989379e-78
+
+['air', 'canada', 'commercial', 'airplane', 'in', 'flight', '.']
+['in', '.', 'commercial', 'flight', 'canada', 'airplane', 'air']
+9.53091075863908e-155
+
+['train', 'resting', 'on', 'the', 'tracks', 'right', 'by', 'a', 'switchback', '.']
+['the', 'right', 'by', 'train', 'a', 'resting', 'on', 'tracks', '.']
+6.313993041533344e-78
+
+['man', 'pops', 'a', 'wheelie', 'on', 'a', 'motorbike', 'on', 'blacktop', '.']
+['a', 'man', 'on', 'a', 'motorbike', 'on', 'pops', '.']
+0.6606328636027614
+
+['a', 'calf', 'sits', 'among', 'the', 'hall', 'around', 'other', 'cows', '.']
+['the', 'hall', 'a', 'calf', 'cows', 'among', 'other', 'sits', 'around', '.']
+1.024163012412722e-154
+
+['a', 'cat', 'sits', 'sleepily', 'within', 'a', 'beaten-up', 'tarp', '.']
+['a', 'cat', 'sits', 'within', 'a', 'sleepily', '.']
+6.86809206056511e-78
+
+['a', 'motor', 'bike', 'sits', 'outside', 'in', 'the', 'sun', '.']
+['the', 'sun', 'in', 'motor', 'sits', 'a', 'bike', 'outside', '.']
+1.1672934071334108e-154
+
+['a', 'man', 'stands', 'happily', 'next', 'to', 'a', 'yellow', 'car', '.']
+['a', 'car', '.', 'a', 'yellow', 'man', 'stands', 'next', 'to', 'happily']
+0.43472087194499137
+
+['two', 'men', 'pose', 'on', 'the', 'stern', 'of', 'a', 'ship', '.']
+['the', 'ship', 'on', 'two', 'men', 'a', 'stern', 'of', 'pose', '.']
+1.133422688662942e-154
+
+['a', 'motocross', 'rider', 'on', 'a', 'muddy', 'track', '.']
+['a', 'track', 'on', 'muddy', 'a', 'rider', '.']
+9.53091075863908e-155
+
+['a', 'man', 'with', 'a', 'young', 'girl', 'on', 'a', 'beach', 'next', 'to', 'a', 'cart', '.']
+['a', 'young', 'girl', 'with', 'a', 'man', 'on', 'a', 'a', 'beach', 'next', 'to', 'cart', '.']
+0.38058030016749456
+
+['a', 'computer', 'monitor', 'and', 'keyboard', 'on', 'a', 'desk', '.']
+['a', 'computer', 'keyboard', 'on', 'a', 'desk', 'and', 'monitor', '.']
+0.48109772909788073
+
+['three', 'cows', 'pose', 'for', 'a', 'picture', 'in', 'the', 'field', '.']
+['the', 'picture', 'for', 'a', 'field', 'three', 'cows', 'in', 'pose', '.']
+1.2179419412838124e-154
+
+['a', 'girl', 'and', 'her', 'dog', 'pose', 'for', 'a', 'picture', 'under', 'the', 'christmas', 'tree', '.']
+['the', 'dog', 'for', 'a', 'girl', 'under', 'a', 'picture', 'her', 'christmas', 'tree', 'and', 'pose', '.']
+6.684777663987187e-78
+
+['a', 'black', 'and', 'white', 'photo', 'shows', 'a', 'littered', 'street', '.']
+['a', 'black', 'and', 'a', 'white', '.', 'street', 'shows', 'littered', 'photo']
+5.929498746342409e-78
+
+['an', 'extreme', 'dirt', 'biker', 'jumps', 'over', 'a', 'hill', '.']
+['a', '.', 'an', 'extreme', 'dirt', 'over', 'jumps', 'biker', 'hill']
+5.30941411456236e-78
+
+['a', 'horse', 'is', 'standing', 'in', 'the', 'grass', '.']
+['the', 'grass', 'is', 'a', 'horse', 'standing', 'in', '.']
+0.5169731539571706
+
+['a', 'couple', 'is', 'sitting', 'with', 'their', 'little', 'dog', 'on', 'a', 'couch', '.']
+['a', 'couple', 'with', 'a', 'dog', 'is', 'little', 'sitting', 'on', 'their', 'couch', '.']
+7.019129387474291e-78
+
+['a', 'blonde', 'is', 'sitting', 'at', 'a', 'table', 'full', 'of', 'paints', 'and', 'brushes', '.']
+['a', 'full', 'of', 'a', 'and', 'at', 'table', 'sitting', '.', 'is', 'blonde', 'paints', 'brushes']
+9.53091075863908e-155
+
+['a', 'living', 'room', 'with', 'a', 'beige', 'couch', 'and', 'a', 'fireplace', '.']
+['a', 'and', 'with', 'living', 'room', 'fireplace', 'a', 'couch', 'a', 'beige', '.']
+1.1039579450411396e-154
+
+['a', 'white', 'bird', 'biting', 'a', 'miniature', 'shopping', 'cart', '.']
+['a', 'white', '.', 'a', 'bird', 'biting', 'miniature', 'cart', 'shopping']
+1.1672934071334108e-154
+
+['a', 'blue', 'and', 'yellow', 'airplane', 'flying', 'in', 'the', 'air', '.']
+['the', 'blue', 'and', 'a', 'flying', 'in', 'yellow', 'air', 'airplane', '.']
+1.133422688662942e-154
+
+['a', 'continental', 'airplane', 'on', 'a', 'landing', 'strip', 'at', 'the', 'airport', '.']
+['the', 'a', 'a', '.', 'at', 'on', 'landing', 'strip', 'continental', 'airplane', 'airport']
+9.975386110402101e-155
+
+['the', 'person', 'is', 'taking', 'a', 'picture', 'of', 'their', 'hotel', 'room', '.']
+['the', 'person', 'is', 'a', 'picture', 'of', 'taking', 'their', 'hotel', 'room', '.']
+0.4591497693322866
+
+['a', 'luggage', 'carrier', 'is', 'out', 'in', 'the', 'snow', 'by', 'the', 'airplane', '.']
+['the', 'snow', 'in', 'the', 'carrier', 'is', 'a', 'luggage', 'out', 'by', 'airplane', '.']
+1.2248038575119736e-154
+
+['an', 'aeromexico', 'plane', 'is', 'taxing', 'on', 'a', 'runway', '.']
+['a', 'plane', '.', 'on', 'runway', 'is', 'taxing', 'an']
+1.2069187085583323e-154
+
+['a', 'car', 'and', 'several', 'buses', 'are', 'parked', 'near', 'a', 'large', 'historic', 'building', '.']
+['a', 'large', 'and', 'a', 'car', 'parked', 'buses', 'are', 'several', 'historic', 'building', 'near', '.']
+1.254338396921439e-154
+
+['a', 'grey', 'cat', 'lays', 'on', 'a', 'wooden', 'table', 'with', 'a', 'chip', 'dip', 'plate', '.']
+['a', 'a', 'a', 'table', '.', 'on', 'grey', 'cat', 'with', 'wooden', 'plate', 'lays', 'chip', 'dip']
+6.145467952731514e-78
+
+['two', 'potted', 'herb', 'plants', 'sit', 'outside', 'an', 'upstairs', 'window', '.']
+['an', 'outside', '.', 'two', 'plants', 'upstairs', 'window', 'potted', 'sit', 'herb']
+1.133422688662942e-154
+
+['a', 'woman', 'stands', 'by', 'a', 'u2', 'sign']
+['a', 'sign', 'a', 'woman', 'stands', 'by', 'u2']
+0.5081327481546147
+
+['a', 'white', 'limo', 'is', 'waiting']
+['a', 'white', 'is', 'waiting', 'limo']
+1.254338396921439e-154
+
+['a', 'woman', 'is', 'riding', 'a', 'bike', 'in', 'a', 'forest', '.']
+['in', 'a', 'woman', 'is', 'a', 'a', 'bike', 'riding', 'forest', '.']
+7.803659209895733e-78
+
+['a', 'black', 'bird', 'is', 'sitting', 'on', 'concrete', '.']
+['a', 'bird', 'is', 'sitting', 'on', 'concrete', 'black', '.']
+0.7311104457090247
+
+['a', 'rider', 'gallops', 'past', 'during', 'the', 'horse', 'show', '.']
+['the', 'past', '.', 'a', 'horse', 'show', 'during', 'rider', 'gallops']
+1.1672934071334108e-154
+
+['a', 'dog', 'stands', 'at', 'attention', 'in', 'the', 'construction', 'site', '.']
+['the', 'construction', 'in', 'a', 'dog', 'site', 'stands', 'at', 'attention', '.']
+6.269681580989379e-78
+
+['a', 'cat', 'sitting', 'on', 'a', 'sidewalk', 'in', 'between', 'two', 'bicycles']
+['in', 'two', 'between', 'sitting', 'on', 'bicycles', 'a', 'sidewalk', 'a', 'cat']
+1.133422688662942e-154
+
+['a', 'family', 'playing', 'scrabble']
+['a', 'scrabble', 'playing', 'family']
+1.821831989445342e-231
+
+['an', 'owl', 'is', 'looking', 'towards', 'the', 'camera', '.']
+['the', 'camera', 'is', 'looking', 'towards', 'an', 'owl', '.']
+8.531468375170499e-78
+
+['a', 'guy', 'is', 'standing', 'in', 'front', 'of', 'a', 'fountain', 'in', 'a', 'square', '.']
+['in', 'a', 'is', 'in', 'front', 'of', 'standing', 'square', 'a', 'guy', 'a', 'fountain', '.']
+6.70637658081224e-78
+
+['a', 'girl', 'holds', 'a', 'happy', 'golden', 'retriever', 'puppy']
+['a', 'happy', 'girl', 'holds', 'a', 'golden', 'retriever', 'puppy']
+0.5410822690539396
+
+['a', 'green', 'bus', 'passes', 'by', 'the', 'driver']
+['the', 'green', 'bus', 'passes', 'by', 'a', 'driver']
+0.5623413251903491
+
+['a', 'double', 'decked', 'bus', ',', 'in', 'london', ',', 'driving', 'through', 'traffic']
+['in', 'a', 'bus', 'driving', 'through', 'london', 'traffic', ',', 'decked', ',', 'double']
+0.47287080450158786
+
+['two', 'computer', 'monitors', 'with', 'displays', 'on', 'each', 'one']
+['on', 'each', 'one', 'computer', 'monitors', 'with', 'two', 'displays']
+8.531468375170499e-78
+
+['two', 'dogs', 'and', 'a', 'cat', 'sitting', 'on', 'a', 'couch', 'posing', '.']
+['a', 'a', 'and', 'on', '.', 'two', 'dogs', 'couch', 'posing', 'cat', 'sitting']
+1.1039579450411396e-154
+
+['a', 'kneeling', 'man', 'next', 'to', 'a', 'sunflower', 'posing', '.']
+['a', 'man', '.', 'a', 'to', 'next', 'sunflower', 'posing', 'kneeling']
+1.0547686614863434e-154
+
+['an', 'aircraft', ',', 'grounded', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'an', 'aircraft', ',', 'grounded', '.']
+0.5169731539571706
+
+['a', 'flock', 'of', 'sheep', 'being', 'being', 'herded', 'by', 'a', 'dog', '.']
+['a', 'dog', 'of', 'being', 'a', 'flock', 'by', 'being', 'herded', 'sheep', '.']
+1.1862800137389335e-154
+
+['this', 'is', 'a', 'picture', 'of', 'a', 'small', 'black', 'and', 'white', 'dog', '.']
+['a', 'small', 'black', 'and', 'this', 'is', 'a', 'picture', 'of', 'white', 'dog', '.']
+0.6360188027707555
+
+['an', 'airplane', 'is', 'sitting', 'on', 'a', 'runway', 'being', 'unloaded', '.']
+['a', 'is', 'an', '.', 'on', 'being', 'unloaded', 'airplane', 'sitting', 'runway']
+8.612150057732663e-155
+
+['a', 'woman', 'sitting', 'in', 'a', 'waiting', 'area', '.']
+['in', 'a', 'a', 'woman', 'sitting', 'waiting', 'area', '.']
+8.531468375170499e-78
+
+['a', 'group', 'of', 'people', 'posing', 'around', 'a', 'dinner', 'table', 'at', 'a', 'restaurant', '.']
+['a', 'group', 'of', 'people', 'around', 'at', 'dinner', 'table', 'a', 'restaurant', 'a', 'posing', '.']
+0.3209138982794099
+
+['the', 'bridge', 'is', 'wet', 'with', 'rain', 'as', 'three', 'bikers', 'ride', 'over', 'it', '.']
+['the', 'bridge', 'over', 'it', 'is', 'as', 'with', 'rain', 'wet', 'ride', 'three', 'bikers', '.']
+1.133422688662942e-154
+
+['a', 'bicyclist', 'makes', 'a', 'gesture', 'as', 'he', 'rides', 'along', '.']
+['he', 'makes', 'a', 'a', 'gesture', 'as', 'rides', 'along', '.']
+7.939425925209436e-78
+
+['a', 'bus', 'turns', 'around', 'a', 'corner', 'with', 'a', 'brick', 'wall', '.']
+['a', 'corner', 'with', 'around', 'a', 'bus', 'turns', 'a', 'brick', 'wall', '.']
+0.4591497693322866
+
+['the', 'futon', 'is', 'folded', 'over', 'between', 'the', 'bright', 'blue', 'couch', 'and', 'another', 'futon', '.']
+['the', 'bright', 'blue', 'and', 'the', 'couch', 'between', 'is', 'another', 'folded', 'over', '.']
+5.333384990808849e-78
+
+['a', 'jet', 'airplane', 'is', 'sitting', 'on', 'the', 'runway', '.']
+['the', 'sitting', 'is', 'a', 'jet', 'airplane', 'on', 'runway', '.']
+6.313993041533344e-78
+
+['an', 'incomplete', 'glass', 'of', 'wine', 'is', 'sitting', 'with', 'the', 'table', 'center', 'pieces', '.']
+['the', 'table', '.', 'an', 'incomplete', 'is', 'sitting', 'with', 'wine', 'glass', 'pieces', 'of', 'center']
+6.969869295982248e-78
+
+['two', 'dogs', 'are', 'lounging', 'on', 'carpet', 'next', 'to', 'a', 'couch', '.']
+['a', 'two', '.', 'on', 'to', 'next', 'are', 'dogs', 'lounging', 'couch', 'carpet']
+1.821831989445342e-231
+
+['a', 'tiny', 'baby', 'is', 'sitting', 'buckled', 'into', 'a', 'car', 'seat', '.']
+['a', 'car', 'is', 'sitting', 'into', 'tiny', 'baby', 'seat', 'a', 'buckled', '.']
+1.1862800137389335e-154
+
+['a', 'commercial', 'plane', 'taking', 'of', 'the', 'run-way', 'at', 'the', 'airport', '.']
+['the', 'plane', 'of', 'the', 'airport', 'at', 'taking', 'a', 'commercial', '.']
+1.2179419412838124e-154
+
+['some', 'sheep', 'on', 'the', 'farm', 'with', 'big', 'wooly', 'coats', '.']
+['the', 'big', 'with', 'some', 'sheep', 'farm', 'on', 'coats', '.']
+1.0547686614863434e-154
+
+['a', 'sheep', 'sticking', 'its', 'head', 'out', 'of', 'a', 'fence', 'smelling', 'a', 'small', 'boy', '.']
+['a', 'small', 'boy', 'of', 'its', 'head', 'out', 'smelling', 'a', 'sheep', 'fence', 'a', 'sticking', '.']
+6.432062707336974e-78
+
+['a', 'white', 'and', 'black', 'cat', 'sleeping', 'on', 'a', 'purple', 'blanket', '.']
+['a', 'white', 'on', 'a', 'black', 'cat', 'sleeping', 'blanket', 'and', 'purple', '.']
+5.929498746342409e-78
+
+['a', 'race', 'horse', 'is', 'being', 'worked', 'in', 'a', 'paddock', '.']
+['in', 'a', 'horse', 'race', 'is', 'being', 'worked', 'a', 'paddock', '.']
+7.803659209895733e-78
+
+['sheep', 'are', 'sitting', 'in', 'a', 'field', '.']
+['in', 'sheep', 'are', 'sitting', 'a', 'field', '.']
+8.776640122853315e-78
+
+['a', 'white', 'locomotive', 'approaches', 'a', 'switch', 'in', 'the', 'tracks']
+['the', 'white', 'in', 'approaches', 'a', 'locomotive', 'a', 'switch', 'tracks']
+1.1672934071334108e-154
+
+['there', 'is', 'an', 'empty', 'dining', 'room', 'table', 'in', 'an', 'empty', 'dining', 'room', '.']
+['in', 'an', 'empty', 'table', 'there', 'an', 'empty', 'dining', 'room', 'is', 'dining', 'room', '.']
+0.4172261448611506
+
+['two', 'motorcycles', 'sitting', 'in', 'a', 'garage', '.']
+['in', 'a', 'two', '.', 'motorcycles', 'garage', 'sitting']
+9.53091075863908e-155
+
+['several', 'boats', 'floating', 'in', 'a', 'lake', '.']
+['in', 'several', 'boats', 'floating', 'a', 'lake', '.']
+8.776640122853315e-78
+
+['a', 'bull', 'staring', 'down', 'the', 'camera', 'in', 'an', 'open', 'field', '.']
+['the', 'field', 'a', 'camera', 'down', 'an', 'open', 'staring', 'in', 'bull', '.']
+8.38826642100846e-155
+
+['a', 'water', 'bottle', 'sitting', 'in', 'the', 'car', 'cup', 'holder', '.']
+['the', 'car', 'in', 'water', 'bottle', 'sitting', 'a', 'cup', 'holder', '.']
+0.43472087194499137
+
+['a', 'man', 'is', 'standing', 'on', 'snowy', 'ground', 'in', 'front', 'of', 'a', 'bus', '.']
+['in', 'front', 'is', 'a', 'bus', 'on', 'a', 'man', 'standing', 'of', 'snowy', 'ground', '.']
+0.3672056269893592
+
+['people', 'are', 'driving', 'dirtbikes', 'through', 'a', 'course', '.']
+['a', 'course', 'are', 'driving', 'through', 'people', '.']
+1.133422688662942e-154
+
+['a', 'sheep', 'is', 'next', 'to', 'a', 'woman', 'on', 'a', 'tall', 'slope', '.']
+['a', 'a', 'tall', 'woman', 'is', 'a', 'sheep', 'on', 'next', 'to', 'slope', '.']
+7.294910122145053e-78
+
+['a', 'team', 'of', 'four', 'clasp', 'hands', 'over', 'a', 'computer', 'desk', '.']
+['a', 'computer', 'a', 'team', 'over', 'four', 'hands', 'clasp', 'of', 'desk', '.']
+1.1039579450411396e-154
+
+['a', 'green', 'chair', 'and', 'some', 'plants', 'are', 'on', 'a', 'patio', '.']
+['a', 'chair', 'on', 'a', 'green', 'plants', 'are', 'some', 'and', 'patio', '.']
+0.3860973950960897
+
+['a', 'family', 'poses', 'at', 'a', 'table', 'in', 'a', 'nice', 'restaurant', '.']
+['in', 'a', 'family', '.', 'a', 'nice', 'at', 'a', 'table', 'restaurant', 'poses']
+5.929498746342409e-78
+
+['an', 'older', 'apple', 'computer', 'sitting', 'on', 'a', 'carpeted', 'floor', '.']
+['a', 'computer', '.', 'an', 'older', 'on', 'apple', 'sitting', 'carpeted', 'floor']
+1.133422688662942e-154
+
+['a', 'uniformed', 'man', 'in', 'a', 'top', 'hat', 'rides', 'a', 'nicely', 'groomed', 'horse']
+['in', 'a', 'man', 'a', 'a', 'horse', 'rides', 'top', 'hat', 'groomed', 'uniformed', 'nicely']
+1.1583479709166584e-154
+
+['a', 'union', 'jack', 'sofa', 'is', 'next', 'to', 'a', 'matching', 'lamp', '.']
+['a', 'a', 'is', 'to', '.', 'union', 'jack', 'matching', 'lamp', 'next', 'sofa']
+5.218621439957678e-78
+
+['a', 'brightly', 'lit', 'living', 'room', 'with', 'white', 'walls', '.']
+['a', 'white', '.', 'with', 'living', 'room', 'lit', 'walls', 'brightly']
+5.30941411456236e-78
+
+['a', 'bike', 'at', 'the', 'foot', 'of', 'the', 'stairs', 'of', 'an', 'old', 'stone', 'monument', '.']
+['the', 'stairs', 'at', 'the', 'foot', 'of', 'a', 'stone', 'monument', 'of', 'an', 'old', 'bike', '.']
+0.5142401605028263
+
+['a', 'man', 'at', 'a', 'train', 'station', 'standing', 'next', 'to', 'a', 'green', 'train', '.']
+['a', 'man', 'to', 'a', 'green', 'at', 'a', 'standing', 'next', 'train', 'train', 'station', '.']
+6.969869295982248e-78
+
+['an', 'all', 'pink', 'bicycle', 'resting', 'on', 'a', 'building']
+['a', 'pink', 'building', 'an', 'all', 'resting', 'on', 'bicycle']
+1.2069187085583323e-154
+
+['two', 'goats', 'standing', 'behind', 'a', 'fenced', 'area']
+['a', 'two', 'behind', 'standing', 'area', 'goats', 'fenced']
+1.821831989445342e-231
+
+['three', 'young', 'people', 'pose', 'together', 'warmly', '.']
+['three', '.', 'pose', 'people', 'together', 'warmly', 'young']
+9.53091075863908e-155
+
+['a', 'dog', 'is', 'peeking', 'out', 'from', 'the', 'back', 'of', 'a', 'rustic', 'car', '.']
+['the', 'car', 'is', 'a', 'dog', 'out', '.', 'back', 'of', 'rustic', 'a', 'from', 'peeking']
+1.0547686614863434e-154
+
+['guy', 'opening', 'a', 'bottle', 'of', 'wine', 'in', 'the', 'park']
+['the', 'park', 'in', 'a', 'wine', 'bottle', 'opening', 'of', 'guy']
+6.313993041533344e-78
+
+['two', 'friends', 'sharing', 'a', 'bottle', 'of', 'wine', '.']
+['a', 'two', 'friends', 'sharing', 'of', 'wine', 'bottle', '.']
+8.531468375170499e-78
+
+['an', 'older', 'couple', 'in', 'sports', 'clothing', 'hold', 'a', 'bottle', 'of', 'wine', '.']
+['in', 'a', 'couple', 'of', 'an', 'older', '.', 'bottle', 'wine', 'hold', 'clothing', 'sports']
+1.077964250266083e-154
+
+['a', 'young', 'woman', 'poses', 'next', 'to', 'a', 'brown', 'cow', '.']
+['a', 'young', 'to', 'next', 'woman', 'poses', 'a', 'brown', 'cow', '.']
+0.37531192687516973
+
+['a', 'train', 'runs', 'by', 'a', 'walking', 'path', 'in', 'the', 'snow', '.']
+['the', 'train', 'in', 'a', 'path', 'runs', 'a', 'walking', 'by', 'snow', '.']
+6.206021746903507e-78
+
+['a', 'car', 'with', 'no', 'hood', 'sits', 'in', 'a', 'parking', 'lot', '.']
+['in', 'a', 'car', 'parking', 'lot', 'with', 'no', 'hood', 'a', 'sits', '.']
+0.47287080450158786
+
+['a', 'large', 'jet', 'with', 'its', 'landing', 'gear', 'out', 'not', 'far', 'from', 'the', 'ground', '.']
+['the', 'ground', 'with', 'a', 'large', 'jet', 'out', 'its', 'not', 'far', 'from', 'landing', 'gear', '.']
+6.432062707336974e-78
+
+['a', 'pug', 'sitting', 'on', 'a', 'yellow', 'chair', 'next', 'to', 'a', 'green', 'dumpster', '.']
+['a', 'a', 'green', 'to', 'a', 'yellow', 'chair', 'next', 'sitting', 'on', '.']
+0.35930411196308426
+
+['a', 'jockey', 'wearing', 'purple', 'riding', 'a', 'brown', 'horse', '.']
+['a', 'a', 'horse', '.', 'purple', 'riding', 'wearing', 'jockey', 'brown']
+5.87583260478785e-78
+
+['an', 'orange', 'and', 'white', ',', 'retro', 'style', 'public', 'transport', 'bus', '.']
+['and', ',', 'an', 'orange', '.', 'public', 'transport', 'bus', 'style', 'retro', 'white']
+5.218621439957678e-78
+
+['a', 'black', 'and', 'grey', 'bird', 'perches', 'on', 'a', 'person', "'s", 'hand', '.']
+['a', 'hand', 'on', 'a', 'person', '.', "'s", 'black', 'grey', 'bird', 'and', 'perches']
+6.342499378118519e-78
+
+['a', 'boy', 'is', 'biking', 'along', 'the', 'path', 'near', 'the', 'lake', '.']
+['the', 'path', 'along', 'the', 'boy', 'is', 'near', 'lake', 'a', 'biking', '.']
+5.607773684948284e-78
+
+['several', 'people', 'on', 'motorcycles', 'on', 'the', 'street', '.']
+['the', 'street', 'on', 'several', 'people', 'on', 'motorcycles', '.']
+0.5169731539571706
+
+['people', 'are', 'walking', 'down', 'a', 'sidewalk', 'with', 'storefronts', '.']
+['a', '.', 'with', 'people', 'are', 'down', 'sidewalk', 'walking']
+1.0905741632475476e-154
+
+['a', 'cruise', 'ship', 'is', 'tethered', 'in', 'port', '.']
+['in', 'a', 'is', '.', 'ship', 'cruise', 'tethered', 'port']
+9.170599044431425e-155
+
+['two', 'friends', 'pose', 'by', 'the', 'river', 'shore', '.']
+['the', 'two', '.', 'by', 'friends', 'river', 'shore', 'pose']
+9.170599044431425e-155
+
+['a', 'couple', 'clydesdale', 'horses', 'in', 'full', 'saddle', '.']
+['in', 'a', 'couple', '.', 'clydesdale', 'horses', 'saddle', 'full']
+1.0905741632475476e-154
+
+['lots', 'of', 'games', ',', 'movies', ',', 'and', 'entertainment', 'in', 'the', 'living', 'room', '.']
+['the', 'living', 'room', '.', 'and', 'in', 'lots', 'of', 'entertainment', ',', 'games', ',', 'movies']
+0.3551496090063711
+
+['train', 'cars', 'sit', 'still', 'in', 'a', 'train', 'yard', '.']
+['in', 'a', 'train', '.', 'train', 'still', 'sit', 'yard', 'cars']
+5.30941411456236e-78
+
+['a', 'double', 'decker', 'bus', 'sits', 'beside', 'a', 'road', '.']
+['a', 'double', 'decker', 'bus', 'a', 'sits', 'beside', 'road', '.']
+0.4153509237206396
+
+['a', 'row', 'of', 'motorcycles', 'parked', 'in', 'front', 'of', 'a', 'business']
+['in', 'a', 'business', 'front', 'of', 'parked', 'a', 'row', 'of', 'motorcycles']
+0.408248290463863
+
+['a', 'lamb', 'standing', 'in', 'a', 'pasture']
+['in', 'a', 'lamb', 'standing', 'a', 'pasture']
+8.167583944917616e-78
+
+['a', 'man', 'standing', 'next', 'to', 'a', 'parked', 'motorcycle', 'rider', '.']
+['a', 'a', 'man', 'standing', 'next', 'parked', 'to', 'motorcycle', 'rider', '.']
+0.4153509237206396
+
+['a', 'dog', 'running', 'beside', 'two', 'sheep', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'beside', 'a', 'dog', 'running', 'two', 'sheep', '.']
+9.644783683417194e-78
+
+['a', 'yellow', 'bus', 'stops', 'briefly', 'by', 'the', 'curbside', '.']
+['the', 'bus', 'stops', 'by', 'briefly', 'a', 'yellow', '.']
+1.2069187085583323e-154
+
+['a', 'hatchback', 'is', 'loaded', 'with', 'a', 'moped', 'and', 'a', 'kayak', '.']
+['a', 'is', '.', 'with', 'loaded', 'a', 'moped', 'and', 'hatchback', 'a', 'kayak']
+5.218621439957678e-78
+
+['a', 'jockey', 'is', 'riding', 'their', 'horse']
+['a', 'horse', 'riding', 'is', 'their', 'jockey']
+9.975386110402101e-155
+
+['two', 'dogs', 'are', 'swimming', 'in', 'the', 'water', '.']
+['the', 'water', 'in', 'two', 'dogs', 'are', 'swimming', '.']
+0.5169731539571706
+
+['an', 'airplane', 'is', 'flying', 'over', 'the', 'forrest', '.']
+['the', '.', 'is', 'an', 'over', 'forrest', 'airplane', 'flying']
+9.170599044431425e-155
+
+['furniture', 'is', 'setup', 'in', 'a', 'house', '.']
+['in', 'is', 'house', 'furniture', 'a', 'setup', '.']
+1.821831989445342e-231
+
+['a', 'office', 'with', 'four', 'computer', 'monitors', 'on', '.']
+['a', 'computer', 'with', 'four', 'on', 'office', 'monitors', '.']
+1.2069187085583323e-154
+
+['a', 'woman', 'slicing', 'potatoes', 'for', 'dinner', '.']
+['a', 'woman', '.', 'for', 'dinner', 'potatoes', 'slicing']
+1.133422688662942e-154
+
+['a', 'greyhound', 'looks', 'up', 'at', 'the', 'camera', '.']
+['the', 'camera', 'at', 'up', 'looks', 'a', 'greyhound', '.']
+1.0905741632475476e-154
+
+['several', 'people', 'in', 'ethnic', 'clothing', 'congregate', '.']
+['in', '.', 'people', 'several', 'ethnic', 'clothing', 'congregate']
+6.206021746903507e-78
+
+['a', 'television', 'with', 'a', 'man', 'in', 'a', 'white', 'suit', 'on', 'the', 'screen', '.']
+['the', 'white', 'with', 'a', 'man', 'in', 'a', 'television', 'screen', 'on', 'a', 'suit', '.']
+0.4832697830906221
+
+['a', 'woman', 'and', 'a', 'young', 'girl', 'both', 'pushing', 'strollers', '.']
+['a', 'young', 'woman', 'and', 'both', 'pushing', 'a', 'girl', '.']
+1.3263013755348475e-154
+
+['a', 'sheep', 'is', 'standing', 'in', 'sunlight', 'and', 'dewy', 'grass', '.']
+['in', '.', 'and', 'sheep', 'a', 'grass', 'standing', 'is', 'sunlight']
+1.821831989445342e-231
+
+['a', 'train', 'is', 'on', 'tracks', 'through', 'a', 'rocky', 'terrain', '.']
+['a', 'train', 'is', 'a', 'rocky', 'terrain', 'on', 'tracks', 'through', '.']
+8.975482560776546e-78
+
+['a', 'small', 'child', 'drawing', 'with', 'two', 'crayons', '.']
+['a', 'child', 'with', 'two', 'small', 'drawing', 'crayons', '.']
+1.2069187085583323e-154
+
+['a', 'man', 'butchering', 'meat', 'on', 'a', 'table', '.']
+['a', 'table', 'a', 'man', 'on', 'meat', '.']
+1.254338396921439e-154
+
+['there', 'are', 'three', 'cows', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'there', 'are', 'three', 'cows', '.']
+0.5410822690539396
+
+['a', 'view', 'of', 'the', 'underside', 'of', 'a', 'bird', 'perched', 'in', 'a', 'tree', '.']
+['the', 'tree', '.', 'in', 'a', 'bird', 'perched', 'a', 'view', 'of', 'underside', 'of', 'a']
+8.82608793908005e-78
+
+['an', 'old', 'fighter', 'plan', 'in', 'a', 'museum', '.']
+['in', '.', 'an', 'old', 'plan', 'a', 'fighter', 'museum']
+1.0905741632475476e-154
+
+['a', 'cat', 'looks', 'out', 'a', 'window', '.']
+['a', 'cat', 'out', 'a', 'window', 'looks', '.']
+6.86809206056511e-78
+
+['a', 'man', 'and', 'a', 'baby', 'sleep', 'on', 'a', 'chair', '.']
+['a', 'man', 'and', 'a', 'chair', 'on', 'a', 'baby', 'sleep', '.']
+0.4671379777282001
+
+['women', 'browsing', 'clothes', 'in', 'a', 'store', '.']
+['in', 'women', 'clothes', 'store', 'a', 'browsing', '.']
+9.53091075863908e-155
+
+['a', 'furnished', 'living', 'room', '.']
+['a', 'living', 'room', 'furnished', '.']
+7.803659209895733e-78
+
+['a', 'black', 'train', 'is', 'parked', 'next', 'to', 'a', 'row', 'of', 'tracks', '.']
+['a', 'row', 'of', 'black', 'is', 'a', 'train', 'next', 'parked', 'to', 'tracks', '.']
+6.70637658081224e-78
+
+['a', 'white', 'military', 'jet', 'is', 'parked', 'at', 'the', 'base', '.']
+['the', 'military', 'base', 'at', 'a', 'white', 'is', 'parked', 'jet', '.']
+1.133422688662942e-154
+
+['two', 'women', 'are', 'standing', 'around', 'with', 'a', 'dog', '.']
+['a', 'dog', 'with', 'two', 'women', 'are', 'standing', 'around', '.']
+0.5466325569645467
+
+['a', 'cat', 'is', 'sitting', 'in', 'a', 'sink', '.']
+['in', 'a', 'cat', 'is', 'sitting', 'a', 'sink', '.']
+0.5410822690539396
+
+['two', 'people', 'visiting', 'ponies', 'on', 'the', 'farm', '.']
+['the', 'people', 'visiting', 'two', 'ponies', 'on', 'farm', '.']
+1.2069187085583323e-154
+
+['a', 'little', 'girl', 'riding', 'a', 'amusement', 'ride', 'at', 'the', 'store', '.']
+['the', 'little', '.', 'a', 'girl', 'at', 'a', 'ride', 'riding', 'amusement', 'store']
+1.1862800137389335e-154
+
+['multiple', 'cows', 'graze', 'in', 'the', 'open', 'field', 'of', 'grass', '.']
+['the', 'field', '.', 'in', 'open', 'of', 'grass', 'cows', 'multiple', 'graze']
+5.518020345386123e-78
+
+['the', 'cat', 'looks', 'back', 'from', 'the', 'window', 'sill', '.']
+['the', 'the', 'cat', 'looks', 'back', 'from', 'window', 'sill', '.']
+0.6147881529512643
+
+['a', 'small', 'black', 'couch', 'is', 'below', 'a', 'cabinet', '.']
+['a', 'small', 'black', 'is', 'below', 'cabinet', 'a', 'couch', '.']
+6.676234799681113e-78
+
+['people', 'are', 'posing', 'with', 'two', 'elvis', 'look-a-likes', '.']
+['with', 'two', '.', 'are', 'people', 'posing', 'elvis']
+6.86809206056511e-78
+
+['a', 'woman', 'poses', 'with', 'corn', 'flakes', 'and', 'milk', '.']
+['a', 'woman', '.', 'and', 'with', 'milk', 'corn', 'flakes', 'poses']
+1.1672934071334108e-154
+
+['a', 'blue', 'sofa', 'is', 'adorned', 'with', 'powerpuff', 'girls', 'pillows', '.']
+['a', 'blue', '.', 'is', 'with', 'girls', 'adorned', 'pillows', 'sofa']
+8.869511863657866e-155
+
+['a', 'rider', 'clad', 'in', 'white', 'trots', 'on', 'her', 'brown', 'horse', '.']
+['in', '.', 'her', 'white', 'horse', 'rider', 'a', 'clad', 'on', 'brown']
+1.024163012412722e-154
+
+['four', 'people', 'pose', 'for', 'the', 'camera', 'while', 'having', 'desserts', '.']
+['the', 'camera', '.', 'having', 'four', 'people', 'pose', 'while', 'for', 'desserts']
+7.051402097550211e-78
+
+['a', 'white', 'jeep', 'is', 'parked', 'outside', 'a', 'store', '.']
+['a', 'white', 'is', 'a', 'jeep', 'parked', 'outside', 'store', '.']
+8.309682159925016e-78
+
+['three', 'men', 'in', 'green', 'ride', 'their', 'bikes', '.']
+['in', 'three', 'green', 'men', 'ride', 'their', 'bikes', '.']
+0.4111336169005197
+
+['a', 'cat', 'is', 'lounging', 'upside', 'down', 'on', 'a', 'couch', '.']
+['a', 'a', 'cat', '.', 'is', 'on', 'down', 'lounging', 'couch', 'upside']
+8.612150057732663e-155
+
+['a', 'sheep', 'is', 'standing', 'in', 'hay', 'with', 'her', 'little', 'baby', 'sheep', '.']
+['in', 'a', 'baby', 'is', 'little', 'sheep', 'sheep', 'with', 'standing', 'her', 'hay', '.']
+1.077964250266083e-154
+
+['a', 'horse', 'in', 'the', 'stable', 'is', 'waiting', 'with', 'its', 'halter', 'on', '.']
+['the', 'horse', 'is', 'a', 'stable', 'in', 'its', 'waiting', 'with', 'halter', 'on', '.']
+7.542545387358987e-78
+
+['a', 'couple', 'trains', 'are', 'on', 'the', 'tracks', 'in', 'the', 'train', 'yard', '.']
+['the', 'train', 'in', 'a', 'couple', 'are', 'the', 'yard', 'tracks', 'on', 'trains', '.']
+1.1583479709166584e-154
+
+['a', 'man', 'seated', 'on', 'a', 'bench', 'looks', 'down', 'at', 'his', 'fluffy', 'white', 'dog', '.']
+['a', 'man', '.', 'on', 'a', 'dog', 'looks', 'white', 'fluffy', 'down', 'at', 'seated', 'his', 'bench']
+1.1747051661615562e-154
+
+['elvis', 'dvds', 'are', 'perched', 'on', 'a', 'computer', 'desk', '.']
+['a', 'computer', '.', 'on', 'are', 'perched', 'elvis', 'desk']
+6.313993041533344e-78
+
+['a', 'black', 'and', 'white', 'chair', 'sits', 'by', 'a', 'plant', '.']
+['a', 'white', '.', 'a', 'black', 'chair', 'and', 'sits', 'by', 'plant']
+1.2878168092525314e-154
+
+['a', 'woman', 'waits', 'to', 'get', 'on', 'the', 'train', '.']
+['the', 'train', 'to', 'get', 'on', 'a', 'woman', 'waits', '.']
+0.537284965911771
+
+['kitten', 'on', 'window', 'seel']
+['on', 'kitten', 'window']
+1.821831989445342e-231
+
+['some', 'cows', 'are', 'walking', 'on', 'a', 'street', 'in', 'a', 'town', '.']
+['in', 'a', 'town', 'are', 'a', 'street', 'walking', 'on', 'some', 'cows', '.']
+5.929498746342409e-78
+
+['a', 'man', 'is', 'sitting', 'at', 'a', 'very', 'cluttered', 'table', 'using', 'a', 'laptop', '.']
+['a', 'man', 'is', 'a', 'very', 'table', '.', 'using', 'a', 'cluttered', 'sitting', 'at', 'laptop']
+5.860938105778317e-78
+
+['a', 'man', 'crouches', 'to', 'look', 'at', 'a', 'red', 'suzuki', 'motorbike', '.']
+['a', 'look', 'at', 'red', 'man', 'a', 'motorbike', 'to', 'suzuki', '.']
+5.518020345386123e-78
+
+['an', 'antique', 'wooden', 'chair', 'with', 'intricate', 'carvings', '.']
+['with', 'wooden', 'carvings', '.', 'an', 'intricate', 'antique', 'chair']
+1.2069187085583323e-154
+
+['a', 'fridge', 'filled', 'with', 'groceries']
+['a', 'fridge', 'with', 'filled', 'groceries']
+7.803659209895733e-78
+
+['a', 'baby', 'goat', 'running', 'playfully']
+['a', 'baby', 'playfully', 'goat', 'running']
+1.254338396921439e-154
+
+['a', 'siamese', 'cat', 'laying', 'on', 'a', 'couch', '.']
+['a', 'a', 'cat', '.', 'on', 'laying', 'couch', 'siamese']
+9.170599044431425e-155
+
+['a', 'guy', 'playing', 'a', 'video', 'game', '.']
+['a', 'video', 'game', 'playing', 'a', 'guy', '.']
+7.380245217279165e-78
+
+['a', 'white', 'and', 'black', 'colored', 'cat', 'climbing', 'through', 'trees']
+['a', 'black', 'cat', 'through', 'and', 'white', 'climbing', 'trees']
+1.0905741632475476e-154
+
+['a', 'woman', 'and', 'a', 'girl', 'smiling', 'on', 'a', 'couch']
+['a', 'girl', 'on', 'a', 'woman', 'smiling', 'and', 'a', 'couch']
+6.987581940178587e-78
+
+['a', 'little', 'girl', 'is', 'riding', 'a', 'pony', '.']
+['a', 'little', 'girl', 'is', 'a', 'pony', 'riding', '.']
+0.4417918226831577
+
+['a', 'motorcycle', 'is', 'parked', 'next', 'to', 'a', 'car', '.']
+['a', 'is', 'a', 'car', 'parked', 'next', 'to', 'motorcycle', '.']
+5.87583260478785e-78
+
+['a', 'sheep', 'is', 'standing', 'in', 'a', 'bus', 'stop', '.']
+['in', 'a', 'bus', 'stop', 'is', 'standing', 'a', 'sheep', '.']
+0.4153509237206396
+
+['a', 'cruise', 'ship', 'is', 'going', 'by', 'a', 'mountainside', '.']
+['a', 'is', 'going', '.', 'by', 'cruise', 'ship', 'a', 'mountainside']
+1.1672934071334108e-154
+
+['a', 'man', 'pedalling', 'a', 'tricycle', 'with', 'a', 'woman', 'sitting', 'on', 'back', 'of', 'it', '.']
+['it', 'with', 'a', 'man', 'of', 'a', 'woman', 'sitting', 'on', 'a', 'pedalling', 'back', '.']
+0.3672056269893592
+
+['two', 'people', 'shearing', 'the', 'wool', 'off', 'of', 'a', 'sheep', '.']
+['the', 'two', 'people', 'of', 'a', 'sheep', 'shearing', 'wool', 'off', '.']
+8.110264025282916e-78
+
+['the', 'head', 'of', 'an', 'ostrich', '.']
+['the', 'head', 'of', 'an', 'ostrich', '.']
+1.0
+
+['sleeping', 'cat', 'on', 'carpet', '.']
+['on', 'sleeping', 'cat', 'carpet', '.']
+1.254338396921439e-154
+
+['two', 'people', 'get', 'their', 'bikes', 'ready', 'for', 'a', 'run', '.']
+['a', 'run', 'their', 'bikes', 'get', 'ready', 'for', 'two', 'people', '.']
+1.2179419412838124e-154
+
+['a', 'yellow', 'school', 'bus', 'drives', 'by', 'on', 'the', 'way', 'to', 'school']
+['the', 'school', 'by', 'way', 'to', 'school', 'bus', 'drives', 'on', 'a', 'yellow']
+7.670214148711776e-78
+
+['this', 'is', 'the', 'interior', 'of', 'a', 'small', 'apartment']
+['the', 'interior', 'of', 'this', 'is', 'a', 'small', 'apartment']
+9.88193314799387e-78
+
+['a', 'plant', 'is', 'growing', 'in', 'a', 'ceramic', 'pot']
+['in', 'a', 'growing', 'plant', 'is', 'a', 'ceramic', 'pot']
+7.1740811735312e-78
+
+['one', 'person', 'is', 'leaning', 'on', 'a', 'tandem', 'bike', '.']
+['a', 'person', '.', 'one', 'is', 'on', 'bike', 'tandem', 'leaning']
+1.1672934071334108e-154
+
+['a', 'child', 'is', 'walking', 'through', 'a', 'dining', 'room', '.']
+['a', 'room', 'is', 'through', 'child', 'walking', 'a', 'dining', '.']
+1.0547686614863434e-154
+
+['a', 'dog', 'is', 'having', 'his', 'leash', 'pulled', '.']
+['a', 'dog', 'is', 'having', 'pulled', 'his', 'leash', '.']
+0.5169731539571706
+
+['this', 'is', 'a', 'small', 'plant', 'growing', 'in', 'a', 'terracotta', 'pot', '.']
+['in', 'this', 'is', 'a', 'small', 'pot', 'plant', 'growing', 'a', 'terracotta', '.']
+0.3976353643835253
+
+['a', 'yellow', 'school', 'bus', 'drives', 'down', 'the', 'street', '.']
+['the', 'street', 'a', 'school', 'bus', 'drives', 'down', 'yellow', '.']
+0.48109772909788073
+
+['a', 'tiger', 'striped', 'cat', 'sits', 'in', 'on', 'a', 'rug', 'in', 'the', 'sun', '.']
+['the', 'sun', '.', 'in', 'in', 'a', 'tiger', 'striped', 'cat', 'sits', 'on', 'a', 'rug']
+0.615137167087256
+
+['the', 'living', 'room', 'contains', 'a', 'sofa', ',', 'a', 'television', 'and', 'several', 'plants', '.']
+['the', 'living', 'room', 'and', 'a', 'television', 'a', 'sofa', ',', 'contains', 'several', 'plants', '.']
+8.569986141577369e-78
+
+['there', 'is', 'a', 'tire', 'on', 'a', 'pickup', 'truck', '.']
+['a', 'a', 'is', '.', 'there', 'on', 'truck', 'pickup', 'tire']
+1.821831989445342e-231
+
+['a', 'woman', 'is', 'being', 'interviewed', 'at', 'a', '4-h', 'event', '.']
+['a', 'a', 'woman', 'is', 'being', 'interviewed', 'at', 'event', '.']
+0.6803749333171202
+
+['a', 'black', 'sheep', 'dog', 'watches', 'over', 'a', 'black', 'sheep', '.']
+['a', 'black', '.', 'a', 'black', 'dog', 'over', 'sheep', 'sheep', 'watches']
+5.518020345386123e-78
+
+['squash', 'a', 'penny', 'general', 'store', 'type', 'tourist', 'attraction', '.']
+['a', 'general', '.', 'tourist', 'attraction', 'penny', 'squash', 'type', 'store']
+1.0547686614863434e-154
+
+['a', 'brown', 'and', 'white', 'cow', 'approaches', 'a', 'passing', 'car', '.']
+['a', 'white', '.', 'a', 'passing', 'car', 'approaches', 'and', 'brown', 'cow']
+7.455949944914188e-78
+
+['two', 'seated', 'women', 'eating', 'a', 'meal', 'at', 'a', 'table', '.']
+['a', 'meal', 'at', 'a', 'table', 'eating', 'two', 'women', 'seated', '.']
+0.5773502691896257
+
+['a', 'woman', 'with', 'a', 'large', 'necklace', 'posing', '.']
+['a', 'large', 'with', 'woman', 'posing', 'a', 'necklace', '.']
+6.784827072174911e-78
+
+['boats', 'at', 'the', 'dock', 'are', 'framed', 'through', 'the', 'trees', '.']
+['the', 'trees', '.', 'at', 'through', 'the', 'boats', 'dock', 'are', 'framed']
+7.803659209895733e-78
+
+['a', 'group', 'of', 'seven', 'people', 'are', 'seated', 'for', 'a', 'meal', '.']
+['a', 'group', 'of', 'a', 'meal', 'for', 'seven', 'people', 'are', 'seated', '.']
+0.4132584091896901
+
+['a', 'tour', 'bus', 'at', 'the', 'ferris-wheel', '.']
+['the', 'bus', 'at', 'a', 'tour', '.']
+1.1862800137389335e-154
+
+['a', 'group', 'of', 'people', 'at', 'a', 'house', 'party', '.']
+['a', 'group', 'of', 'people', 'at', 'a', 'house', 'party', '.']
+1.0
+
+['a', 'girl', 'poses', 'her', 'bare', 'midriff', 'and', 'blends', 'with', 'the', 'wall', '.']
+['the', 'wall', '.', 'and', 'a', 'girl', 'with', 'her', 'bare', 'midriff', 'blends', 'poses']
+7.294910122145053e-78
+
+['a', 'duck', 'sits', 'in', 'the', 'water', 'and', 'preens', 'itself', '.']
+['the', 'water', 'and', 'in', 'itself', 'sits', 'a', 'duck', '.']
+5.87583260478785e-78
+
+['a', 'fighter', 'jet', 'is', 'parked', 'on', 'the', 'lawn', 'in', 'front', 'of', 'a', 'building', '.']
+['the', 'front', 'of', 'a', 'a', 'building', 'on', 'is', 'parked', 'jet', 'fighter', 'in', 'lawn', '.']
+0.33260249505555045
+
+['a', 'car', 'with', 'both', 'doors', 'open', 'sits', 'in', 'front', 'of', 'a', 'home', '.']
+['in', 'a', 'car', 'with', 'both', 'of', 'home', 'front', 'doors', 'open', 'a', 'sits', '.']
+0.4538407873007614
+
+['two', 'people', 'in', 'a', 'sailboat', 'sail', 'on', 'a', 'lake', '.']
+['in', 'two', 'people', 'a', 'lake', 'on', 'a', 'sail', '.']
+6.676234799681113e-78
+
+['animals', 'climb', 'on', 'a', 'fallen', 'tree', 'branch']
+['a', 'tree', 'on', 'animals', 'branch', 'fallen', 'climb']
+9.53091075863908e-155
+
+['a', 'man', 'rides', 'his', 'bicycle', 'on', 'an', 'empty', 'lot']
+['a', 'man', 'on', 'his', 'bicycle', 'rides', 'an', 'empty', 'lot']
+6.313993041533344e-78
+
+['a', 'family', 'gathering', 'under', 'a', 'tent', 'with', 'some', 'food', 'and', 'drinks']
+['a', 'family', 'with', 'some', 'food', 'gathering', 'under', 'a', 'tent', 'and', 'drinks']
+0.4132584091896901
+
+['a', 'family', 'posing', 'for', 'the', 'camera', 'while', 'eating', 'dinner']
+['the', 'camera', 'a', 'while', 'posing', 'for', 'family', 'eating', 'dinner']
+1.1672934071334108e-154
+
+['a', 'dog', 'is', 'standing', 'sideways', 'in', 'front', 'of', 'some', 'plants', '.']
+['in', 'some', 'plants', '.', 'a', 'front', 'of', 'dog', 'standing', 'is', 'sideways']
+0.34329452398451965
+
+['a', 'cruiser', 'bicycle', 'is', 'parked', 'inside', 'on', 'its', 'kickstand', '.']
+['a', 'is', '.', 'on', 'its', 'inside', 'parked', 'cruiser', 'bicycle']
+1.0547686614863434e-154
+
+['a', 'tv', 'screen', 'hanging', 'on', 'a', 'brick', 'wall', 'is', 'showing', 'news', '.']
+['a', 'is', 'a', 'tv', 'news', 'screen', 'showing', 'hanging', 'on', 'brick', 'wall', '.']
+5.902360740129213e-78
+
+['two', 'ducks', 'are', 'standing', 'on', 'the', 'edge', 'of', 'a', 'slight', 'cliff', '.']
+['the', 'edge', 'of', 'a', 'slight', 'standing', 'on', 'two', 'ducks', 'are', 'cliff', '.']
+0.5042387236869966
+
+['a', 'bicycle', 'is', 'leaning', 'against', 'a', 'tree', 'on', 'the', 'sidewalk', '.']
+['the', 'tree', 'is', 'on', 'a', 'bicycle', 'leaning', 'against', 'a', 'sidewalk', '.']
+6.44985558187996e-78
+
+['an', 'airplane', 'is', 'flying', 'across', 'a', 'sunset', 'lit', 'sky', '.']
+['a', 'flying', 'across', 'an', 'airplane', '.', 'is', 'sunset', 'sky', 'lit']
+1.133422688662942e-154
+
+['a', 'dog', 'is', 'standing', 'in', 'an', 'open', 'field', '.']
+['in', 'an', 'open', 'field', 'is', 'a', 'dog', 'standing', '.']
+0.48109772909788073
+
+['a', 'dining', 'room', ',', 'with', 'a', 'table', 'and', '8', 'chairs', '.']
+['a', 'room', ',', 'with', 'a', 'table', '8', 'and', 'dining', 'chairs', '.']
+0.47287080450158786
+
+['a', 'light', 'is', 'shining', 'on', 'a', 'computer', '.']
+['a', 'computer', 'is', 'a', 'light', 'shining', 'on', '.']
+7.508645449069235e-78
+
+['two', 'ladies', 'are', 'sitting', 'on', 'a', 'yellow', 'and', 'red', 'motorcycle', '.']
+['a', 'red', '.', 'and', 'two', 'ladies', 'sitting', 'on', 'motorcycle', 'are', 'yellow']
+0.34329452398451965
+
+['a', 'young', 'boy', 'playing', 'a', 'game', 'on', 'a', 'computer', '.']
+['a', 'young', 'boy', 'on', 'a', 'game', 'playing', 'a', 'computer', '.']
+9.280167055464391e-78
+
+['a', 'black', 'sports', 'car', 'parked', 'in', 'a', 'driveway', '.']
+['in', 'a', 'black', 'car', 'parked', 'sports', 'a', 'driveway', '.']
+8.309682159925016e-78
+
+['a', 'caboose', 'is', 'going', 'down', 'a', 'train', 'track', '.']
+['a', 'train', 'is', 'going', 'down', 'a', 'track', '.']
+0.7952707287670506
+
+['a', 'fighter', 'air', 'craft', 'is', 'displayed', 'with', 'missiles', 'on', 'tarmac', '.']
+['a', 'is', '.', 'on', 'with', 'air', 'craft', 'fighter', 'missiles', 'tarmac', 'displayed']
+8.38826642100846e-155
+
+['a', 'small', 'white', 'dog', 'roughhouses', 'with', 'a', 'larger', 'brown', 'dog', '.']
+['a', 'small', 'white', 'with', 'brown', 'dog', 'a', 'larger', 'dog', '.']
+0.43472087194499137
+
+['a', 'rotunda', 'outside', 'of', 'a', 'large', 'arched', 'building', '.']
+['a', 'large', '.', 'a', 'rotunda', 'building', 'outside', 'of', 'arched']
+1.254338396921439e-154
+
+['a', 'hummingbird', 'flies', 'near', 'a', 'flower', '.']
+['a', 'a', '.', 'near', 'flower', 'flies', 'hummingbird']
+1.821831989445342e-231
+
+['a', 'cat', 'is', 'on', 'a', 'windowsill', '.']
+['a', 'cat', 'is', 'a', 'windowsill', 'on', '.']
+6.86809206056511e-78
+
+['two', 'horses', 'in', 'a', 'green', 'field', 'with', 'a', 'large', 'tree', 'in', 'the', 'background', '.']
+['the', 'field', 'with', 'a', 'tree', 'in', 'a', 'large', 'green', 'background', 'in', 'two', 'horses', '.']
+6.911701184907751e-78
+
+['a', 'child', 'opening', 'up', 'christmas', 'presents', 'next', 'to', 'a', 'christmas', 'tree', '.']
+['a', 'child', 'to', 'christmas', 'presents', 'a', 'christmas', 'tree', 'next', 'opening', 'up', '.']
+5.639368026146393e-78
+
+['one', 'child', 'is', 'playing', 'catch', 'with', 'another', 'outside', 'in', 'grass', '.']
+['in', 'one', 'another', 'child', 'with', 'outside', 'is', 'grass', 'playing', 'catch', '.']
+5.218621439957678e-78
+
+['a', 'cruise', 'ship', 'is', 'cutting', 'through', 'water', 'close', 'to', 'a', 'shore', '.']
+['a', 'close', '.', 'is', 'through', 'water', 'cutting', 'a', 'cruise', 'ship', 'to', 'shore']
+5.333384990808849e-78
+
+['a', 'group', 'of', 'six', 'people', 'are', 'sitting', 'at', 'a', 'table', 'in', 'a', 'restaurant', '.']
+['in', 'a', 'group', 'of', 'a', 'table', 'at', 'a', 'six', 'people', 'are', 'sitting', 'restaurant', '.']
+0.3636227046500071
+
+['the', 'sun', 'is', 'shining', 'through', 'a', 'bedroom', 'window', '.']
+['the', 'sun', 'shining', 'through', 'is', 'a', 'bedroom', 'window', '.']
+0.4347208719449914
+
+['a', 'man', 'doing', 'a', 'wheelie', 'on', 'a', 'motorcycle', '.']
+['a', 'man', 'on', 'doing', 'a', 'a', 'motorcycle', '.']
+7.1740811735312e-78
+
+['a', 'medium', 'sized', 'open', 'boat', 'docked', 'with', 'a', 'city', 'view', 'in', 'the', 'background', '.']
+['the', 'city', 'with', 'a', 'view', 'a', 'background', 'in', 'medium', 'sized', 'open', 'boat', 'docked', '.']
+0.42502814134169775
+
+['a', 'woman', 'taking', 'a', 'photo', 'of', 'another', 'woman', 'in', 'the', 'kitchen', '.']
+['the', 'kitchen', 'of', 'a', 'woman', 'in', 'another', 'woman', 'taking', 'a', 'photo', '.']
+0.5491004867761125
+
+['a', 'man', 'in', 'top', ',', 'black', 'hat', 'on', 'an', 'horse', 'arabian', 'for', 'the', 'show', '.']
+['the', 'man', 'in', 'a', 'black', ',', 'for', 'an', 'arabian', 'horse', 'show', 'on', 'top', 'hat', '.']
+0.2722589423069702
+
+['a', 'boat', 'is', 'moving', 'in', 'a', 'river']
+['in', 'a', 'boat', 'is', 'a', 'moving', 'river']
+7.380245217279165e-78
+
+['a', 'horse', 'is', 'trotting', 'in', 'dirt']
+['in', 'a', 'horse', 'trotting', 'is', 'dirt']
+1.312834642906688e-154
+
+['a', 'white', 'cat', 'standing', 'the', 'floor', ',', 'looking', 'up', '.']
+['the', 'floor', ',', 'a', 'white', 'cat', 'standing', 'looking', 'up', '.']
+0.4854917717073234
+
+['a', 'small', 'running', 'toward', 'the', 'person', 'snapping', 'the', 'picture', '.']
+['the', 'small', '.', 'the', 'person', 'a', 'picture', 'toward', 'snapping', 'running']
+1.024163012412722e-154
+
+['a', 'white', 'sheep', 'and', 'a', 'black', 'sheep', 'eat', 'grass', '.']
+['a', 'white', 'sheep', 'and', 'a', 'black', 'sheep', 'eat', 'grass', '.']
+1.0
+
+['a', 'traveling', 'eye', 'hospital', 'bus', 'parked', 'in', 'grass', '.']
+['in', 'a', 'hospital', '.', 'parked', 'grass', 'bus', 'eye']
+1.2069187085583323e-154
+
+['two', 'women', 'and', 'two', 'young', 'girls', 'stand', 'by', 'the', 'shore', '.']
+['the', 'two', 'women', 'and', 'two', 'young', 'girls', 'stand', 'by', 'shore', '.']
+0.7825422900366437
+
+['a', 'school', 'bus', 'drives', 'down', 'a', 'dreary', 'street', '.']
+['a', 'school', '.', 'a', 'bus', 'down', 'street', 'drives', 'dreary']
+1.0547686614863434e-154
+
+['riders', 'are', 'mounted', 'above', 'the', 'horses', 'and', 'ready', 'to', 'ride', '.']
+['the', 'above', '.', 'to', 'ride', 'horses', 'are', 'mounted', 'and', 'riders', 'ready']
+5.929498746342409e-78
+
+['a', 'living', 'room', 'is', 'decorated', 'in', 'soothing', 'natural', 'tones', '.']
+['in', 'a', 'natural', '.', 'is', 'living', 'room', 'decorated', 'tones', 'soothing']
+5.518020345386123e-78
+
+['a', 'computer', 'monitor', 'is', 'turned', 'off', '.']
+['a', 'computer', 'monitor', 'is', 'turned', 'off', '.']
+1.0
+
+['a', 'man', 'rides', 'a', 'dirt', 'bike', 'while', 'another', 'man', 'watches', '.']
+['a', 'man', '.', 'a', 'man', 'while', 'another', 'bike', 'rides', 'watches', 'dirt']
+1.1039579450411396e-154
+
+['two', 'people', 'together', 'on', 'the', 'couch']
+['the', 'couch', 'on', 'two', 'people', 'together']
+7.600793306264725e-78
+
+['a', 'row', 'of', 'multicolored', 'buildings']
+['a', 'row', 'of', 'buildings']
+1.0
+
+['two', 'men', 'are', 'sailing', 'in', 'a', 'small', 'sailboat.there', 'is']
+['in', 'two', 'men', 'are', 'is', 'a', 'small', 'sailing']
+6.313993041533344e-78
+
+['there', 'is', 'a', 'large', 'jet', 'airplane', 'and', 'a', 'smaller', 'plane', 'nearby', '.']
+['a', 'and', 'there', 'a', 'smaller', 'nearby', 'large', 'plane', 'is', 'jet', 'airplane', '.']
+1.1583479709166584e-154
+
+['a', 'boat', 'and', 'a', 'seaplane', 'in', 'a', 'docking', 'area']
+['in', 'a', 'boat', 'and', 'a', 'a', 'docking', 'area']
+0.5410822690539396
+
+['an', 'all-black', 'train', 'in', 'front', 'of', 'the', 'train', 'station']
+['the', 'front', 'of', 'an', 'in', 'train', 'train', 'station']
+1.0905741632475476e-154
+
+['a', 'yellow', 'train', 'drives', 'down', 'snowy', 'tracks', '.']
+['a', 'train', '.', 'down', 'snowy', 'drives', 'tracks', 'yellow']
+1.0905741632475476e-154
+
+['a', 'woman', 'exits', 'a', 'city', 'bus', 'with', 'arms', 'wide', 'open', '.']
+['a', 'woman', 'a', 'city', 'bus', 'open', 'arms', 'wide', 'with', 'exits', '.']
+5.607773684948284e-78
+
+['puppy', 'sniffing', 'at', 'the', 'base', 'of', 'a', 'closed', 'door', '.']
+['the', 'base', '.', 'a', 'closed', 'door', 'of', 'sniffing', 'at', 'puppy']
+5.929498746342409e-78
+
+['older', 'lady', 'in', 'a', 'kitchen', 'with', 'two', 'cats', 'at', 'her', 'feet', '.']
+['in', 'a', 'lady', 'at', 'her', 'feet', 'two', 'older', 'cats', 'with', 'kitchen', '.']
+5.333384990808849e-78
+
+['the', 'jockey', 'is', 'riding', 'a', 'horse', 'with', 'a', 'smile', '.']
+['the', 'horse', 'is', 'a', 'smile', 'with', 'riding', 'a', 'jockey', '.']
+7.803659209895733e-78
+
+['two', 'people', 'standing', 'on', 'a', 'school', 'bus', 'holding', 'a', 'sign', '.']
+['a', 'sign', 'on', 'two', 'people', 'standing', 'holding', 'a', 'school', 'bus', '.']
+0.4591497693322866
+
+['the', 'bus', 'is', 'stuck', 'in', 'the', 'snow', 'and', 'causing', 'traffic', '.']
+['the', 'bus', 'in', 'the', 'snow', 'is', 'causing', 'traffic', 'and', 'stuck', '.']
+5.607773684948284e-78
+
+['two', 'women', 'are', 'sitting', 'down', 'and', 'laughing', 'while', 'drinking', '.']
+['and', 'two', 'women', 'are', 'sitting', 'down', 'laughing', 'while', 'drinking', '.']
+0.6756000774035172
+
+['a', 'plane', 'is', 'getting', 'ready', 'for', 'takeoff', '.']
+['a', 'plane', 'is', 'getting', 'ready', 'for', '.']
+0.8408964152537146
+
+['a', 'rider', 'sits', 'on', 'a', 'horse', 'as', 'it', 'gallops', 'across', 'the', 'ground', '.']
+['the', 'ground', 'on', '.', 'as', 'it', 'sits', 'a', 'rider', 'a', 'horse', 'gallops', 'across']
+1.1984485803237486e-154
+
+['rancher', 'petting', 'his', 'horse', 'while', 'drinking', 'a', 'beer']
+['a', 'horse', 'while', 'his', 'drinking', 'beer']
+7.600793306264725e-78
+
+['4-wheeling', 'through', 'a', 'creek']
+['a', 'creek', 'through']
+8.987727354491445e-155
+
+['a', 'man', 'rests', 'on', 'a', 'bench', 'with', 'his', 'bike', 'and', 'watches', 'the', 'ocean', '.']
+['the', 'ocean', '.', 'and', 'a', 'bench', 'on', 'a', 'man', 'rests', 'with', 'watches', 'his', 'bike']
+7.877635813280042e-78
+
+['natural', 'light', 'hitting', 'an', 'open', 'living', 'space', 'dining', 'and', 'living', 'room', '.']
+['and', '.', 'natural', 'living', 'room', 'light', 'hitting', 'an', 'open', 'dining', 'living', 'space']
+0.31702331385234306
+
+['a', 'girl', 'poses', 'in', 'front', 'of', 'a', 'purple', 'bike', '.']
+['in', 'front', '.', 'a', 'bike', 'a', 'purple', 'girl', 'of', 'poses']
+1.133422688662942e-154
+
+['a', 'black', 'haired', 'woman', 'holds', 'their', 'kids', '.']
+['a', 'woman', '.', 'their', 'black', 'kids', 'haired', 'holds']
+9.170599044431425e-155
+
+['a', 'boat', 'is', 'seen', 'in', 'the', 'distance', 'in', 'the', 'sea', '.']
+['the', 'boat', 'in', 'the', 'sea', 'in', 'a', 'distance', 'is', 'seen', '.']
+7.051402097550211e-78
+
+['two', 'large', 'animals', 'carrying', 'loads', 'down', 'a', 'rocky', 'road', '.']
+['a', 'large', 'loads', 'down', 'two', 'rocky', 'road', 'carrying', 'animals', '.']
+1.133422688662942e-154
+
+['a', 'office', 'with', 'a', 'chairs', 'and', 'a', 'computer', 'overlooking', 'the', 'view', 'of', 'a', 'sky', 'scraper']
+['the', 'office', 'of', 'a', 'computer', 'with', 'a', 'view', 'overlooking', 'a', 'sky', 'a', 'scraper', 'and', 'chairs']
+6.432062707336974e-78
+
+['a', 'calico', 'cat', 'is', 'drinking', 'water', '.']
+['a', 'cat', '.', 'is', 'water', 'calico', 'drinking']
+9.53091075863908e-155
+
+['a', 'grey', 'tabby', 'with', 'a', 'white', 'bib', 'is', 'posing', 'for', 'the', 'camera', '.']
+['the', 'camera', '.', 'for', 'a', 'white', 'with', 'grey', 'tabby', 'is', 'posing', 'a', 'bib']
+5.3880935331694e-78
+
+['a', 'young', 'man', 'hold', 'out', 'a', 'bud', 'light', 'bottle', '.']
+['a', 'man', '.', 'a', 'young', 'out', 'light', 'bottle', 'bud', 'hold']
+1.133422688662942e-154
+
+['a', 'black', 'and', 'white', 'cow', 'walks', 'in', 'front', 'of', 'an', 'iron', 'fence', '.']
+['in', 'an', 'iron', 'and', 'white', 'cow', 'a', 'black', 'front', 'fence', 'of', 'walks', '.']
+5.095744247519182e-78
+
+['there', 'is', 'a', 'cow', 'standing', 'in', 'the', 'shade', 'of', 'a', 'tree', '.']
+['the', 'tree', 'is', 'a', 'standing', 'there', 'in', 'a', 'shade', 'of', 'cow', '.']
+1.1583479709166584e-154
+
+['there', 'is', 'a', 'cat', 'hissing', 'at', 'the', 'camera', '.']
+['the', 'camera', '.', 'there', 'is', 'a', 'hissing', 'at', 'cat']
+7.939425925209436e-78
+
+['three', 'men', 'posing', 'with', 'a', 'drinks', 'and', 'a', 'guitar', '.']
+['a', 'and', 'a', 'guitar', 'with', 'men', 'posing', 'three', 'drinks', '.']
+5.929498746342409e-78
+
+['a', 'messy', 'bedroom', 'with', 'a', 'open', 'box', 'next', 'to', 'the', 'bed', '.']
+['the', 'next', 'bed', 'with', 'a', 'box', 'to', 'open', 'bedroom', 'a', 'messy', '.']
+1.1583479709166584e-154
+
+['seagulls', 'are', 'eating', 'bread', '.']
+['are', '.', 'bread', 'eating', 'seagulls']
+1.821831989445342e-231
+
+['a', 'man', 'stands', 'next', 'to', 'a', 'mountain', 'bike', '.']
+['a', 'a', 'mountain', 'bike', 'next', 'to', 'man', 'stands', '.']
+6.313993041533344e-78
+
+['a', 'horse', 'is', 'running', 'in', 'a', 'field']
+['in', 'a', 'field', 'is', 'a', 'horse', 'running']
+0.5946035575013605
+
+['a', 'man', 'is', 'jumping', 'on', 'a', 'bicycle']
+['a', 'man', 'is', 'jumping', 'on', 'a', 'bicycle']
+1.0
+
+['a', 'train', 'is', 'pulled', 'up', 'to', 'the', 'station']
+['the', 'station', 'is', 'a', 'train', 'pulled', 'up', 'to']
+7.1740811735312e-78
+
+['a', 'freight', 'train', 'is', 'chugging', 'along', 'tracks']
+['a', 'freight', 'train', 'is', 'along', 'tracks']
+0.6042750794713536
+
+['a', 'man', 'shows', 'a', 'grey', 'horse', '.']
+['a', 'horse', 'shows', 'a', 'grey', 'man', '.']
+7.380245217279165e-78
+
+['a', 'tv', 'is', 'on', 'in', 'a', 'living', 'room', '.']
+['in', 'a', 'living', 'room', 'is', 'on', 'a', 'tv', '.']
+0.6985342056580097
+
+['a', 'young', 'man', 'sits', 'at', 'a', 'computer', '.']
+['a', 'young', 'man', 'at', 'a', 'computer', 'sits', '.']
+9.44162179929626e-78
+
+['barren', 'railroad', 'tracks', 'span', 'as', 'far', 'as', 'the', 'eye', 'can', 'see', '.']
+['the', 'far', 'as', 'can', 'see', '.', 'as', 'eye', 'barren', 'railroad', 'span', 'tracks']
+5.333384990808849e-78
+
+['a', 'black', 'dog', 'leaps', 'through', 'a', 'field', 'of', 'dry', 'grass', '.']
+['a', 'black', 'dog', 'a', 'dry', 'grass', 'field', 'of', 'leaps', 'through', '.']
+6.206021746903507e-78
+
+['a', 'guy', 'holding', 'two', 'bicycles', 'so', 'they', 'wo', "n't", 'fall', 'down', '.']
+['a', 'fall', 'guy', 'down', 'so', 'they', 'wo', "n't", 'holding', 'two', 'bicycles', '.']
+0.46924700641055994
+
+['a', 'computer', 'monitor', 'with', 'a', 'jack-o-lantern', 'desktop', 'wallpaper', '.']
+['a', 'a', 'desktop', 'computer', 'monitor', 'with', 'wallpaper', '.']
+8.531468375170499e-78
+
+['a', 'man', 'is', 'running', 'in', 'a', 'race', '.']
+['in', 'a', 'man', 'is', 'running', 'a', 'race', '.']
+0.8408964152537145
+
+['a', 'dog', 'is', 'staring', 'at', 'flower', 'pots', '.']
+['a', 'dog', 'is', 'staring', 'at', 'flower', 'pots', '.']
+1.0
+
+['the', 'dog', 'is', 'chewing', 'grass', 'on', 'the', 'porch', '.']
+['the', 'grass', 'is', 'the', 'dog', 'chewing', 'on', 'porch', '.']
+6.313993041533344e-78
+
+['the', 'dog', 'is', 'laying', 'on', 'the', 'wood', 'inside', 'the', 'barn', '.']
+['the', 'dog', 'on', 'the', 'inside', 'the', 'barn', 'is', 'laying', 'wood', '.']
+5.929498746342409e-78
+
+['an', 'african', 'woman', 'and', 'her', 'dog', 'wearing', 'festive', 'hats']
+['and', 'an', 'african', 'woman', 'wearing', 'her', 'dog', 'festive', 'hats']
+6.313993041533344e-78
+
+['a', 'man', 'is', 'racing', 'a', 'bicycle']
+['a', 'man', 'is', 'a', 'bicycle', 'racing']
+7.600793306264725e-78
+
+['a', 'man', 'bikes', 'over', 'a', 'very', 'rocky', 'hill', 'in', 'the', 'mountains', '.']
+['the', 'hill', 'a', 'man', 'in', 'a', 'very', 'rocky', 'mountains', 'over', 'bikes', '.']
+5.333384990808849e-78
+
+['a', 'large', 'group', 'of', 'people', 'pose', 'in', 'a', 'living', 'room', '.']
+['in', 'a', 'large', 'group', 'of', 'people', 'living', 'room', 'a', 'pose', '.']
+0.47287080450158786
+
+['a', 'table', 'set', 'for', 'a', 'thanksgiving', 'meal', 'with', 'turkey', 'and', 'sides', '.']
+['a', 'set', 'for', 'and', 'a', 'meal', 'table', 'sides', 'with', 'thanksgiving', 'turkey', '.']
+1.1583479709166584e-154
+
+['a', 'small', ',', 'maroon', 'sedan', 'parked', 'by', 'kfc', '.']
+['a', 'small', ',', 'by', '.', 'parked', 'maroon', 'sedan']
+6.313993041533344e-78
+
+['a', 'black', 'cat', 'plays', 'with', 'a', 'multicolored', 'slipper', '.']
+['a', 'black', 'cat', 'with', 'plays', 'a', 'slipper', '.']
+6.313993041533344e-78
+
+['a', 'small', 'orange-yellow', 'cat', 'peacefully', 'sleeps', 'on', 'a', 'brown', 'leather', 'couch', '.']
+['a', 'small', '.', 'a', 'cat', 'on', 'brown', 'leather', 'couch', 'sleeps', 'peacefully']
+5.607773684948284e-78
+
+['kids', 'stand', 'near', 'some', 'shaved', 'sheep', '.']
+['some', '.', 'near', 'sheep', 'kids', 'stand', 'shaved']
+9.53091075863908e-155
+
+['a', 'couple', 'is', 'out', 'to', 'dinner', '.']
+['a', 'couple', 'to', 'dinner', 'is', 'out', '.']
+1.254338396921439e-154
+
+['a', 'young', 'girl', 'and', 'women', 'are', 'taking', 'a', 'picture', 'at', 'a', 'table', '.']
+['a', 'girl', 'at', 'a', 'picture', 'and', 'a', 'young', 'women', 'are', 'taking', 'table', '.']
+7.206470625226315e-78
+
+['a', 'man', 'is', 'meditating', 'with', 'a', 'cane', 'in', 'his', 'hand', '.']
+['in', 'his', 'hand', 'is', 'a', 'man', 'a', 'cane', 'with', 'meditating', '.']
+5.929498746342409e-78
+
+['two', 'men', 'standing', 'by', 'a', 'red', 'sports', 'car', 'with', 'a', 'black', 'top', '.']
+['a', 'black', 'with', 'a', 'top', 'two', 'men', 'standing', 'by', 'red', 'sports', 'car', '.']
+0.6725080050576687
+
+['sunlight', 'hitting', 'a', 'grey', 'couch', 'in', 'a', 'barren', 'room', '.']
+['in', 'a', 'a', 'room', '.', 'grey', 'sunlight', 'couch', 'barren', 'hitting']
+5.518020345386123e-78
+
+['a', 'sprouting', 'plant', 'in', 'a', 'clay', 'pot', '.']
+['in', 'plant', 'pot', 'a', 'clay', 'a', 'sprouting', '.']
+1.2969185543721047e-154
+
+['a', 'messy', 'home', 'office', 'with', 'orange', 'painted', 'walls', '.']
+['a', 'home', 'office', 'walls', 'painted', 'orange', 'with', 'messy', '.']
+5.87583260478785e-78
+
+['students', 'sit', 'in', 'a', 'class', 'with', 'laptops', 'on', 'their', 'laps', '.']
+['in', 'their', 'students', 'with', 'a', 'class', 'sit', 'on', 'laps', '.']
+1.133422688662942e-154
+
+['a', 'green', 'bottle', 'of', 'salento', 'primitivo', 'cantalupi', '.']
+['a', 'bottle', 'of', 'green', '.']
+7.803659209895733e-78
+
+['a', 'ship', 'sailing', 'on', 'the', 'open', 'waters', '.']
+['the', 'open', 'a', 'ship', 'sailing', 'on', 'waters', '.']
+0.4671379777282001
+
+['a', 'clear', 'plastic', 'chair', 'that', 'looks', 'like', 'glass', '.']
+['a', 'clear', 'plastic', 'chair', 'that', 'looks', 'like', 'glass', '.']
+1.0
+
+['a', 'bird', 'pulls', 'food', 'out', 'of', 'a', 'bird', 'feeder']
+['a', 'a', 'bird', 'of', 'food', 'out', 'feeder', 'pulls', 'bird']
+1.0547686614863434e-154
+
+['a', 'train', 'is', 'passing', 'down', 'a', 'track']
+['a', 'is', 'a', 'passing', 'train', 'track', 'down']
+1.133422688662942e-154
+
+['a', 'large', 'sailboat', 'docked', 'at', 'harbor', '.']
+['a', 'large', '.', 'at', 'harbor', 'docked']
+1.1862800137389335e-154
+
+['a', 'black', 'and', 'white', 'photograph', 'of', 'a', 'glass', 'coca-cola', 'bottle', '.']
+['a', 'black', 'and', 'white', 'photograph', 'a', 'glass', 'of', 'coca-cola', 'bottle', '.']
+0.5460241725418133
+
+['a', 'mickey', 'mouse', 'figurine', 'beside', 'a', 'large', ',', 'white', 'object', '.']
+['a', 'large', ',', 'a', 'white', '.', 'mouse', 'mickey', 'object', 'beside']
+5.518020345386123e-78
+
+['das', 'air', 'cargo', 'plane', 'sits', 'on', 'the', 'runway', '.']
+['the', 'air', '.', 'on', 'runway', 'cargo', 'plane', 'sits', 'das']
+5.87583260478785e-78
+
+['a', 'man', 'poses', 'in', 'a', 'chair']
+['in', 'a', 'man', 'poses', 'a', 'chair']
+8.167583944917616e-78
+
+['thsi', 'is', 'an', 'empty', 'apartment', 'living', 'room']
+['an', 'empty', 'apartment', 'is', 'living', 'room']
+7.600793306264725e-78
+
+['there', 'is', 'a', 'small', 'yellow', 'tent', 'next', 'to', 'a', 'horse', 'pasture', '.']
+['a', 'horse', 'is', 'a', 'small', 'yellow', 'tent', 'there', 'next', 'to', 'pasture', '.']
+0.5042387236869966
+
+['a', 'man', 'is', 'standing', 'under', 'a', 'highway', 'overpass', '.']
+['a', 'man', 'is', 'a', 'highway', 'under', 'standing', '.']
+6.784827072174911e-78
+
+['a', 'long-haired', 'ram', 'stands', 'between', 'trees', 'in', 'a', 'snowy', 'forest', '.']
+['in', 'a', 'a', '.', 'forest', 'trees', 'between', 'ram', 'stands', 'snowy', 'long-haired']
+9.975386110402101e-155
+
+['a', 'red', 'biplane', 'flies', 'over', 'an', 'industrial', 'complex', 'on', 'the', 'banks', 'of', 'a', 'river', '.']
+['the', 'industrial', 'complex', 'on', 'an', 'over', 'a', 'red', 'river', 'banks', 'of', 'flies', 'a', 'biplane', '.']
+4.972339366294867e-78
+
+['the', 'ram', 'is', 'looking', 'down', 'the', 'hill', '.']
+['the', 'hill', 'is', 'looking', 'down', 'the', 'ram', '.']
+0.4671379777282001
+
+['the', 'cow', 'is', 'looking', 'through', 'the', 'fence', '.']
+['the', 'fence', 'is', 'looking', 'through', 'the', 'cow', '.']
+0.4671379777282001
+
+['a', 'little', 'white', 'dog', 'is', 'looking', 'upward', '.']
+['a', 'little', 'white', 'dog', 'is', 'looking', 'upward', '.']
+1.0
+
+['a', 'row', 'of', 'glasses', 'with', 'napkins', 'in', 'them', 'are', 'on', 'a', 'table', '.']
+['in', 'a', 'table', 'with', 'a', 'row', 'of', 'them', 'are', 'glasses', 'on', 'napkins', '.']
+7.421825708686561e-78
+
+['a', 'small', 'private', 'plane', 'on', 'a', 'runway']
+['a', 'small', 'plane', 'on', 'a', 'private', 'runway']
+9.280167055464391e-78
+
+['flowers', 'with', 'a', 'monster', 'shaped', 'flower', 'faced', 'towards', 'them']
+['a', 'flower', 'with', 'them', 'towards', 'faced', 'shaped', 'flowers', 'monster']
+8.869511863657866e-155
+
+['a', 'small', 'boat', 'tied', 'to', 'the', 'bank', 'of', 'a', 'river', '.']
+['the', 'river', 'bank', 'of', 'a', 'small', 'to', 'a', 'boat', 'tied', '.']
+6.206021746903507e-78
+
+['a', 'black', 'and', 'white', 'photo', 'of', 'a', 'display', 'nook', 'in', 'a', 'wall', '.']
+['in', 'a', 'black', 'and', 'a', 'wall', 'of', 'white', 'photo', 'display', 'a', 'nook', '.']
+6.969869295982248e-78
+
+['an', 'elk', 'with', 'large', 'horns', 'is', 'standing', 'on', 'a', 'rocky', 'cliff', '.']
+['a', 'large', '.', 'is', 'an', 'on', 'rocky', 'cliff', 'standing', 'with', 'horns']
+1.1039579450411396e-154
+
+['a', 'woman', 'is', 'standing', 'in', 'the', 'hallway', 'of', 'a', 'house', '.']
+['the', 'house', 'of', 'a', 'woman', 'is', 'in', 'standing', 'a', 'hallway', '.']
+7.380245217279165e-78
+
+['a', 'family', 'style', 'meal', 'is', 'set', 'on', 'the', 'table', '.']
+['the', 'table', 'on', 'a', 'family', 'meal', 'is', 'set', 'style', '.']
+6.269681580989379e-78
+
+['a', 'woman', 'poses', 'for', 'a', 'picture', 'at', 'a', 'restaurant', '.']
+['a', 'picture', 'for', 'at', 'a', 'woman', 'poses', 'a', 'restaurant', '.']
+7.803659209895733e-78
+
+['a', 'refrigerator', 'is', 'open', 'and', 'it', "'s", 'contents', 'are', 'displayed', '.']
+['it', "'s", 'and', 'is', 'open', 'a', 'refrigerator', 'contents', 'are', 'displayed', '.']
+0.35930411196308426
+
+['a', 'man', 'sits', 'outside', 'in', 'a', 'hat', 'and', 'enjoys', 'a', 'drink', '.']
+['in', '.', 'a', 'drink', 'outside', 'a', 'man', 'sits', 'and', 'enjoys', 'a', 'hat']
+0.3816330911371337
+
+['a', 'sheep', 'within', 'a', 'pasture']
+['a', 'sheep', 'pasture', 'within', 'a']
+1.254338396921439e-154
+
+['a', 'woman', 'with', 'her', 'black', 'and', 'white', 'colored', 'dog']
+['a', 'woman', 'with', 'her', 'black', 'dog', 'and', 'white']
+0.6434588841607617
+
+['a', 'baby', 'has', 'both', 'hands', 'in', 'his', 'mouth', '.']
+['in', 'his', 'mouth', 'a', 'baby', 'has', 'both', 'hands', '.']
+0.6756000774035172
+
+['a', 'cat', 'is', 'laying', 'outside', 'in', 'the', 'sun', '.']
+['the', 'sun', 'is', 'in', 'laying', 'a', 'cat', 'outside', '.']
+1.1672934071334108e-154
+
+['a', 'small', 'dinning', 'room', 'with', 'a', 'vacuum', 'cleaner', 'in', 'it', '.']
+['it', 'in', 'a', 'small', 'room', 'with', 'a', 'vacuum', 'cleaner', '.']
+0.5773502691896257
+
+['a', 'view', 'down', 'the', 'hallway', 'of', 'a', 'house', '.']
+['the', 'house', 'of', 'a', 'view', 'down', 'a', 'hallway', '.']
+0.48109772909788073
+
+['three', 'people', 'enjoying', 'libations', 'at', 'the', 'restaurant', '.']
+['the', 'restaurant', 'at', 'three', 'people', 'enjoying', '.']
+6.86809206056511e-78
+
+['a', 'herd', 'of', 'sheep', 'are', 'grazing', 'in', 'the', 'field', '.']
+['the', 'field', 'of', 'a', 'sheep', 'are', 'in', 'grazing', 'herd', '.']
+5.929498746342409e-78
+
+['two', 'black', 'couches', 'in', 'the', 'living', 'room', '.']
+['the', 'black', 'in', 'living', 'room', 'two', 'couches', '.']
+6.313993041533344e-78
+
+['an', 'old', 'antique', 'bicycle', 'on', 'display', '.']
+['on', 'display', 'an', 'antique', '.', 'old', 'bicycle']
+1.254338396921439e-154
+
+['the', 'front', 'of', 'a', 'parked', 'school', 'bus', 'with', 'its', 'door', 'open', '.']
+['the', 'school', 'of', 'its', 'front', 'door', 'open', 'with', 'a', 'bus', 'parked', '.']
+1.1583479709166584e-154
+
+['a', 'woman', 'on', 'a', 'donkey', 'next', 'to', 'a', 'standing', 'woman', 'posing', '.']
+['a', 'a', 'woman', 'to', 'a', 'standing', 'next', 'woman', 'posing', 'on', 'donkey', '.']
+5.902360740129213e-78
+
+['a', 'couple', 'of', 'ladies', 'are', 'sitting', 'at', 'the', 'table', '.']
+['the', 'table', 'of', 'a', 'couple', 'are', 'sitting', 'at', 'ladies', '.']
+5.929498746342409e-78
+
+['a', 'person', 'is', 'writing', 'in', 'their', 'notebook', 'at', 'home', '.']
+['in', 'their', 'home', 'is', 'a', 'person', 'at', 'notebook', 'writing', '.']
+1.133422688662942e-154
+
+['a', 'bald', 'eagle', 'perches', 'on', 'a', 'branch', 'in', 'captivity', '.']
+['in', 'a', 'a', '.', 'on', 'branch', 'eagle', 'perches', 'captivity', 'bald']
+1.024163012412722e-154
+
+['two', 'ducks', 'fly', 'over', 'water', 'and', 'make', 'a', 'reflection', '.']
+['a', '.', 'water', 'make', 'two', 'ducks', 'fly', 'over', 'and', 'reflection']
+0.3303164318013807
+
+['a', 'couch', 'is', 'parked', 'next', 'to', 'a', 'scooter', 'and', 'bicycles', '.']
+['a', 'is', '.', 'a', 'couch', 'next', 'to', 'bicycles', 'parked', 'and', 'scooter']
+9.975386110402101e-155
+
+['a', 'girl', 'is', 'holding', 'two', 'beers', 'to', 'her', 'chest', '.']
+['a', 'girl', 'to', 'her', 'chest', 'is', 'holding', 'two', 'beers', '.']
+0.5773502691896257
+
+['a', 'woman', 'and', 'child', 'posing', 'with', 'a', 'baby', '.']
+['a', 'child', 'with', 'a', 'woman', 'posing', 'and', 'baby', '.']
+1.254338396921439e-154
+
+['a', 'young', 'woman', 'riding', 'a', 'horse', '.']
+['a', 'young', 'horse', 'riding', 'a', 'woman', '.']
+1.254338396921439e-154
+
+['a', 'girl', 'is', 'squatting', 'petting', 'a', 'black', 'dog', '.']
+['a', 'black', 'dog', 'is', 'squatting', 'a', 'girl', '.']
+6.784827072174911e-78
+
+['some', 'horses', 'are', 'grazing', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'are', 'some', 'horses', 'grazing', '.']
+6.784827072174911e-78
+
+['buses', 'are', 'driving', 'down', 'a', 'street', '.']
+['a', 'street', 'down', 'are', 'driving', 'buses', '.']
+1.133422688662942e-154
+
+['a', 'little', 'girl', 'is', 'sitting', 'on', 'a', 'concrete', 'wall', '.']
+['a', 'little', 'is', 'a', 'girl', 'sitting', 'on', 'concrete', 'wall', '.']
+0.4854917717073234
+
+['a', 'sheep', 'stays', 'still', 'as', 'it', 'is', 'groomed', 'or', 'sheared', '.']
+['it', 'as', 'is', 'a', 'sheep', 'still', 'stays', 'or', 'groomed', '.']
+8.612150057732663e-155
+
+['a', 'young', 'pony', 'prances', 'on', 'the', 'meadow', '.']
+['the', 'young', 'a', 'pony', 'on', 'meadow', '.']
+1.133422688662942e-154
+
+['a', 'fire', 'engine', 'is', 'parked', 'in', 'front', 'of', 'a', 'building', 'with', 'its', 'lights', 'on', '.']
+['in', 'a', 'building', 'of', 'a', 'fire', 'with', 'its', 'engine', 'is', 'parked', 'on', 'front', 'lights', '.']
+6.432062707336974e-78
+
+['a', 'little', 'girl', 'is', 'getting', 'on', 'a', 'huge', 'bike', '.']
+['a', 'little', 'girl', 'is', 'on', 'getting', 'a', 'huge', 'bike', '.']
+0.5773502691896257
+
+['three', 'men', 'posing', 'together', 'at', 'a', 'party', '.']
+['a', 'party', 'together', 'at', 'three', 'men', 'posing', '.']
+0.4671379777282001
+
+['two', 'professional', 'bikers', 'taking', 'a', 'break', '.']
+['a', 'professional', '.', 'two', 'bikers', 'break', 'taking']
+9.53091075863908e-155
+
+['a', 'canada', 'goose', 'flaps', 'its', 'wings', 'on', 'a', 'lake', '.']
+['a', 'a', '.', 'on', 'its', 'wings', 'lake', 'flaps', 'goose', 'canada']
+1.024163012412722e-154
+
+['a', 'small', ',', 'wooden', 'table', 'with', 'four', 'chairs', '.']
+['a', 'small', 'table', ',', 'with', 'four', 'wooden', 'chairs', '.']
+0.5466325569645467
+
+['a', 'white', 'flowerpot', 'with', 'a', 'growing', 'plant']
+['a', 'white', 'with', 'a', 'growing', 'plant']
+0.6042750794713536
+
+['a', 'busy', 'city', 'with', 'a', 'vast', 'amount', 'of', 'traffic']
+['a', 'vast', 'amount', 'of', 'traffic', 'with', 'a', 'busy', 'city']
+0.6389431042462724
+
+['bikers', 'are', 'running', 'a', 'race', 'while', 'a', 'person', 'cheers', 'them', 'on', '.']
+['a', 'person', '.', 'a', 'while', 'on', 'them', 'are', 'running', 'race', 'cheers', 'bikers']
+9.740506563602454e-155
+
+['a', 'motorcyclist', 'is', 'holding', 'his', 'luggage', 'while', 'driving', 'through', 'a', 'tunnel', '.']
+['a', 'while', '.', 'a', 'is', 'his', 'driving', 'through', 'holding', 'motorcyclist', 'tunnel', 'luggage']
+8.190757052088229e-155
+
+['a', 'black', 'sheep', 'and', 'a', 'white', 'sheep', 'are', 'standing', 'next', 'to', 'each', 'other', '.']
+['a', 'white', 'and', 'a', 'black', 'sheep', 'to', 'each', 'other', 'sheep', 'are', 'standing', 'next', '.']
+0.41315515911062967
+
+['a', 'cruise', 'ship', 'resting', 'at', 'a', 'dock']
+['a', 'ship', 'dock', 'at', 'resting', 'a', 'cruise']
+1.133422688662942e-154
+
+['two', 'white', 'colored', 'cows', 'in', 'a', 'field', 'of', 'grass']
+['in', 'a', 'white', 'cows', 'two', 'of', 'grass', 'field']
+1.2069187085583323e-154
+
+['two', 'males', 'rowing', 'a', 'canoe', 'in', 'a', 'lake']
+['in', 'males', 'a', 'lake', 'two', 'canoe', 'a', 'rowing']
+9.170599044431425e-155
+
+['a', 'cat', 'lying', 'on', 'the', 'floor', 'and', 'staring', 'outdoors']
+['the', 'floor', 'a', 'cat', 'on', 'lying', 'staring', 'and', 'outdoors']
+1.0547686614863434e-154
+
+['two', 'people', 'are', 'riding', 'in', 'a', 'canoe', 'together']
+['in', 'two', 'people', 'are', 'riding', 'a', 'canoe', 'together']
+0.5410822690539396
+
+['a', 'plane', 'is', 'parked', 'on', 'the', 'runway']
+['the', 'runway', 'is', 'parked', 'on', 'a', 'plane']
+9.280167055464391e-78
+
+['a', 'man', 'and', 'two', 'women', 'are', 'sitting', 'on', 'a', 'couch', 'smiling', '.']
+['a', 'man', '.', 'and', 'are', 'two', 'women', 'sitting', 'on', 'smiling', 'a', 'couch']
+0.31702331385234306
+
+['a', 'barge', 'is', 'cruising', 'through', 'water', '.']
+['a', 'is', '.', 'water', 'through', 'cruising', 'barge']
+1.821831989445342e-231
+
+['a', 'young', 'brown', 'horse', 'standing', 'in', 'a', 'green', 'field', '.']
+['in', 'young', 'horse', 'standing', 'a', 'green', 'field', 'a', 'brown', '.']
+6.269681580989379e-78
+
+['several', 'potted', 'plants', 'sitting', 'on', 'top', 'of', 'a', 'railing', '.']
+['a', 'top', 'of', '.', 'on', 'several', 'plants', 'railing', 'potted', 'sitting']
+1.024163012412722e-154
+
+['a', 'laptop', 'and', 'computer', 'monitor', 'sitting', 'on', 'a', 'desk', '.']
+['a', 'a', 'computer', '.', 'and', 'on', 'sitting', 'desk', 'monitor', 'laptop']
+1.024163012412722e-154
+
+['a', 'woman', 'wearing', 'sunglasses', 'sitting', 'on', 'a', 'parked', 'scooter', '.']
+['a', 'woman', '.', 'a', 'sitting', 'on', 'wearing', 'sunglasses', 'parked', 'scooter']
+1.2179419412838124e-154
+
+['eight', 'beer', 'bottles', 'lined', 'up', 'on', 'the', 'floor', '.']
+['the', 'eight', 'on', 'beer', 'bottles', 'lined', 'up', 'floor', '.']
+0.392814650900513
+
+['a', 'food', 'dish', 'displayed', 'on', 'a', 'table', '.']
+['a', 'a', 'table', 'displayed', 'on', 'food', 'dish', '.']
+1.2069187085583323e-154
+
+['a', 'red', 'city', 'bus', 'parked', 'on', 'a', 'city', 'street', '.']
+['a', 'city', 'on', 'red', 'bus', 'parked', 'a', 'city', 'street', '.']
+0.4153509237206396
+
+['a', 'floral', 'couch', 'and', 'love', 'seat', 'with', 'coordinating', 'plaid', 'pillows', 'and', 'ottoman', '.']
+['a', 'and', 'with', '.', 'and', 'love', 'seat', 'coordinating', 'ottoman', 'pillows', 'couch', 'plaid', 'floral']
+4.284993070788676e-78
+
+['a', 'dog', 'looks', 'ahead', 'calmly', 'with', 'an', 'uninterested', 'gaze', '.']
+['a', 'dog', '.', 'an', 'uninterested', 'with', 'looks', 'ahead', 'calmly', 'gaze']
+7.455949944914188e-78
+
+['a', 'fuzzy', 'cat', 'closes', 'its', 'eyes', 'sleepily', '.']
+['a', 'cat', '.', 'eyes', 'fuzzy', 'its', 'sleepily', 'closes']
+1.0905741632475476e-154
+
+['a', 'baby', 'black', 'sheep', 'laying', 'on', 'the', 'ground', '.']
+['the', 'ground', 'black', 'sheep', 'a', 'baby', 'on', 'laying', '.']
+1.1672934071334108e-154
+
+['a', 'common', 'area', 'empty', 'at', 'the', 'office', 'at', 'this', 'moment', '.']
+['the', 'moment', 'at', 'a', 'common', 'at', 'this', 'area', 'office', 'empty', '.']
+1.1039579450411396e-154
+
+['a', 'small', 'cactus', 'in', 'a', 'tan', 'pot', 'is', 'enjoying', 'the', 'light', '.']
+['the', 'light', '.', 'in', 'small', 'pot', 'is', 'enjoying', 'a', 'cactus', 'a', 'tan']
+7.294910122145053e-78
+
+['a', 'taxi', 'drives', 'by', 'two', 'school', 'buses', '.']
+['a', 'taxi', '.', 'two', 'drives', 'by', 'school', 'buses']
+1.2969185543721047e-154
+
+['a', 'puppy', 'with', 'it', "'s", 'mother', '.']
+['it', "'s", 'mother', 'with', 'a', 'puppy', '.']
+8.776640122853315e-78
+
+['a', 'man', 'and', 'a', 'woman', 'are', 'carrying', 'a', 'yellow', 'canoe', 'to', 'the', 'water', '.']
+['the', 'water', 'and', 'are', 'a', 'man', 'to', 'a', 'woman', 'carrying', 'yellow', 'a', 'canoe', '.']
+5.812024749693859e-78
+
+['a', 'small', 'airplane', 'is', 'parked', 'on', 'a', 'runway', '.']
+['a', 'small', '.', 'a', 'is', 'on', 'runway', 'parked', 'airplane']
+1.1672934071334108e-154
+
+['a', 'very', 'large', 'bull', 'stands', 'in', 'a', 'barn', 'stall', '.']
+['in', 'a', 'very', 'large', '.', 'a', 'barn', 'stands', 'bull', 'stall']
+5.929498746342409e-78
+
+['a', 'baby', 'sheep', 'sniffs', 'some', 'wood', 'fencing', '.']
+['a', 'baby', '.', 'some', 'wood', 'fencing', 'sheep', 'sniffs']
+6.784827072174911e-78
+
+['two', 'pug', 'dogs', 'staring', 'at', 'a', 'bone', 'on', 'the', 'floor', '.']
+['the', 'floor', 'at', 'a', 'bone', 'two', 'dogs', 'on', 'staring', '.']
+7.455949944914188e-78
+
+['several', 'colorful', 'birds', 'in', 'a', 'cage', '.']
+['in', 'several', 'birds', 'a', 'cage', '.']
+7.600793306264725e-78
+
+['a', 'large', 'jet', 'in', 'flight', 'with', 'its', 'landing', 'gear', 'down', '.']
+['in', 'a', 'large', 'jet', 'down', 'its', 'flight', 'with', 'landing', 'gear', '.']
+8.488487318608908e-78
+
+['three', 'brown', 'cows', 'standing', 'of', 'a', 'calf', 'in', 'a', 'grass', 'field', '.']
+['in', 'a', 'field', 'of', 'three', 'a', 'brown', 'grass', 'standing', 'calf', 'cows', '.']
+0.27901593935858265
+
+['a', 'man', 'rides', 'a', 'motorcycle', '.']
+['a', 'man', '.', 'a', 'rides', 'motorcycle']
+6.86809206056511e-78
+
+['a', 'man', 'rides', 'a', 'dirt', 'bike', 'up', 'a', 'steep', 'incline', '.']
+['a', 'man', 'a', 'steep', 'incline', '.', 'a', 'bike', 'rides', 'up', 'dirt']
+0.34329452398451965
+
+['a', 'yellow', 'bi', 'plane', 'with', 'stars', 'on', 'it', "'s", 'wings', 'soaring', 'through', 'the', 'sky']
+['the', 'sky', "'s", 'a', 'plane', 'with', 'yellow', 'stars', 'through', 'soaring', 'on', 'wings', 'it', 'bi']
+0.2613022659677713
+
+['two', 'hummingbirds', 'are', 'caught', 'mid-flight', 'in', 'black', 'and', 'white', '.']
+['in', 'two', 'are', 'caught', 'and', 'black', 'white', '.']
+1.0905741632475476e-154
+
+['a', 'man', 'reclines', 'on', 'a', 'day', 'bed', '.']
+['a', 'man', 'on', 'a', 'bed', 'day', '.']
+6.86809206056511e-78
+
+['a', 'cow', 'stands', 'in', 'the', 'middle', 'of', 'a', 'pasture', '.']
+['the', 'middle', 'of', 'a', 'a', 'cow', 'stands', 'in', 'pasture', '.']
+0.5773502691896257
+
+['two', 'cats', 'are', 'looking', 'up', 'at', 'a', 'window']
+['a', 'window', 'at', 'two', 'cats', 'are', 'looking', 'up']
+0.6147881529512643
+
+['a', 'black', 'horse', 'is', 'running', 'in', 'the', 'breeze']
+['the', 'black', 'horse', 'is', 'running', 'in', 'a', 'breeze']
+0.8091067115702212
+
+['the', 'spotted', 'bull', 'is', 'looking', 'at', 'something', '.']
+['the', 'bull', 'at', 'something', 'is', 'spotted', 'looking', '.']
+9.170599044431425e-155
+
+['the', 'dog', 'is', 'staring', 'at', 'the', 'motorcycle', '.']
+['the', 'dog', 'at', 'the', 'motorcycle', 'is', 'staring', '.']
+7.1740811735312e-78
+
+['a', 'cat', 'looking', 'up', 'sitting', 'on', 'a', 'rug']
+['a', 'cat', 'on', 'a', 'rug', 'looking', 'up', 'sitting']
+9.88193314799387e-78
+
+['people', 'riding', 'bicycles', 'and', 'talking']
+['and', 'talking', 'people', 'riding', 'bicycles']
+8.636168555094496e-78
+
+['a', 'large', 'kitchen', 'with', 'wooden', 'furnishings']
+['a', 'large', 'kitchen', 'with', 'wooden', 'furnishings']
+1.0
+
+['a', 'plate', 'of', 'lasagna', 'with', 'a', 'fork', 'in', 'it']
+['it', 'with', 'a', 'plate', 'of', 'a', 'fork', 'in']
+8.929334592065812e-78
+
+['a', 'train', 'is', 'on', 'it', "'s", 'tracks', '.']
+['it', 'is', 'a', 'train', "'s", 'on', 'tracks', '.']
+8.068564628293374e-78
+
+['a', 'hummingbird', 'is', 'sitting', 'on', 'metal', '.']
+['a', 'metal', 'is', 'sitting', 'on', 'hummingbird', '.']
+6.86809206056511e-78
+
+['a', 'silver', 'car', 'is', 'parked', 'on', 'the', 'road', '.']
+['the', 'road', 'is', 'a', 'silver', 'car', 'parked', 'on', '.']
+0.5466325569645467
+
+['three', 'women', 'are', 'dressed', 'beautifully', 'in', 'ethnic', 'clothing', '.']
+['in', 'women', 'are', 'beautifully', 'dressed', 'three', 'ethnic', 'clothing', '.']
+5.87583260478785e-78
+
+['a', 'trolley', 'is', 'by', 'a', 'patch', 'of', 'grass', '.']
+['a', 'is', 'a', 'patch', 'of', 'grass', 'by', 'trolley', '.']
+0.392814650900513
+
+['a', 'baby', 'is', 'being', 'held', 'by', 'a', 'person', '.']
+['a', 'person', 'is', 'being', 'held', 'by', 'a', 'baby', '.']
+0.6985342056580097
+
+['a', 'girl', 'is', 'resting', 'on', 'a', 'leather', 'chair']
+['a', 'girl', 'is', 'resting', 'on', 'a', 'leather', 'chair']
+1.0
+
+['a', 'horse', 'is', 'shaking', 'its', 'head']
+['a', 'horse', 'is', 'its', 'head', 'shaking']
+7.600793306264725e-78
+
+['a', 'woman', 'laying', 'on', 'the', 'couch', 'on', 'a', 'guy', "'s", 'lap', '.']
+['the', 'woman', "'s", 'a', 'guy', 'a', 'couch', 'on', 'lap', 'on', 'laying', '.']
+1.1583479709166584e-154
+
+['a', 'office', 'computer', 'with', 'a', 'cat', 'on', 'the', 'desktop', 'wallpaper', '.']
+['the', 'office', 'on', 'a', 'cat', 'a', 'desktop', 'computer', 'with', 'wallpaper', '.']
+0.35930411196308426
+
+['man', 'and', 'a', 'woman', 'posing', 'for', 'a', 'picture']
+['a', 'man', 'and', 'woman', 'posing', 'for', 'a', 'picture']
+1.0
+
+['sheep', 'staring', 'at', 'the', 'camera', 'on', 'a', 'hillside', '.']
+['the', 'camera', 'on', 'a', 'sheep', 'staring', 'at', 'hillside', '.']
+0.5
+
+['a', 'dachsund', 'poses', 'for', 'a', 'portrait']
+['a', 'portrait', 'poses', 'for', 'a']
+8.636168555094496e-78
+
+['a', 'man', 'is', 'taking', 'his', 'picture', 'on', 'a', 'passenger', 'jet', '.']
+['a', 'man', 'on', 'a', 'picture', 'is', 'taking', 'his', 'passenger', 'jet', '.']
+8.776640122853315e-78
+
+['a', 'small', 'bird', 'is', 'eating', 'seeds', 'out', 'of', 'a', 'man', "'s", 'hand', '.']
+['a', 'man', "'s", 'hand', 'out', 'of', 'a', 'small', 'bird', 'is', 'eating', 'seeds', '.']
+0.6950150297221263
+
+['someone', 'is', 'standing', 'by', 'a', 'perurail', 'train', '.']
+['a', 'train', 'is', 'by', 'someone', 'standing', '.']
+9.53091075863908e-155
+
+['a', 'lone', 'gas', 'island', 'is', 'sitting', 'with', 'no', 'vehicle', 'at', 'the', 'pump', '.']
+['the', 'island', 'is', 'a', 'vehicle', '.', 'no', 'gas', 'pump', 'at', 'sitting', 'with', 'lone']
+9.53091075863908e-155
+
+['a', 'party', 'bus', 'is', 'sitting', 'empty', 'in', 'the', 'evening', 'light', '.']
+['the', 'party', 'in', 'a', 'bus', 'is', 'empty', 'evening', 'light', 'sitting', '.']
+5.607773684948284e-78
+
+['three', 'people', 'sitting', 'around', 'a', 'table', 'for', 'dinner', '.']
+['a', 'three', 'people', 'for', 'dinner', 'table', 'sitting', 'around', '.']
+1.254338396921439e-154
+
+['a', 'young', 'boy', 'feeding', 'a', 'sheep', 'some', 'hay', '.']
+['a', 'young', 'boy', 'a', 'feeding', 'hay', 'some', 'sheep', '.']
+6.313993041533344e-78
+
+['a', 'silver', 'car', 'pulled', 'off', 'the', 'side', 'of', 'the', 'road', 'in', 'the', 'mountains', '.']
+['the', 'side', 'of', 'the', 'road', 'in', 'a', 'silver', 'car', 'pulled', 'off', 'the', 'mountains', '.']
+0.8533575342460036
+
+['a', 'white', 'duck', 'follows', 'a', 'brown', 'duck', 'in', 'the', 'grass', '.']
+['the', 'grass', 'in', 'a', 'white', 'duck', 'duck', 'a', 'brown', 'follows', '.']
+5.607773684948284e-78
+
+['the', 'kid', 'is', 'doing', 'a', 'wheelie', 'on', 'top', 'of', 'a', 'diving', 'board', '.']
+['the', 'top', 'of', 'doing', 'a', 'is', 'a', 'kid', 'on', 'diving', 'board', '.']
+7.019129387474291e-78
+
+['the', 'horse', 'and', 'calf', 'are', 'out', 'galloping', '.']
+['the', 'horse', 'out', 'are', 'galloping', 'and', 'calf', '.']
+1.2069187085583323e-154
+
+['a', 'lone', 'bird', 'swims', 'in', 'the', 'waters', '.']
+['the', 'a', 'bird', '.', 'in', 'waters', 'lone', 'swims']
+9.170599044431425e-155
+
+['a', 'colorful', 'green', 'convertible', 'is', 'parked', '.']
+['a', 'green', 'is', 'convertible', 'parked', '.']
+1.1862800137389335e-154
+
+['a', 'woman', 'holds', 'a', 'baby', '.']
+['a', 'woman', 'holds', 'a', 'baby', '.']
+1.0
+
+['two', 'dogs', 'are', 'sitting', 'at', 'the', 'bottom', 'of', 'the', 'stairs', '.']
+['the', 'bottom', 'of', 'the', 'stairs', 'at', 'two', 'dogs', 'are', 'sitting', '.']
+0.6179654585112234
+
+['a', 'cat', 'is', 'curled', 'up', 'sleeping', 'in', 'a', 'chair', '.']
+['in', 'a', 'chair', 'is', 'a', 'sleeping', 'cat', 'curled', 'up', '.']
+8.975482560776546e-78
+
+['a', 'camo', 'painted', 'plain', 'is', 'sitting', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'is', 'sitting', 'a', 'plain', 'painted', '.']
+5.87583260478785e-78
+
+['an', 'asian', 'family', 'looks', 'over', 'a', 'word', 'search', '.']
+['a', 'word', 'search', 'over', 'an', 'asian', 'family', 'looks', '.']
+0.45966135761245924
+
+['a', 'tan', 'horse', 'stands', 'before', 'a', 'wooden', 'fence', '.']
+['a', 'a', 'horse', '.', 'tan', 'before', 'stands', 'fence', 'wooden']
+8.869511863657866e-155
+
+['this', 'is', 'a', 'man', 'standing', 'in', 'front', 'of', 'a', 'bullet', 'train']
+['in', 'front', 'of', 'this', 'is', 'a', 'man', 'standing', 'a', 'bullet', 'train']
+0.5773502691896258
+
+['a', 'bird', 'is', 'clinging', 'to', 'a', 'chain-linked', 'fence']
+['a', 'bird', 'is', 'clinging', 'to', 'a', 'fence']
+0.8801117367933934
+
+['an', 'unexcited', 'dog', 'stares', 'into', 'the', 'camera', 'for', 'a', 'photo', '.']
+['the', 'dog', 'for', 'an', 'a', 'photo', 'stares', 'into', 'camera', '.']
+1.2179419412838124e-154
+
+['the', 'large', 'white', 'bus', 'sits', ',', 'waiting', 'for', 'more', 'passengers', 'to', 'board', '.']
+['the', 'board', 'to', 'more', 'for', 'large', 'white', 'passengers', 'waiting', 'bus', ',', 'sits', '.']
+8.014508691042773e-155
+
+['a', 'foal', 'and', 'her', 'mother', 'pose', 'in', 'the', 'green', 'grass', '.']
+['the', 'mother', '.', 'in', 'her', 'green', 'grass', 'and', 'pose', 'a', 'foal']
+1.1862800137389335e-154
+
+['the', 'woman', 'on', 'the', 'couch', 'is', 'thrilled', 'to', 'be', 'holding', 'the', 'baby', '.']
+['the', 'woman', 'is', 'the', 'the', 'holding', 'on', 'baby', 'be', 'thrilled', 'to', 'couch', '.']
+1.133422688662942e-154
+
+['daughter', 'and', 'dog', 'relax', 'while', 'mom', 'reads', 'the', 'book', '.']
+['the', 'book', '.', 'and', 'while', 'daughter', 'mom', 'reads', 'dog', 'relax']
+5.929498746342409e-78
+
+['a', 'school', 'bus', 'traverses', 'up', 'the', 'dirt', 'road', '.']
+['the', 'school', 'bus', 'up', 'a', 'dirt', 'road', '.']
+0.691441569283882
+
+['a', 'man', 'playing', 'a', 'guitar', 'on', 'his', 'porch', '.']
+['a', 'man', 'on', 'his', 'guitar', 'playing', 'a', 'porch', '.']
+6.987581940178587e-78
+
+['a', 'nice', 'studio', 'apartment', '.']
+['a', 'nice', '.', 'studio', 'apartment']
+1.254338396921439e-154
+
+['nice', 'living', 'room', 'with', 'couches', '.']
+['with', '.', 'room', 'couches', 'nice', 'living']
+9.975386110402101e-155
+
+['a', 'group', 'of', 'people', 'are', 'posing', 'for', 'a', 'campy', 'photo', 'in', 'fuzzy', 'hats', '.']
+['in', 'a', 'group', 'of', 'a', '.', 'for', 'hats', 'people', 'are', 'posing', 'fuzzy', 'photo']
+6.70637658081224e-78
+
+['a', 'sheep', 'and', 'her', 'babies', 'are', 'grazing', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'and', 'a', 'sheep', 'grazing', 'her', 'babies', 'are', '.']
+7.380245217279165e-78
+
+['a', 'man', 'sits', 'on', 'a', 'motorcycle']
+['a', 'man', 'sits', 'on', 'a', 'motorcycle']
+1.0
+
+['a', 'hummingbird', 'balances', 'on', 'a', 'flower']
+['a', 'flower', 'on', 'balances', 'a', 'hummingbird']
+1.1862800137389335e-154
+
+['there', 'are', 'two', 'cats', 'sitting', 'on', 'a', 'bed', '.']
+['a', 'bed', 'on', 'there', 'are', 'sitting', 'two', 'cats', '.']
+1.254338396921439e-154
+
+['there', 'are', 'four', 'people', 'racing', 'motorbikes', '.']
+['there', 'are', '.', 'four', 'people', 'motorbikes', 'racing']
+1.133422688662942e-154
+
+['the', 'parking', 'lot', 'outside', 'the', 'laundromat', 'and', 'liquor', 'store', 'is', 'empty']
+['the', 'outside', 'the', 'empty', 'liquor', 'store', 'and', 'is', 'parking', 'lot']
+6.562069055463047e-78
+
+['a', 'white', 'heron', 'stretches', 'its', 'wings']
+['a', 'heron', 'stretches', 'wings', 'its', 'white']
+9.975386110402101e-155
+
+['a', 'family', 'of', 'cows', 'in', 'a', 'snowy', 'field', '.']
+['in', 'family', 'a', 'field', 'of', 'cows', 'a', 'snowy', '.']
+1.1672934071334108e-154
+
+['a', 'falcon', 'holding', 'a', 'stick', 'flying', 'in', 'the', 'sky', '.']
+['the', 'sky', '.', 'stick', 'a', 'flying', 'in', 'holding', 'a', 'falcon']
+6.269681580989379e-78
+
+['a', 'father', 'holding', 'his', 'daughter', 'in', 'the', 'kitchen']
+['the', 'kitchen', 'in', 'his', 'father', 'holding', 'a', 'daughter']
+1.2969185543721047e-154
+
+['a', 'yellow', 'and', 'white', 'kitchen']
+['a', 'yellow', 'and', 'white', 'kitchen']
+1.0
+
+['a', 'black', 'and', 'white', 'cat', 'sitting', 'on', 'a', 'kitchen', 'chair', '.']
+['a', 'white', 'and', 'a', 'black', 'cat', 'sitting', 'on', 'kitchen', 'chair', '.']
+9.43111357845413e-78
+
+['a', 'large', 'jet', 'parked', 'with', 'people', 'standing', 'under', 'it', '.']
+['it', 'a', 'large', 'standing', 'under', 'people', 'with', 'parked', 'jet', '.']
+1.024163012412722e-154
+
+['two', 'horses', 'are', 'sticking', 'their', 'heads', 'over', 'a', 'fence', '.']
+['a', 'fence', 'over', 'two', 'horses', 'are', 'sticking', 'their', 'heads', '.']
+0.6147881529512643
+
+['a', 'cat', 'is', 'laying', 'down', 'on', 'a', 'bed', '.']
+['a', 'bed', 'on', 'a', 'cat', 'is', 'laying', 'down', '.']
+0.5721248424548514
+
+['a', 'brown', 'horse', 'with', 'white', 'legs', 'walks', 'in', 'a', 'pen', '.']
+['in', 'with', 'a', 'white', 'legs', 'brown', 'horse', 'walks', 'a', 'pen', '.']
+7.670214148711776e-78
+
+['a', 'hand', 'is', 'touching', 'an', 'orange', 'cat', 'in', 'a', 'cage', '.']
+['in', 'an', 'orange', 'is', 'a', 'hand', 'touching', 'a', 'cat', 'cage', '.']
+1.254338396921439e-154
+
+['a', 'tug', 'boat', 'on', 'the', 'water', 'with', 'a', 'mountain', 'in', 'the', 'background', '.']
+['the', 'boat', 'with', 'a', 'background', 'in', 'the', 'mountain', 'water', 'on', 'a', 'tug', '.']
+1.1984485803237486e-154
+
+['two', 'men', 'with', 'bicycles', 'and', 'a', 'goats', 'in', 'the', 'bicycle', 'baskets', '.']
+['the', 'two', 'men', '.', 'a', 'bicycle', 'with', 'baskets', 'and', 'goats', 'in', 'bicycles']
+5.333384990808849e-78
+
+['a', 'group', 'of', 'people', 'are', 'floating', 'in', 'a', 'boat', 'on', 'the', 'river', '.']
+['the', 'river', 'in', 'a', 'group', 'of', 'a', 'boat', 'people', 'are', 'floating', 'on', '.']
+8.82608793908005e-78
+
+['a', 'little', 'chihuahua', 'standing', 'in', 'the', 'grass', 'is', 'looking', 'up', 'at', 'the', 'camera', '.']
+['the', 'little', 'is', 'a', 'standing', 'up', 'in', 'the', 'camera', 'looking', 'at', 'grass', '.']
+1.254338396921439e-154
+
+['the', 'blue', 'and', 'orange', 'airplane', 'is', 'flying', '.']
+['the', 'blue', 'and', 'is', '.', 'orange', 'airplane', 'flying']
+6.784827072174911e-78
+
+['a', 'red', 'couch', 'in', 'the', 'living', 'room', '.']
+['the', 'living', 'room', 'in', 'a', 'red', 'couch', '.']
+0.6042750794713536
+
+['a', 'modern', 'home', 'with', 'a', 'large', 'dining', 'table', 'and', 'small', 'couch', '.']
+['a', 'small', 'table', 'and', 'a', 'modern', 'home', 'large', 'dining', 'with', 'couch', '.']
+6.134263771309896e-78
+
+['two', 'cars', 'parked', 'in', 'front', 'of', 'a', 'grassy', 'field', '.']
+['in', 'front', 'of', 'two', 'cars', 'parked', 'a', 'grassy', 'field', '.']
+0.4854917717073234
+
+['mountain', 'biker', 'riding', 'on', 'a', 'trail']
+['a', 'mountain', 'on', 'riding', 'biker', 'trail']
+9.975386110402101e-155
+
+['man', 'learning', 'to', 'ride', 'a', 'horse']
+['a', 'man', 'learning', 'to', 'ride', 'horse']
+0.6042750794713536
+
+['a', 'brown', 'dog', 'sits', 'on', 'the', 'carpet', 'under', 'the', 'table', '.']
+['the', 'table', 'on', 'the', 'carpet', 'under', 'a', 'brown', 'dog', 'sits', '.']
+0.6389431042462724
+
+['a', 'cow', 'grazes', 'by', 'the', 'banks', 'of', 'the', 'river', '.']
+['the', 'river', 'banks', 'by', 'a', 'cow', 'of', 'the', 'grazes', '.']
+1.2179419412838124e-154
+
+['a', 'truck', 'with', 'a', 'red', 'car', 'driving', 'on', 'its', 'roof']
+['a', 'red', 'car', 'with', 'a', 'truck', 'driving', 'on', 'its', 'roof']
+0.4518010018049224
+
+['a', 'multi-colored', 'goat', 'eating', 'some', 'grass']
+['a', 'grass', 'eating', 'some', 'goat']
+1.0547686614863434e-154
+
+['two', 'boys', 'are', 'sitting', 'at', 'a', 'table', 'indoors']
+['a', 'table', 'at', 'two', 'boys', 'are', 'sitting', 'indoors']
+0.4671379777282001
+
+['two', 'people', 'are', 'sitting', 'on', 'a', 'front', 'porch']
+['a', 'front', 'porch', 'are', 'two', 'people', 'sitting', 'on']
+0.5169731539571706
+
+['a', 'red', 'double', 'deck', 'bus', 'is', 'pared', 'with', 'the', 'hood', 'raised', '.']
+['the', 'red', '.', 'a', 'double', 'with', 'is', 'raised', 'bus', 'pared', 'hood', 'deck']
+1.077964250266083e-154
+
+['two', 'cows', 'are', 'standing', 'near', 'a', 'tree', '.']
+['a', 'tree', 'near', 'two', 'cows', 'are', 'standing', '.']
+0.4417918226831577
+
+['paper', 'flowers', 'in', 'a', 'painted', 'glass', 'bottle']
+['in', 'a', 'paper', 'flowers', 'painted', 'glass', 'bottle']
+7.380245217279165e-78
+
+['watching', 'tv', 'in', 'bed']
+['in', 'bed', 'watching', 'tv']
+1.0270193092081295e-77
+
+['the', 'boat', 'sits', 'empty', 'in', 'the', 'harbor', '.']
+['the', 'the', 'boat', '.', 'in', 'empty', 'sits', 'harbor']
+9.170599044431425e-155
+
+['the', 'dog', 'is', 'happily', 'waiting', 'attention', 'outside', '.']
+['the', 'attention', 'outside', 'waiting', 'is', 'dog', 'happily', '.']
+9.170599044431425e-155
+
+['two', 'airplanes', 'crop', 'dust', 'the', 'surrounding', 'area', '.']
+['the', 'two', '.', 'dust', 'crop', 'surrounding', 'area']
+1.133422688662942e-154
+
+['a', 'large', 'black', 'bird', 'is', 'swimming', 'on', 'top', 'of', 'the', 'water', '.']
+['the', 'water', 'on', 'top', 'of', 'black', 'bird', 'is', 'a', 'large', 'swimming', '.']
+7.542545387358987e-78
+
+['a', 'green', 'car', 'is', 'parked', 'outside', 'of', 'a', 'bar', '.']
+['a', 'green', 'is', 'a', 'car', 'parked', 'outside', 'of', 'bar', '.']
+0.5169731539571706
+
+['a', 'white', 'cat', 'with', 'black', 'spots', 'sleeping', 'on', 'a', 'chair', '.']
+['a', 'a', 'chair', 'on', 'black', 'cat', 'sleeping', 'with', 'white', 'spots', '.']
+1.1039579450411396e-154
+
+['a', 'formal', 'dinning', 'room', 'with', 'pink', 'walls', '.']
+['a', 'formal', 'with', 'pink', 'room', 'walls', '.']
+1.3478743256634661e-154
+
+['a', 'row', 'of', 'motorcycles', 'are', 'parked', 'outside', 'of', 'a', 'shop', '.']
+['a', 'row', 'of', 'a', 'shop', '.', 'are', 'parked', 'outside', 'of', 'motorcycles']
+0.5946035575013605
+
+['a', 'hound', 'dog', 'rests', 'his', 'head', 'on', 'a', 'couch', 'cushion', '.']
+['a', 'a', 'dog', '.', 'on', 'his', 'head', 'rests', 'hound', 'cushion', 'couch']
+9.975386110402101e-155
+
+['an', 'old', 'european', 'car', 'has', 'flames', 'on', 'the', 'hood', '.']
+['the', 'old', '.', 'an', 'on', 'european', 'car', 'has', 'flames', 'hood']
+0.3549481056010053
+
+['two', 'friends', 'are', 'enjoying', 'sitting', 'on', 'a', 'couch', 'with', 'water', 'in', 'the', 'background', '.']
+['the', 'water', 'in', 'a', 'background', '.', 'two', 'friends', 'are', 'sitting', 'on', 'enjoying', 'with', 'couch']
+6.911701184907751e-78
+
+['three', 'seated', 'older', 'couples', 'posing', 'around', 'a', 'diner', 'table', '.']
+['a', 'table', '.', 'seated', 'around', 'three', 'older', 'couples', 'posing', 'diner']
+7.051402097550211e-78
+
+['three', 'motocross', 'racers', 'driving', 'on', 'a', 'dirt', 'track', '.']
+['a', 'three', '.', 'on', 'track', 'driving', 'dirt', 'racers']
+9.170599044431425e-155
+
+['aircrafts', 'are', 'flying', 'low', 'on', 'a', 'building', 'skyline', '.']
+['a', 'building', 'on', 'are', 'flying', 'low', 'skyline', '.']
+6.784827072174911e-78
+
+['a', 'boat', 'is', 'in', 'shiny', 'blue', 'water', 'by', 'a', 'forest', '.']
+['in', 'a', 'blue', 'water', 'by', 'boat', 'a', 'forest', 'is', 'shiny', '.']
+5.929498746342409e-78
+
+['a', 'group', 'of', 'cows', 'are', 'looking', 'at', 'the', 'camera', 'up', 'close', '.']
+['the', 'camera', 'at', 'close', 'up', 'a', 'group', 'of', 'cows', 'are', 'looking', '.']
+0.539710693336502
+
+['a', 'yellow', 'train', 'is', 'going', 'down', 'some', 'railroad', 'tracks', '.']
+['a', 'train', '.', 'is', 'going', 'down', 'some', 'tracks', 'railroad', 'yellow']
+0.43472087194499137
+
+['a', 'very', 'large', 'white', 'cruise', 'ship', 'on', 'the', 'water', 'with', 'a', 'blue', 'sky', 'background', '.']
+['the', 'water', 'on', 'a', 'very', 'large', 'white', 'background', 'with', 'blue', 'sky', 'a', 'cruise', 'ship', '.']
+0.35831291876413535
+
+['a', 'living', 'room', 'with', 'white', 'walls', 'and', 'a', 'white', 'fireplace', '.']
+['a', 'white', 'and', 'white', 'walls', 'with', 'a', 'living', 'room', 'fireplace', '.']
+6.206021746903507e-78
+
+['a', 'yellow', 'motorcycle', 'is', 'parked', 'on', 'asphalt', '.']
+['a', 'is', '.', 'on', 'yellow', 'asphalt', 'parked', 'motorcycle']
+1.821831989445342e-231
+
+['a', 'jet', 'is', 'landing', 'by', 'tall', 'grass', '.']
+['a', 'tall', 'grass', 'by', 'landing', 'is', 'jet', '.']
+9.170599044431425e-155
+
+['a', 'very', 'small', 'kitchen', 'studio', 'with', 'refrigerator', '.']
+['a', 'very', 'small', 'kitchen', 'studio', 'with', 'refrigerator', '.']
+1.0
+
+['a', 'dog', 'under', 'a', '2x4', 'board', 'hiding', '.']
+['a', 'a', 'dog', '.', 'under', 'board', 'hiding']
+6.86809206056511e-78
+
+['a', 'cat', 'and', 'a', 'dog', 'are', 'lying', 'on', 'the', 'couch', '.']
+['the', 'cat', 'and', 'are', 'on', 'a', 'dog', 'lying', 'a', 'couch', '.']
+8.488487318608908e-78
+
+['the', 'white', 'car', 'is', 'waiting', 'for', 'the', 'train', 'to', 'pass', '.']
+['the', 'car', 'is', 'to', 'pass', 'the', 'train', 'waiting', 'for', 'white', '.']
+5.929498746342409e-78
+
+['four', 'goats', 'are', 'lying', 'together', 'in', 'some', 'straw', '.']
+['in', '.', 'are', 'lying', 'four', 'goats', 'together', 'some', 'straw']
+1.1672934071334108e-154
+
+['a', 'white', 'bus', 'is', 'about', 'to', 'pick', 'up', 'two', 'women', '.']
+['a', 'bus', 'is', 'to', 'pick', 'up', 'about', 'two', 'white', 'women', '.']
+5.929498746342409e-78
+
+['a', 'green', 'bus', 'is', 'in', 'a', 'lot', 'full', 'of', 'other', 'buses', '.']
+['in', 'a', 'lot', 'is', 'a', 'full', 'of', 'other', 'green', 'bus', 'buses', '.']
+7.019129387474291e-78
+
+['a', 'small', 'table', 'with', 'four', 'chairs', 'and', 'a', 'ceiling', 'fan', 'above', 'it']
+['it', 'with', 'a', 'small', 'table', 'above', 'four', 'chairs', 'and', 'a', 'ceiling', 'fan']
+0.6636154805687886
+
+['a', 'small', 'plane', 'flying', 'trough', 'the', 'air']
+['the', 'plane', 'flying', 'air', 'a', 'small', 'trough']
+1.254338396921439e-154
+
+['a', 'guy', 'is', 'riding', 'a', 'dirt', 'bike', 'on', 'a', 'track', '.']
+['a', 'a', 'is', 'a', 'guy', 'riding', 'bike', 'on', 'dirt', 'track', '.']
+5.607773684948284e-78
+
+['a', 'double', 'decker', 'bus', 'is', 'going', 'down', 'a', 'street', '.']
+['a', 'double', 'decker', 'bus', 'is', 'going', 'down', 'a', 'street', '.']
+1.0
+
+['a', 'car', 'at', 'the', 'street', 'light', ',', 'waiting', 'to', 'go', '.']
+['the', 'light', ',', 'to', 'go', 'at', 'a', 'street', 'car', 'waiting', '.']
+1.1862800137389335e-154
+
+['several', 'people', 'eating', 'and', 'drinking', '.']
+['and', 'people', 'drinking', 'several', 'eating', '.']
+9.975386110402101e-155
+
+['a', 'bicycle', 'is', 'parked', 'outside', 'of', 'a', 'bookstore', '.']
+['a', 'is', 'of', 'a', 'bicycle', 'parked', 'outside', '.']
+0.4417918226831577
+
+['a', 'middle-aged', 'woman', 'is', 'sitting', 'next', 'to', 'an', 'older', 'woman', '.']
+['a', 'is', 'an', 'older', 'woman', 'sitting', 'next', 'to', 'middle-aged', 'woman', '.']
+7.380245217279165e-78
+
+['a', 'red', 'double', 'decker', 'bus', 'drives', 'down', 'the', 'street', '.']
+['the', 'street', 'a', 'red', 'double', 'decker', 'bus', 'drives', 'down', '.']
+0.7259795291154771
+
+['a', 'young', 'girl', 'smiles', 'in', 'her', 'crib', '.']
+['in', 'a', 'young', 'girl', 'smiles', 'her', 'crib', '.']
+0.5410822690539396
+
+['a', 'bus', 'is', 'backed', 'into', 'the', 'yard', 'near', 'an', 'old', 'shed', '.']
+['the', 'yard', 'near', 'a', 'bus', 'is', 'backed', 'into', 'an', 'old', 'shed', '.']
+0.6529942057256104
+
+['a', 'sheep', 'is', 'looking', 'up', 'from', 'the', 'grass', '.']
+['the', 'grass', 'is', 'a', 'sheep', 'from', 'looking', 'up', '.']
+6.313993041533344e-78
+
+['a', 'young', 'man', 'is', 'posing', 'next', 'to', 'an', 'old', 'bus', '.']
+['a', 'young', 'to', 'an', 'old', 'man', 'is', 'posing', 'next', 'bus', '.']
+0.4132584091896901
+
+['a', 'cat', 'is', 'laying', 'on', 'the', 'ground', ',', 'looking', 'at', 'the', 'camera', '.']
+['the', 'ground', 'is', 'a', 'cat', 'on', 'the', 'camera', ',', 'looking', 'at', 'laying', '.']
+6.969869295982248e-78
+
+['several', 'individually', 'potted', 'cacti', 'on', 'two', 'shelves', '.']
+['on', '.', 'two', 'shelves', 'potted', 'several', 'individually']
+1.133422688662942e-154
+
+['a', 'horse', 'drawn', 'carriage', 'on', 'a', 'city', 'street', '.']
+['a', 'city', 'a', 'horse', 'drawn', 'carriage', 'on', 'street', '.']
+0.5721248424548514
+
+['the', 'brightly', 'painted', 'green', 'room', 'is', 'neatly', 'organized', 'into', 'a', 'workspace', '.']
+['the', 'green', 'room', '.', 'a', 'neatly', 'organized', 'into', 'workspace', 'is', 'brightly', 'painted']
+6.70637658081224e-78
+
+['two', 'pets', 'lounge', 'on', 'the', 'sheepskin', 'rug', '.']
+['the', 'lounge', '.', 'two', 'pets', 'on', 'sheepskin', 'rug']
+1.0905741632475476e-154
+
+['abandoned', 'train', 'tracks', 'through', 'a', 'trailer', 'park']
+['a', 'train', 'through', 'abandoned', 'park', 'trailer', 'tracks']
+9.53091075863908e-155
+
+['small', 'boats', 'sit', 'by', 'the', 'shore', 'of', 'a', 'lake', '.']
+['the', 'lake', 'shore', 'by', 'a', 'small', 'boats', 'of', 'sit', '.']
+1.3478743256634661e-154
+
+['an', 'orange', 'boat', 'sits', 'on', 'the', 'shore', 'of', 'an', 'abandoned', 'beach', '.']
+['the', 'boat', '.', 'of', 'an', 'orange', 'on', 'an', 'abandoned', 'sits', 'shore', 'beach']
+1.1583479709166584e-154
+
+['a', 'young', 'boy', 'in', 'a', 'striped', 'hat', 'and', 'four', 'older', 'men', 'regard', 'each', 'other', '.']
+['in', '.', 'and', 'four', 'young', 'men', 'regard', 'each', 'other', 'older', 'boy', 'a', 'hat', 'a', 'striped']
+0.2601278440403792
+
+['the', 'engine', 'of', 'a', 'train', 'in', 'an', 'enclosure', '.']
+['the', 'engine', 'in', 'an', 'enclosure', 'of', 'a', 'train', '.']
+0.48109772909788073
+
+['a', 'black', 'dog', 'sitting', 'in', 'a', 'bush', '.']
+['in', 'a', 'black', 'dog', 'sitting', 'a', 'bush', '.']
+0.5410822690539396
+
+['the', 'green', 'train', 'is', 'coming', 'by', 'on', 'the', 'tracks', '.']
+['the', 'train', 'on', 'the', 'green', 'is', 'coming', 'by', 'tracks', '.']
+8.110264025282916e-78
+
+['a', 'man', 'is', 'posing', 'on', 'a', 'porch', '.']
+['a', 'man', 'is', 'on', 'posing', 'a', 'porch', '.']
+8.068564628293374e-78
+
+['a', 'wooden', 'patio', 'sets', 'sits', 'in', 'the', 'rain', '.']
+['the', 'rain', '.', 'in', 'a', 'wooden', 'sets', 'sits', 'patio']
+6.313993041533344e-78
+
+['a', 'floral', 'antique', 'armchair', 'sits', 'in', 'a', 'formal', 'living', 'room', '.']
+['in', 'a', 'a', 'room', '.', 'antique', 'armchair', 'sits', 'formal', 'floral', 'living']
+7.051402097550211e-78
+
+['a', 'ten', 'speed', 'bike', 'leans', 'up', 'against', 'a', 'dining', 'table', '.']
+['a', 'a', 'table', '.', 'ten', 'against', 'up', 'speed', 'dining', 'bike', 'leans']
+5.218621439957678e-78
+
+['an', 'orange', 'cat', 'hides', 'in', 'a', 'black', 'plastic', 'bag', '.']
+['in', 'a', 'black', '.', 'an', 'orange', 'plastic', 'bag', 'cat', 'hides']
+6.269681580989379e-78
+
+['a', 'large', 'boat', 'out', 'at', 'sea', '.']
+['a', 'large', 'boat', 'out', 'at', 'sea', '.']
+1.0
+
+['a', 'team', 'rows', 'a', 'boat', 'near', 'a', 'road', '.']
+['a', 'road', 'near', 'a', 'team', 'rows', 'a', 'boat', '.']
+0.6389431042462724
+
+['two', 'motorcycles', 'parked', 'with', 'jacket', 'draped', 'over', 'the', 'backs', 'of', 'them', '.']
+['the', 'two', 'of', 'them', '.', 'with', 'over', 'parked', 'motorcycles', 'jacket', 'draped', 'backs']
+5.333384990808849e-78
+
+['a', 'tourist', 'boat', 'floating', 'down', 'a', 'small', 'rural', 'river', '.']
+['a', 'boat', 'down', 'river', 'floating', 'a', 'rural', 'small', 'tourist', '.']
+8.612150057732663e-155
+
+['an', 'open', 'kitchen', 'with', 'large', 'windows', 'above', 'the', 'sink', 'and', 'a', 'white', 'table', '.']
+['the', 'table', 'with', 'a', 'large', 'white', 'kitchen', 'sink', 'and', 'an', 'open', 'windows', 'above', '.']
+5.9857088094971e-78
+
+['an', 'overview', 'of', 'a', 'medium', 'sized', 'city', 'full', 'of', 'haze', '.']
+['a', 'full', 'of', 'an', 'overview', 'of', 'medium', 'sized', 'city', 'haze', '.']
+7.380245217279165e-78
+
+['a', 'brown', 'couch', 'sits', 'beneath', 'a', 'highway', 'bridge', '.']
+['a', 'a', '.', 'beneath', 'bridge', 'sits', 'couch', 'brown', 'highway']
+1.821831989445342e-231
+
+['a', 'family', 'poses', 'on', 'a', 'love', 'seat', 'with', 'an', 'older', 'lady', '.']
+['a', 'family', '.', 'a', 'seat', 'on', 'an', 'older', 'lady', 'with', 'love', 'poses']
+5.333384990808849e-78
+
+['a', 'cow', 'is', 'standing', 'in', 'the', 'snow', '.']
+['the', 'snow', 'is', 'a', 'standing', 'in', 'cow', '.']
+1.0905741632475476e-154
+
+['a', 'plane', 'is', 'doing', 'a', 'flip', 'with', 'a', 'contrail', '.']
+['a', 'is', 'a', 'plane', 'with', 'doing', 'a', 'flip', '.']
+0.392814650900513
+
+['a', 'motorcycle', 'rider', 'is', 'suspended', 'in', 'midair', 'against', 'a', 'blue', 'sky']
+['in', 'a', 'blue', 'sky', 'is', 'suspended', 'against', 'a', 'motorcycle', 'rider']
+7.803659209895733e-78
+
+['four', 'people', 'with', 'two', 'motorcycles', 'on', 'a', 'concrete', 'area']
+['a', 'four', 'people', 'with', 'two', 'concrete', 'area', 'on', 'motorcycles']
+0.4153509237206396
+
+['a', 'vintage', 'motorcycle', 'with', 'a', 'basket', 'strapped', 'on', 'the', 'back', '.']
+['the', 'a', 'a', 'basket', 'with', 'back', 'strapped', 'on', 'vintage', 'motorcycle', '.']
+1.1862800137389335e-154
+
+['two', 'white', 'city', 'buses', 'with', 'red', 'and', 'blue', 'stripes', 'parked', 'in', 'a', 'field', '.']
+['in', 'and', 'a', 'field', 'with', 'white', 'city', 'buses', 'parked', 'two', 'red', 'blue', 'stripes', '.']
+5.408698473286684e-78
+
+['a', 'beautiful', 'garden', 'with', 'potted', 'plants', '.']
+['a', 'beautiful', 'garden', 'with', 'potted', 'plants', '.']
+1.0
+
+['a', 'dog', 'and', 'pup', 'laying', 'down', '.']
+['a', 'and', 'down', '.', 'laying', 'dog', 'pup']
+9.53091075863908e-155
+
+['two', 'computer', 'monitors', 'with', 'the', 'same', 'image', 'on', 'the', 'screen', 'on', 'a', 'desk', '.']
+['the', 'two', 'on', 'a', 'desk', 'with', 'the', 'same', 'computer', 'screen', 'image', 'on', 'monitors', '.']
+0.3438931217657843
+
+['two', 'dogs', 'lying', 'on', 'a', 'couch', 'surrounded', 'by', 'stuffed', 'animals', '.']
+['a', 'two', '.', 'by', 'on', 'animals', 'lying', 'couch', 'surrounded', 'dogs', 'stuffed']
+8.38826642100846e-155
+
+['a', 'puppy', 'lying', 'down', 'with', 'a', 'pink', 'shirt', 'and', 'leash', 'on', '.']
+['a', '.', 'on', 'with', 'pink', 'shirt', 'down', 'a', 'puppy', 'and', 'leash', 'lying']
+1.077964250266083e-154
+
+['two', 'goats', 'are', 'feeding', 'on', 'vegetation', 'next', 'to', 'the', 'water', '.']
+['the', 'next', 'to', 'water', '.', 'two', 'goats', 'are', 'feeding', 'on', 'vegetation']
+0.5844356470407898
+
+['the', 'man', 'is', 'relaxing', 'on', 'the', 'couch', '.']
+['the', 'man', 'on', 'the', 'couch', 'is', 'relaxing', '.']
+7.1740811735312e-78
+
+['a', 'red', 'double', 'decker', 'bus', 'drives', 'in', 'a', 'city', '.']
+['in', 'a', 'double', 'decker', 'bus', 'drives', 'a', 'red', 'city', '.']
+0.537284965911771
+
+['an', 'orange', 'scooter', 'is', 'parked', 'on', 'pavement', '.']
+['on', '.', 'is', 'an', 'orange', 'parked', 'scooter', 'pavement']
+1.0905741632475476e-154
+
+['the', 'bald', 'man', 'is', 'sitting', 'down', 'with', 'some', 'bottles', 'in', 'front', 'of', 'him', '.']
+['the', 'man', 'in', 'front', 'of', 'him', 'down', 'with', 'some', 'bottles', 'sitting', 'is', 'bald', '.']
+0.45258880078905583
+
+['a', 'boy', 'and', 'a', 'girl', 'dressed', 'nicely', 'are', 'seated', 'in', 'some', 'folding', 'chairs', '.']
+['in', 'a', 'boy', 'and', 'a', 'girl', 'dressed', 'nicely', 'seated', 'some', 'are', 'folding', 'chairs', '.']
+0.5956403592718089
+
+['a', 'man', 'and', 'a', 'young', 'boy', 'walk', 'along', 'the', 'shore', 'while', 'gulls', 'frolick', '.']
+['the', 'boy', 'a', 'young', 'man', 'a', 'walk', 'along', 'while', 'shore', 'and', 'gulls', '.']
+1.0547686614863434e-154
+
+['three', 'white', 'sheep', 'block', 'the', 'road', 'from', 'a', 'passing', 'car', '.']
+['the', 'three', 'a', 'car', 'passing', 'white', 'sheep', 'from', 'road', 'block', '.']
+9.975386110402101e-155
+
+['a', 'horse', 'and', 'a', 'foal', 'are', 'grazing', 'in', 'a', 'corral', '.']
+['in', 'a', 'horse', 'and', 'are', 'grazing', 'a', 'foal', '.', 'a', 'corral']
+6.206021746903507e-78
+
+['a', 'man', 'and', 'woman', 'are', 'sitting', 'at', 'a', 'table', 'opening', 'wine', '.']
+['a', 'man', 'and', 'a', 'woman', 'sitting', 'at', 'table', 'are', 'opening', 'wine', '.']
+0.6636154805687886
+
+['a', 'cat', 'is', 'lying', 'on', 'an', 'office', 'chair', '.']
+['a', 'cat', 'is', 'an', 'office', 'chair', 'lying', 'on', '.']
+7.939425925209436e-78
+
+['a', 'couple', 'with', 'a', 'bike', 'is', 'standing', 'in', 'front', 'of', 'a', 'sign', '.']
+['in', 'front', 'with', 'a', 'couple', 'of', 'a', 'sign', 'is', 'standing', 'a', 'bike', '.']
+7.206470625226315e-78
+
+['a', 'dinning', 'room', 'with', 'a', 'black', 'table', 'and', 'a', 'wine', 'refrigerator', '.']
+['a', 'black', 'and', 'a', 'table', 'with', 'a', 'wine', 'room', 'refrigerator', '.']
+7.670214148711776e-78
+
+['a', 'close', 'up', 'of', 'a', 'sheep', 'with', 'its', 'tongue', 'hanging', 'out', '.']
+['a', 'close', 'up', 'with', 'a', 'sheep', 'of', 'its', 'tongue', 'hanging', 'out', '.']
+0.5042387236869966
+
+['a', 'truck', 'is', 'parked', 'at', 'a', 'shack', 'on', 'a', 'beach']
+['a', 'beach', 'is', 'a', 'truck', 'parked', 'at', 'a', 'shack', 'on']
+0.631196907822589
+
+['a', 'large', 'cruise', 'ship', 'sits', 'in', 'port']
+['in', 'a', 'large', 'ship', 'sits', 'cruise', 'port']
+7.380245217279165e-78
+
+['a', 'group', 'of', 'men', 'eat', 'burritos', 'and', 'drink', 'beer', 'around', 'a', 'table', '.']
+['a', 'group', 'of', 'men', 'and', 'drink', 'beer', 'around', 'a', 'table', 'eat', '.']
+0.6834466815318615
+
+['a', 'red', 'and', 'white', 'england', 'bus', 'drives', 'down', 'the', 'street', '.']
+['the', 'red', 'and', 'down', 'street', 'bus', 'drives', 'a', 'white', 'england', '.']
+1.254338396921439e-154
+
+['the', 'television', 'was', 'plugged', 'into', 'the', 'wall', '.']
+['the', 'the', 'wall', 'was', 'plugged', 'into', 'television', '.']
+6.313993041533344e-78
+
+['the', 'graffiti', 'covered', 'train', 'road', 'by', '.']
+['the', 'road', '.', 'by', 'train', 'covered', 'graffiti']
+9.53091075863908e-155
+
+['a', 'white', 'van', 'parked', 'in', 'a', 'parking', 'lot']
+['in', 'a', 'white', 'van', 'parked', 'a', 'parking', 'lot']
+0.5410822690539396
+
+['studio', 'apartment', 'with', 'a', 'window', 'that', 'is', 'open']
+['a', 'studio', 'with', 'that', 'is', 'open', 'apartment', 'window']
+6.784827072174911e-78
+
+['a', 'gathering', 'of', 'a', 'few', 'people', 'around', 'a', 'table', 'full', 'of', 'food']
+['a', 'few', 'people', 'around', 'a', 'full', 'of', 'food', 'gathering', 'of', 'a', 'table']
+0.5491004867761125
+
+['a', 'mother', 'and', 'her', 'baby', 'girl', 'smiling']
+['a', 'baby', 'girl', 'smiling', 'and', 'her', 'mother']
+0.537284965911771
+
+['a', 'shiny', 'mosaic', 'dolphin', 'statue', 'is', 'near', 'the', 'food', 'court', 'in', 'a', 'mall', '.']
+['the', 'court', '.', 'in', 'a', 'a', 'is', 'near', 'statue', 'mosaic', 'shiny', 'dolphin', 'mall', 'food']
+1.0338718040106506e-154
+
+['a', 'bird', 'is', 'looking', 'over', 'his', 'own', 'shoulder', ',', 'sitting', 'on', 'a', 'railing', '.']
+['a', 'bird', '.', 'is', 'on', 'a', 'sitting', 'looking', 'over', 'his', 'own', 'shoulder', ',', 'railing']
+0.4863383168079943
+
+['a', 'red', 'motorcyle', 'with', 'a', 'milk', 'crate', 'strapped', 'to', 'it', '.']
+['it', '.', 'a', 'red', 'with', 'milk', 'a', 'strapped', 'to', 'crate']
+1.133422688662942e-154
+
+['a', 'couple', 'poses', 'in', 'front', 'of', 'a', 'refrigerator', '.']
+['in', 'front', 'a', 'couple', 'of', 'poses', 'a', 'refrigerator', '.']
+6.313993041533344e-78
+
+['a', 'brown', 'colored', 'bird', 'perched', 'on', 'a', 'flowerpot']
+['a', 'bird', 'perched', 'on', 'a', 'brown']
+0.8408964152537145
+
+['a', 'hotel', 'room', 'with', 'a', 'lamp', 'and', 'flat', 'screen', 'television']
+['a', 'room', 'with', 'a', 'hotel', 'lamp', 'and', 'flat', 'screen', 'television']
+0.6985342056580097
+
+['an', 'commercial', 'plane', 'getting', 'ready', 'to', 'take', 'off', 'soon', '.']
+['to', 'an', 'commercial', '.', 'off', 'getting', 'ready', 'soon', 'take', 'plane']
+1.024163012412722e-154
+
+['a', 'very', 'old', 'train', 'near', 'some', 'mountains', '.']
+['a', 'train', 'near', 'some', 'very', 'old', 'mountains', '.']
+7.1740811735312e-78
+
+['family', 'is', 'posing', 'at', 'a', 'birthday', 'party', '.']
+['a', 'party', 'at', 'family', 'birthday', 'is', 'posing', '.']
+9.170599044431425e-155
+
+['a', 'plane', 'is', 'getting', 'ready', 'to', 'take', 'off', '.']
+['a', 'is', 'getting', 'ready', 'to', 'take', 'plane', 'off', '.']
+0.5466325569645467
+
+['a', 'huge', 'cruise', 'ship', 'is', 'in', 'a', 'dock', 'with', 'a', 'super', 'cloudy', 'sky', '.']
+['in', 'a', 'huge', '.', 'is', 'super', 'a', 'cruise', 'ship', 'dock', 'with', 'a', 'cloudy', 'sky']
+7.64905473570869e-78
+
+['a', 'little', 'girl', 'is', 'standing', 'with', 'three', 'tents', 'in', 'a', 'yard', '.']
+['in', 'a', 'little', 'girl', 'is', 'a', 'standing', 'three', 'tents', 'with', 'yard', '.']
+0.3448444257953326
+
+['two', 'men', 'are', 'having', 'fun']
+['two', 'men', 'are', 'having', 'fun']
+1.0
+
+['a', 'dirt', 'bike', 'rider', 'getting', 'air']
+['a', 'bike', 'rider', 'getting', 'dirt', 'air']
+7.600793306264725e-78
+
+['a', 'messy', 'room', 'has', 'a', 'flat', 'screen', 'tv', 'set', 'up', 'on', 'the', 'wall']
+['the', 'room', 'has', 'a', 'flat', 'screen', 'wall', 'on', 'tv', 'set', 'up', 'a', 'messy']
+0.46924700641056
+
+['a', 'dog', 'is', 'carefully', 'licking', 'out', 'of', 'a', 'bowl']
+['a', 'dog', 'is', 'a', 'bowl', 'of', 'licking', 'out', 'carefully']
+7.939425925209436e-78
+
+['a', 'train', 'is', 'entering', 'the', 'bridge', 'tunnel', '.']
+['the', 'bridge', 'is', 'a', 'tunnel', 'train', 'entering', '.']
+1.2069187085583323e-154
+
+['a', 'pug', 'looks', 'is', 'wearing', 'a', 'jacket', '.']
+['a', 'is', 'wearing', 'a', 'jacket', 'looks', '.']
+0.4728708045015879
+
+['sun', 'is', 'shining', 'into', 'a', 'kitchen', 'with', 'a', 'green', 'fridge', '.']
+['a', 'is', 'a', 'kitchen', 'with', 'sun', 'shining', 'into', 'green', 'fridge', '.']
+7.380245217279165e-78
+
+['a', 'person', 'is', 'riding', 'a', 'horse', 'near', 'trees', '.']
+['a', 'person', 'is', 'a', 'horse', 'riding', 'near', 'trees', '.']
+9.196175004845321e-78
+
+['a', 'bird', 'on', 'shore', 'standing', 'over', 'the', 'water']
+['the', 'water', 'over', 'a', 'bird', 'standing', 'on', 'shore']
+8.531468375170499e-78
+
+['wild', 'horses', 'near', 'a', 'lake']
+['a', 'lake', 'near', 'wild', 'horses']
+1.254338396921439e-154
+
+['csa', 'airlines', 'taking', 'off', 'and', 'rising', 'in', 'the', 'sky', '.']
+['the', 'sky', '.', 'and', 'in', 'taking', 'off', 'rising', 'csa', 'airlines']
+5.929498746342409e-78
+
+['two', 'friends', 'hanging', 'out', 'and', 'enjoying', 'themselves', '.']
+['and', 'two', 'friends', 'enjoying', 'themselves', 'hanging', 'out', '.']
+1.2069187085583323e-154
+
+['this', 'is', 'the', 'back', 'of', 'a', 'red', 'chevy', 'camaro']
+['the', 'back', 'of', 'this', 'is', 'a', 'red']
+7.803659209895733e-78
+
+['this', 'is', 'a', 'computer', 'desktop', 'setup']
+['a', 'computer', 'desktop', 'setup', 'this', 'is']
+0.6042750794713536
+
+['a', 'woman', 'in', 'a', 'hat', 'rides', 'a', 'cow', 'led', 'by', 'two', 'other', 'cows', '.']
+['in', 'other', 'two', 'by', 'a', 'woman', 'led', 'cows', 'a', 'hat', 'a', 'cow', 'rides', '.']
+1.1109675539499615e-154
+
+['a', 'black', 'train', 'chugs', 'along', 'before', 'a', 'smoky', 'sky', '.']
+['a', 'train', 'before', 'black', 'sky', 'along', 'a', 'smoky', '.']
+1.1672934071334108e-154
+
+['a', 'car', 'parked', 'by', 'a', 'fence', ',', 'out', 'in', 'the', 'mountain', 'plains', '.']
+['the', ',', 'by', 'car', 'parked', 'a', 'mountain', 'out', 'a', 'fence', 'in', 'plains', '.']
+1.133422688662942e-154
+
+['father', 'and', 'daughter', 'looking', 'at', 'a', 'horse', '.']
+['a', 'daughter', '.', 'and', 'father', 'looking', 'at', 'horse']
+9.170599044431425e-155
+
+['a', 'hummingbird', 'on', 'a', 'tree', 'twig', 'branch', '.']
+['a', 'tree', 'branch', 'a', 'twig', 'on', 'hummingbird', '.']
+6.313993041533344e-78
+
+['a', 'guy', 'checking', 'his', 'bike', 'out', 'for', 'the', 'race', '.']
+['the', 'a', 'guy', 'for', 'checking', 'out', 'his', 'bike', 'race', '.']
+1.133422688662942e-154
+
+['the', 'rear', 'end', 'of', 'a', 'cow', 'and', 'a', 'capture', 'of', 'a', 'few', 'buildings', '.']
+['the', 'end', 'and', 'a', 'few', 'buildings', 'of', 'a', 'cow', 'a', 'rear', 'of', 'capture', '.']
+6.145467952731514e-78
+
+['a', 'grey', 'house', 'with', 'a', 'white', 'patio', 'set', 'next', 'to', 'it', '.']
+['it', 'to', 'a', 'white', 'with', 'grey', 'house', 'next', 'set', 'a', 'patio', '.']
+1.1583479709166584e-154
+
+['an', 'old', 'large', 'ship', 'towing', 'a', 'small', 'boat', 'in', 'open', 'water', '.']
+['in', 'a', 'small', '.', 'an', 'old', 'ship', 'boat', 'towing', 'water', 'open', 'large']
+5.333384990808849e-78
+
+['true', 'trains', 'about', 'to', 'pass', 'each', 'other', 'on', 'train', 'tacks', '.']
+['on', 'to', '.', 'about', 'other', 'trains', 'each', 'train', 'pass', 'true', 'tacks']
+1.821831989445342e-231
+
+['a', 'living', 'room', 'set', 'with', 'boxes', 'located', 'in', 'the', 'room', '.']
+['the', 'room', 'with', 'a', 'living', 'room', 'set', 'in', 'boxes', 'located', '.']
+0.4132584091896901
+
+['a', 'yellow', 'and', 'black', 'bird', 'eats', 'from', 'a', 'plastic', 'bird', 'feeder', '.']
+['a', 'black', 'plastic', 'from', 'a', 'bird', 'feeder', 'and', 'yellow', 'bird', 'eats', '.']
+0.35084396956386854
+
+['a', 'young', 'boy', 'sits', 'on', 'a', 'pink', 'stool', 'while', 'milking', 'a', 'cow', '.']
+['a', 'while', 'a', 'boy', '.', 'a', 'pink', 'young', 'sits', 'on', 'stool', 'milking', 'cow']
+1.133422688662942e-154
+
+['two', 'boats', 'on', 'the', 'water', ',', 'that', 'looks', 'so', 'peaceful', '.']
+['the', 'water', ',', 'on', 'two', 'boats', 'that', 'looks', 'so', 'peaceful', '.']
+0.5280972216470737
+
+['a', 'plane', 'in', 'a', 'the', 'sky', 'with', 'no', 'clouds', '.']
+['the', 'sky', 'with', 'a', 'plane', 'in', 'a', 'no', 'clouds', '.']
+0.4854917717073234
+
+['a', 'figure', 'is', 'on', 'a', 'desk']
+['a', 'figure', 'is', 'on', 'a', 'desk']
+1.0
+
+['people', 'are', 'lounging', 'about', 'on', 'a', 'roof']
+['a', 'roof', 'are', 'about', 'people', 'lounging', 'on']
+1.133422688662942e-154
+
+['an', 'orange', 'and', 'white', 'cat', 'plays', 'with', 'a', 'green', 'puffball', '.']
+['a', 'green', 'with', 'an', 'orange', 'and', 'white', 'cat', 'plays', '.']
+0.6147881529512643
+
+['two', 'cops', 'stand', 'in', 'a', 'dark', 'lot', 'by', 'a', 'tour', 'bus', '.']
+['in', 'a', 'lot', 'a', 'dark', 'by', 'bus', 'tour', 'stand', 'two', 'cops', '.']
+1.077964250266083e-154
+
+['a', 'child', 'is', 'standing', 'by', 'a', 'chair', 'at', 'a', 'lemonade', 'stand', '.']
+['a', 'child', 'at', 'a', 'chair', 'by', 'standing', 'is', 'stand', 'a', 'lemonade', '.']
+0.33180774028439425
+
+['three', 'women', 'are', 'standing', 'and', 'smiling', '.']
+['and', 'three', 'women', 'are', 'standing', 'smiling', '.']
+0.5081327481546147
+
+['a', 'woman', 'in', 'riding', 'clothes', 'rides', 'her', 'brown', 'and', 'white', 'horse', '.']
+['in', 'a', 'woman', 'and', 'her', 'white', 'horse', 'rides', 'brown', 'riding', 'clothes', '.']
+1.1583479709166584e-154
+
+['a', 'man', 'points', 'pushes', 'a', 'button', 'on', 'the', 'television', '.']
+['the', 'man', 'on', 'television', 'a', 'button', 'pushes', 'a', 'points', '.']
+1.2179419412838124e-154
+
+['a', 'cruise', 'ship', 'is', 'out', 'at', 'sea']
+['a', 'ship', 'is', 'out', 'at', 'sea', 'cruise']
+0.7071067811865476
+
+['a', 'woman', 'is', 'standing', 'next', 'to', 'her', 'motorcycle']
+['a', 'woman', 'is', 'standing', 'next', 'to', 'her', 'motorcycle']
+1.0
+
+['a', 'bull', 'in', 'the', 'field', 'is', 'looking', 'at', 'the', 'camera', '.']
+['the', 'field', 'in', 'the', 'camera', 'is', 'a', 'bull', 'looking', 'at', '.']
+1.3644157553689253e-154
+
+['a', 'double', 'deck', 'bus', 'is', 'driving', 'on', 'the', 'street', '.']
+['the', 'street', 'is', 'a', 'double', 'deck', 'bus', 'driving', 'on', '.']
+0.4518010018049224
+
+['there', 'is', 'a', 'purse', 'leaning', 'on', 'the', 'arm', 'of', 'a', 'couch']
+['the', 'arm', 'of', 'there', 'is', 'leaning', 'on', 'a', 'couch', 'a', 'purse']
+7.670214148711776e-78
+
+['there', 'are', 'two', 'birds', 'facing', 'away', 'from', 'each', 'other', 'on', 'a', 'pole']
+['a', 'pole', 'on', 'each', 'other', 'two', 'birds', 'are', 'facing', 'away', 'from', 'there']
+7.019129387474291e-78
+
+['a', 'sheep', 'dog', 'is', 'herding', 'sheep', '.']
+['a', 'dog', 'is', 'sheep', 'sheep', 'herding', '.']
+6.86809206056511e-78
+
+['a', 'cat', 'is', 'playing', 'with', 'the', 'whiskers', 'on', 'a', 'broom', '.']
+['the', 'cat', '.', 'a', 'a', 'is', 'on', 'with', 'playing', 'whiskers', 'broom']
+9.975386110402101e-155
+
+['a', 'double-decker', 'bus', 'in', 'front', 'of', 'a', 'area', 'with', 'several', 'flags', '.']
+['in', 'front', 'of', 'several', 'with', 'flags', '.', 'a', 'double-decker', 'bus', 'a', 'area']
+8.073145138016786e-78
+
+['several', 'men', 'eating', 'and', 'drinking', 'around', 'a', 'table', '.']
+['a', 'table', 'eating', 'and', 'several', 'men', 'around', 'drinking', '.']
+1.254338396921439e-154
+
+['a', 'green', 'train', 'stops', 'at', 'a', 'station', '.']
+['a', 'green', 'at', 'a', 'train', 'station', 'stops', '.']
+0.4417918226831577
+
+['a', 'cow', 'overlooks', 'a', 'field', 'of', 'grass', '.']
+['a', 'a', 'field', '.', 'of', 'grass', 'overlooks', 'cow']
+6.313993041533344e-78
+
+['an', 'empty', 'kitchen', 'and', 'dining', 'room', 'in', 'an', 'apartment', '.']
+['in', 'an', 'apartment', 'and', 'an', 'empty', 'dining', 'room', 'kitchen', '.']
+6.269681580989379e-78
+
+['two', 'friends', 'give', 'a', 'thumbs', 'up', 'for', 'the', 'photo', '.']
+['the', 'two', 'friends', 'for', 'a', 'thumbs', 'up', 'photo', 'give', '.']
+5.929498746342409e-78
+
+['a', 'young', 'rider', 'sits', 'on', 'top', 'of', 'a', 'brown', 'horse', '.']
+['a', 'a', 'top', 'of', 'brown', 'horse', 'rider', 'on', 'young', 'sits', '.']
+9.975386110402101e-155
+
+['two', 'remotes', 'rest', 'in', 'front', 'of', 'a', 'flat', 'screen', 'television', '.']
+['in', 'front', 'of', 'two', 'television', 'screen', 'a', 'rest', 'flat', '.']
+0.3303164318013807
+
+['a', 'train', 'is', 'stopped', 'at', 'a', 'train', 'station', '.']
+['a', 'train', 'is', 'a', 'train', 'stopped', 'at', 'station', '.']
+0.537284965911771
+
+['a', 'group', 'of', 'young', 'teens', 'are', 'jumping', 'simultaneously', 'on', 'a', 'beach', '.']
+['a', 'group', 'on', 'a', 'beach', '.', 'are', 'simultaneously', 'jumping', 'of', 'teens', 'young']
+0.2998221389342337
+
+['there', 'are', 'two', 'green', 'locomotives', 'sitting', 'next', 'to', 'each', 'other']
+['there', 'to', 'each', 'other', 'green', 'locomotives', 'are', 'sitting', 'next', 'two']
+7.455949944914188e-78
+
+['there', 'are', 'two', 'men', 'pulling', 'a', 'fish', 'out', 'of', 'the', 'water', 'into', 'a', 'net']
+['the', 'two', 'men', 'of', 'a', 'fish', 'out', 'there', 'are', 'pulling', 'into', 'a', 'net', 'water']
+7.877635813280042e-78
+
+['a', 'yellow', 'volkswagon', 'beetle', 'with', 'teeth', 'painted', 'on', 'the', 'front', '.']
+['the', 'front', 'teeth', 'on', 'a', 'yellow', 'painted', 'with', 'beetle', '.']
+1.2179419412838124e-154
+
+['a', 'bluejay', 'stands', 'in', 'a', 'green', ',', 'grassy', 'field', '.']
+['in', 'a', 'field', ',', 'a', 'grassy', 'green', 'stands', '.']
+5.87583260478785e-78
+
+['a', 'serious', 'cyclist', 'is', 'riding', 'on', 'a', 'road', 'really', 'quickly', '.']
+['a', 'serious', 'is', 'on', 'road', 'a', 'cyclist', 'riding', 'really', 'quickly', '.']
+7.051402097550211e-78
+
+['two', 'green', 'parrots', 'are', 'building', 'a', 'nest', 'on', 'a', 'pole', '.']
+['a', 'building', '.', 'a', 'nest', 'on', 'green', 'parrots', 'are', 'two', 'pole']
+6.6688043654654355e-78
+
+['several', 'horses', 'and', 'several', 'people', 'stand', 'in', 'a', 'horse', 'pen', '.']
+['in', 'and', 'several', 'horses', 'stand', 'people', 'several', 'horse', 'a', 'pen', '.']
+5.607773684948284e-78
+
+['a', 'large', ',', 'black', 'motorcyle', 'parks', 'in', 'a', 'parking', 'lot', '.']
+['in', ',', 'black', 'a', 'large', 'parking', 'lot', 'a', 'parks', '.']
+1.133422688662942e-154
+
+['two', 'women', 'pose', 'with', 'a', 'baby', 'girl', 'in', 'front', 'of', 'table', '.']
+['in', 'a', 'baby', 'girl', 'with', 'women', 'two', 'front', 'table', 'of', 'pose', '.']
+4.963273987908844e-78
+
+['a', 'man', 'sits', 'at', 'a', 'table', 'with', 'a', 'small', 'dog', '.']
+['a', 'man', 'with', 'a', 'small', 'table', 'at', 'a', 'dog', 'sits', '.']
+0.4440750605884706
+
+['a', 'young', 'girl', 'in', 'riding', 'gear', 'mounts', 'a', 'pony', 'in', 'front', 'of', 'a', 'group', '.']
+['in', 'front', 'of', 'a', 'group', 'a', 'young', 'girl', 'a', 'pony', 'riding', 'gear', 'in', 'mounts', '.']
+0.41374412020518814
+
+['people', 'are', 'overlooking', 'the', 'water', 'and', 'a', 'grand', 'building', '.']
+['the', 'people', 'are', 'a', 'building', 'overlooking', 'grand', 'and', 'water', '.']
+5.929498746342409e-78
+
+['an', 'older', 'man', 'is', 'standing', 'in', 'front', 'of', 'some', 'sheep', '.']
+['in', 'some', 'of', 'man', 'standing', 'an', 'older', 'sheep', 'is', 'front', '.']
+9.975386110402101e-155
+
+['two', 'brightly-colored', 'parrots', 'are', 'sitting', 'on', 'a', 'branch', '.']
+['a', 'branch', 'are', 'two', 'sitting', 'on', 'parrots', '.']
+1.2069187085583323e-154
+
+['a', 'bird', 'is', 'sitting', 'in', 'bush', '.']
+['in', 'a', 'bird', 'sitting', 'is', 'bush', '.']
+7.380245217279165e-78
+
+['a', 'train', 'is', 'moving', 'down', 'the', 'tracks', '.']
+['the', 'train', 'is', 'a', 'moving', 'down', 'tracks', '.']
+7.1740811735312e-78
+
+['three', 'people', 'posing', 'on', 'a', 'boat', 'overlooking', 'the', 'water', '.']
+['the', 'people', '.', 'a', 'three', 'on', 'water', 'boat', 'overlooking', 'posing']
+8.612150057732663e-155
+
+['a', 'man', 'sitting', 'at', 'a', 'workplace', 'office', 'desk', '.']
+['a', 'a', 'desk', 'office', 'man', 'sitting', 'at', 'workplace', '.']
+5.87583260478785e-78
+
+['four', 'blue', 'planes', 'are', 'flying', 'in', 'formation', 'with', 'contrails', 'behind', 'them', '.']
+['in', 'with', 'them', 'are', 'four', 'planes', 'flying', 'formation', 'behind', 'blue', '.']
+9.975386110402101e-155
+
+['a', 'scooter', 'is', 'parked', 'on', 'a', 'sidewalk', '.']
+['a', 'a', 'is', '.', 'on', 'parked', 'sidewalk', 'scooter']
+1.821831989445342e-231
+
+['boats', 'are', 'going', 'by', 'a', 'mountain', 'on', 'brilliant', 'blue', 'water', '.']
+['a', 'brilliant', 'blue', 'water', 'by', 'going', 'on', 'mountain', 'are', 'boats', '.']
+5.218621439957678e-78
+
+['a', 'cow', 'is', 'tethered', 'and', 'standing', 'in', 'hay', '.']
+['in', 'a', 'and', 'is', '.', 'tethered', 'hay', 'cow', 'standing']
+1.0547686614863434e-154
+
+['a', 'girl', 'is', 'taking', 'a', 'photo', 'with', 'a', 'baby', '.']
+['a', 'girl', 'with', 'a', 'baby', 'is', 'taking', 'a', 'photo', '.']
+0.5307712171072443
+
+['a', 'person', 'is', 'trying', 'to', 'jump', 'bricks', 'with', 'his', 'bike', '.']
+['a', 'person', 'to', 'jump', '.', 'is', 'trying', 'his', 'bike', 'with', 'bricks']
+1.1862800137389335e-154
+
+['a', 'parked', 'car', 'is', 'taking', 'a', 'picture', 'of', 'it', "'s", 'mirror', '.']
+['it', 'is', 'a', 'picture', 'of', 'taking', 'a', 'mirror', "'s", 'car', 'parked', '.']
+5.333384990808849e-78
+
+['a', 'motorcycle', 'with', 'a', 'passenger', 'seat', 'and', 'a', 'star', 'is', 'sitting', 'in', 'the', 'woods', '.']
+['the', 'star', 'in', 'a', 'seat', 'and', 'is', 'a', 'passenger', 'sitting', 'with', 'woods', 'a', 'motorcycle', '.']
+1.0905741632475476e-154
+
+['tvs', 'are', 'stacked', 'in', 'a', 'corner', 'against', 'a', 'wall', '.']
+['in', 'a', 'corner', '.', 'are', 'stacked', 'against', 'wall', 'a', 'tvs']
+0.4153509237206396
+
+['a', 'man', ',', 'woman', ',', 'and', 'child', 'are', 'sitting', 'on', 'a', 'love', 'seat', '.']
+['a', 'woman', ',', 'and', 'a', 'man', ',', 'are', 'sitting', 'on', 'love', 'child', 'seat', '.']
+8.46507057880692e-78
+
+['a', 'wooly', 'ram', 'is', 'staring', 'at', 'the', 'camera', '.']
+['the', 'camera', 'at', 'a', 'ram', 'is', 'staring', '.']
+0.4671379777282001
+
+['the', 'locomotive', 'has', 'started', 'its', 'journey', '.']
+['the', 'locomotive', 'has', 'started', 'its', 'journey', '.']
+1.0
+
+['a', 'black', 'dog', 'is', 'looking', 'at', 'something', 'by', 'the', 'woods', '.']
+['the', 'a', 'black', 'dog', 'is', 'something', 'by', 'looking', 'at', 'woods', '.']
+0.35930411196308426
+
+['a', 'plasma', 'tv', 'is', 'in', 'the', 'middle', 'of', 'an', 'entertainment', 'center', '.']
+['the', 'middle', 'of', 'a', 'tv', 'is', 'an', 'entertainment', 'center', 'in', 'plasma', '.']
+0.41009144472483733
+
+['herder', 'in', 'a', 'field', 'with', 'several', 'animals', '.']
+['in', 'a', 'field', 'with', 'several', 'animals', '.']
+1.0
+
+['couple', 'sitting', 'together', 'with', 'a', 'cat', 'on', 'a', 'sofa', '.']
+['a', 'couple', 'on', 'a', 'cat', 'sitting', 'together', 'with', 'sofa', '.']
+0.4518010018049224
+
+['two', 'wild', 'and', 'exotic', 'birds', 'step', 'near', 'each', 'other', 'in', 'the', 'marsh', '.']
+['the', 'two', '.', 'in', 'other', 'exotic', 'wild', 'birds', 'and', 'marsh', 'near', 'each', 'step']
+9.53091075863908e-155
+
+['a', 'stop', 'sign', 'is', 'covered', 'with', 'several', 'stickers', 'and', 'graffiti', '.']
+['a', 'sign', '.', 'is', 'covered', 'several', 'with', 'stop', 'graffiti', 'and', 'stickers']
+5.218621439957678e-78
+
+['girl', 'in', 'a', 'bikini', 'posing', 'in', 'front', 'aod', 'a', 'dune', 'buggy']
+['in', 'a', 'girl', 'in', 'a', 'front', 'posing', 'dune', 'buggy', 'bikini']
+0.3549481056010053
+
+['two', 'cows', 'drinking', 'water', 'from', 'a', 'pond']
+['a', 'pond', 'water', 'drinking', 'from', 'two', 'cows']
+1.254338396921439e-154
+
+['a', 'dining', 'room', 'table', 'set', 'for', 'two', '.']
+['a', 'table', 'set', 'for', 'two', 'dining', 'room', '.']
+0.6147881529512643
+
+['a', 'train', 'pulling', 'into', 'the', 'outdoor', 'station', '.']
+['the', 'station', 'a', 'train', 'pulling', 'into', 'outdoor', '.']
+0.4417918226831577
+
+['two', 'cows', 'stand', 'near', 'a', 'barn', '.']
+['a', 'stand', 'near', 'cows', 'two', 'barn', '.']
+1.133422688662942e-154
+
+['a', 'cat', 'sleeps', 'on', 'a', 'couch', '.']
+['a', 'a', 'cat', '.', 'on', 'couch', 'sleeps']
+1.133422688662942e-154
+
+['two', 'cats', 'enjoy', 'their', 'warm', 'confines', 'together', '.']
+['two', '.', 'their', 'warm', 'together', 'enjoy', 'confines', 'cats']
+9.170599044431425e-155
+
+['two', 'dogs', 'enclosed', 'in', 'metal', 'cages', 'outside', '.']
+['in', '.', 'two', 'dogs', 'outside', 'cages', 'enclosed', 'metal']
+1.0905741632475476e-154
+
+['two', 'women', 'sit', 'together', 'on', 'a', 'reserved', 'couch', '.']
+['a', 'two', '.', 'on', 'women', 'together', 'couch', 'reserved', 'sit']
+1.821831989445342e-231
+
+['a', 'big', 'black', 'dog', 'looks', 'out', 'while', 'sitting', 'on', 'the', 'grass', '.']
+['the', 'big', 'black', 'dog', 'out', 'a', 'while', 'sitting', 'on', 'grass', 'looks', '.']
+6.70637658081224e-78
+
+['a', 'young', 'boy', 'and', 'girl', 'smiling', 'next', 'to', 'folding', 'chairs', '.']
+['a', 'young', 'girl', 'to', 'next', 'boy', 'smiling', 'and', 'folding', 'chairs', '.']
+6.6688043654654355e-78
+
+['a', 'car', 'interior', 'with', 'the', 'airbags', 'deployed', '.']
+['the', 'car', '.', 'a', 'with', 'interior', 'deployed']
+6.206021746903507e-78
+
+['a', 'horse', 'and', 'its', 'rider', 'are', 'jumping', 'over', 'a', 'hurdle', '.']
+['a', 'horse', 'and', 'its', 'rider', 'over', 'a', 'hurdle', 'are', 'jumping', '.']
+0.5280972216470737
+
+['a', 'sheared', 'black', 'sheep', 'is', 'staring', 'up', 'at', 'the', 'camera', '.']
+['the', 'camera', 'is', 'at', 'a', 'black', 'sheep', 'staring', 'up', '.']
+6.562069055463047e-78
+
+['a', 'cat', 'resting', 'on', 'a', 'bad', 'and', 'a', 'dog', 'resting', 'on', 'a', 'couch', '.']
+['a', 'bad', 'and', 'a', 'dog', 'on', 'a', 'cat', 'on', 'resting', 'a', 'resting', 'couch', '.']
+0.5008718428920987
+
+['a', 'woman', 'cutting', 'a', 'dessert', 'inside', '.']
+['a', 'woman', '.', 'a', 'cutting', 'dessert', 'inside']
+1.133422688662942e-154
+
+['a', 'woman', 'sitting', 'on', 'a', 'hood', 'of', 'a', 'car', 'in', 'a', 'driveway', '.']
+['in', 'a', 'car', 'of', 'a', 'woman', 'sitting', 'on', 'a', 'hood', 'a', 'driveway', '.']
+0.5806030754582867
+
+['a', 'bicyclist', 'wearing', 'a', 'helmet', 'and', 'adjusting', 'their', 'glasses', '.']
+['a', 'a', 'helmet', 'wearing', 'their', 'glasses', 'and', 'adjusting', '.']
+1.1672934071334108e-154
+
+['a', 'woman', 'is', 'sitting', 'at', 'a', 'table', 'sipping', 'a', 'drink', 'beside', 'a', 'lake', '.']
+['a', 'drink', 'at', 'a', 'woman', 'is', 'sitting', 'beside', 'a', 'table', 'sipping', 'a', 'lake', '.']
+0.6190429960963546
+
+['a', 'cat', 'is', 'sitting', 'in', 'a', 'window', ',', 'looking', 'outside', '.']
+['in', 'a', 'window', ',', 'is', 'a', 'cat', 'sitting', 'looking', 'outside', '.']
+0.4440750605884706
+
+['two', 'children', 'on', 'bicycles', 'wait', 'to', 'cross', 'the', 'street', '.']
+['the', 'two', 'to', 'cross', 'street', 'children', 'wait', 'on', 'bicycles', '.']
+6.269681580989379e-78
+
+['empty', 'glasses', 'sit', 'on', 'the', 'wooden', 'table', 'in', 'front', 'of', 'a', 'black', 'sofa', '.']
+['the', 'black', 'in', 'front', 'of', 'a', 'wooden', 'sofa', 'table', 'sit', 'on', 'empty', 'glasses', '.']
+0.33260249505555045
+
+['this', 'is', 'a', 'desk', 'in', 'an', 'office']
+['in', 'an', 'office', 'this', 'is', 'a', 'desk']
+0.5946035575013605
+
+['a', 'man', 'is', 'preparing', 'food', 'at', 'his', 'table']
+['a', 'man', 'at', 'his', 'table', 'is', 'preparing', 'food']
+8.531468375170499e-78
+
+['the', 'front', 'of', 'a', 'yellow', 'house', 'with', 'a', 'well', 'landscaped', 'yard', '.']
+['the', 'yard', 'with', 'a', 'well', 'a', 'yellow', 'house', 'front', 'of', 'landscaped', '.']
+7.019129387474291e-78
+
+['two', 'women', 'shearing', 'a', 'sheep', 'on', 'a', 'stand', '.']
+['a', 'two', 'women', 'a', 'stand', 'on', 'sheep', 'shearing', '.']
+1.1672934071334108e-154
+
+['a', 'woman', 'has', 'two', 'birds', 'on', 'her', 'shoulder', 'and', 'head', '.']
+['a', 'woman', 'and', 'her', 'head', 'has', 'two', 'birds', 'on', 'shoulder', '.']
+0.35930411196308426
+
+['a', 'train', 'is', 'going', 'by', 'on', 'a', 'clear', 'blue', 'sky', 'day', '.']
+['a', 'day', 'is', 'a', 'clear', 'by', 'train', 'going', 'on', 'blue', 'sky', '.']
+5.333384990808849e-78
+
+['a', 'seated', 'woman', 'holding', 'a', 'newborn', 'baby', '.']
+['a', 'woman', 'holding', 'newborn', 'baby', 'a', 'seated', '.']
+7.1740811735312e-78
+
+['a', 'couple', 'and', 'their', 'child', 'posing', 'on', 'a', 'moving', 'boat', '.']
+['a', 'child', 'and', 'a', 'couple', 'posing', 'on', 'their', 'boat', 'moving', '.']
+1.254338396921439e-154
+
+['a', 'car', 'is', 'driving', 'behind', 'a', 'bicyclist', '.']
+['a', 'car', 'is', 'a', 'driving', 'behind', '.']
+7.803659209895733e-78
+
+['two', 'cows', 'are', 'grazing', 'in', 'a', 'pasture', '.']
+['in', 'a', 'two', 'cows', 'grazing', 'are', 'pasture', '.']
+6.784827072174911e-78
+
+['a', 'white', 'bus', 'parks', 'near', 'a', 'lot', 'of', 'water', '.']
+['a', 'lot', 'of', 'a', 'white', 'parks', 'near', 'water', 'bus', '.']
+6.562069055463047e-78
+
+['a', 'blue', 'and', 'grey', 'train', 'is', 'at', 'the', 'station', '.']
+['the', 'blue', 'and', 'is', 'at', 'a', 'grey', 'train', 'station', '.']
+8.385577545151707e-78
+
+['a', 'baby', 'kitten', 'is', 'staring', 'at', 'the', 'camera', '.']
+['the', 'baby', '.', 'at', 'camera', 'a', 'kitten', 'is', 'staring']
+6.987581940178587e-78
+
+['two', 'people', 'are', 'paddling', 'a', 'small', 'boat', 'out', 'in', 'the', 'water', '.']
+['the', 'two', 'people', 'are', 'a', 'small', 'boat', 'out', 'in', 'water', 'paddling', '.']
+0.4876836638685217
+
+['a', 'bottle', 'of', 'fort', 'garry', 'dark', 'ale', 'on', 'a', 'table']
+['a', 'bottle', 'of', 'table', 'a', 'fort', 'garry', 'on', 'dark', 'ale']
+7.455949944914188e-78
+
+['a', 'red', 'bus', 'driving', 'by', 'a', 'building']
+['a', 'building', 'by', 'bus', 'driving', 'a', 'red']
+1.254338396921439e-154
+
+['an', 'suv', 'that', 'has', 'been', 'rear-ended', 'is', 'parked', '.']
+['that', 'is', 'an', 'has', 'been', 'parked', '.']
+1.133422688662942e-154
+
+['cows', 'and', 'calves', 'are', 'grazing', 'on', 'a', 'farm', '.']
+['a', 'farm', 'on', 'and', 'cows', 'grazing', 'calves', 'are', '.']
+1.1672934071334108e-154
+
+['two', 'young', 'friends', 'pose', 'together', 'by', 'a', 'waterfall', '.']
+['a', 'young', '.', 'by', 'two', 'friends', 'together', 'waterfall', 'pose']
+8.869511863657866e-155
+
+['a', 'man', 'looks', 'over', 'a', 'moped', '.']
+['a', 'man', 'over', 'looks', 'a', 'moped', '.']
+6.86809206056511e-78
+
+['a', 'seagull', 'is', 'flying', 'by', 'the', 'river', '.']
+['the', 'river', 'by', 'flying', 'is', 'a', 'seagull', '.']
+6.313993041533344e-78
+
+['a', 'cat', 'is', 'laying', 'down', 'awkwardly', 'on', 'the', 'bed', '.']
+['the', 'bed', 'on', 'a', 'cat', 'is', 'laying', 'down', 'awkwardly', '.']
+0.7311104457090247
+
+['a', 'plane', 'is', 'spiraling', 'into', 'the', 'air', 'with', 'a', 'contrail', 'behind', 'it', '.']
+['the', 'air', 'with', 'a', 'a', 'plane', 'into', 'it', 'is', 'behind', '.']
+0.32466791547509893
+
+['a', 'dog', 'is', 'looking', 'up', 'at', 'someone', 'in', 'cargo', 'pants', '.']
+['in', 'a', 'dog', '.', 'is', 'at', 'up', 'looking', 'someone', 'cargo', 'pants']
+9.975386110402101e-155
+
+['a', 'group', 'of', 'people', 'are', 'at', 'a', 'restaurant', '.']
+['a', 'group', 'of', 'people', 'are', 'at', 'a', 'restaurant', '.']
+1.0
+
+['sheep', 'are', 'in', 'the', 'snow', '.']
+['the', 'sheep', 'are', 'in', 'snow', '.']
+7.600793306264725e-78
+
+['the', 'yellow', 'cat', 'is', 'standing', 'next', 'to', 'a', 'computer', '.']
+['the', 'computer', 'is', 'to', 'a', 'yellow', 'cat', 'standing', 'next', '.']
+6.269681580989379e-78
+
+['the', 'bald', 'guy', 'with', 'a', 'beard', 'is', 'petting', 'a', 'horses', 'nose', '.']
+['the', 'nose', '.', 'a', 'guy', 'a', 'beard', 'with', 'horses', 'is', 'bald']
+1.1862800137389335e-154
+
+['there', 'is', 'a', 'brown', 'and', 'white', 'cow', 'with', 'his', 'face', 'in', 'a', 'trough', '.']
+['in', 'his', 'face', 'and', 'there', 'is', 'a', 'white', 'with', 'brown', 'cow', 'a', 'trough', '.']
+6.145467952731514e-78
+
+['a', 'man', 'standing', 'in', 'front', 'of', 'a', 'passenger', 'train', '.']
+['in', 'front', 'of', 'a', 'man', 'standing', 'a', 'passenger', 'train', '.']
+0.631196907822589
+
+['a', 'man', 'parking', 'his', 'bike', 'at', 'the', 'longbottom', 'factory']
+['the', 'factory', 'at', 'a', 'man', 'his', 'bike', 'parking']
+1.2069187085583323e-154
+
+['two', 'bald', 'eagles', 'perched', 'on', 'a', 'tree', 'branch']
+['a', 'tree', 'on', 'two', 'eagles', 'perched', 'branch', 'bald']
+6.784827072174911e-78
+
+['a', 'small', ',', 'furry', 'brown', 'dog', 'sits', 'on', 'a', 'glass', 'table', '.']
+['a', 'small', 'table', ',', 'a', 'glass', 'sits', 'on', 'brown', 'furry', 'dog', '.']
+1.2248038575119736e-154
+
+['a', 'man', 'sits', 'on', 'a', 'tan', 'couch', 'reading', 'in', 'a', 'living', 'room', '.']
+['in', 'on', 'living', 'room', 'reading', 'a', 'man', 'sits', 'a', 'tan', 'a', 'couch', '.']
+0.3945881255591767
+
+['a', 'woman', 'with', 'a', 'small', 'dog', 'on', 'a', 'leash', '.']
+['a', 'woman', 'with', 'a', 'small', 'dog', 'on', 'a', 'leash', '.']
+1.0
+
+['i', 'woman', 'sitting', 'down', 'enjoying', 'a', 'drink', '.']
+['i', '.', 'a', 'woman', 'sitting', 'down', 'enjoying', 'drink']
+0.488923022434901
+
+['a', 'young', 'woman', 'in', 'a', 'black', 'top', 'takes', 'a', 'selfie', '.']
+['in', 'a', 'young', 'woman', 'takes', 'a', 'a', 'black', 'top', '.']
+0.5773502691896257
+
+['a', 'brown', 'horse', 'with', 'reins', 'stands', 'in', 'a', 'field', '.']
+['in', 'a', 'field', 'a', 'brown', 'horse', 'stands', 'with', 'reins', '.']
+0.43472087194499137
+
+['two', 'men', 'standing', 'and', 'laughing', ',', 'while', 'one', 'takes', 'a', 'drink', '.']
+['a', 'drink', 'and', 'two', 'men', 'standing', 'one', 'takes', ',', 'while', 'laughing', '.']
+5.902360740129213e-78
+
+['a', 'view', 'from', 'a', 'railing', 'overlooking', 'a', 'waterway', 'with', 'city', 'buildings', 'in', 'the', 'background', '.']
+['the', 'city', '.', 'a', 'background', 'in', 'view', 'with', 'a', 'waterway', 'from', 'buildings', 'overlooking', 'a', 'railing']
+1.2069187085583323e-154
+
+['this', 'is', 'a', 'close', 'up', 'of', 'a', 'grey', 'cat']
+['a', 'close', 'up', 'of', 'this', 'is', 'a', 'grey', 'cat']
+0.537284965911771
+
+['two', 'women', 'sit', 'outside', 'and', 'talk']
+['and', 'women', 'sit', 'outside', 'two', 'talk']
+6.86809206056511e-78
+
+['a', 'woman', 'is', 'holding', 'a', 'large', 'duffel', 'bag', 'and', 'a', 'digital', 'camera', '.']
+['a', 'woman', 'is', 'a', 'large', '.', 'and', 'digital', 'camera', 'holding', 'a', 'duffel', 'bag']
+7.206470625226315e-78
+
+['a', 'bathroom', 'with', 'stained', 'glass', 'windows', 'and', 'a', 'tub', '.']
+['a', 'glass', '.', 'a', 'bathroom', 'windows', 'and', 'stained', 'with', 'tub']
+1.133422688662942e-154
+
+['a', 'white', 'dog', 'running', 'in', 'a', 'snowy', 'forest', '.']
+['in', 'white', 'dog', 'running', 'a', 'forest', 'a', 'snowy', '.']
+5.87583260478785e-78
+
+['people', 'are', 'riding', 'horses', 'through', 'a', 'park', '.']
+['a', 'park', 'through', 'people', 'are', 'riding', 'horses', '.']
+0.6147881529512643
+
+['lambs', 'are', 'feeding', 'in', 'the', 'grass', '.']
+['the', 'grass', 'are', 'in', 'lambs', 'feeding', '.']
+1.254338396921439e-154
+
+['a', 'train', 'engine', 'decorated', 'with', 'the', 'canadian', 'flag', 'and', 'country', 'name', 'pass', 'by', '.']
+['the', 'country', '.', 'by', 'train', 'and', 'pass', 'a', 'canadian', 'flag', 'decorated', 'with', 'engine', 'name']
+4.548155157375074e-78
+
+['a', 'vermont', 'greyhound', 'bus', 'is', 'parked', 'at', 'a', 'curb', '.']
+['a', 'a', 'bus', '.', 'is', 'at', 'greyhound', 'parked', 'vermont', 'curb']
+1.024163012412722e-154
+
+['a', 'desk', 'includes', 'multiple', 'monitors', 'and', 'papers', '.']
+['a', 'and', '.', 'papers', 'multiple', 'monitors', 'includes', 'desk']
+9.170599044431425e-155
+
+['a', 'plane', 'flies', 'through', 'the', 'sky', '.']
+['the', 'sky', 'through', 'a', 'plane', 'flies', '.']
+6.86809206056511e-78
+
+['bride', ',', 'groom', ',', 'and', 'several', 'others', 'at', 'a', 'wedding', 'inside', 'a', 'church', '.']
+['a', ',', 'and', ',', 'at', 'several', 'others', 'inside', 'church', 'wedding', 'a', 'bride', 'groom', '.']
+1.0338718040106506e-154
+
+['a', 'soldier', 'ducks', 'next', 'to', 'a', 'tree', 'while', 'a', 'dog', 'looks', 'on', '.']
+['a', 'while', 'on', 'to', 'next', 'dog', 'looks', 'a', 'tree', 'ducks', 'a', 'soldier', '.']
+1.133422688662942e-154
+
+['several', 'white', 'goats', 'are', 'standing', 'around', 'in', 'a', 'fenced', 'area', '.']
+['in', '.', 'a', 'standing', 'several', 'white', 'goats', 'are', 'fenced', 'area', 'around']
+0.32466791547509893
+
+['a', 'smiling', 'woman', 'is', 'sitting', 'in', 'a', 'plant-filled', 'room', '.']
+['in', 'a', 'woman', 'sitting', 'room', 'is', 'a', 'smiling', '.']
+6.676234799681113e-78
+
+['a', 'man', 'is', 'painting', 'a', 'volkswagen', '.']
+['a', 'man', 'is', 'painting', 'a', 'volkswagen', '.']
+1.0
+
+['a', 'man', 'is', 'driving', 'a', 'car', 'while', 'another', 'is', 'pushing', 'a', 'motorcycle', '.']
+['a', 'car', 'is', 'a', 'while', 'another', 'man', 'is', 'pushing', 'a', 'motorcycle', 'driving', '.']
+0.40637982820134433
+
+['a', 'group', 'of', 'people', 'is', 'walking', 'in', 'an', 'amusement', 'park', '.']
+['in', 'a', 'group', 'of', 'people', 'walking', 'is', 'an', 'amusement', 'park', '.']
+0.6389431042462724
+
+['a', 'bird', 'is', 'flying', '.']
+['a', 'bird', 'is', 'flying', '.']
+1.0
+
+['a', 'child', 'rides', 'his', 'bike', 'in', 'the', 'snow', '.']
+['the', 'snow', 'in', 'his', 'bike', 'rides', 'a', 'child', '.']
+1.254338396921439e-154
+
+['a', 'bike', 'vendor', 'pulls', 'his', 'cart', 'through', 'traffic', '.']
+['a', '.', 'his', 'bike', 'through', 'traffic', 'pulls', 'cart', 'vendor']
+1.0547686614863434e-154
+
+['two', 'men', 'are', 'talking', 'at', 'a', 'airfield']
+['a', 'are', 'talking', 'men', 'at', 'two', 'airfield']
+9.53091075863908e-155
+
+['a', 'nice', 'living', 'room', 'in', 'the', 'afternoon']
+['the', 'afternoon', 'in', 'a', 'nice', 'living', 'room']
+0.537284965911771
+
+['sheep', 'are', 'frolicking', 'on', 'the', 'plains']
+['the', 'plains', 'are', 'on', 'sheep']
+1.254338396921439e-154
+
+['a', 'red', 'race', 'car', 'on', 'the', 'track']
+['the', 'car', 'race', 'track', 'on', 'a', 'red']
+1.3478743256634661e-154
+
+['an', 'airplane', 'in', 'on', 'the', 'runway', 'waiting', 'to', 'take', 'off', '.']
+['the', 'waiting', 'in', 'to', 'take', 'off', 'an', 'airplane', 'on', 'runway', '.']
+5.607773684948284e-78
+
+['two', 'subjects', 'on', 'the', 'water', 'in', 'a', 'small', 'sailboat', '.']
+['the', 'water', 'on', 'a', 'small', 'in', 'two', 'subjects', '.']
+6.313993041533344e-78
+
+['a', 'cat', 'is', 'staring', 'at', 'the', 'screen']
+['the', 'screen', 'is', 'staring', 'at', 'a', 'cat']
+9.280167055464391e-78
+
+['a', 'plan', 'is', 'attempting', 'to', 'land']
+['a', 'plan', 'is', 'attempting', 'to', 'land']
+1.0
+
+['a', 'man', 'in', 'shorts', 'stands', 'on', 'a', 'snowy', 'mountain', '.']
+['in', '.', 'a', 'man', 'stands', 'a', 'snowy', 'mountain', 'on', 'shorts']
+7.051402097550211e-78
+
+['a', 'baby', 'dressed', 'as', 'a', 'bee', 'is', 'held', 'by', 'an', 'older', 'woman', '.']
+['a', 'baby', 'is', 'an', 'older', 'woman', 'as', 'a', 'bee', 'held', 'by', 'dressed', '.']
+6.70637658081224e-78
+
+['a', 'group', 'of', 'birds', 'perched', 'on', 'slow']
+['a', 'group', 'of', 'birds', 'perched', 'on', 'slow']
+1.0
+
+['a', 'group', 'of', 'friends', 'posing', 'for', 'a', 'photo']
+['a', 'photo', 'of', 'friends', 'for', 'posing', 'a', 'group']
+1.2069187085583323e-154
+
+['a', 'cat', 'is', 'laying', 'playfully', 'on', 'it', "'s", 'side', '.']
+['it', '.', 'a', 'cat', "'s", 'side', 'is', 'playfully', 'on', 'laying']
+1.2179419412838124e-154
+
+['a', 'sheep', 'and', 'it', "'s", 'offspring', 'in', 'a', 'field', 'of', 'grass']
+['it', "'s", 'a', 'field', 'in', 'a', 'sheep', 'and', 'offspring', 'of', 'grass']
+6.206021746903507e-78
+
+['two', 'elderly', 'people', 'are', 'sitting', 'at', 'a', 'restaurant', 'table', ',', 'holding', 'a', 'baby', '.']
+['a', 'baby', 'at', 'a', ',', 'are', 'two', 'elderly', 'people', 'sitting', 'restaurant', 'table', 'holding', '.']
+0.3200286101270288
+
+['an', 'empty', 'chair', 'is', 'turned', 'away', 'from', 'the', 'desk', 'in', 'an', 'office', 'cubicle', '.']
+['the', 'desk', 'is', 'an', 'empty', 'chair', 'from', 'an', 'office', 'turned', 'away', 'in', 'cubicle', '.']
+6.684777663987187e-78
+
+['an', 'outdoor', 'patio', 'next', 'to', 'a', 'house']
+['a', 'house', 'next', 'to', 'an', 'outdoor', 'patio']
+7.380245217279165e-78
+
+['teenagers', 'playing', 'twister']
+[]
+0
+
+['a', 'container', 'of', 'milk', 'on', 'a', 'rock', '.']
+['a', 'rock', 'on', 'a', 'container', 'of', 'milk', '.']
+0.4671379777282001
+
+['a', 'girl', 'is', 'sitting', 'on', 'the', 'couch', 'and', 'upset']
+['the', 'girl', 'on', 'a', 'sitting', 'is', 'couch', 'and', 'upset']
+7.508645449069235e-78
+
+['two', 'old', 'men', 'look', 'at', 'the', 'car']
+['the', 'two', 'men', 'look', 'at', 'old', 'car']
+0.5081327481546147
+
+['two', 'friends', 'pose', 'at', 'a', 'english', 'camp']
+['a', 'two', 'at', 'camp', 'english', 'friends', 'pose']
+9.53091075863908e-155
+
+['a', 'women', 'is', 'rowing', 'a', 'boat', 'on', 'the', 'river']
+['the', 'river', 'is', 'a', 'women', 'on', 'a', 'rowing', 'boat']
+1.1672934071334108e-154
+
+['a', 'young', 'boy', 'holds', 'his', 'dog', 'up', 'on', 'his', 'shoulder', '.']
+['a', 'dog', 'up', 'on', 'his', 'young', 'boy', 'holds', 'his', 'shoulder', '.']
+0.5946035575013605
+
+['a', 'red', 'truck', 'is', 'performing', 'a', 'burnout', '.']
+['a', 'red', 'is', 'performing', 'a', 'truck', '.']
+7.803659209895733e-78
+
+['a', 'cat', 'stares', 'at', 'herself', 'in', 'a', 'mirror', '.']
+['in', 'a', 'a', 'cat', '.', 'at', 'herself', 'stares', 'mirror']
+1.1672934071334108e-154
+
+['a', 'horse', 'stares', 'at', 'the', 'camera', 'while', 'another', 'grazes', '.']
+['the', 'horse', '.', 'a', 'while', 'at', 'another', 'camera', 'stares', 'grazes']
+8.612150057732663e-155
+
+['a', 'apple', 'monitor', 'is', 'turned', 'on']
+['a', 'monitor', 'is', 'turned', 'on', 'apple']
+0.5623413251903491
+
+['a', 'train', 'is', 'passing', 'through', 'on', 'its', 'tracks']
+['a', 'train', 'is', 'on', 'passing', 'through', 'its', 'tracks']
+0.4671379777282001
+
+['people', 'are', 'waiting', 'outside', 'a', 'book', 'store']
+['a', 'book', 'store', 'people', 'are', 'waiting', 'outside']
+0.5946035575013605
+
+['a', 'bike', 'is', 'standing', 'still']
+['a', 'is', 'still', 'bike', 'standing']
+1.0547686614863434e-154
+
+['a', 'bird', 'is', 'resting', 'on', 'a', 'tree', 'branch']
+['a', 'bird', 'is', 'resting', 'on', 'a', 'tree', 'branch']
+1.0
+
+['two', 'goats', 'walking', 'on', 'a', 'mountain']
+['a', 'walking', 'on', 'two', 'mountain', 'goats']
+7.600793306264725e-78
+
+['an', 'old', 'train', 'waits', 'at', 'an', 'empty', 'stop', '.']
+['at', 'an', 'old', '.', 'an', 'empty', 'train', 'waits', 'stop']
+6.676234799681113e-78
+
+['a', 'cat', 'stares', 'at', 'the', 'camera', 'from', 'a', 'desk', '.']
+['the', 'desk', '.', 'a', 'a', 'cat', 'from', 'at', 'stares', 'camera']
+5.518020345386123e-78
+
+['a', 'horned', 'animal', 'is', 'on', 'the', 'plains']
+['the', 'animal', 'is', 'a', 'on', 'horned', 'plains']
+9.53091075863908e-155
+
+['a', 'green', 'bus', 'driving', 'on', 'the', 'road']
+['the', 'bus', 'driving', 'on', 'a', 'green', 'road']
+0.537284965911771
+
+
+
+average BLEU score: 0.1688506227022075
+standard deviation: 0.28037515341341007

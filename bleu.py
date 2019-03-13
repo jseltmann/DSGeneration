@@ -4,41 +4,53 @@ from nltk.translate.bleu_score import sentence_bleu
 import nltk
 import numpy as np
 
-def bleu_pascal(orig_filename, decoded_filename, log_filename):
+def bleu_pascal(ref_filename, decoded_filename, log_filename):
     """
     Calculate BLEU score for sentences from the pascal dataset.
 
     Parameters
     ----------
-    orig_filename : str
-        File containing the pascal50S dataset.
+    ref_filename : str
+        File containing the reference sentences from the pascal50S dataset.
     decoded_filename : str
         File containing the decoded sentences.
     log_filename : str
         File to write the results to.
     """
 
-    with open(orig_filename) as f:
+    with open(ref_filename) as f:
         data = json.loads(f.read())
 
-    orig_sents = dict()
+    ref_sents = dict()
     for entry in data:
         img_id = entry['image_id']
-        if not img_id in orig_sents:
-            orig_sents[img_id] = entry['caption']
+        ref = nltk.word_tokenize(entry['caption'])
+        ref = list(map(lambda x: x.lower(), ref))
+        if not img_id in ref_sents:
+            ref_sents[img_id] = [ref]
+        else:
+            ref_sents[img_id].append(ref)
+        
 
     with open(decoded_filename, "rb") as decoded_file:
         decoded_sents = pickle.load(decoded_file)
 
     scores = []
             
+    i = 0
     for img_id in decoded_sents:
-        orig = nltk.word_tokenize(orig_sents[img_id])
+        #if i > 0:
+        #    break
+        i += 1
+        #orig = nltk.word_tokenize(orig_sents[img_id])
+        #orig = list(map(lambda x: x.lower(), orig))
         decoded = decoded_sents[img_id]
 
-        score = sentence_bleu(orig, decoded)
+        references = ref_sents[img_id]
+
+        score = sentence_bleu(references, decoded)
         with open(log_filename, "a") as log_file:
-            log_file.write(str(orig) + "\n")
+            log_file.write(str(references[0]) + "\n")
             log_file.write(str(decoded) + "\n")
             log_file.write(str(score) + "\n\n")
 
