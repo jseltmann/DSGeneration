@@ -60,7 +60,7 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
         
     scores = dict()
 
-    ngram_counts = get_ngram_counts(ref_dict, max_n)
+    #ngram_counts = get_ngram_counts(ref_dict, max_n)
     
     #i = 0
     for image_id, dec_sent in decoded_dict.items():
@@ -72,7 +72,7 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
         score = 0
         
         for n in list(range(max_n+1))[1:]:
-            score += 1/max_n * calculate_ciderD_n(image_id, dec_sent, ref_dict, ngram_counts, n)
+            score += 0#1/max_n * calculate_ciderD_n(image_id, dec_sent, ref_dict, ngram_counts, n)
 
         orig_sent = nltk.word_tokenize(orig_dict[image_id])
         bin_num = len_to_bin[len(orig_sent)]
@@ -85,7 +85,8 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
             line = str(image_id) + " | " + str(dec_sent) + " | " + str(score) + "\n"
             log_file.write(line)
 
-    for bin_num in range(generated_bins):
+    print(generated_bins)
+    for bin_num in range(generated_bins+1):
         avg = np.mean(scores[bin_num])
         stddev = np.std(scores[bin_num])
 
@@ -94,7 +95,7 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
 
         with open(log_filename, "a") as log_file:
             log_file.write("\n\n")
-            log_file.write("sentence lengths: " + str(len_min) + " to " + str(len_max))
+            log_file.write("sentence lengths: " + str(len_min) + " to " + str(len_max) + "\n")
             log_file.write("average ciderD score: " + str(avg) + "\n")
             log_file.write("standard deviation: " + str(stddev) + "\n")
 
@@ -428,4 +429,5 @@ def save_orig_dict(data_filename, orig_filename):
 #decode_sentences("../cider/data/pascal50S.json", "../test_decoded.pkl", "../test_ref.pkl", "../matrix_1k/_matrix.pkl")
 #decode_sentences("../cider/data/pascal50S.json", "../debug_decoded.pkl", "../debug_ref.pkl", "../matrix_1k/_matrix.pkl")
                  
-calculate_ciderD("../test_decoded.pkl", "../test_ref.pkl", "../test.log", max_n=4)
+#def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename, max_n=4, num_bins=2):
+calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../test.log", max_n=4, num_bins=2)
