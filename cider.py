@@ -59,6 +59,7 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
             curr_sum = 0
             curr_bin += 1
             generated_bins += 1
+    bin_sum[curr_bin] = curr_sum
         
     scores = dict()
 
