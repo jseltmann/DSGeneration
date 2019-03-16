@@ -6,6 +6,8 @@ from collections import defaultdict
 import numpy as np
 import nltk
 import math
+import pickle
+import os.path
 
 def find_positions(sents_filename, function_words, matrix_filename, log_filename):
     """
@@ -199,7 +201,7 @@ def find_positions(sents_filename, function_words, matrix_filename, log_filename
         #log_file.write(str(contained_non_func/len(closest_non_func_words)) + "\n")
 
 
-def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
+def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_clusters=2):
     """
     Use k-means clustering to find clusters in space among 
     given sentences and the words in a DS_matrix.
@@ -212,6 +214,8 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
         Filename of the matrix.
     log_filename : str
         Filename of logfile.
+    clust_dir : str
+        Directory to save the cluster to.
     num_clusters : int
         Number of clusters.
     """
@@ -251,6 +255,14 @@ def find_clusters(sent_filename, matrix_filename, log_filename, num_clusters=2):
     
     #calculate some statistics for each cluster
     dist_lists = [[] for _ in range(num_clusters)]
+
+    vector_cluster_filename = os.path.join(clust_dir, "vector_clusters.pkl")
+    with open(vector_cluster_filename, "wb") as vector_cluster_file:
+        pickle.dump(vector_clusters, vector_cluster_file)
+    sent_cluster_filename = os.path.join(clust_dir, "sent_clusters.pkl")
+    with open(sent_cluster_filename, "wb") as sent_cluster_file:
+        pickle.dump(sent_clusters, sent_cluster_file)
+
 
     with open(log_filename, "w") as log_file:
         for cluster_num, cluster in enumerate(sent_clusters):
@@ -378,5 +390,5 @@ stopwords = [
 ] + [".", ",", ";", "-", "—"] 
 
 #find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
-find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters_log_sents.log", num_clusters=2)
+find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters/clusters1.log", "../clusters/clusters1", num_clusters=2)
 #find_zeros("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "count_nonzeros.log", num_words=2000)
