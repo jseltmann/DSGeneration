@@ -61,7 +61,8 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
                 if res_sent is not None:
                     for ngram in res_sent:
                         #line += word + " "
-                        line += " ".join(ngram)
+                        for word in ngram:
+                             line += words + " "
                 line += "\n"
 
                 log_file.write(line)
@@ -278,5 +279,5 @@ def evaluate_decoding(results_filename, log_filename):
 #test_decoding("brown_sents/1000_freq_sents_from_brown.txt", "../matrix_50k/_matrix.pkl", "../50k_1000_short_sents.log")
 
 #decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../matrix_50k/_matrix.pkl", "../decoded_500_50k_15to17.log", "../skipped_50k_15to17.log", timeout=900)
-decode_sents("../brown_sents_bins_incl_non_matrix/3to5.txt", "../ngram_matrix_50k/_matrix.pkl", "../decoded_ngram_matrix_10k/decoded_3to5.log", "../decoded_ngram_matrix_10k/skipped_50k_3to5.log", timeout=900, num_words=10000)
+decode_sents("../brown_sents_bins_incl_non_matrix/15to17.txt", "../ngram_matrix_50k/_matrix.pkl", "../decoded_ngram_matrix_10k/decoded_15to17.log", "../decoded_ngram_matrix_10k/skipped_50k_15to17.log", timeout=1200, num_words=10000)
 #decode_sents("../brown_sents_bins_incl_non_matrix/18to20.txt", "../matrix_50k/_matrix.pkl", "../decoded_10k_18to20.log", num_words=10000, timeout=900)
