@@ -4,6 +4,8 @@ import numpy as np
 import scipy.sparse
 import nltk
 from itertools import permutations
+import os, os.path
+import math
 
 import sowe2bow as s2b
 
@@ -393,7 +395,55 @@ class DS_matrix:
 
 
         return best_sent
-        
 
+    
+    def pmi_matrix(self, new_matrix_path):
+        """
+        Calculate positive PMI for each pair of words and build a new matrix based on that.
+
+        Parameters
+        ----------
+        new_matrix_path : str
+            Directory to save the new matrix to.
+        """
+
+        pmi_matrix = scipy.sparse.lil_matrix(self.matrix.shape, dtype=np.float64)
+
+        self.tocsc()
+        
+        for word1 in self.vocab_order:
+            pc = self.unigram_probs[word1]
+            posc = self.vocab_order[word1]
+            probsc = self.matrix.getcol(posc).toarray().flatten()
+
+            for word2 in self.vocab_order:
+                pw = self.unigram_probs[word2]
+                posw = self.vocab_order[word2]
+                #pcw = self.matrix[posc, posw]
+                pcw = probsc[posw]
+
+                inner = pcw / (pw * pc)
+                if inner > 0:
+                    pmi = math.log(inner, 2)
+                    ppmi = max(pmi, 0)
+                else:
+                    ppmi = 0
+
+                pmi_matrix[posc, posw] = ppmi
+
+        if not os.path.exists(new_matrix_path):
+            os.mkdir(new_matrix_path)
+
+        matrix_path = os.path.join(new_matrix_path, "_matrix.pkl")
+        with open(matrix_path, "wb") as matrix_file:
+            pickle.dump(pmi_matrix, matrix_file)
+
+        order_path = os.path.join(new_matrix_path, "_vector_index.pkl")
+        with open(order_path, "wb") as order_file:
+            pickle.dump(self.vocab_order, order_file)
+
+        unigram_path = os.path.join(new_matrix_path, "_unigram_probs.pkl")
+        with open(unigram_path, "wb") as unigram_file:
+            pickle.dump(self.unigram_probs, unigram_file)
 
 
