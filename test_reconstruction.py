@@ -62,7 +62,7 @@ def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename
                     for ngram in res_sent:
                         #line += word + " "
                         for word in ngram:
-                             line += words + " "
+                             line += word + " "
                 line += "\n"
 
                 log_file.write(line)
