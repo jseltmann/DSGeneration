@@ -121,31 +121,123 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
 
 
 
-stopwords = [
-    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
-    "away", "be", "become", "became", "been", "being", "by", "did", "do",
-    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
-    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
-    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
-    "their", "there", "this", "these", "those", "to", "under", "was", "were",
-    "what", "when", "where", "which", "who", "will", "with", "you", "your"
-]
+def read_predict_vectors(predict_filename, matrix_directory, prev_matrix_name=None, word_num=None):
+    """
+    Read predict vectors from http://clic.cimec.unitn.it/composes/semantic-vectors.html
+    into matrix. Assigns equal probabilities to the unigrams.
+
+    Parameters
+    ----------
+    predict_filename : str
+         File containing the predict vectors.
+    matrix_directory : str
+         Directory to save the matrix to.
+    prev_matrix_name : str
+         Filename of an existing matrix. 
+         Use to have this matrix have the same vocabulary and word order as the old one.
+    word_num : int
+         Number of words to include in the matrix.
+         If None, use all words.
+         If prev_matrix is given, word_num is ignored.
+    """
+
+    vocab_order = dict()
+    unigram_probs = dict()
+
+    if prev_matrix_name is not None:
+        vocab_name = prev_matrix_name[:-11] + "_vector_index.pkl"
+        with open(vocab_name, "rb") as vocab_file:
+            old_vocab_order = pickle.load(vocab_file)
+        word_num = len(old_vocab_order)
+    else:
+        old_vocab_order = None
+
+    if word_num is None:
+        word_num = 0
+        with open(predict_filename) as predict_file:
+            for line in predict_file:
+                vec_len = len(line.split("\t")) - 1
+                word_num += 1
+    else:
+        with open(predict_filename) as predict_file:
+            for line in predict_file:
+                vec_len = len(line.split("\t")) - 1
+                break
+
+    
+    matrix = scipy.sparse.lil_matrix((word_num, vec_len), dtype=np.float64)
+        
+
+    with open(predict_filename) as predict_file:
+        for i, line in enumerate(predict_file):
+            entries = line.split("\t")
+            word = entries[0].lower()
+            try:
+                vector = list(map(float, entries[1:]))
+            except Exception as e:
+                print(i)
+                print(line)
+                continue
+
+            if old_vocab_order is not None:
+                if not word in old_vocab_order:
+                    continue
+                pos = old_vocab_order[word]
+            else:
+                if i == word_num:
+                    break
+                pos = i
+            for j in range(vec_len):
+                matrix[pos,j] = vector[j]
+            vocab_order[word] = pos
+            unigram_probs[word] = 1
+
+    num_words = len(unigram_probs)
+    for word in unigram_probs:
+        unigram_probs[word] = 1 / num_words
+
+    matrix_filename = os.path.join(matrix_directory, "_matrix.pkl")
+    with open(matrix_filename, "wb") as matrix_file:
+        pickle.dump(matrix, matrix_file)
+
+    unigram_filename = os.path.join(matrix_directory, "_unigram_probs.pkl")
+    with open(unigram_filename, "wb") as unigram_file:
+        pickle.dump(unigram_probs, unigram_file)
+
+    vector_index_filename = os.path.join(matrix_directory, "_vector_index.pkl")
+    with open(vector_index_filename, "wb") as vector_index_file:
+        pickle.dump(vocab_order, vector_index_file)
+
+    
 
 
-foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=[])
+
+#stopwords = [
+#    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
+#    "away", "be", "become", "became", "been", "being", "by", "did", "do",
+#    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
+#    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
+#    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
+#    "their", "there", "this", "these", "those", "to", "under", "was", "were",
+#    "what", "when", "where", "which", "who", "will", "with", "you", "your"
+#]
 
 
-directory_name = sys.argv[3]
-if not os.path.isdir(directory_name):
-    os.mkdir(directory_name)
+#foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=[])
+#
+#
+#directory_name = sys.argv[3]
+#if not os.path.isdir(directory_name):
+#    os.mkdir(directory_name)
+#
+#print ("saving the matrix file as " + directory_name +"/_matrix.pkl")
+#pickle.dump(foo, open(directory_name+"/_matrix.pkl", "wb"))
+#
+#print("saving the vector index file as " + directory_name+"/_vector_index.pkl")
+#pickle.dump(bar, open(directory_name+"/_vector_index.pkl", "wb"))
+#
+#print("saving the unigram index file as " + directory_name+"/_unigram_probs.pkl")
+#pickle.dump(baz, open(directory_name+"/_unigram_probs.pkl", "wb"))
 
-print ("saving the matrix file as " + directory_name +"/_matrix.pkl")
-pickle.dump(foo, open(directory_name+"/_matrix.pkl", "wb"))
 
-print("saving the vector index file as " + directory_name+"/_vector_index.pkl")
-pickle.dump(bar, open(directory_name+"/_vector_index.pkl", "wb"))
-
-print("saving the unigram index file as " + directory_name+"/_unigram_probs.pkl")
-pickle.dump(baz, open(directory_name+"/_unigram_probs.pkl", "wb"))
-
-
+read_predict_vectors("../EN-wform.w.5.cbow.neg10.400.subsmpl.txt", "../predict_matrix", word_num=2000)

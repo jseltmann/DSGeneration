@@ -27,7 +27,7 @@ def get_end(LL, ws):
     """
     if len(ws) == 0:
         #sofar = np.zeros((1,len(LL.get_words())))
-        sofar = np.zeros((1,LL.get_vector("START$_").shape[1]))
+        sofar = np.zeros((1,LL.get_vector(list(LL.vocab_order.keys())[0]).shape[1]))
     else:
         vectors = []
         for word in ws:
