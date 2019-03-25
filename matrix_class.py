@@ -14,16 +14,17 @@ class DS_matrix:
     def __init__(self, matrix_path=None):
         if not matrix_path is None:
             with open(matrix_path, "rb") as matrix_file:
-                self.matrix = pickle.load(matrix_file).tocsc()
-            prefix = matrix_path[:-11]
+              self.matrix, self.unigram_probs, self.vocab_order = pickle.load(matrix_file)
+            #    self.matrix = pickle.load(matrix_file).tocsc()
+            #prefix = matrix_path[:-11]
 
-            order_path = prefix + "_vector_index.pkl"
-            with open(order_path, "rb") as order_file:
-                self.vocab_order = pickle.load(order_file)
+            #order_path = prefix + "_vector_index.pkl"
+            #with open(order_path, "rb") as order_file:
+            #    self.vocab_order = pickle.load(order_file)
 
-            unigram_path = prefix + "_unigram_probs.pkl"
-            with open(unigram_path, "rb") as unigram_file:
-                self.unigram_probs = pickle.load(unigram_file)
+            #unigram_path = prefix + "_unigram_probs.pkl"
+            #with open(unigram_path, "rb") as unigram_file:
+            #    self.unigram_probs = pickle.load(unigram_file)
         else:
             self.matrix = None
             self.vocab_order = dict()
@@ -433,20 +434,23 @@ class DS_matrix:
                     ppmi = 0
 
                 pmi_matrix[posc, posw] = ppmi
+        pmi_matrix.tocsc()
 
-        if not os.path.exists(new_matrix_path):
-            os.mkdir(new_matrix_path)
+        with open(new_matrix_path, "wb") as new_matrix_file:
+            pickle.dump((pmi_matrix, self.unigram_probs, self.vocab_order), new_matrix_file)
+        #if not os.path.exists(new_matrix_path):
+        #    os.mkdir(new_matrix_path)
 
-        matrix_path = os.path.join(new_matrix_path, "_matrix.pkl")
-        with open(matrix_path, "wb") as matrix_file:
-            pickle.dump(pmi_matrix, matrix_file)
+        #matrix_path = os.path.join(new_matrix_path, "_matrix.pkl")
+        #with open(matrix_path, "wb") as matrix_file:
+        #    pickle.dump(pmi_matrix, matrix_file)
 
-        order_path = os.path.join(new_matrix_path, "_vector_index.pkl")
-        with open(order_path, "wb") as order_file:
-            pickle.dump(self.vocab_order, order_file)
+        #order_path = os.path.join(new_matrix_path, "_vector_index.pkl")
+        #with open(order_path, "wb") as order_file:
+        #    pickle.dump(self.vocab_order, order_file)
 
-        unigram_path = os.path.join(new_matrix_path, "_unigram_probs.pkl")
-        with open(unigram_path, "wb") as unigram_file:
-            pickle.dump(self.unigram_probs, unigram_file)
+        #unigram_path = os.path.join(new_matrix_path, "_unigram_probs.pkl")
+        #with open(unigram_path, "wb") as unigram_file:
+        #    pickle.dump(self.unigram_probs, unigram_file)
 
 

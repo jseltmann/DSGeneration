@@ -4,7 +4,7 @@ import pickle
 import sys
 import os.path
 
-def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stopwords=[]):
+def build_ngram_probability_matrix(corpus, freq_dist_file, matrix_filename, num_words=10000, stopwords=[]):
 
     """
     The function returns a scipy.sparse.lil_matrix() object containing bigram probabilities in a given corpus and
@@ -30,9 +30,9 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     # we take only the first 100,000 words
     # Note: here a very bizarre things happens if I don't restrict the number of words: some of the values are randomly reduced
     # to 1, like "in" or "that"
+    if num_words > 100000:
+        num_words = 100000
     
-    #freq_dict = {i[1]:0 for i in freqs_from_file[:num_words]} 
-    #freq_dict = {i:0 for i in range(num_words)} 
 
 
     print("calculating number of sentences...")
@@ -41,14 +41,10 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     howmanysents = len([i for i in open(corpus)])
     print("number of sentences: ", howmanysents, "\n")
 
-    # These two lines add the types for start and end of sentence to the dictionary with their frequency
-    #freq_dict["START$_"] = 0#howmanysents
-    #freq_dict["END$_"] = 0#howmanysents
-
     # this returns the indices of the matrix
     print("building frequency list dictionary...")
-    #vocab_order = {w:i for i,w in enumerate(freq_dict.keys())}
     vocab_order = {w[1]:i for i,w in enumerate(freqs_from_file[:num_words])}
+    # add tokens for sentence beginning and end
     vocab_order["START$_"] = len(vocab_order)
     vocab_order["END$_"] = len(vocab_order)
     print("number of types (including START$_ and END$_ ):", len(vocab_order), "\n")
@@ -63,7 +59,6 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     
     count = 0
     non_zero_positions = set()
-    do_counter = 0
     for sent in open(corpus):
 
         # every line in the corpus file is transformed in a list
@@ -95,9 +90,7 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
         count += 1
         if count%100000 == 0:
             print(count, " sentences processed ...")
-    print("do_counter", do_counter)
 
-    print("counted bigrams ...")
     print("calculating bigram probabilities ...")
     #normalize the counts
     count = 0
@@ -116,8 +109,9 @@ def build_ngram_progability_matrix(corpus, freq_dist_file, num_words=10000, stop
     for w in unigram_counts:
         unigram_counts[w] /= count_sum
     
+    with open(matrix_filename, "wb") as matrix_file:
+        pickle.dump((matrix, unigram_counts, vocab_order), matrix_file)
         
-    return matrix, unigram_counts, vocab_order
 
 
 
@@ -130,8 +124,8 @@ def read_predict_vectors(predict_filename, matrix_directory, prev_matrix_name=No
     ----------
     predict_filename : str
          File containing the predict vectors.
-    matrix_directory : str
-         Directory to save the matrix to.
+    matrix_filename : str
+         File to save the matrix to.
     prev_matrix_name : str
          Filename of an existing matrix. 
          Use to have this matrix have the same vocabulary and word order as the old one.
@@ -145,9 +139,8 @@ def read_predict_vectors(predict_filename, matrix_directory, prev_matrix_name=No
     unigram_probs = dict()
 
     if prev_matrix_name is not None:
-        vocab_name = prev_matrix_name[:-11] + "_vector_index.pkl"
-        with open(vocab_name, "rb") as vocab_file:
-            old_vocab_order = pickle.load(vocab_file)
+        with open(prev_matrix_name, "rb") as prev_matrix_file:
+            old_vocab_order = pickle.load(prev_matrix_file)[2]
         word_num = len(old_vocab_order)
     else:
         old_vocab_order = None
@@ -196,48 +189,13 @@ def read_predict_vectors(predict_filename, matrix_directory, prev_matrix_name=No
     for word in unigram_probs:
         unigram_probs[word] = 1 / num_words
 
-    matrix_filename = os.path.join(matrix_directory, "_matrix.pkl")
+    matrix.tocsc()
+
     with open(matrix_filename, "wb") as matrix_file:
-        pickle.dump(matrix, matrix_file)
+        pickle.dump((matrix, unigram_probs, vocab_order), matrix_file)
 
-    unigram_filename = os.path.join(matrix_directory, "_unigram_probs.pkl")
-    with open(unigram_filename, "wb") as unigram_file:
-        pickle.dump(unigram_probs, unigram_file)
-
-    vector_index_filename = os.path.join(matrix_directory, "_vector_index.pkl")
-    with open(vector_index_filename, "wb") as vector_index_file:
-        pickle.dump(vocab_order, vector_index_file)
 
     
 
 
 
-#stopwords = [
-#    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
-#    "away", "be", "become", "became", "been", "being", "by", "did", "do",
-#    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
-#    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
-#    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
-#    "their", "there", "this", "these", "those", "to", "under", "was", "were",
-#    "what", "when", "where", "which", "who", "will", "with", "you", "your"
-#]
-
-
-#foo, baz, bar =  build_ngram_progability_matrix(sys.argv[1], sys.argv[2], num_words=int(sys.argv[4]), stopwords=[])
-#
-#
-#directory_name = sys.argv[3]
-#if not os.path.isdir(directory_name):
-#    os.mkdir(directory_name)
-#
-#print ("saving the matrix file as " + directory_name +"/_matrix.pkl")
-#pickle.dump(foo, open(directory_name+"/_matrix.pkl", "wb"))
-#
-#print("saving the vector index file as " + directory_name+"/_vector_index.pkl")
-#pickle.dump(bar, open(directory_name+"/_vector_index.pkl", "wb"))
-#
-#print("saving the unigram index file as " + directory_name+"/_unigram_probs.pkl")
-#pickle.dump(baz, open(directory_name+"/_unigram_probs.pkl", "wb"))
-
-
-read_predict_vectors("../EN-wform.w.5.cbow.neg10.400.subsmpl.txt", "../predict_matrix", word_num=2000)
