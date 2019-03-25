@@ -6,7 +6,12 @@ import nltk
 import numpy as np
 import math
 
-def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename, max_n=4, num_bins=2):
+
+def calculate_ciderD(decoded_filename,
+                     ref_filename,
+                     orig_filename,
+                     log_filename,
+                     max_n=4, num_bins=2):
     """
     Calculate ciderD scores for decoded sentences.
 
@@ -60,22 +65,17 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
             curr_bin += 1
             generated_bins += 1
     bin_sum[curr_bin] = curr_sum
-        
+
     scores = dict()
 
     ngram_counts = get_ngram_counts(ref_dict, max_n)
-    
-    #i = 0
+
     for image_id, dec_sent in decoded_dict.items():
-        #if i % 50 == 0:
-        #    print(i)
-        #if i < 10:
-        #    print(i)
-        #i += 1
         score = 0
-        
+
         for n in list(range(max_n+1))[1:]:
-            score += 1/max_n * calculate_ciderD_n(image_id, dec_sent, ref_dict, ngram_counts, n)
+            score += 1/max_n * calculate_ciderD_n(image_id, dec_sent,
+                                                  ref_dict, ngram_counts, n)
 
         orig_sent = nltk.word_tokenize(orig_dict[image_id])
         bin_num = len_to_bin[len(orig_sent)]
@@ -85,7 +85,9 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
             scores[bin_num] = [score]
 
         with open(log_filename, "a") as log_file:
-            line = str(image_id) + " | " + str(dec_sent) + " | " + str(score) + "\n"
+            line = (str(image_id) + " | "
+                    + str(dec_sent) + " | "
+                    + str(score) + "\n")
             log_file.write(line)
 
     print(generated_bins)
@@ -98,10 +100,13 @@ def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename
 
         with open(log_filename, "a") as log_file:
             log_file.write("\n\n")
-            log_file.write("sentence lengths: " + str(len_min) + " to " + str(len_max) + "\n")
-            log_file.write("number of sentences: " + str(bin_sum[bin_num]) + "\n")
+            log_file.write("sentence lengths: " + str(len_min)
+                           + " to " + str(len_max) + "\n")
+            log_file.write("number of sentences: "
+                           + str(bin_sum[bin_num]) + "\n")
             log_file.write("average ciderD score: " + str(avg) + "\n")
             log_file.write("standard deviation: " + str(stddev) + "\n")
+
 
 def calculate_ciderD_n(cand_id, cand_sent, ref_dict, ngram_counts, n, sigma=6):
     """
@@ -130,25 +135,23 @@ def calculate_ciderD_n(cand_id, cand_sent, ref_dict, ngram_counts, n, sigma=6):
 
     cand_vec = get_vector(cand_sent, ref_dict, ngram_counts, n)
 
-    #i = 0
     for ref_sent in ref_dict[cand_id]:
-        #print(i)
-        #i += 1
         ref_vec = get_vector(ref_sent, ref_dict, ngram_counts, n)
         clipped = clip_vector(cand_vec, ref_vec)
 
-        penalty = math.exp( -(len(cand_sent) - len(ref_sent))**2 / (2 * sigma**2))
+        len_diff = len(cand_sent) - len(ref_sent)
+        penalty = math.exp(-(len_diff)**2 / (2 * sigma**2))
 
         norm_clipped = norm(clipped)
         norm_ref = norm(ref_vec)
 
         if norm_clipped * norm_ref != 0:
-            score += penalty * dot(clipped, ref_vec) / (norm(clipped) * norm(ref_vec))
+            denominator = (norm(clipped) * norm(ref_vec))
+            score += penalty * dot(clipped, ref_vec) / denominator
 
     score *= 10/len(ref_dict[cand_id])
 
     return score
-
 
 
 def norm(vec):
@@ -179,7 +182,7 @@ def norm(vec):
 def dot(vec1, vec2):
     """
     Calculate dot product of two vectors.
-    
+
     Parameters
     ----------
     vec1 : dict(float)
@@ -200,9 +203,9 @@ def dot(vec1, vec2):
         keys.add(key)
 
     dot_prod = 0
-        
+
     for key in keys:
-        if not key in vec1 or not key in vec2:
+        if key not in vec1 or key not in vec2:
             continue
         dot_prod += vec1[key] * vec2[key]
 
@@ -227,9 +230,9 @@ def clip_vector(vec1, vec2):
     """
 
     clipped = col.defaultdict()
-    
+
     for ngram in vec1:
-        if not ngram in vec2:
+        if ngram not in vec2:
             clipped[ngram] = 0
         elif vec1[ngram] > vec2[ngram]:
             clipped[ngram] = vec2[ngram]
@@ -291,14 +294,13 @@ def tfidf(ngram, ngrams, ref_dict, ngram_counts, n):
 
     for sent_ngram in ngrams:
         sent_counts[sent_ngram] = ngrams.count(sent_ngram)
-    
 
     tf = sent_counts[ngram] / (sum(sent_counts.values()))
 
     df = ngram_counts[ngram]
-    if df == 0: #for ngrams that never occured in the reference sentences
+    if df == 0:  # for ngrams that never occured in the reference sentences
         df = len(ref_dict.keys())
-    
+
     idf = np.log(len(ref_dict.keys()) / df)
 
     tfidf = tf * idf
@@ -308,7 +310,8 @@ def tfidf(ngram, ngrams, ref_dict, ngram_counts, n):
 
 def get_ngram_counts(ref_dict, max_n):
     """
-    For each ngram, add the appearences of that ngram in the references for each image.
+    For each ngram, add the appearences of that ngram
+    in the references for each image.
     If it doesn't appear in the references for an image, add 1.
     This is for the denominator of the idf part of the tfidf calculation.
 
@@ -331,18 +334,20 @@ def get_ngram_counts(ref_dict, max_n):
         for sent in sent_list:
             sent_ngrams = []
             for n in list(range(max_n+1))[1:]:
-                sent_ngrams += [tuple(sent[i:i+n])  for i in range(len(sent) - n + 1)]
+                sent_ngrams += [tuple(sent[i:i+n])
+                                for i in range(len(sent) - n + 1)]
             for sent_ngram in sent_ngrams:
                 ngrams.add(tuple(sent_ngram))
 
     ngram_counts = col.defaultdict(int)
-    
+
     for image_id in ref_dict.keys():
         image_counts = col.defaultdict(int)
         for ref_sent in ref_dict[image_id]:
             ref_ngrams = []
             for n in list(range(max_n+1))[1:]:
-                ref_ngrams += [tuple(ref_sent[i:i+n]) for i in range(len(ref_sent) - n + 1)]
+                ref_ngrams += [tuple(ref_sent[i:i+n])
+                               for i in range(len(ref_sent) - n + 1)]
             for ref_ngram in ref_ngrams:
                 image_counts[ref_ngram] += ref_ngrams.count(ref_ngram)
         for ngram in ngrams:
@@ -352,38 +357,32 @@ def get_ngram_counts(ref_dict, max_n):
                 ngram_counts[ngram] += image_counts[ngram]
 
     return ngram_counts
-        
-        
-    
-            
-        
 
 
-
-    
-
-
-
-
-def decode_sentences(data_filename, decoded_filename, ref_filename, matrix_filename):
+def decode_sentences(data_filename, decoded_filename,
+                     ref_filename, matrix_filename):
     """
-    Read sentences from the PASCAL50S dataset. For each image, encode and decode one and save the others to a file.
-    
+    Read sentences from the PASCAL50S dataset.
+    For each image, encode and decode one and save the others to a file.
+
     Parameters
     ----------
     data_filename : str
         File containing the dataset.
     decoded_filename : str
-        File to save the decoded sentences to as a dict of image_ids and sentences.
+        File to save the decoded sentences to
+        as a dict of image_ids and sentences.
     ref_filename : str
-        File to save the remaining sentences to as a dict of image_ids and lists of sentences.
+        File to save the remaining sentences to
+        as a dict of image_ids and lists of sentences.
+    orig_filename : str
+        File to save the original sentences to.
     matrix_filename : str
         File containing the DS matrix.
     """
 
     with open(data_filename) as f:
         data = json.loads(f.read())
-
 
     orig_dict = dict()
     decoded_dict = dict()
@@ -393,13 +392,12 @@ def decode_sentences(data_filename, decoded_filename, ref_filename, matrix_filen
     for entry in data:
         image_id = entry['image_id']
         sent = entry['caption']
-        if not image_id in orig_dict:
+        if image_id not in orig_dict:
             orig_dict[image_id] = sent
-        elif not image_id in ref_dict:
+        elif image_id not in ref_dict:
             ref_dict[image_id] = [nltk.word_tokenize(sent)]
         else:
             ref_dict[image_id].append(nltk.word_tokenize(sent))
-            
 
     matrix = DS_matrix(matrix_filename)
 
@@ -413,25 +411,5 @@ def decode_sentences(data_filename, decoded_filename, ref_filename, matrix_filen
     with open(ref_filename, "wb") as ref_file:
         pickle.dump(ref_dict, ref_file)
 
-def save_orig_dict(data_filename, orig_filename):
-    with open(data_filename) as f:
-        data = json.loads(f.read())
-
-    orig_dict = dict()
-
-    for entry in data:
-        image_id = entry['image_id']
-        sent = entry['caption']
-        if not image_id in orig_dict:
-            orig_dict[image_id] = sent
-
     with open(orig_filename, "wb") as orig_file:
         pickle.dump(orig_dict, orig_file)
-
-#save_orig_dict("../cider/data/pascal50S.json", "../pascal_orig_sents.pkl")
-
-#decode_sentences("../cider/data/pascal50S.json", "../test_decoded.pkl", "../test_ref.pkl", "../matrix_1k/_matrix.pkl")
-#decode_sentences("../cider/data/pascal50S.json", "../debug_decoded.pkl", "../debug_ref.pkl", "../matrix_1k/_matrix.pkl")
-                 
-#def calculate_ciderD(decoded_filename, ref_filename, orig_filename, log_filename, max_n=4, num_bins=2):
-calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal_2_bins.log", max_n=4, num_bins=2)

@@ -4,6 +4,7 @@ from nltk.translate.bleu_score import sentence_bleu
 import nltk
 import numpy as np
 
+
 def bleu_pascal(ref_filename, decoded_filename, log_filename):
     """
     Calculate BLEU score for sentences from the pascal dataset.
@@ -26,24 +27,19 @@ def bleu_pascal(ref_filename, decoded_filename, log_filename):
         img_id = entry['image_id']
         ref = nltk.word_tokenize(entry['caption'])
         ref = list(map(lambda x: x.lower(), ref))
-        if not img_id in ref_sents:
+        if img_id not in ref_sents:
             ref_sents[img_id] = [ref]
         else:
             ref_sents[img_id].append(ref)
-        
 
     with open(decoded_filename, "rb") as decoded_file:
         decoded_sents = pickle.load(decoded_file)
 
     scores = []
-            
+
     i = 0
     for img_id in decoded_sents:
-        #if i > 0:
-        #    break
         i += 1
-        #orig = nltk.word_tokenize(orig_sents[img_id])
-        #orig = list(map(lambda x: x.lower(), orig))
         decoded = decoded_sents[img_id]
 
         references = ref_sents[img_id]
@@ -63,5 +59,3 @@ def bleu_pascal(ref_filename, decoded_filename, log_filename):
         log_file.write("\n\n")
         log_file.write("average BLEU score: " + str(avg_score) + "\n")
         log_file.write("standard deviation: " + str(std_dev) + "\n")
-        
-bleu_pascal("../cider/data/pascal50S.json", "../decoded_pascal50S.pkl", "../pascal_bleu.log")
