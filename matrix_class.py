@@ -240,10 +240,13 @@ class DS_matrix:
                 contained_words.add(word)
         word_set = contained_words
 
-        word_set.add("START$_")
-        word_set.add("END$_")
+        if "START$_" in self.vocab_order:
+            word_set.add("START$_")
+        if "END$_" in self.vocab_order:
+            word_set.add("END$_")
 
-        new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), len(self.vocab_order)))
+        #new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), len(self.vocab_order)))
+        new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), self.matrix.shape[1]))
 
         for i, word in enumerate(word_set):
             new_matrix.vocab_order[word] = i
