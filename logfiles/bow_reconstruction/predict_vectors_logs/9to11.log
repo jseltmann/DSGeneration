@@ -1,0 +1,841 @@
+
+
+
+
+Incorrectly decoded pairs for original sentences
+Correct sentence first, decoded second
+
+ the couple was married aug. 2 , 1913 . 
+['married', '1913', 'was', 'couple', '.', '2', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the hartsfield home is at 637 e. pelham rd . aj . 
+['.', 'rd', '.', 'e.', 'at', 'is', 'home', 'the']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ the mayor 's present term of office expires jan. 1 . 
+['mayor', 'term', 'of', 'office', '.', "'s", 'present', '1', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ caldwell 's resignation had been expected for some time . 
+['resignation', 'had', 'been', 'expected', '.', 'for', 'some', 'time', "'s"]
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` everything went real smooth `` , the sheriff said . 
+['sheriff', 'smooth', 'went', 'everything', '.', 'real', 'said', 'the', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` there was n't a bit of trouble `` . 
+["n't", 'trouble', 'was', 'there', 'a', 'bit', 'of', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ i 'm willing to stake my political career on it `` . 
+["'m", 'career', 'my', 'stake', 'political', 'willing', 'on', 'i', 'to', 'it', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ another enlarged authority of the beaumont navigation district . 
+['district', 'navigation', 'enlarged', 'authority', 'of', 'another', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` dallas and fort worth can vote bonds . 
+['dallas', 'bonds', 'fort', 'vote', 'worth', 'can', '.', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ this would help the little peanut districts `` . 
+['districts', 'would', 'little', 'help', 'the', 'this', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ a normal year 's work in college is 30 semester hours . 
+['college', 'hours', 'is', 'year', 'in', 'normal', "'s", '30', 'work', 'a', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` yes , your honor `` , replied bellows . 
+['replied', 'honor', 'your', 'yes', '.', ',', ',']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ there is a conflict among the defendants `` . 
+['conflict', 'among', 'is', 'there', 'a', '.', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ karns ' ruling pertained to eight of the 10 cases . 
+['ruling', 'eight', '.', 'cases', 'the', '10', 'to', "'", 'of']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ wexler has denied repeatedly that coercion was used in questioning . 
+['denied', 'repeatedly', 'has', 'was', 'used', 'questioning', 'in', 'that', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` this is not a program of socialized medicine . 
+['medicine', 'is', 'program', 'a', '.', 'this', 'not', 'of']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ every person will choose his own doctor and hospital `` . 
+['doctor', 'hospital', 'choose', 'every', 'own', '.', 'will', 'person', 'and', 'his']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the administration declared itself in favor of a neutralized laos . 
+['favor', 'declared', 'the', 'administration', 'itself', 'in', 'of', 'a', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ east providence now has no civil defense program . 
+['defense', 'civil', 'has', 'program', 'east', 'no', 'now', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ riverside residents would go to the seekonk assembly point . 
+['residents', 'assembly', 'riverside', 'would', 'point', '.', 'go', 'to', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ dumont spoke on the merit of having an open primary . 
+['.', 'merit', 'spoke', 'an', 'primary', 'open', 'on', 'having', 'of', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ it can only rebound to mr. hughes ' discredit `` . 
+['can', 'hughes', 'mr.', 'to', 'only', "'", 'it', '.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ i 'm not afraid to tangle with the republican nominee `` . 
+['republican', "'m", 'nominee', 'afraid', 'to', 'not', 'with', 'i', '.', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ she served one four-year term on the national committee . 
+['served', 'national', 'term', 'she', 'committee', 'on', '.', 'one', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ when he protested , the hotel owner said : 
+['hotel', 'owner', 'he', 'said', 'when', ':', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they were the suffragettes and they wanted to vote . 
+['they', 'were', 'vote', 'wanted', 'to', '.', 'they', 'the', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ division one of the parade will be the service academies . 
+['parade', 'division', '.', 'the', 'be', 'service', 'of', 'will', 'one', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he could terminate special sessions of the legislature . 
+['legislature', 'sessions', '.', 'special', 'he', 'could', 'of', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ travelers indemnity co. and the continental casualty co. . 
+['co.', 'continental', 'co.', '.', 'the', 'and']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ the contract called for overhauling of 102 joints . 
+['joints', 'contract', '.', 'called', 'of', 'for', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` certain people must have known about it `` . 
+['certain', 'have', 'about', 'known', 'people', 'must', 'it', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ goodis voiced his objection before city council 's finance committee . 
+['council', 'voiced', 'committee', 'his', 'objection', 'city', 'finance', 'before', "'s", '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ victim of the accident was robert lee stansbery , 39 . 
+['accident', 'lee', 'was', 'robert', '.', 'victim', 'of', '39', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ kansas city , mo . , feb. 9 ( upi ) 
+['kansas', '(', 'city', '.', '9', ')', ',', ',']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ ankara , turkey , oct. 24 ( ap ) 
+['ap', 'turkey', '(', '24', ')', ',', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ many changes involved minor editing and clarification ; ; 
+['minor', 'editing', 'involved', 'changes', ';', 'many', ';', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- and his exaltation to the right hand of god . 
+['his', 'god', '.', 'right', 'the', 'hand', 'to', 'of', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ then throneberry rapped into a fast double play . 
+['into', 'fast', 'double', 'play', 'a', 'then', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the 22-year-old southpaw enlisted earlier last fall than did hansen . 
+['earlier', 'fall', 'than', 'did', 'last', '.', 'the']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ `` then we 'd really have someplace to go `` . 
+["'d", 'we', 'go', 'really', 'to', 'have', 'then', '.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ st. petersburg , fla. , march 17 ( ap ) 
+['petersburg', 'st.', 'ap', 'march', '(', '17', ')', ',', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` so i started practicing on it in spring training . 
+['started', 'spring', 'i', 'on', 'training', 'it', '.', 'in', 'so']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ monday , he had four longhorns in the top four . 
+['four', 'he', 'four', 'in', '.', 'monday', 'had', 'top', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ we needed it and we got it `` . 
+['we', 'needed', 'it', 'got', '.', 'we', 'it', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` nelson played magnificent football `` , meek praised . 
+['played', 'praised', 'football', 'nelson', 'magnificent', '.', ',']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ and he caused the fumble that set up our touchdown . 
+['touchdown', 'caused', 'he', '.', 'up', 'our', 'set', 'that', 'the', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` he almost brought it back all the way `` . 
+['he', 'almost', 'brought', 'back', 'it', '.', 'way', 'all', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` he 'll be out of action all this week . 
+['out', 'be', "'ll", 'action', 'he', 'of', 'week', 'all', 'this', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is definitely some ligament damage in his knee `` . 
+['knee', 'damage', 'definitely', '.', 'there', 'his', 'is', 'some', 'in']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ mary dobbs tuttle was back at the organ . 
+['organ', 'mary', 'was', 'at', 'back', '.', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ dallas , tex . , may 1 -- ( ap ) 
+['ap', 'dallas', 'may', '(', '.', '1', ',', ',', ')']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ st. paul-minneapolis , may 1 -- ( ap ) 
+['st.', 'ap', '(', 'may', '1', ')', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ ogden , utah , may 1 -- ( ap ) 
+['utah', 'ap', '(', 'may', '1', ')', ',', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` i 've had it `` , he told a newsman . 
+["'ve", 'he', 'had', 'told', 'a', 'i', '.', 'it', ',']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ ritchie walked up to him at the magazine stand . 
+['walked', 'him', 'magazine', 'up', '.', 'stand', 'at', 'to', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he said he had never talked to liston `` . 
+['he', 'talked', 'never', 'had', 'he', 'said', 'to', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ incidentally , only two did it before a home audience . 
+['before', 'did', 'audience', '.', 'two', 'it', 'home', 'a', 'only', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ willie 's lifetime batting average of is 11 points beyond mickey 's . 
+['batting', 'average', "'s", 'willie', '.', 'lifetime', 'is', 'beyond', 'points', '11', "'s", 'of']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the yanks also took advantage of three cincinnati errors . 
+['cincinnati', 'errors', 'took', 'advantage', 'three', 'of', 'also', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the crowd of 32,589 had only two chances to applaud . 
+['crowd', 'chances', '.', 'two', 'had', 'the', 'to', 'only', 'of']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ an injury forced skorich to quit after the 1948 season . 
+['injury', 'forced', 'season', 'quit', '1948', 'an', 'after', 'to', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ frank graham , the journal-american sports columnist ; ; 
+['frank', 'sports', 'graham', ';', ';', 'the', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ stengel will receive the ben epstein good guy award . 
+['award', 'ben', 'receive', 'guy', 'will', 'good', '.', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ despite countless barriers and disappointments , shea moved forward . 
+['barriers', 'moved', 'countless', 'despite', 'forward', '.', 'and', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ shea 's efforts figure prominently in the new stadium . 
+['stadium', 'efforts', 'figure', '.', 'new', "'s", 'in', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ maris is in line for a big raise . 
+['raise', 'is', 'big', '.', 'line', 'a', 'for', 'in']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he tried again and once more sliced out of bounds . 
+['once', 'tried', 'he', 'out', '.', 'more', 'again', 'of', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ each of the four wayward shots cost him two strokes . 
+['four', 'shots', 'each', '.', 'cost', 'two', 'him', 'of', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` how many is that , jim `` ? ? 
+['?', '?', 'jim', 'how', 'many', 'is', 'that', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it happened on the twelfth hole , a 155-yarder . 
+['hole', 'happened', 'on', '.', 'a', 'it', 'the', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ `` you must play it where it lies `` . 
+['lies', 'it', 'must', 'play', 'where', 'you', 'it', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ pete rozelle , the league commissioner , pointed out : 
+['commissioner', 'league', 'pete', 'pointed', 'out', ':', ',', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ 3 the redbirds ' disheartening 11-7 collapse against the phillies sunday . 
+['collapse', 'against', 'sunday', 'the', '.', '3', "'", 'the']
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ `` bill white ( sore ankles ) should be ready . 
+['white', 'should', 'bill', '(', 'ready', 'be', ')', '.']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ our pitching is much better than it has shown `` . 
+['than', 'much', 'has', 'shown', 'better', 'is', 'our', 'it', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+
+
+Incorrectly decoded pairs for limited sentences
+Correct sentence first, decoded second
+
+ the couple was married aug. 2 , 1913 . ['married', '1913', 'was', 'couple', '.', '2', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the hartsfield home is at 637 e. pelham rd . aj . ['.', 'rd', '.', 'e.', 'at', 'is', 'home', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the mayor 's present term of office expires jan. 1 . ['mayor', 'term', 'of', 'office', '.', "'s", 'present', '1', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ caldwell 's resignation had been expected for some time . ['resignation', 'had', 'been', 'expected', '.', 'for', 'some', 'time', "'s"]
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ another enlarged authority of the beaumont navigation district . ['district', 'navigation', 'enlarged', 'authority', 'of', 'another', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ this would help the little peanut districts `` . ['districts', 'would', 'little', 'help', 'the', 'this', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` yes , your honor `` , replied bellows . ['replied', 'honor', 'your', 'yes', '.', ',', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is a conflict among the defendants `` . ['conflict', 'among', 'is', 'there', 'a', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ wexler has denied repeatedly that coercion was used in questioning . ['denied', 'repeatedly', 'has', 'was', 'used', 'questioning', 'in', 'that', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` this is not a program of socialized medicine . ['medicine', 'is', 'program', 'a', '.', 'this', 'not', 'of']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the administration declared itself in favor of a neutralized laos . ['favor', 'declared', 'the', 'administration', 'itself', 'in', 'of', 'a', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ east providence now has no civil defense program . ['defense', 'civil', 'has', 'program', 'east', 'no', 'now', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ it can only rebound to mr. hughes ' discredit `` . ['can', 'hughes', 'mr.', 'to', 'only', "'", 'it', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ i 'm not afraid to tangle with the republican nominee `` . ['republican', "'m", 'nominee', 'afraid', 'to', 'not', 'with', 'i', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ she served one four-year term on the national committee . ['served', 'national', 'term', 'she', 'committee', 'on', '.', 'one', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ when he protested , the hotel owner said : ['hotel', 'owner', 'he', 'said', 'when', ':', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ they were the suffragettes and they wanted to vote . ['they', 'were', 'vote', 'wanted', 'to', '.', 'they', 'the', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ division one of the parade will be the service academies . ['parade', 'division', '.', 'the', 'be', 'service', 'of', 'will', 'one', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he could terminate special sessions of the legislature . ['legislature', 'sessions', '.', 'special', 'he', 'could', 'of', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ travelers indemnity co. and the continental casualty co. . ['co.', 'continental', 'co.', '.', 'the', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ the contract called for overhauling of 102 joints . ['joints', 'contract', '.', 'called', 'of', 'for', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ kansas city , mo . , feb. 9 ( upi ) ['kansas', '(', 'city', '.', '9', ')', ',', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ ankara , turkey , oct. 24 ( ap ) ['ap', 'turkey', '(', '24', ')', ',', ',']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ many changes involved minor editing and clarification ; ; ['minor', 'editing', 'involved', 'changes', ';', 'many', ';', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ -- and his exaltation to the right hand of god . ['his', 'god', '.', 'right', 'the', 'hand', 'to', 'of', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ then throneberry rapped into a fast double play . ['into', 'fast', 'double', 'play', 'a', 'then', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the 22-year-old southpaw enlisted earlier last fall than did hansen . ['earlier', 'fall', 'than', 'did', 'last', '.', 'the']
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ `` nelson played magnificent football `` , meek praised . ['played', 'praised', 'football', 'nelson', 'magnificent', '.', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ and he caused the fumble that set up our touchdown . ['touchdown', 'caused', 'he', '.', 'up', 'our', 'set', 'that', 'the', 'and']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ there is definitely some ligament damage in his knee `` . ['knee', 'damage', 'definitely', '.', 'there', 'his', 'is', 'some', 'in']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ mary dobbs tuttle was back at the organ . ['organ', 'mary', 'was', 'at', 'back', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ dallas , tex . , may 1 -- ( ap ) ['ap', 'dallas', 'may', '(', '.', '1', ',', ',', ')']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ogden , utah , may 1 -- ( ap ) ['utah', 'ap', '(', 'may', '1', ')', ',', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ ritchie walked up to him at the magazine stand . ['walked', 'him', 'magazine', 'up', '.', 'stand', 'at', 'to', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ incidentally , only two did it before a home audience . ['before', 'did', 'audience', '.', 'two', 'it', 'home', 'a', 'only', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ willie 's lifetime batting average of is 11 points beyond mickey 's . ['batting', 'average', "'s", 'willie', '.', 'lifetime', 'is', 'beyond', 'points', '11', "'s", 'of']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the yanks also took advantage of three cincinnati errors . ['cincinnati', 'errors', 'took', 'advantage', 'three', 'of', 'also', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ the crowd of 32,589 had only two chances to applaud . ['crowd', 'chances', '.', 'two', 'had', 'the', 'to', 'only', 'of']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ frank graham , the journal-american sports columnist ; ; ['frank', 'sports', 'graham', ';', ';', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ stengel will receive the ben epstein good guy award . ['award', 'ben', 'receive', 'guy', 'will', 'good', '.', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ despite countless barriers and disappointments , shea moved forward . ['barriers', 'moved', 'countless', 'despite', 'forward', '.', 'and', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ shea 's efforts figure prominently in the new stadium . ['stadium', 'efforts', 'figure', '.', 'new', "'s", 'in', 'the']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ he tried again and once more sliced out of bounds . ['once', 'tried', 'he', 'out', '.', 'more', 'again', 'of', 'and']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ each of the four wayward shots cost him two strokes . ['four', 'shots', 'each', '.', 'cost', 'two', 'him', 'of', 'the']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ it happened on the twelfth hole , a 155-yarder . ['hole', 'happened', 'on', '.', 'a', 'it', 'the', ',']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ `` bill white ( sore ankles ) should be ready . ['white', 'should', 'bill', '(', 'ready', 'be', ')', '.']
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ our pitching is much better than it has shown `` . ['than', 'much', 'has', 'shown', 'better', 'is', 'our', 'it', '.']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+
+
+statistic using original sentences:
+average distance: -6.903632187441106
+exact matches: 29 out of 104
+fraction of exact matches: 0.27884615384615385
+
+The following values don't consider exact matches.
+avg number of removed words: 1.7866666666666666 variance: 0.6211555555555555
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 1.7866666666666666 variance: 0.6211555555555555
+
+
+statistic using limited sentences:
+average distance: -6.903632187441106
+exact matches: 57 out of 104
+fraction of exact matches: 0.5480769230769231
+
+The following values don't consider exact matches.
+avg number of removed words: 1.2340425531914894 variance: 0.22181982797646
+avg number of added words: 0.0 variance: 0.0
+avg length difference: 1.2340425531914894 variance: 0.22181982797646
