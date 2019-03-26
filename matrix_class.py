@@ -4,42 +4,75 @@ import numpy as np
 import scipy.sparse
 import nltk
 from itertools import permutations
-import os, os.path
+import os
+import os.path
 import math
 
 import sowe2bow as s2b
 
+
 class DS_matrix:
+    """Class holding a DS model.
+
+    Attributes
+    ----------
+    matrix : scipy.sparse.csc_matrix
+        Matrix consisting of the DS vectors.
+        Each row contains the vector for one word.
+        Note: there are different types of scipy sparse matrices,
+        each with its own strengths. The class has functions to
+        transform the internal representation to the different types.
+        Use tocsr() for efficiency in row slicing, 
+        e.g. if you want to call get_vector() often.
+        Use tocsc() for efficiency in column slicing,
+        e.g. if you want to call generate_bigram_sentence().
+        Use todok() for efficiency in accessing individual probabilities,
+        e.g. if you want to call get_bigram_prob() often.
+    vocab_order : dict(int)
+        Maps each word in the vocabulary to the number
+        of the row which contains that word.
+    unigram_probs : dict(float)
+        Dictionary containing the unigram probability of each word.
+    """
 
     def __init__(self, matrix_path=None):
-        if not matrix_path is None:
+        """
+        Parameters
+        ----------
+        matrix_path : str
+            Filename of file containing an existing matrix.
+            If it is None, the matrix will be initialized empty.
+        """
+        if matrix_path is not None:
             with open(matrix_path, "rb") as matrix_file:
-              self.matrix, self.unigram_probs, self.vocab_order = pickle.load(matrix_file)
-            #    self.matrix = pickle.load(matrix_file).tocsc()
-            #prefix = matrix_path[:-11]
-
-            #order_path = prefix + "_vector_index.pkl"
-            #with open(order_path, "rb") as order_file:
-            #    self.vocab_order = pickle.load(order_file)
-
-            #unigram_path = prefix + "_unigram_probs.pkl"
-            #with open(unigram_path, "rb") as unigram_file:
-            #    self.unigram_probs = pickle.load(unigram_file)
+                components = pickle.load(matrix_file)
+                self.matrix = components[0]
+                self.unigram_probs = components[1]
+                self.vocab_order = components[2]
         else:
             self.matrix = None
             self.vocab_order = dict()
             self.unigram_probs = dict()
 
-
     def get_vector(self, word):
         """
         Return the vector that represents word.
+
+        Parameters
+        ----------
+        word : str
+            Word whose vector is to be returned.
+
+        Returns
+        -------
+        ndarray
+            Dense 2-dimensional array containing the vector.
         """
-        if not word in self.vocab_order:
+        if word not in self.vocab_order:
             raise Exception("Word not in matrix")
 
         pos = self.vocab_order[word]
-        
+
         return self.matrix[pos].toarray()
 
     def contains(self, word):
@@ -47,16 +80,16 @@ class DS_matrix:
         Returns true if word is in matrix. False otherwise.
         """
         return word in self.vocab_order
-    
+
     def get_bigram_prob(self, word, prev_word):
         """
         Return the probability p(word|prev_word).
         """
 
-        if not word in self.vocab_order:
+        if word not in self.vocab_order:
             raise Exception("Word not in matrix")
 
-        if not prev_word in self.vocab_order:
+        if prev_word not in self.vocab_order:
             raise Exception("Previous word not in matrix")
 
         prev_pos = self.vocab_order[prev_word]
@@ -73,52 +106,50 @@ class DS_matrix:
 
     def generate_bigram_sentence(self, start_word="START$_"):
         """
-        Generate a sentence according to the bigram probabilities in the matrix.
-        
+        Generate a sentence according to
+        the bigram probabilities in the matrix.
+
         Parameter
         ---------
-        start_word : string
+        start_word : str
             First word from which to generate sentences.
 
         Return
         ------
-        sentence : [String]
+        sentence : [str]
             Generated sentence, without beginning and end symbols.
         """
 
-
-        
         sentence = []
 
         if start_word != "START$_" and start_word != "END$_":
             start_word = start_word.lower()
 
-        if not start_word in self.vocab_order:
+        if start_word not in self.vocab_order:
             raise Exception("given start_word not in matrix")
 
         word = start_word
 
         words = self.get_words()
 
-
-        
         while word != "END$_":
 
             pos = self.vocab_order[word]
             prob_list = self.matrix.getcol(pos).toarray().flatten()
 
             if sum(prob_list) == 0:
-                #deal with possible cases where a word was never seen as first word in bigram using backoff
-                #happens when model was trained using stopwords
+                # deal with possible cases where a word was never
+                # seen as first word in bigram using backoff
+                # happens when model was trained using stopwords
                 prob_list = []
                 for next_word in words:
                     prob = self.get_unigram_prob(next_word)
                     prob_list.append(prob)
-                
+
                 index = np.random.choice(range(len(words)), p=prob_list)
                 word = words[index]
                 while word == "START$_":
-                    #we don't want to have START$_ in the middle of the sentence
+                    # we don't want START$_ in the middle of the sentence
                     index = np.random.choice(range(len(words)), p=prob_list)
                     word = words[index]
 
@@ -128,9 +159,8 @@ class DS_matrix:
 
             if word == "END$_":
                 break
-            
+
             sentence.append(word)
-            
 
         return sentence
 
@@ -140,7 +170,7 @@ class DS_matrix:
 
         Parameter
         ---------
-        sentence : [String]
+        sentence : [str]
             Sentence of which to get the probability.
 
         Returns
@@ -153,7 +183,7 @@ class DS_matrix:
         prev_word = "START$_"
 
         for word in sentence:
-            if not word in self.vocab_order:
+            if word not in self.vocab_order:
                 continue
             prob *= self.get_bigram_prob(word, prev_word)
             prev_word = word
@@ -162,14 +192,13 @@ class DS_matrix:
 
         return prob
 
-
     def get_unigram_prob(self, word):
         """
         Get the probability of a specific word ocuuring.
 
         Parameter
         ---------
-        word : string
+        word : str
             Word of which to get the probability.
 
         Return
@@ -182,7 +211,6 @@ class DS_matrix:
 
         return prob
 
-
     def encode_sentence(self, sent):
         """
         Encode a sentence as sum of word vectors.
@@ -190,7 +218,7 @@ class DS_matrix:
 
         Parameter
         ---------
-        sent : String
+        sent : str
             Sentence to be encoded.
 
         Return
@@ -207,7 +235,7 @@ class DS_matrix:
                 vectors.append(self.get_vector(word.lower()))
 
         if len(vectors) == 0:
-            encoding = np.zeros((1,self.matrix.shape[1]))
+            encoding = np.zeros((1, self.matrix.shape[1]))
         else:
             encoding = np.sum(vectors, axis=0)
 
@@ -215,13 +243,15 @@ class DS_matrix:
 
     def less_words_matrix(self, word_set, normalize=False):
         """
-        Return a DS_matrix whose matrix contains less rows (so as to have a smaller set of words),
-        but the same number of columns so that each word retains its original encoding.
+        Return a DS_matrix whose matrix contains less rows
+        (so as to have a smaller set of words),
+        but the same number of columns so that each word
+        retains its original encoding.
 
         Parameters
         ----------
         word_set : [str]
-            Words whose rows are to be retained. 
+            Words whose rows are to be retained.
             Words not contained in the original matrix are ignored.
         normalize : bool
             If true, normalize the bigram probabilities.
@@ -246,8 +276,8 @@ class DS_matrix:
         if "END$_" in self.vocab_order:
             word_set.add("END$_")
 
-        #new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), len(self.vocab_order)))
-        new_matrix.matrix = scipy.sparse.lil_matrix((len(word_set), self.matrix.shape[1]))
+        new_shape = (len(word_set), self.matrix.shape[1])
+        new_matrix.matrix = scipy.sparse.lil_matrix(new_shape)
 
         for i, word in enumerate(word_set):
             new_matrix.vocab_order[word] = i
@@ -259,7 +289,7 @@ class DS_matrix:
         new_matrix.tocsc()
 
         if normalize:
-            #normalize probabilities
+            # normalize probabilities
             rows, columns = new_matrix.matrix.nonzero()
             entry_dict = dict()
             for row, col in zip(rows, columns):
@@ -281,7 +311,7 @@ class DS_matrix:
     def tocsr(self):
         """
         Transform self.matrix to scipy.sparse.csr_matrix.
-        This is useful for row slicing, 
+        This is useful for row slicing,
         for example when get_vector() is called many times.
         """
 
@@ -308,7 +338,7 @@ class DS_matrix:
     def reconstruct_sent(self, sent, beam_width=3):
         """
         Reconstruct a sentence using the DS model
-        to reconstruct the bag  of words and the 
+        to reconstruct the bag  of words and the
         bigram model to reconstruct the word order.
 
         Parameter
@@ -316,7 +346,7 @@ class DS_matrix:
         sent : str
             Sentence to be encoded and reconstructed.
         beam_width : int
-            Number of words to add for each iteration 
+            Number of words to add for each iteration
             of the breadth-first search.
 
         Return
@@ -326,19 +356,20 @@ class DS_matrix:
         """
 
         target = self.encode_sentence(sent)
-        
+
         words, _ = s2b.greedy_search(self, target)
 
         print("reconstructed bag of words ...")
-        
+
         self.todok()
 
-        #beam search
-        start_word_prob = lambda w : self.get_bigram_prob(w, "START$_")
+        # beam search
+        def start_word_prob(w):
+            self.get_bigram_prob(w, "START$_")
 
         if words == []:
             return ""
-        
+
         first_word = max(words, key=start_word_prob)
         prob = start_word_prob(first_word)
 
@@ -377,13 +408,13 @@ class DS_matrix:
 
                     len_queue = len(queue)
                     if len_queue > 10000:
-                        #prune the queue to avoid memory problems
-                        #remove one of the first 1000 elements
-                        #in order to not accidentally remove all long sequences
+                        # prune the queue to avoid memory problems
+                        # remove one of the first 1000 elements in order
+                        # to not accidentally remove all long sequences
                         remove_el = min(queue[:1000], key=(lambda t: t[1]))
                         queue.remove(remove_el)
             else:
-                #found full sentence
+                # found full sentence
                 w = words_left[0]
 
                 new_prob = (prob_thus_far
@@ -392,18 +423,16 @@ class DS_matrix:
                 sent = word_list + [w]
 
                 solutions.append((sent, new_prob))
-                    
 
         best_sent, _ = max(solutions, key=(lambda t: t[1]))
         best_sent = ' '.join(best_sent)
 
-
         return best_sent
 
-    
     def pmi_matrix(self, new_matrix_path):
         """
-        Calculate positive PMI for each pair of words and build a new matrix based on that.
+        Calculate positive PMI for each pair of words
+        and build a new matrix based on that.
 
         Parameters
         ----------
@@ -411,10 +440,11 @@ class DS_matrix:
             Directory to save the new matrix to.
         """
 
-        pmi_matrix = scipy.sparse.lil_matrix(self.matrix.shape, dtype=np.float64)
+        shape = self.matrix.shape
+        pmi_matrix = scipy.sparse.lil_matrix(shape, dtype=np.float64)
 
         self.tocsc()
-        
+
         for word1 in self.vocab_order:
             pc = self.unigram_probs[word1]
             posc = self.vocab_order[word1]
@@ -423,7 +453,6 @@ class DS_matrix:
             for word2 in self.vocab_order:
                 pw = self.unigram_probs[word2]
                 posw = self.vocab_order[word2]
-                #pcw = self.matrix[posc, posw]
                 pcw = probsc[posw]
 
                 inner = pcw / (pw * pc)
@@ -437,20 +466,5 @@ class DS_matrix:
         pmi_matrix.tocsc()
 
         with open(new_matrix_path, "wb") as new_matrix_file:
-            pickle.dump((pmi_matrix, self.unigram_probs, self.vocab_order), new_matrix_file)
-        #if not os.path.exists(new_matrix_path):
-        #    os.mkdir(new_matrix_path)
-
-        #matrix_path = os.path.join(new_matrix_path, "_matrix.pkl")
-        #with open(matrix_path, "wb") as matrix_file:
-        #    pickle.dump(pmi_matrix, matrix_file)
-
-        #order_path = os.path.join(new_matrix_path, "_vector_index.pkl")
-        #with open(order_path, "wb") as order_file:
-        #    pickle.dump(self.vocab_order, order_file)
-
-        #unigram_path = os.path.join(new_matrix_path, "_unigram_probs.pkl")
-        #with open(unigram_path, "wb") as unigram_file:
-        #    pickle.dump(self.unigram_probs, unigram_file)
-
-
+            components = (pmi_matrix, self.unigram_probs, self.vocab_order)
+            pickle.dump(components, new_matrix_file)
