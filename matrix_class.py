@@ -236,12 +236,15 @@ class DS_matrix:
             prefixes = [tuple(words[:i]) for i in range(len(words) + 1)]
             prefixes.reverse()
 
+            found_pref = False
             for pref in prefixes:
                 if pref in self.vocab_order:
                     vectors.append(self.get_vector(pref))
                     words = words[len(pref):]
+                    found_pref = True
                     break
-            words = words[1:] #ignore word if it isn't in the matrix
+            if not found_pref:
+                words = words[1:] #ignore word if it isn't in the matrix
 
         if len(vectors) == 0:
             encoding = np.zeros((1,self.matrix.shape[1]))
