@@ -179,7 +179,7 @@ def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_c
             log_file.write("\n\n\n")
 
 
-def cluster_stats(clust_dir, log_filename):
+def cluster_stats(clust_dir, log_filename, sent_filename):
     """
     Calculate some statistics on clusters found in find_clusters.
 
@@ -189,15 +189,22 @@ def cluster_stats(clust_dir, log_filename):
         Directory containing the clusters.
     log_filename : str
         File to write the results to.
+    sent_filename : str
+        File containing the sentences of the clusters.
     """
-    
+
+    with open(sent_filename) as sent_file:
+        sents = sent_file.readlines()
+
     vector_cluster_filename = os.path.join(clust_dir, "vector_clusters.pkl")
     with open(vector_cluster_filename, "rb") as vector_cluster_file:
         vector_clusters = pickle.load(vector_cluster_file)
     sent_cluster_filename = os.path.join(clust_dir, "sent_clusters.pkl")
     with open(sent_cluster_filename, "rb") as sent_cluster_file:
         sent_clusters = pickle.load(sent_cluster_file)
-    
+
+    dist_lists = [[] for _ in range(len(vector_clusters))]
+
     with open(log_filename, "w") as log_file:
         for cluster_num, cluster in enumerate(sent_clusters):
             sents = list(filter(lambda x: x in sents, cluster))
@@ -322,5 +329,5 @@ stopwords = [
 ] + [".", ",", ";", "-", "—"] 
 
 #find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
-find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters/clusters1.log", "../clusters/clusters1", num_clusters=2)
+#find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters/clusters1.log", "../clusters/clusters1", num_clusters=2)
 #find_zeros("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "count_nonzeros.log", num_words=2000)
