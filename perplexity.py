@@ -1,10 +1,9 @@
 import pickle
-from matrix_class import DS_matrix
 import numpy as np
 from collections import defaultdict
 import scipy.sparse
 
-
+from matrix_class import DS_matrix
 
 
 def perplexity(corpus_filename, model_filename):
@@ -15,7 +14,8 @@ def perplexity(corpus_filename, model_filename):
     ----------
     corpus_filename : string
         Filename of the test corpus.
-        Assumes that each line of the corpus contains one word-tokenized sentence.
+        Assumes that each line of the corpus
+        contains one word-tokenized sentence.
     model_filename : string
         Filename of the bigram matrix.
 
@@ -27,9 +27,8 @@ def perplexity(corpus_filename, model_filename):
 
     model = DS_matrix(model_filename)
 
-
-    bigram_counts = scipy.sparse.lil_matrix((len(model.vocab_order),len(model.vocab_order)), dtype=np.int64)
-    #unigram_counts = scipy.sparse.lil_matrix((1,len(model.vocab_order)), dtype=np.int64)
+    shape = (len(model.vocab_order), len(model.vocab_order))
+    bigram_counts = scipy.sparse.lil_matrix(shape, dtype=np.int64)
     unigram_counts = np.zeros(len(model.vocab_order), dtype=np.int64)
 
     with open(corpus_filename) as corpus:
@@ -48,9 +47,6 @@ def perplexity(corpus_filename, model_filename):
                 else:
                     pos1 = model.vocab_order[prev_word]
                     pos2 = model.vocab_order[word]
-                    #print("pos1", pos1)
-                    #print("pos2", pos2)
-                    #print("check", bigram_counts._check_row_bounds(pos1))
                     if bigram_counts[pos1, pos2] == 0:
                         bigram_counts[pos1, pos2] = 1
                     else:
@@ -76,7 +72,6 @@ def perplexity(corpus_filename, model_filename):
         if i % 2500 == 0:
             print(i, "words processed ...")
         for w2 in model.vocab_order:
-                
             pos1 = model.vocab_order[w1]
             pos2 = model.vocab_order[w2]
             bigram_count = bigram_counts[pos1, pos2]
@@ -84,7 +79,7 @@ def perplexity(corpus_filename, model_filename):
             if bigram_count != 0:
                 prob = model.get_bigram_prob(w2, w1)
                 if prob == 0:
-                    #backoff
+                    # backoff
                     prob = model.get_unigram_prob(w2)
                 if prob == 0:
                     continue
@@ -101,11 +96,3 @@ def perplexity(corpus_filename, model_filename):
                 perplexity *= ((1/prob) ** (1/counter))
 
     return perplexity
-
-
-        
-p = perplexity("../generated_sentences.txt", "../matrix_50k/_matrix.pkl")
-print("perplexity on bigram sentences",p)
-
-
-            
