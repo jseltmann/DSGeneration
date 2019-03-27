@@ -15,8 +15,8 @@ def find_positions(sents_filename,
                    matrix_filename,
                    log_filename):
     """
-    For each sentence in the sents_file, find the sentence in sents_file 
-    and the word in the matrix, whose vectors are closest to the vector 
+    For each sentence in the sents_file, find the sentence in sents_file
+    and the word in the matrix, whose vectors are closest to the vector
     of this sentence, measured by cosine distance.
 
     Parameters
@@ -28,7 +28,7 @@ def find_positions(sents_filename,
     matrix_filename : str
         Filename of the file containing the matrix.
     log_filename : str
-        Filename to which to write the sentences and 
+        Filename to which to write the sentences and
         the most similar other sentences and words.
     """
 
@@ -45,7 +45,6 @@ def find_positions(sents_filename,
     closest_words = dict()
     closest_non_func_words = dict()
 
-
     for s2 in sents:
         vec2 = sent_vectors[s2]
         for s1 in sents:
@@ -55,14 +54,14 @@ def find_positions(sents_filename,
 
             dist = cosine(vec1, vec2)
 
-            if not s1 in closest_sents:
+            if s1 not in closest_sents:
                 closest_sents[s1] = (s2, dist)
             else:
                 if dist < closest_sents[s1][1]:
                     closest_sents[s1] = (s2, dist)
 
     print("found closest sentences...")
-    
+
     for i, w in enumerate(matrix.get_words()):
         if i % 5000 == 0:
             print(i)
@@ -72,11 +71,10 @@ def find_positions(sents_filename,
 
             dist = cosine(vec1, vec2)
 
-            if not s1 in closest_words:
+            if s1 not in closest_words:
                 closest_words[s1] = [(w, dist)]
             else:
                 closest_words[s1].append((w, dist))
-            
 
     with open(log_filename, "w") as log_file:
         for s1 in sents:
@@ -98,9 +96,13 @@ def find_positions(sents_filename,
             log_file.write("\n")
 
 
-def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_clusters=2):
+def find_clusters(sent_filename,
+                  matrix_filename,
+                  log_filename,
+                  clust_dir,
+                  num_clusters=2):
     """
-    Use k-means clustering to find clusters in space among 
+    Use k-means clustering to find clusters in space among
     given sentences and the words in a DS_matrix.
 
     Parameters
@@ -127,13 +129,11 @@ def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_c
     vectors = None
 
     for i, sent in enumerate(sents_and_words):
-        vec = matrix.encode_sentence(sent)#.reshape((1002,))
+        vec = matrix.encode_sentence(sent)
         if vectors is None:
-            #vectors = csr_matrix((vec.shape[1], len(sents_and_words)))
             vectors = csr_matrix((len(sents_and_words), vec.shape[1]))
         if len(vec.shape) > 1:
             vec = vec.reshape((vec.shape[1],))
-        #vectors.append(csr_matrix(vec))
         vectors[i] = vec
 
     vectors = vectors.toarray()
@@ -142,15 +142,15 @@ def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_c
 
     centroids, which_cluster = kmeans2(vectors, num_clusters, minit='points')
 
-
     sent_clusters = [[] for _ in range(num_clusters)]
     vector_clusters = [[] for _ in range(num_clusters)]
 
-    for which, (vec, sent) in zip(which_cluster, zip(vectors, sents_and_words)):
+    triples = zip(which_cluster, zip(vectors, sents_and_words))
+    for which, (vec, sent) in triples:
         sent_clusters[which].append(sent)
         vector_clusters[which].append(vec)
-    
-    #calculate some statistics for each cluster
+
+    # calculate some statistics for each cluster
     dist_lists = [[] for _ in range(num_clusters)]
 
     vector_cluster_filename = os.path.join(clust_dir, "vector_clusters.pkl")
@@ -159,7 +159,6 @@ def find_clusters(sent_filename, matrix_filename, log_filename, clust_dir, num_c
     sent_cluster_filename = os.path.join(clust_dir, "sent_clusters.pkl")
     with open(sent_cluster_filename, "wb") as sent_cluster_file:
         pickle.dump(sent_clusters, sent_cluster_file)
-
 
     with open(log_filename, "w") as log_file:
         for cluster_num, cluster in enumerate(sent_clusters):
@@ -225,9 +224,11 @@ def cluster_stats(clust_dir, log_filename, sent_filename):
                     dist = cosine(vec1, vec2)
                     dist_lists[cluster_num].append(dist)
 
-            log_file.write("avg dist between points: " + str(np.nanmean(dist_lists[cluster_num])) + "\n")
+            log_file.write("avg dist between points: "
+                           + str(np.nanmean(dist_lists[cluster_num])) + "\n")
             if len(dist_lists[cluster_num]) > 0:
-                log_file.write("max dist between points: " + str(max(dist_lists[cluster_num])) + "\n")
+                log_file.write("max dist between points: "
+                               + str(max(dist_lists[cluster_num])) + "\n")
             else:
                 log_file.write("max dist between points:")
 
@@ -253,15 +254,22 @@ def cluster_stats(clust_dir, log_filename, sent_filename):
                     for vec2 in cluster2:
                         dist = cosine(vec1, vec2)
 
-                        if closest_point_dist is None or closest_point_dist > dist:
+                        if (closest_point_dist is None
+                                or closest_point_dist > dist):
                             closest_point_dist = dist
                             closest_point_dist_to_mean = cosine(vec2, mean1)
 
-            log_file.write("closest cluster mean: " + str(closest_cluster) + "\n")
-            log_file.write("distance to closest cluster mean: " + str(closest_cluster_dist) + "\n")
+            log_file.write("closest cluster mean: "
+                           + str(closest_cluster) + "\n")
+            log_file.write("distance to closest cluster mean: "
+                           + str(closest_cluster_dist) + "\n")
 
-            log_file.write("distance between closest two points of this cluster and another one: " + str(closest_point_dist) + "\n")
-            log_file.write("distance of the point in the other cluster to the mean of this cluster: " + str(closest_point_dist_to_mean) + "\n")
+            log_file.write("distance between closest two points "
+                           + "of this cluster and another one: "
+                           + str(closest_point_dist) + "\n")
+            log_file.write("distance of the point in the other"
+                           + "cluster to the mean of this cluster: "
+                           + str(closest_point_dist_to_mean) + "\n")
 
             log_file.write("\n\n")
             for sent in sents:
@@ -272,7 +280,8 @@ def cluster_stats(clust_dir, log_filename, sent_filename):
 
 def find_zeros(sent_filename, matrix_filename, log_filename, num_words=None):
     """
-    For each sentence and word in the matrix, find the number of non-zero entries in the vector.
+    For each sentence and word in the matrix,
+    find the number of non-zero entries in the vector.
     This is to test if the position differences are due to sparsity issues.
 
     Parameters
@@ -288,9 +297,9 @@ def find_zeros(sent_filename, matrix_filename, log_filename, num_words=None):
     """
 
     matrix = DS_matrix(matrix_filename)
-    
+
     sents_and_words = []
-    
+
     with open(sent_filename) as sent_file:
         for line in sent_file:
             sents_and_words.append(line.strip())
@@ -305,7 +314,7 @@ def find_zeros(sent_filename, matrix_filename, log_filename, num_words=None):
     for w in sents_and_words:
         vec = matrix.encode_sentence(w)
         non_zero = np.count_nonzero(vec)
-        pairs.append((w,non_zero))
+        pairs.append((w, non_zero))
 
     pairs = sorted(pairs, key=(lambda x: x[1]))
 
@@ -313,21 +322,3 @@ def find_zeros(sent_filename, matrix_filename, log_filename, num_words=None):
         for w, nz in pairs:
             line = str(nz) + " " + w + "\n"
             log_file.write(line)
-
-    
-        
-                    
-
-stopwords = [
-    "", "(", ")", "a", "about", "an", "and", "are", "around", "as", "at",
-    "away", "be", "become", "became", "been", "being", "by", "did", "do",
-    "does", "during", "each", "for", "from", "get", "have", "has", "had", "he",
-    "her", "his", "how", "i", "if", "in", "is", "it", "its", "made", "make",
-    "many", "most", "not", "of", "on", "or", "s", "she", "some", "that", "the",
-    "their", "there", "this", "these", "those", "to", "under", "was", "were",
-    "what", "when", "where", "which", "who", "will", "with", "you", "your"
-] + [".", ",", ";", "-", "—"] 
-
-#find_positions("../combined_sents.txt", stopwords, "../matrix_50k/_matrix.pkl", "../word_closeness_rank.log")
-#find_clusters("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "../clusters/clusters1.log", "../clusters/clusters1", num_clusters=2)
-#find_zeros("../combined_sents.txt", "../matrix_50k/_matrix.pkl", "count_nonzeros.log", num_words=2000)

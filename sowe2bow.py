@@ -1,11 +1,20 @@
+"""
+This module translates sowe2bow from
+https://white.ucc.asn.au/publications/White2016BOWgen/ into python,
+i.e. it implements the bag-of-words reconstruction algorithm.
+The main method is greedy_search().
+
+Attributes
+----------
+epsilon : float
+    constant used for round off when comparing scores
+    -- numbers whose difference is less than ϵ are considered the same
+"""
+
+
 import numpy as np
 from copy import copy
 
-#This module translates sowe2bow from https://white.ucc.asn.au/publications/White2016BOWgen/ into python.
-
-
-#ϵ constance used for round off when comparing fitness scores -- floats that are closer than ϵ appart are considered the same value
-#Numeric (in-)stability causes differences between the value reported by `fitness`, and `score_possible_additions` even for the same total chain of words
 epsilon = 10.0 ** -5
 
 
@@ -26,8 +35,8 @@ def get_end(LL, ws):
         Sum of the vectors.
     """
     if len(ws) == 0:
-        #sofar = np.zeros((1,len(LL.get_words())))
-        sofar = np.zeros((1,LL.get_vector(list(LL.vocab_order.keys())[0]).shape[1]))
+        shape = (1, LL.get_vector(list(LL.vocab_order.keys())[0]).shape[1])
+        sofar = np.zeros(shape)
     else:
         vectors = []
         for word in ws:
@@ -36,6 +45,7 @@ def get_end(LL, ws):
         sofar = np.sum(vectors, axis=0)
 
     return sofar
+
 
 def score_possible_additions(LL, target, end_point):
     """
@@ -53,7 +63,8 @@ def score_possible_additions(LL, target, end_point):
     Return
     ------
     word_scores : dict
-        For each word in LL, the score that would be reached by adding that word.
+        For each word in LL, the score
+        that would be reached by adding that word.
     """
 
     diff = end_point - target
@@ -62,7 +73,6 @@ def score_possible_additions(LL, target, end_point):
     matrix = LL.matrix.tocsr()
 
     for i, word in enumerate(LL.get_words()):
-            
         pos = LL.vocab_order[word]
 
         vec = matrix[pos].toarray()
@@ -72,8 +82,9 @@ def score_possible_additions(LL, target, end_point):
         score = -np.sqrt(s)
 
         word_scores[word] = score
-    
+
     return word_scores
+
 
 def fitness(target, end_point):
     """
@@ -94,14 +105,16 @@ def fitness(target, end_point):
 
     diff = end_point - target
     diff = diff * diff
-    
+
     fitness = - np.sum(diff)
 
     return fitness
 
+
 def greedy_addition(LL, target, initial_word_set, max_additions=float("inf")):
     """
-    Perform the greedy addition step to find the bag of words from a sum of word embeddings.
+    Perform the greedy addition step to find
+    the bag of words from a sum of word embeddings.
 
     Parameters
     ----------
@@ -131,7 +144,8 @@ def greedy_addition(LL, target, initial_word_set, max_additions=float("inf")):
         curr_additions += 1
 
         addition_scores = score_possible_additions(LL, target, end_point)
-        addition = max(addition_scores.keys(), key=(lambda x: addition_scores[x]))
+        addition = max(addition_scores.keys(),
+                       key=(lambda x: addition_scores[x]))
         addition_score = addition_scores[addition]
 
         if addition_score > best_score + epsilon:
@@ -143,10 +157,11 @@ def greedy_addition(LL, target, initial_word_set, max_additions=float("inf")):
 
     return best_word_set, best_score
 
+
 def word_swap_refinement(LL, target, initial_word_set):
     """
     Perform the 1-substitution step to refine the bag of words.
-    
+
     Parameters
     ----------
     LL : DS_matrix
@@ -155,7 +170,7 @@ def word_swap_refinement(LL, target, initial_word_set):
         Vector that represents the encoded sentence.
     initial_word_set : [String]
         Initial bag of words.
-    
+
     Return
     ------
     best_word_set : [String]
@@ -168,11 +183,10 @@ def word_swap_refinement(LL, target, initial_word_set):
     end_point = get_end(LL, initial_word_set)
     best_score = fitness(target, end_point)
 
-
     for i, word in enumerate(initial_word_set[:-1]):
         word_set = copy(initial_word_set)
         word_set.pop(i)
-        
+
         sub_endpoint = end_point - LL.get_vector(word)
         subset_score = fitness(target, sub_endpoint)
         if subset_score > best_score + epsilon:
@@ -234,13 +248,11 @@ def greedy_search(LL, target, rounds=1000, log=False):
 
         best_word_list = word_list
 
-        converged = best_score - epsilon < swap_score and swap_score < best_score + epsilon
+        converged = (best_score - epsilon < swap_score
+                     and swap_score < best_score + epsilon)
         best_score = swap_score
 
         if converged:
             break
 
     return word_list, best_score
-
-
-        
