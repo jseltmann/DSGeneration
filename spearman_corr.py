@@ -58,8 +58,12 @@ def calculate_spearman(gold_filename, matrix_filename, similarity_function):
 
     matrix = DS_matrix(matrix_filename)
     
+    skipped = 0
     for word1, word2, sim in gold_list:
+        word1 = (word1,)
+        word2 = (word2,)
         if not matrix.contains(word1) or not matrix.contains(word2):
+            skipped += 1
             continue
 
         similarity = similarity_function(matrix.get_vector(word1), matrix.get_vector(word2))
@@ -69,7 +73,7 @@ def calculate_spearman(gold_filename, matrix_filename, similarity_function):
 
     spearman, _ = spearmanr(matrix_similarity_list, gold_similarity_list)
 
-    return spearman
+    return spearman, skipped
 
 
 
