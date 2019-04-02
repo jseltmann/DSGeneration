@@ -298,8 +298,8 @@ def tfidf(ngram, ngrams, ref_dict, ngram_counts, n):
     tf = sent_counts[ngram] / (sum(sent_counts.values()))
 
     df = ngram_counts[ngram]
-    if df == 0:  # for ngrams that never occured in the reference sentences
-        df = len(ref_dict.keys())
+    #if df == 0:  # for ngrams that never occured in the reference sentences
+    #    df = len(ref_dict.keys())
 
     idf = np.log(len(ref_dict.keys()) / df)
 
@@ -351,7 +351,11 @@ def get_ngram_counts(ref_dict, max_n):
             for ref_ngram in ref_ngrams:
                 image_counts[ref_ngram] += ref_ngrams.count(ref_ngram)
         for ngram in ngrams:
-            if image_counts[ngram] == 0:
+            #if image_counts[ngram] == 0:
+            #    ngram_counts[ngram] += 1
+            #else:
+            #    ngram_counts[ngram] += image_counts[ngram]
+            if image_counts[ngram] > 1:
                 ngram_counts[ngram] += 1
             else:
                 ngram_counts[ngram] += image_counts[ngram]
