@@ -298,8 +298,8 @@ def tfidf(ngram, ngrams, ref_dict, ngram_counts, n):
     tf = sent_counts[ngram] / (sum(sent_counts.values()))
 
     df = ngram_counts[ngram]
-    #if df == 0:  # for ngrams that never occured in the reference sentences
-    #    df = len(ref_dict.keys())
+    if df == 0:  # for ngrams that never occured in the reference sentences
+        df = 1
 
     idf = np.log(len(ref_dict.keys()) / df)
 
@@ -417,3 +417,13 @@ def decode_sentences(data_filename, decoded_filename,
 
     with open(orig_filename, "wb") as orig_file:
         pickle.dump(orig_dict, orig_file)
+
+
+
+#def calculate_ciderD(decoded_filename,
+#                     ref_filename,
+#                     orig_filename,
+#                     log_filename,
+#                     max_n=4, num_bins=2):
+calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S.log", max_n=4, num_bins=1)
+calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_2bins.log", max_n=4, num_bins=2)
