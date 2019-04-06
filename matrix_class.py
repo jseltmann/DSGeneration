@@ -445,7 +445,11 @@ class DS_matrix:
 
         self.tocsc()
 
+        i = 0
         for word1 in self.vocab_order:
+            if i % 500 == 0:
+                print(i)
+                i += 1
             pc = self.unigram_probs[word1]
             posc = self.vocab_order[word1]
             probsc = self.matrix.getcol(posc).toarray().flatten()
@@ -454,12 +458,18 @@ class DS_matrix:
                 pw = self.unigram_probs[word2]
                 posw = self.vocab_order[word2]
                 pcw = probsc[posw]
-
-                inner = pcw / (pw * pc)
+                
+                if pw * pc == 0:
+                    inner = 0
+                else:
+                    inner = pcw / (pw * pc)
                 if inner > 0:
                     pmi = math.log(inner, 2)
                     ppmi = max(pmi, 0)
                 else:
+                    ppmi = 0
+
+                if ppmi == float("Inf") or ppmi == float("nan"):
                     ppmi = 0
 
                 pmi_matrix[posc, posw] = ppmi
