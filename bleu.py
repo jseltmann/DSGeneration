@@ -1,6 +1,6 @@
 import pickle
 import json
-from nltk.translate.bleu_score import sentence_bleu
+from nltk.translate.bleu_score import sentence_bleu, corpus_bleu
 import nltk
 import numpy as np
 
@@ -37,6 +37,9 @@ def bleu_pascal(ref_filename, decoded_filename, log_filename):
 
     scores = []
 
+    references_complete = []
+    decoded_complete = []
+    
     i = 0
     for img_id in decoded_sents:
         i += 1
@@ -52,10 +55,15 @@ def bleu_pascal(ref_filename, decoded_filename, log_filename):
 
         scores.append(score)
 
+        references_complete.append(references)
+        decoded_complete.append(decoded)
+
     avg_score = np.mean(scores)
     std_dev = np.std(scores)
+    corpus_score = corpus_bleu(references_complete, decoded_complete)
 
     with open(log_filename, "a") as log_file:
         log_file.write("\n\n")
-        log_file.write("average BLEU score: " + str(avg_score) + "\n")
+        log_file.write("average sentence BLEU score: " + str(avg_score) + "\n")
         log_file.write("standard deviation: " + str(std_dev) + "\n")
+        log_file.write("\n\n corpus level score: " + str(corpus_score) + "\n")
