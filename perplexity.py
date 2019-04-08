@@ -29,7 +29,6 @@ def perplexity(corpus_filename, model_filename):
 
     shape = (len(model.vocab_order), len(model.vocab_order))
     bigram_counts = scipy.sparse.lil_matrix(shape, dtype=np.int64)
-    unigram_counts = np.zeros(len(model.vocab_order), dtype=np.int64)
 
     with open(corpus_filename) as corpus:
         counter = 0
@@ -41,10 +40,7 @@ def perplexity(corpus_filename, model_filename):
                 if not model.contains(word):
                     prev_word = None
                     continue
-                if prev_word is None:
-                    pos = model.vocab_order[word]
-                    unigram_counts[pos] += 1
-                else:
+                if prev_word is not None:
                     pos1 = model.vocab_order[prev_word]
                     pos2 = model.vocab_order[word]
                     if bigram_counts[pos1, pos2] == 0:
@@ -55,10 +51,7 @@ def perplexity(corpus_filename, model_filename):
                 counter += 1
 
             word = "END$_"
-            if prev_word is None:
-                pos = model.vocab_order[word]
-                unigram_counts[pos] += 1
-            else:
+            if prev_word is not None:
                 pos1 = model.vocab_order[prev_word]
                 pos2 = model.vocab_order[word]
                 if bigram_counts[pos1, pos2] == 0:
@@ -79,20 +72,8 @@ def perplexity(corpus_filename, model_filename):
             if bigram_count != 0:
                 prob = model.get_bigram_prob(w2, w1)
                 if prob == 0:
-                    # backoff
-                    prob = model.get_unigram_prob(w2)
-                if prob == 0:
                     continue
                 for _ in range(bigram_count):
                     perplexity *= ((1/prob) ** (1/counter))
-
-    for w in model.vocab_order:
-        pos = model.vocab_order[w]
-        unigram_count = unigram_counts[pos]
-
-        if unigram_count != 0:
-            prob = model.get_unigram_prob(w)
-            for _ in range(unigram_count):
-                perplexity *= ((1/prob) ** (1/counter))
 
     return perplexity
