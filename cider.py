@@ -91,7 +91,7 @@ def calculate_ciderD(decoded_filename,
             log_file.write(line)
 
     print(generated_bins)
-    for bin_num in range(generated_bins+1):
+    for bin_num in range(num_bins):
         avg = np.mean(scores[bin_num])
         stddev = np.std(scores[bin_num])
 
@@ -425,5 +425,5 @@ def decode_sentences(data_filename, decoded_filename,
 #                     orig_filename,
 #                     log_filename,
 #                     max_n=4, num_bins=2):
-calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S.log", max_n=4, num_bins=1)
-calculate_ciderD("../decoded_pascal50S.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_2bins.log", max_n=4, num_bins=2)
+calculate_ciderD("../pascal_orig_sents.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_orig_sents_1bin.log", max_n=4, num_bins=1)
+calculate_ciderD("../pascal_orig_sents.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_orig_sents_2bins.log", max_n=4, num_bins=2)
