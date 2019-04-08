@@ -47,8 +47,8 @@ def perplexity(corpus_filename, model_filename):
                         bigram_counts[pos1, pos2] = 1
                     else:
                         bigram_counts[pos1, pos2] += 1
+                    counter += 1
                 prev_word = word
-                counter += 1
 
             word = "END$_"
             if prev_word is not None:
