@@ -12,67 +12,11 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- ( 2 ) 
-[')', '(']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- a revolving fund 
-['a', 'fund']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
  `` must solve problem `` 
 []
 #removed words: 5
 #added words: 0
 #length difference: 5
-
-
- calls for extension 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
 
 
  fears prejudicial aspects 
@@ -82,158 +26,53 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- washington , july 24 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- decisions are made 
-['made', 'decisions']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  issue jury subpoenas 
-['issue']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- faced seven cases 
-['cases', 'faced']
+['issue', 'jury']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  claims precedent lacking 
-['claims', 'lacking']
-#removed words: 1
+[]
+#removed words: 3
 #added words: 0
-#length difference: 1
+#length difference: 3
 
 
  washington , feb. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- outlays would increase 
-['increase', 'outlays']
+[',', '9', 'washington', 'feb', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
-
-
- nursing home care 
-['care', 'nursing']
-#removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  calls proposal modest 
-['calls', 'modest']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- would n't pay doctors 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- contributions to schools 
-['schools', 'contributions']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- more for nursing homes 
-['more', 'nursing']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- asks research funds 
 []
 #removed words: 3
 #added words: 0
 #length difference: 3
-
-
- reaction as expected 
-['reaction', 'expected']
-#removed words: 1
-#added words: 0
-#length difference: 1
 
 
  washington , feb. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- enforce by demand 
-['demand', 'enforce']
+[',', '9', 'washington', 'feb', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  aid plans revamped 
-['aid', 'revamped']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- mr. hawksley said . 
-['said', 'mr', '.']
-#removed words: 2
-#added words: 1
-#length difference: 1
-
-
- he asked . 
-['.', 'he']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- sees jones ahead 
 []
 #removed words: 3
 #added words: 0
 #length difference: 3
 
 
- that failed . 
-['.', 'that']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- mayor visits buckley 
-['mayor', 'buckley']
-#removed words: 1
-#added words: 0
-#length difference: 1
+ mr. hawksley said . 
+['.', 'said', 'mr', '.']
+#removed words: 2
+#added words: 1
+#length difference: 0
 
 
  screvane and beame hailed 
@@ -243,130 +82,18 @@ Correct sentence first, decoded second
 #length difference: 2
 
 
- the mayor said : 
-['the', 'said']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- boston , june 16 
-['june', 'boston']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- washington , june 18 
-['june', 'washington']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- leadership is hopeful 
-['leadership', 'hopeful']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- three groups to meet 
+ to deal with principles 
 []
 #removed words: 4
 #added words: 0
 #length difference: 4
 
 
- the hotel owner shrugged . 
-['.', 'the', 'owner']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- moscow , june 18 
-['moscow', 'june']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- formula is due this week 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- geneva , june 18 
-['june', 'geneva']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- tactics studied in geneva 
-['in', 'tactics']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- to deal with principles 
-['to', 'deal', 'with']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- seats on square 
-['square', 'seats']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- jackson , miss . 
-['jackson', 'miss']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  could be scramble 
-['could', 'be']
-#removed words: 1
+[]
+#removed words: 3
 #added words: 0
-#length difference: 1
-
-
- baton rouge , la . 
-[',', '.', 'baton']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- intervenes in case 
-['case', 'intervenes']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- wide range in bids 
-['in', 'wide']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- testifies at hearing 
-['hearing', 'testifies']
-#removed words: 1
-#added words: 0
-#length difference: 1
+#length difference: 3
 
 
  backs higher fees 
@@ -383,32 +110,11 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- would bar vehicles 
-['would', 'vehicles']
+ led fight on teamsters 
+['on', 'led', 'fight']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- ignition sets off blast 
-['off', 'ignition']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- hood flies over house 
-['over', 'hood']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- led fight on teamsters 
-['on', 'led']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  individual help best 
@@ -418,60 +124,18 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- salem ( ap ) 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- oak grove ( special ) 
-[')', '(', 'oak']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- new point added 
-['new', 'added']
+ -- emphasizes the virgin birth 
+['the', 'virgin', 'birth', 'emphasizes']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- -- emphasizes the virgin birth 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
 
 
  -- his miracles 
-['his']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- super again elected 
-['elected', 'super']
+['his', 'miracles']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- church loses pace 
-['church', 'pace']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ' church meets change ' 
-["'", "'", 'meets']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  proof lack charged 
@@ -482,31 +146,17 @@ Correct sentence first, decoded second
 
 
  siebern hits homer 
-['hits']
-#removed words: 2
+[]
+#removed words: 3
 #added words: 0
-#length difference: 2
-
-
- house throws wild 
-['house', 'wild']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- robinson doubles again 
-['again', 'robinson']
-#removed words: 1
-#added words: 0
-#length difference: 1
+#length difference: 3
 
 
  15 pounds lighter 
-['15', 'lighter']
-#removed words: 1
+[]
+#removed words: 3
 #added words: 0
-#length difference: 1
+#length difference: 3
 
 
  seeks `` improved fielding `` 
@@ -517,10 +167,10 @@ Correct sentence first, decoded second
 
 
  duren , sheldon on hill 
-[',', 'on']
-#removed words: 3
+[',', 'on', 'hill', 'sheldon']
+#removed words: 1
 #added words: 0
-#length difference: 3
+#length difference: 1
 
 
  squad cut near 
@@ -531,29 +181,15 @@ Correct sentence first, decoded second
 
 
  8,280 attend races 
-['attend']
-#removed words: 2
+['races', 'attend']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  culmone gets first win 
-['win', 'gets']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- austin , texas 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- it did n't ; ; 
-[';', 'it', 'did', "n't"]
-#removed words: 0
+['first', 'win', 'gets']
+#removed words: 1
 #added words: 0
 #length difference: 1
 
@@ -565,13 +201,6 @@ Correct sentence first, decoded second
 #length difference: 1
 
 
- a quick touchdown resulted . 
-['.', 'a', 'touchdown']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  bingles and bobbles : 
 ['and', ':']
 #removed words: 2
@@ -579,193 +208,46 @@ Correct sentence first, decoded second
 #length difference: 2
 
 
- i ca n't run . 
-['.', 'i', 'ca', "n't"]
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- i ca n't throw . 
-['.', 'i', 'ca', "n't"]
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- philadelphia , jan. 23 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- choice was expected 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- coach played 3 years 
-['3', 'coach']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- show follows ceremonies 
-['show', 'ceremonies']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- flushing stadium in works 
-['in', 'flushing']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- golf 's golden boy 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- it made him human . 
-['.', 'it', 'him']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- no margin for error 
-['for', 'no']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  stickler for rules 
-['for']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- he had a 16 . 
-['.', 'he', 'had', 'a']
+['for', 'rules']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- the ball floated downstream . 
-['.', 'the', 'floated']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- ruling from on high 
-['on', 'ruling']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  change in pitchers . 
-['.', 'change']
-#removed words: 2
+['.', 'in', 'change']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  nieman kept in lineup . 
-['.', 'kept']
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- six bucks over . 
-['over', 'six']
+['.', 'in', 'kept']
 #removed words: 2
 #added words: 0
 #length difference: 2
-
-
- and bob skinner 
-['and', 'skinner']
-#removed words: 1
-#added words: 0
-#length difference: 1
 
 
  six bucs over . 
-['over', 'six']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- four for alvin 
-['four', 'alvin']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ' back with the met 
-["'", 'with', 'the']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- here and there 
-['there', 'here']
+['.', 'over', 'six']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  first , honolulu 
-['first']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- here and there 
-['there', 'here']
+[',', 'first']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  she 's a whiz . 
-['.', 'a', 'she']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- fur goodness sake ! ! 
-['!', 'fur', 'sake']
+['.', "'s", 'a', 'she']
 #removed words: 1
 #added words: 0
-#length difference: 2
-
-
- that 's our boy bill . 
-['that', 'bill', 'our']
-#removed words: 3
-#added words: 0
-#length difference: 3
+#length difference: 1
 
 
  back to w. coast 
@@ -775,263 +257,67 @@ Correct sentence first, decoded second
 #length difference: 4
 
 
- set for influx 
-['set', 'influx']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- many with pools 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- all for $ 14 ! ! 
-['!', 'all', '$']
+ annapolis , jan. 7 
+[',', '7', 'jan', '.']
 #removed words: 2
-#added words: 0
-#length difference: 3
-
-
- all for $ 14 . 
-['.', 'all', '$']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the prospects look great . 
-['.', 'the', 'look']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- basin street beat 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- it 's big business 
-['it', 'big']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- salary cut and lay-offs 
-['and', 'salary']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- boy in fair condition 
-['boy', 'fair']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#added words: 2
+#length difference: 0
 
 
  annapolis , jan. 7 
-[',', '7']
+[',', '7', 'jan', '.']
 #removed words: 2
-#added words: 0
-#length difference: 2
-
-
- sent home for rest 
-['for', 'sent']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- younger son calls police 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- two brothers adopted 
-['two', 'adopted']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- annapolis , jan. 7 
-[',', '7']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#added words: 2
+#length difference: 0
 
 
  simpkins from somerset 
-['from']
-#removed words: 2
+['from', 'somerset']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  convenience held key 
-['key', 'convenience']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- london , feb. 9 
-['london', 'feb', '.']
-#removed words: 3
-#added words: 2
-#length difference: 1
-
-
- five held for trial 
-['for', 'five']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- flashed to moscow 
-['moscow', 'flashed']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- all five pleaded innocent . 
-['.', 'all', 'pleaded']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- refuses to grant bail 
-['grant', 'refuses']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- `` of highest value `` 
-['of', 'value']
+[]
 #removed words: 3
 #added words: 0
 #length difference: 3
 
 
- navy 's future involved 
-['future', 'navy']
+ london , feb. 9 
+[',', 'london', '9', 'feb', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
+
+
+ `` of highest value `` 
+['of', 'value', 'highest']
 #removed words: 2
 #added words: 0
 #length difference: 2
 
 
  interested in detector 
-['interested', 'in']
-#removed words: 1
+[]
+#removed words: 3
 #added words: 0
-#length difference: 1
+#length difference: 3
 
 
  no comments by u.s . 
-['.', 'by', 'no']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- lives on welfare 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- charges in doubt 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- locked in motel 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- dennis , 6 ; ; 
-[';', '6', 'dennis']
+['.', 'by', 'no', 'comments']
 #removed words: 1
 #added words: 0
-#length difference: 2
-
-
- eleanor , 2 ; ; 
-[';', '2', 'eleanor']
-#removed words: 1
-#added words: 0
-#length difference: 2
+#length difference: 1
 
 
  and bernardine , 1 . 
-[',', '.', 'and']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- students help out 
-['out', 'students']
+[',', '.', 'and', '1']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- funds from dances 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- gets car number 
-['number', 'gets']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- given 15 days 
-['days', 'given']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- plea for arms 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- havana , april 19 . 
-['.', 'april', 'havana']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  arms plot charged 
@@ -1041,60 +327,18 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- report others held 
-['report', 'held']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- urged in 1954 
+ r. e. killingsworth 
 []
 #removed words: 3
 #added words: 0
 #length difference: 3
-
-
- ' intend to attend ' 
-['to', "'", "'"]
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- r. e. killingsworth 
-['r', '.']
-#removed words: 3
-#added words: 2
-#length difference: 1
 
 
  john w. ball 
-['john', 'ball']
+['john', 'ball', 'w', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
-
-
- mrs. lola harris 
-['harris', 'mrs', '.']
-#removed words: 2
 #added words: 2
-#length difference: 0
-
-
- bursts into flames 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- salem ( special ) 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+#length difference: -1
 
 
  board oks pact 
@@ -1111,396 +355,116 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- he retired in 1958 . 
-['.', 'in', 'he']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- and five grandchildren . 
-['and', 'grandchildren']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- youngsters do business 
-['business', 'youngsters']
+ g-p men served 
+['men', 'served']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
- g-p men served 
-['men']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  hillsboro ( special ) 
-[')', '(']
-#removed words: 2
+[')', '(', 'special']
+#removed words: 1
 #added words: 0
-#length difference: 2
-
-
- mr. giorgio was uninjured . 
-['.', 'was', 'mr', '.']
-#removed words: 3
-#added words: 1
 #length difference: 1
 
 
  mr. vernava was uninjured . 
-['.', 'was', 'mr', '.']
-#removed words: 3
-#added words: 1
+['.', 'was', 'mr.', 'uninjured']
+#removed words: 1
+#added words: 0
 #length difference: 1
 
 
  asilomar , march 26 
-[',', '26']
-#removed words: 2
+[',', 'march', '26']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  glimco a buddy 
-['a']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- connection is sought 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- lee a witness 
-['lee', 'witness']
+['a', 'buddy']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  a $ 12,500 payment 
-['a', 'payment']
-#removed words: 2
+['a', 'payment', '$']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  lien payments involved 
-['involved', 'lien']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- charge lists 3 checks 
-['3', 'charge']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- all bounced . 
-['.', 'all']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- they export also . 
-['they', 'also']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- new york ( ap ) 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- some good news 
-['news', 'some']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- nothing to fear 
 []
 #removed words: 3
 #added words: 0
 #length difference: 3
-
-
- due in 1986 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- $ 70 by 1971 ; ; 
-['by', ';', '$']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- $ 75 by 1976 ; ; 
-['by', ';', '$']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- $ 80 by 1981 ; ; 
-['by', ';', '$']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- new york ( ap ) 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- washington ( ap ) 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
 
 
  washington ( upi ) 
-[')', 'washington']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- washington ( ap ) 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- leaders of industry 
-['industry', 'leaders']
+[')', '(', 'washington']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  elburn , ill . 
-[',', '.']
-#removed words: 2
+[',', '.', 'ill']
+#removed words: 1
 #added words: 0
-#length difference: 2
-
-
- two of three report gains 
-['report', 'two', 'of']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- dealers ' stocks down 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+#length difference: 1
 
 
  bluebonnets and stagecoach silhouettes . 
-['and', 'silhouettes']
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- mother of five 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- i suggested . 
-['.', 'i']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- i was asked . 
-['.', 'i', 'was']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- even that is n't satisfactory . 
-['.', 'even', 'is', "n't"]
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- but that 's hardly realistic . 
-['.', 'but', 'that', 'hardly']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- stars for marriage 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- more new addresses 
-['more', 'addresses']
+['.', 'and', 'stagecoach', 'silhouettes']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  we like fike 
-['we']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- here and there 
-['there', 'here']
+['like', 'we']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- faces in places 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
 
 
  plant city oct. 11 . 
-['.', 'plant', 'oct', '.']
-#removed words: 3
+['.', 'city', 'plant', '11', 'oct', '.']
+#removed words: 1
 #added words: 1
-#length difference: 1
-
-
- very austere yet racy . 
-['.', 'very', 'yet']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#length difference: -1
 
 
  `` tires ok ? ? 
-['?', 'ok']
+['?', '?', 'ok']
 #removed words: 2
 #added words: 0
-#length difference: 3
+#length difference: 2
 
 
  they polished the windshield . 
-['.', 'the', 'they']
-#removed words: 2
+['.', 'the', 'they', 'polished']
+#removed words: 1
 #added words: 0
-#length difference: 2
-
-
- he asked gloomily . 
-['he', 'gloomily']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#length difference: 1
 
 
  `` about 35 `` . 
-['.', 'about']
-#removed words: 3
+['.', 'about', '35']
+#removed words: 2
 #added words: 0
-#length difference: 3
-
-
- for crucial encounter 
-['for', 'encounter']
-#removed words: 1
-#added words: 0
-#length difference: 1
+#length difference: 2
 
 
  mr. kennedy replied : 
-['replied', 'mr', '.']
-#removed words: 3
+[':', 'replied', 'kennedy', 'mr', '.']
+#removed words: 1
 #added words: 2
-#length difference: 1
-
-
- road to vienna 
-['road', 'vienna']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- deadlock on tests 
-['tests', 'deadlock']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- the washington announcement said : 
-['the', ':', 'announcement']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- other allies consulted 
-['other', 'consulted']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- adequate compensation is indispensable . 
-['.', 'is', 'adequate']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the committee remains unresponsive . 
-['.', 'the', 'remains']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#length difference: -1
 
 
  the three-front war 
@@ -1510,27 +474,6 @@ Correct sentence first, decoded second
 #length difference: 1
 
 
- 1 ) cuba . 
-['1', 'cuba']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- 2 ) laos . 
-['2', 'laos']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- french & indians . 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
  turmoil in the house 
 []
 #removed words: 4
@@ -1538,116 +481,39 @@ Correct sentence first, decoded second
 #length difference: 4
 
 
- deadly deadlock . 
-['.', 'deadly']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- equal treatment . 
-['.', 'equal']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  `` unconscionable `` ! ! 
-['!']
+['!', '!']
 #removed words: 3
 #added words: 0
-#length difference: 4
-
-
- threat of war . 
-['war', 'threat']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- battle in the senate 
-['battle', 'the', 'senate']
-#removed words: 1
-#added words: 0
-#length difference: 1
+#length difference: 3
 
 
  he bogeyed the 10th . 
-['.', 'the', 'he']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- end at seven 
-['end', 'seven']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- player won only one . 
-['player', 'only', 'one']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the boldness of champions 
-['of', 'the']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- this is baseball 1961 . 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- double threat : 
-[':', 'double']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- light reading : 
-[':', 'light']
+['.', 'the', 'he', '10th']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  i 'm angry `` . 
-['.', 'i', 'angry']
-#removed words: 2
+['.', 'i', "'m", 'angry']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  play me `` . 
-['.', 'play']
-#removed words: 2
+['.', 'me', 'play']
+#removed words: 1
 #added words: 0
-#length difference: 2
-
-
- idols ' idols : 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+#length difference: 1
 
 
  maris 's was ted williams . 
-['.', "'s", 'ted']
-#removed words: 3
+['.', "'s", 'was', 'williams', 'ted']
+#removed words: 1
 #added words: 0
-#length difference: 3
+#length difference: 1
 
 
  said maris . 
@@ -1655,41 +521,6 @@ Correct sentence first, decoded second
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- it crushed mickey . 
-['it', 'mickey']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- break in georgia 
-['break', 'georgia']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- catch for chicago 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- but they were not . 
-['not', 'but', 'they']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- confusion became chaos ; ; 
-[';', 'chaos', 'confusion']
-#removed words: 1
-#added words: 0
-#length difference: 2
 
 
  lumumba fired kasavubu . 
@@ -1700,80 +531,10 @@ Correct sentence first, decoded second
 
 
  crime : ' skyjacked ' 
-["'", "'", 'crime']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the day wore on . 
-['on', 'the', 'day']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- congress : more muscle 
-['more', 'congress']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- tax-free returns . 
-['.', 'tax-free']
+[':', "'", "'", 'crime']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- swelling traffic . 
-['.', 'swelling']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- slow successes . 
-['.', 'slow']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- that improvement is continuing . 
-['.', 'that', 'is']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- easier access . 
-['.', 'easier']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- they threaten to strike . 
-['.', 'to', 'they']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- assembly session brought much good 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- chin up , soapy . 
-[',', '.', 'chin']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  the end of trujillo 
@@ -1783,179 +544,18 @@ Correct sentence first, decoded second
 #length difference: 1
 
 
- start on rapid transit 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- prairie national park 
-['park', 'prairie']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- whisky on the air 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- a law is needed . 
-['.', 'a', 'is']
+ goodby , mr. sam 
+[',', 'sam', 'mr', '.']
 #removed words: 2
-#added words: 0
-#length difference: 2
+#added words: 2
+#length difference: 0
 
 
- new york : democrats ' choice 
-[]
-#removed words: 6
-#added words: 0
-#length difference: 6
-
-
- little war , big test 
-[',', 'test', 'little']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a vote for educational tv 
-['for', 'a', 'tv']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a good man departs . 
+ un off the congo track 
 []
 #removed words: 5
 #added words: 0
 #length difference: 5
-
-
- goodby , mr. sam 
-[',', 'sam']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- un off the congo track 
-['the', 'track', 'un']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- meditations from a fallout shelter 
-['a', 'shelter', 'meditations']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the customer loses again 
-['the', 'loses']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a shock wave from africa 
-['a', 'africa', 'wave']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- monument to togetherness 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- west germany remains western 
-['west', 'remains']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- better ask before joining 
-['before', 'better']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the public . 
-['the', 'public']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- closed doors in city hall 
-['in', 'hall', 'closed']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- help when needed 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- matter of survival 
-['matter', 'survival']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- what 's wrong at state 
-['what', 'state', 'wrong']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- in new jersey , too 
-[',', 'in', 'new']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- that is one approach . 
-['approach', 'that', 'is']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- an excess of zeal 
-['of', 'an']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- that might go over . 
-['.', 'that', 'go']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  the faget case 
@@ -1966,94 +566,38 @@ Correct sentence first, decoded second
 
 
  mr. eisenhower , politician 
-[',', 'mr', '.']
-#removed words: 3
-#added words: 2
-#length difference: 1
-
-
- this was juvenile ridicule . 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- queen of the seas 
-['the', 'queen']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- mission to viet nam 
-['mission', 'viet']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- of course it is . 
-['is', 'of', 'course']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- what the new charter does 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- meeting in moscow 
-['moscow', 'meeting']
+[',', 'eisenhower', 'politician', 'mr', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  dr. conant 's call to action 
-['to', "'s", 'dr', '.']
-#removed words: 4
+['to', "'s", 'action', 'call', 'dr', '.']
+#removed words: 2
 #added words: 2
-#length difference: 2
+#length difference: 0
 
 
- the old couples . 
-['.', 'the', 'old']
+ but forgive anyway `` . 
+['.', 'but', 'anyway', 'forgive']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
- but forgive anyway `` . 
-['.', 'but', 'anyway']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  matthew 6 : 14-15 . 
-['.', ':', 'matthew']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- till seven times ? ? 
-['?', 'times', 'till']
+['.', ':', '6', 'matthew']
 #removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  matthew 18 : 21-22 . 
-['.', ':', 'matthew']
-#removed words: 2
+['.', ':', '18', 'matthew']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  luke 23:34 . 
@@ -2063,161 +607,42 @@ Correct sentence first, decoded second
 #length difference: 1
 
 
- she asked . 
-['.', 'she']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- i asked . 
-['.', 'i']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- she was shocked . 
-['.', 'she', 'was']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  oh , no-o ! ! 
-['!', 'oh']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- and the turtle ? ? 
-['?', 'and', 'the']
+[',', '!', '!', 'oh']
 #removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  mr. podger smiled . 
-['smiled', 'mr', '.']
+['.', 'smiled', 'mr', '.']
 #removed words: 2
 #added words: 1
-#length difference: 1
-
-
- you know what ? ? 
-['?', 'you', 'know', 'what']
-#removed words: 0
-#added words: 0
-#length difference: 1
+#length difference: 0
 
 
  `` dad `` ! ! 
-['!', 'dad']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- she said . 
-['she', 'said']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- two spots open 
-['open', 'two']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- robby could be better 
-['could', 'be']
+['!', '!', 'dad']
 #removed words: 2
 #added words: 0
 #length difference: 2
 
 
- breeding might move up 
+ robby could be better 
 []
 #removed words: 4
 #added words: 0
 #length difference: 4
 
 
- do n't ask him more . 
-['.', 'him', 'do', "n't"]
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- we think differently . 
-['we', 'differently']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- she wrote : 
-[':', 'she']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- what future holds 
-['what', 'holds']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- now listen closely : 
-['now', 'closely']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  ( quotations follow `` . 
-['.', '(', 'follow']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- on the job 
-['on', 'the']
+['.', '(', 'follow', 'quotations']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  kind mr. sam 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- then he suffered him . 
-['him', 'then', 'he']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- he said ; ; 
-[';', 'he', 'said']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- designed for ease 
 []
 #removed words: 3
 #added words: 0
@@ -2232,276 +657,115 @@ Correct sentence first, decoded second
 
 
  brace for sciatica 
-['brace']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- cholesterol and thyroid 
-['cholesterol', 'thyroid']
+['for', 'brace']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- it usually goes up . 
-['.', 'it', 'goes']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the child understands no . 
-['.', 'the', 'understands']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- it motivates his behavior . 
-['.', 'it', 'his']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- this breaks his heart . 
-['.', 'his', 'this']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- actions speak louder . 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- remove temptations . 
-['.', 'remove']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- his dream goes . 
-['his', 'goes']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  his bifocals blur . 
-['his', 'blur']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- he always feels lonely . 
-['.', 'he', 'feels']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a team feels something . 
-['.', 'a', 'feels']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the breakthrough ; ; 
-['the', ';']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- it is gone . 
-['.', 'it', 'is']
+['.', 'his', 'blur']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- ' task force ' 
-["'", 'force']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- there are other dangers : 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- these men are spenders . 
-['.', 'are', 'these']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- for example : 1 . 
-['1', 'for', 'example']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  `` a lousy job `` 
-['a', 'job']
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- chicago , aug. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- short shorts on the campus 
-['on', 'the', 'short']
+['a', 'job', 'lousy']
 #removed words: 2
 #added words: 0
 #length difference: 2
+
+
+ chicago , aug. 9 
+[',', '9', 'chicago', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 4 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+[',', '4', 'chicago', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+[',', '9', 'chicago', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  subsidies from cta 
-['subsidies']
-#removed words: 2
+['from', 'subsidies']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  oak park , aug. 8 
-[',', '8', 'oak']
-#removed words: 2
-#added words: 0
-#length difference: 2
+[',', 'park', '8', 'oak', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+[',', '9', 'chicago', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 9 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- teaching the handicapped 
-['handicapped', 'teaching']
+[',', '9', 'chicago', 'aug', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 7 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- from candlelight club 
-['from', 'club']
+[',', '7', 'chicago', 'aug', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
-
-
- minneapolis , aug. 7 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- more school , less pay 
-[',', 'pay', 'more']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#added words: 2
+#length difference: -1
 
 
  chicago , aug. 7 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- the dupont case 
-['the', 'case']
+[',', '7', 'chicago', 'aug', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  washington , aug. 4 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
+[',', '4', 'washington', 'aug', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
 
 
  wilmette , aug. 7 
-[',', '7']
+[',', '7', 'aug', '.']
 #removed words: 2
-#added words: 0
-#length difference: 2
+#added words: 2
+#length difference: 0
 
 
  downers grove , aug. 8 
-['grove', 'aug', '.']
-#removed words: 4
+[',', 'grove', '8', 'aug', '.']
+#removed words: 2
 #added words: 2
-#length difference: 2
+#length difference: 0
 
 
  providence , aug. 5 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- to the editor : 
-[':', 'to', 'the']
+[',', '5', 'providence', 'aug', '.']
 #removed words: 1
-#added words: 0
-#length difference: 1
+#added words: 2
+#length difference: -1
 
 
  `` plus-one `` shelters 
@@ -2511,130 +775,18 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- i am for it . 
-['it', 'i', 'am']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- county college costs 
-['county', 'costs']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- none will be elected . 
-['.', 'be', 'none']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  `` natural causes `` 
-['natural']
-#removed words: 3
+[]
+#removed words: 4
 #added words: 0
-#length difference: 3
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- it was very refreshing . 
-['it', 'was', 'refreshing']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#length difference: 4
 
 
  `` deep peep show `` 
-['show', 'deep']
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- working for peace 
-['peace', 'working']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- pets in apartments 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- dissenting views of senators 
-['of', 'dissenting']
+['show', 'deep', 'peep']
 #removed words: 2
 #added words: 0
 #length difference: 2
-
-
- for a neutral germany 
-['for', 'a', 'germany']
-#removed words: 1
-#added words: 0
-#length difference: 1
 
 
  meeting u.n. obligations 
@@ -2645,122 +797,24 @@ Correct sentence first, decoded second
 
 
  `` section 2 : : 
-[':', 'section']
-#removed words: 2
+[':', ':', '2', 'section']
+#removed words: 1
 #added words: 0
-#length difference: 3
+#length difference: 1
 
 
  `` article 19 : : 
-[':', 'article']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- to aid international law 
-['to', 'international']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- for better subway services 
-['for', 'subway']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- phone service criticized 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- to the editor : 
-[':', 'to', 'the']
+[':', ':', 'article', '19']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- helping retarded children 
-['children', 'helping']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- they make beautiful objects . 
-['.', 'they', 'beautiful']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  jobs for cavanagh 
-['jobs']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- to the editor : 
-[':', 'to', 'the']
+['for', 'jobs']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- dunes park advocate 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ghost town ? ? 
-['?', 'ghost']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- good for mr . trimmer . 
-['good', 'mr', 'trimmer']
-#removed words: 3
-#added words: 0
-#length difference: 3
 
 
  defends big trucks 
@@ -2770,102 +824,32 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- out of school at 14 
-['at', 'out', 'of']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- ' we tremble not ' 
-["'", "'", 'tremble']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  out of the race 
-['out', 'of', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- why trust jagan ? ? 
-['?', 'why']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- russia and u.n . 
-['.', 'russia']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- ' people to people ' 
-['to', "'", "'"]
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- ( 2 ) 
-[')', '(']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ( 3 ) 
-[')', '(']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ( 4 ) 
-[')', '(']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- shadow over washington square 
 []
 #removed words: 4
 #added words: 0
 #length difference: 4
 
 
- fairmount park commission 
-['park']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- just a preliminary measure . 
-['measure', 'just', 'a']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- indeed no . 
-['.', 'indeed']
+ why trust jagan ? ? 
+['?', '?', 'trust', 'why']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
- what 's your motive ? ? 
-['?', 'your', 'what']
-#removed words: 2
+ russia and u.n . 
+['.', 'and', 'russia']
+#removed words: 1
 #added words: 0
-#length difference: 3
+#length difference: 1
+
+
+ fairmount park commission 
+['park', 'commission']
+#removed words: 1
+#added words: 0
+#length difference: 1
 
 
  not push-ups but stand-ups 
@@ -2875,116 +859,11 @@ Correct sentence first, decoded second
 #length difference: 2
 
 
- to the editor : 
-[':', 'to', 'the']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- escalation unto death 
-['death', 'escalation']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- the tide turns 
-['the', 'turns']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  u thant of burma 
-['of', 'u']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- to the hills , girls 
-[',', 'to', 'the']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- resuming atmospheric tests 
-['tests', 'resuming']
+['of', 'u', 'burma']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- the budget deficit 
-['the', 'deficit']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- ethics and peace 
-['peace', 'ethics']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- he smiled . 
-['.', 'he']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- fair enough . 
-['.', 'fair']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- relative military manpower ? ? 
-['?', 'relative', 'manpower']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- say four million . 
-['million', 'say']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- skill ? ? 
-['?', 'skill']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- training ? ? 
-['?', 'training']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- morale ? ? 
-['?', 'morale']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- the moment passes . 
-['the', 'passes']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  what the moments reveal 
@@ -2994,27 +873,6 @@ Correct sentence first, decoded second
 #length difference: 4
 
 
- key to the puzzles 
-['the', 'key']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- best from abroad . 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- dry of life . 
-['life', 'dry']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  the cooch terpers 
 ['the']
 #removed words: 2
@@ -3022,102 +880,18 @@ Correct sentence first, decoded second
 #length difference: 2
 
 
- continuum of mankind . 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- the melting pot . 
-['the', 'pot']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- some manhattan examples : 
-['some', 'examples']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a short , tormented span 
-[',', 'a', 'span']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the devil himself . 
-['the', 'himself']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- melancholy obsession . 
-['.', 'melancholy']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
  mikoyan declared : 
-['declared']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- there are other symptoms . 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- tenure as criterion 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- loss of initiative 
-['loss', 'initiative']
+[':', 'declared']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- a brief for the negative 
-['a', 'for', 'the']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  -- ed . . 
-['.', 'ed']
+['.', '.', 'ed']
 #removed words: 1
 #added words: 0
-#length difference: 2
-
-
- mental telepathy ? ? 
-['?', 'mental']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- a professor and the army 
-['a', 'and', 'the']
-#removed words: 2
-#added words: 0
-#length difference: 2
+#length difference: 1
 
 
  modern postal slogan 
@@ -3127,53 +901,25 @@ Correct sentence first, decoded second
 #length difference: 3
 
 
- the impending death of pope 
-['the', 'death', 'pope']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
  regency -- truman . 
-['regency', 'truman']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- improper bostonian ? ? 
-['?', 'improper']
-#removed words: 1
-#added words: 0
-#length difference: 2
-
-
- facts in focus 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- southern california blackout 
-['southern', 'blackout']
+['.', 'regency', 'truman']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
- apparently it is not . 
-['is', 'not', 'apparently']
-#removed words: 2
+ improper bostonian ? ? 
+['?', '?', 'improper']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
- for a college of propaganda 
-['of', 'for', 'a']
-#removed words: 2
+ southern california blackout 
+[]
+#removed words: 3
 #added words: 0
-#length difference: 2
+#length difference: 3
 
 
  nonsense `` . 
@@ -3184,325 +930,59 @@ Correct sentence first, decoded second
 
 
  bayreuth next summer 
-['next']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- rudolf kempe conducts . 
 []
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- it was all set . 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- something had to give . 
-['something', 'to', 'give']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- not la dietrich . 
-['not', 'dietrich']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- we printed it . 
-['it', 'we']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- these are the results . 
-['results', 'these', 'are']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- what 's up now ? ? 
-['up', '?', 'what']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- splendor by sorcery 
-['by']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- it 's a horror . 
-['.', 'a', 'it']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- remaking an army to win 
-['to', 'an']
 #removed words: 3
 #added words: 0
 #length difference: 3
 
 
- logistics and transport ; ; 
-[';', 'transport', 'logistics']
+ splendor by sorcery 
+['by', 'sorcery']
 #removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
+
+
+ remaking an army to win 
+['to', 'an', 'win', 'army']
+#removed words: 1
+#added words: 0
+#length difference: 1
 
 
  airdrops and airstrips ; ; 
-['and', ';']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- expected of a commander 
-['a', 'expected']
+['and', ';', ';']
 #removed words: 2
 #added words: 0
 #length difference: 2
 
 
  it depresses them . 
-['it', 'them']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- it was even beautiful . 
-[]
-#removed words: 5
-#added words: 0
-#length difference: 5
-
-
- tempos were lively . 
-[]
-#removed words: 4
-#added words: 0
-#length difference: 4
-
-
- the cast : 
-['the', ':']
+['.', 'it', 'them']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- the cast : 
-['the', ':']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- the cast : 
-['the', ':']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- the cast : 
-['the', ':']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- the cast : 
-['the', ':']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- this is drama enough . 
-['enough', 'this', 'is']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- dulles ? ? 
-['?', 'dulles']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- mccarthy ? ? 
-['?', 'mccarthy']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- suez ? ? 
-['?', 'suez']
-#removed words: 0
-#added words: 0
-#length difference: 1
-
-
- their eisenhower is insubstantial . 
-['.', 'is', 'their']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- the hope was vain . 
-['.', 'the', 'was']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- on stalin : 
-['on', ':']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- elegance and color 
-['elegance', 'color']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- she 's not chubby . 
-['.', 'not', 'she']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- she 's not plump . 
-['.', 'not', 'she']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
  she 's fat `` . 
-['.', 'she', 'fat']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- jazz three open program 
-['open', 'jazz']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- julie wilson sings 
-[]
-#removed words: 3
-#added words: 0
-#length difference: 3
-
-
- shearing takes over 
-['over', 'shearing']
+['.', "'s", 'she', 'fat']
 #removed words: 1
 #added words: 0
 #length difference: 1
 
 
  i say chantey . 
-['.', 'i']
-#removed words: 2
+['.', 'i', 'say']
+#removed words: 1
 #added words: 0
-#length difference: 2
+#length difference: 1
 
 
  `` take hands ; ; 
-[';', 'take']
-#removed words: 2
-#added words: 0
-#length difference: 3
-
-
- ' an american journey ' 
-["'", "'", 'american']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- 211 pages . 
-['.', '211']
+[';', ';', 'hands', 'take']
 #removed words: 1
 #added words: 0
 #length difference: 1
-
-
- but it is n't . 
-['.', 'but', 'it', 'is']
-#removed words: 1
-#added words: 0
-#length difference: 1
-
-
- yet the idyll ended . 
-['.', 'yet', 'idyll']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- so was the playing . 
-['.', 'the', 'so']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- so was the audience . 
-['.', 'the', 'so']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- london , july 4 
-['london', 'july']
-#removed words: 2
-#added words: 0
-#length difference: 2
-
-
- a lesson in politics 
-['in', 'a']
-#removed words: 2
-#added words: 0
-#length difference: 2
 
 
 
@@ -3510,2419 +990,397 @@ Correct sentence first, decoded second
 Incorrectly decoded pairs for limited sentences
 Correct sentence first, decoded second
 
- ( 2 ) [')', '(']
-#removed words: 0
+ ask jail deputies []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ `` must solve problem `` []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ fears prejudicial aspects []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ claims precedent lacking []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ washington , feb. 9 [',', '9', 'washington', 'feb', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- a revolving fund ['a', 'fund']
-#removed words: 0
+ calls proposal modest []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ washington , feb. 9 [',', '9', 'washington', 'feb', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- decisions are made ['made', 'decisions']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ aid plans revamped []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- issue jury subpoenas ['issue']
-#removed words: 0
+ mr. hawksley said . ['.', 'said', 'mr', '.']
+#removed words: 1
 #added words: 1
 #length difference: -1
 
 
- faced seven cases ['cases', 'faced']
-#removed words: 0
+ to deal with principles []
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ could be scramble []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ backs higher fees []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ four parks planned []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ individual help best []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ proof lack charged []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ siebern hits homer []
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ 15 pounds lighter []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ seeks `` improved fielding `` []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ squad cut near []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ first , honolulu [',', 'first']
+#removed words: 1
+#added words: 0
+#length difference: 1
+
+
+ back to w. coast []
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ annapolis , jan. 7 [',', '7', 'jan', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- claims precedent lacking ['claims', 'lacking']
-#removed words: 0
+ annapolis , jan. 7 [',', '7', 'jan', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- outlays would increase ['increase', 'outlays']
-#removed words: 0
+ convenience held key []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ london , feb. 9 [',', 'london', '9', 'feb', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- nursing home care ['care', 'nursing']
-#removed words: 0
+ interested in detector []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ arms plot charged []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ r. e. killingsworth []
+#removed words: 2
+#added words: 0
+#length difference: 2
+
+
+ john w. ball ['john', 'ball', 'w', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- calls proposal modest ['calls', 'modest']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ salary termed modest []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- contributions to schools ['schools', 'contributions']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ lien payments involved []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- more for nursing homes ['more', 'nursing']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- reaction as expected ['reaction', 'expected']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- enforce by demand ['demand', 'enforce']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- aid plans revamped ['aid', 'revamped']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mr. hawksley said . ['said', 'mr', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- he asked . ['.', 'he']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- that failed . ['.', 'that']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mayor visits buckley ['mayor', 'buckley']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- screvane and beame hailed ['and', 'hailed']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the mayor said : ['the', 'said']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- boston , june 16 ['june', 'boston']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- washington , june 18 ['june', 'washington']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- leadership is hopeful ['leadership', 'hopeful']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the hotel owner shrugged . ['.', 'the', 'owner']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- moscow , june 18 ['moscow', 'june']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- geneva , june 18 ['june', 'geneva']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- tactics studied in geneva ['in', 'tactics']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to deal with principles ['to', 'deal', 'with']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- seats on square ['square', 'seats']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- jackson , miss . ['jackson', 'miss']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- could be scramble ['could', 'be']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- baton rouge , la . [',', '.', 'baton']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- intervenes in case ['case', 'intervenes']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- wide range in bids ['in', 'wide']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- testifies at hearing ['hearing', 'testifies']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- would bar vehicles ['would', 'vehicles']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ignition sets off blast ['off', 'ignition']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- hood flies over house ['over', 'hood']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- led fight on teamsters ['on', 'led']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- oak grove ( special ) [')', '(', 'oak']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- new point added ['new', 'added']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- -- his miracles ['his']
-#removed words: 0
+ plant city oct. 11 . ['.', 'city', 'plant', '11', 'oct', '.']
+#removed words: 1
 #added words: 1
 #length difference: -1
 
 
- super again elected ['elected', 'super']
-#removed words: 0
+ mr. kennedy replied : [':', 'replied', 'kennedy', 'mr', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- church loses pace ['church', 'pace']
-#removed words: 0
+ turmoil in the house []
+#removed words: 4
+#added words: 0
+#length difference: 4
+
+
+ goodby , mr. sam [',', 'sam', 'mr', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
+#length difference: -1
 
 
- ' church meets change ' ["'", "'", 'meets']
-#removed words: 0
-#added words: 3
-#length difference: -3
+ un off the congo track []
+#removed words: 5
+#added words: 0
+#length difference: 5
 
 
- siebern hits homer ['hits']
-#removed words: 0
+ mr. eisenhower , politician [',', 'eisenhower', 'politician', 'mr', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
+
+
+ dr. conant 's call to action ['to', "'s", 'action', 'call', 'dr', '.']
+#removed words: 1
+#added words: 2
+#length difference: -1
+
+
+ mr. podger smiled . ['.', 'smiled', 'mr', '.']
+#removed words: 1
 #added words: 1
 #length difference: -1
 
 
- house throws wild ['house', 'wild']
-#removed words: 0
+ robby could be better []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ kind mr. sam []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ sewing brings numbness []
+#removed words: 3
+#added words: 0
+#length difference: 3
+
+
+ chicago , aug. 9 [',', '9', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- robinson doubles again ['again', 'robinson']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- 15 pounds lighter ['15', 'lighter']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- duren , sheldon on hill [',', 'on']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- 8,280 attend races ['attend']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- culmone gets first win ['win', 'gets']
-#removed words: 0
+ chicago , aug. 4 [',', '4', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- it did n't ; ; [';', 'it', 'did', "n't"]
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- exclaimed stram . ['.', 'exclaimed']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a quick touchdown resulted . ['.', 'a', 'touchdown']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- bingles and bobbles : ['and', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i ca n't run . ['.', 'i', 'ca', "n't"]
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- i ca n't throw . ['.', 'i', 'ca', "n't"]
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- coach played 3 years ['3', 'coach']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- show follows ceremonies ['show', 'ceremonies']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- flushing stadium in works ['in', 'flushing']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- it made him human . ['.', 'it', 'him']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- no margin for error ['for', 'no']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- stickler for rules ['for']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- he had a 16 . ['.', 'he', 'had', 'a']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- the ball floated downstream . ['.', 'the', 'floated']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- ruling from on high ['on', 'ruling']
-#removed words: 0
+ chicago , aug. 9 [',', '9', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- change in pitchers . ['.', 'change']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- nieman kept in lineup . ['.', 'kept']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- six bucks over . ['over', 'six']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- and bob skinner ['and', 'skinner']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- six bucs over . ['over', 'six']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- four for alvin ['four', 'alvin']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ' back with the met ["'", 'with', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- here and there ['there', 'here']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- first , honolulu ['first']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- here and there ['there', 'here']
-#removed words: 0
+ oak park , aug. 8 [',', 'park', '8', 'oak', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- she 's a whiz . ['.', 'a', 'she']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- fur goodness sake ! ! ['!', 'fur', 'sake']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- that 's our boy bill . ['that', 'bill', 'our']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- set for influx ['set', 'influx']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- all for $ 14 ! ! ['!', 'all', '$']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- all for $ 14 . ['.', 'all', '$']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the prospects look great . ['.', 'the', 'look']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- it 's big business ['it', 'big']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- salary cut and lay-offs ['and', 'salary']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- boy in fair condition ['boy', 'fair']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- annapolis , jan. 7 [',', '7']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- sent home for rest ['for', 'sent']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- two brothers adopted ['two', 'adopted']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- annapolis , jan. 7 [',', '7']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- simpkins from somerset ['from']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- convenience held key ['key', 'convenience']
-#removed words: 0
+ chicago , aug. 9 [',', '9', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- london , feb. 9 ['london', 'feb', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- five held for trial ['for', 'five']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- flashed to moscow ['moscow', 'flashed']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- all five pleaded innocent . ['.', 'all', 'pleaded']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- refuses to grant bail ['grant', 'refuses']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` of highest value `` ['of', 'value']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- navy 's future involved ['future', 'navy']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- interested in detector ['interested', 'in']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- no comments by u.s . ['.', 'by', 'no']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- dennis , 6 ; ; [';', '6', 'dennis']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- eleanor , 2 ; ; [';', '2', 'eleanor']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- and bernardine , 1 . [',', '.', 'and']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- students help out ['out', 'students']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- gets car number ['number', 'gets']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- given 15 days ['days', 'given']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- havana , april 19 . ['.', 'april', 'havana']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- report others held ['report', 'held']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ' intend to attend ' ['to', "'", "'"]
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- r. e. killingsworth ['r', '.']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- john w. ball ['john', 'ball']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mrs. lola harris ['harris', 'mrs', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- board oks pact ['board', 'pact']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- he retired in 1958 . ['.', 'in', 'he']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- and five grandchildren . ['and', 'grandchildren']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- youngsters do business ['business', 'youngsters']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- g-p men served ['men']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- hillsboro ( special ) [')', '(']
-#removed words: 0
+ chicago , aug. 9 [',', '9', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- mr. giorgio was uninjured . ['.', 'was', 'mr', '.']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- mr. vernava was uninjured . ['.', 'was', 'mr', '.']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- asilomar , march 26 [',', '26']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- glimco a buddy ['a']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- lee a witness ['lee', 'witness']
-#removed words: 0
+ chicago , aug. 7 [',', '7', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- a $ 12,500 payment ['a', 'payment']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- lien payments involved ['involved', 'lien']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- charge lists 3 checks ['3', 'charge']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- all bounced . ['.', 'all']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- they export also . ['they', 'also']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- some good news ['news', 'some']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- $ 70 by 1971 ; ; ['by', ';', '$']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- $ 75 by 1976 ; ; ['by', ';', '$']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- $ 80 by 1981 ; ; ['by', ';', '$']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- washington ( upi ) [')', 'washington']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- leaders of industry ['industry', 'leaders']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- elburn , ill . [',', '.']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- two of three report gains ['report', 'two', 'of']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- bluebonnets and stagecoach silhouettes . ['and', 'silhouettes']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i suggested . ['.', 'i']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i was asked . ['.', 'i', 'was']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- even that is n't satisfactory . ['.', 'even', 'is', "n't"]
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- but that 's hardly realistic . ['.', 'but', 'that', 'hardly']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- more new addresses ['more', 'addresses']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- we like fike ['we']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- here and there ['there', 'here']
-#removed words: 0
+ chicago , aug. 7 [',', '7', 'chicago', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- plant city oct. 11 . ['.', 'plant', 'oct', '.']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- very austere yet racy . ['.', 'very', 'yet']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- `` tires ok ? ? ['?', 'ok']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- they polished the windshield . ['.', 'the', 'they']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- he asked gloomily . ['he', 'gloomily']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` about 35 `` . ['.', 'about']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- for crucial encounter ['for', 'encounter']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mr. kennedy replied : ['replied', 'mr', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- road to vienna ['road', 'vienna']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- deadlock on tests ['tests', 'deadlock']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the washington announcement said : ['the', ':', 'announcement']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- other allies consulted ['other', 'consulted']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- adequate compensation is indispensable . ['.', 'is', 'adequate']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the committee remains unresponsive . ['.', 'the', 'remains']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the three-front war ['the', 'war']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- 1 ) cuba . ['1', 'cuba']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- 2 ) laos . ['2', 'laos']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- deadly deadlock . ['.', 'deadly']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- equal treatment . ['.', 'equal']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` unconscionable `` ! ! ['!']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- threat of war . ['war', 'threat']
-#removed words: 0
+ washington , aug. 4 [',', '4', 'washington', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- battle in the senate ['battle', 'the', 'senate']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- he bogeyed the 10th . ['.', 'the', 'he']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- end at seven ['end', 'seven']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- player won only one . ['player', 'only', 'one']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the boldness of champions ['of', 'the']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- double threat : [':', 'double']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- light reading : [':', 'light']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i 'm angry `` . ['.', 'i', 'angry']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- play me `` . ['.', 'play']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- maris 's was ted williams . ['.', "'s", 'ted']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- said maris . ['.', 'said']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- it crushed mickey . ['it', 'mickey']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- break in georgia ['break', 'georgia']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- but they were not . ['not', 'but', 'they']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- confusion became chaos ; ; [';', 'chaos', 'confusion']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- lumumba fired kasavubu . ['.', 'fired']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- crime : ' skyjacked ' ["'", "'", 'crime']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the day wore on . ['on', 'the', 'day']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- congress : more muscle ['more', 'congress']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- tax-free returns . ['.', 'tax-free']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- swelling traffic . ['.', 'swelling']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- slow successes . ['.', 'slow']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- that improvement is continuing . ['.', 'that', 'is']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- easier access . ['.', 'easier']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- they threaten to strike . ['.', 'to', 'they']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- chin up , soapy . [',', '.', 'chin']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the end of trujillo ['the', 'end', 'of']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- prairie national park ['park', 'prairie']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a law is needed . ['.', 'a', 'is']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- little war , big test [',', 'test', 'little']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- a vote for educational tv ['for', 'a', 'tv']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- goodby , mr. sam [',', 'sam']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- un off the congo track ['the', 'track', 'un']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- meditations from a fallout shelter ['a', 'shelter', 'meditations']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the customer loses again ['the', 'loses']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a shock wave from africa ['a', 'africa', 'wave']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- west germany remains western ['west', 'remains']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- better ask before joining ['before', 'better']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the public . ['the', 'public']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- closed doors in city hall ['in', 'hall', 'closed']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- matter of survival ['matter', 'survival']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- what 's wrong at state ['what', 'state', 'wrong']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- in new jersey , too [',', 'in', 'new']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- that is one approach . ['approach', 'that', 'is']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- an excess of zeal ['of', 'an']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- that might go over . ['.', 'that', 'go']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the faget case ['the', 'case']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mr. eisenhower , politician [',', 'mr', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- queen of the seas ['the', 'queen']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mission to viet nam ['mission', 'viet']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- of course it is . ['is', 'of', 'course']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- meeting in moscow ['moscow', 'meeting']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- dr. conant 's call to action ['to', "'s", 'dr', '.']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- the old couples . ['.', 'the', 'old']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- but forgive anyway `` . ['.', 'but', 'anyway']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- matthew 6 : 14-15 . ['.', ':', 'matthew']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- till seven times ? ? ['?', 'times', 'till']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- matthew 18 : 21-22 . ['.', ':', 'matthew']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- luke 23:34 . ['.', 'luke']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- she asked . ['.', 'she']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i asked . ['.', 'i']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- she was shocked . ['.', 'she', 'was']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- oh , no-o ! ! ['!', 'oh']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- and the turtle ? ? ['?', 'and', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- mr. podger smiled . ['smiled', 'mr', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- you know what ? ? ['?', 'you', 'know', 'what']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- `` dad `` ! ! ['!', 'dad']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- she said . ['she', 'said']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- two spots open ['open', 'two']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- robby could be better ['could', 'be']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- do n't ask him more . ['.', 'him', 'do', "n't"]
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- we think differently . ['we', 'differently']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- she wrote : [':', 'she']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- what future holds ['what', 'holds']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- now listen closely : ['now', 'closely']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ( quotations follow `` . ['.', '(', 'follow']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- on the job ['on', 'the']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- then he suffered him . ['him', 'then', 'he']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- he said ; ; [';', 'he', 'said']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- brace for sciatica ['brace']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- cholesterol and thyroid ['cholesterol', 'thyroid']
-#removed words: 0
+ wilmette , aug. 7 [',', '7', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- it usually goes up . ['.', 'it', 'goes']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the child understands no . ['.', 'the', 'understands']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- it motivates his behavior . ['.', 'it', 'his']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- this breaks his heart . ['.', 'his', 'this']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- remove temptations . ['.', 'remove']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- his dream goes . ['his', 'goes']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- his bifocals blur . ['his', 'blur']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- he always feels lonely . ['.', 'he', 'feels']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- a team feels something . ['.', 'a', 'feels']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the breakthrough ; ; ['the', ';']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- it is gone . ['.', 'it', 'is']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- ' task force ' ["'", 'force']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- these men are spenders . ['.', 'are', 'these']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- for example : 1 . ['1', 'for', 'example']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- `` a lousy job `` ['a', 'job']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- short shorts on the campus ['on', 'the', 'short']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- subsidies from cta ['subsidies']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- oak park , aug. 8 [',', '8', 'oak']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- teaching the handicapped ['handicapped', 'teaching']
-#removed words: 0
+ downers grove , aug. 8 [',', 'grove', '8', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- from candlelight club ['from', 'club']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- more school , less pay [',', 'pay', 'more']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the dupont case ['the', 'case']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- wilmette , aug. 7 [',', '7']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- downers grove , aug. 8 ['grove', 'aug', '.']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- `` plus-one `` shelters ['shelters']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- i am for it . ['it', 'i', 'am']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- county college costs ['county', 'costs']
-#removed words: 0
+ providence , aug. 5 [',', '5', 'providence', 'aug', '.']
+#removed words: 1
 #added words: 2
-#length difference: -2
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- none will be elected . ['.', 'be', 'none']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- `` natural causes `` ['natural']
-#removed words: 0
-#added words: 1
 #length difference: -1
 
 
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
+ `` natural causes `` []
+#removed words: 2
+#added words: 0
+#length difference: 2
 
 
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
+ defends big trucks []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
+ out of the race []
+#removed words: 4
+#added words: 0
+#length difference: 4
 
 
- it was very refreshing . ['it', 'was', 'refreshing']
-#removed words: 0
-#added words: 3
-#length difference: -3
+ what the moments reveal []
+#removed words: 4
+#added words: 0
+#length difference: 4
 
 
- `` deep peep show `` ['show', 'deep']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ modern postal slogan []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- working for peace ['peace', 'working']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ southern california blackout []
+#removed words: 3
+#added words: 0
+#length difference: 3
 
 
- dissenting views of senators ['of', 'dissenting']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ bayreuth next summer []
+#removed words: 2
+#added words: 0
+#length difference: 2
 
 
- for a neutral germany ['for', 'a', 'germany']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- meeting u.n. obligations ['meeting', 'obligations']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` section 2 : : [':', 'section']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` article 19 : : [':', 'article']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to aid international law ['to', 'international']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- for better subway services ['for', 'subway']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- helping retarded children ['children', 'helping']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- they make beautiful objects . ['.', 'they', 'beautiful']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- jobs for cavanagh ['jobs']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- ghost town ? ? ['?', 'ghost']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- good for mr . trimmer . ['good', 'mr', 'trimmer']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- out of school at 14 ['at', 'out', 'of']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- ' we tremble not ' ["'", "'", 'tremble']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- out of the race ['out', 'of', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- why trust jagan ? ? ['?', 'why']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- russia and u.n . ['.', 'russia']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ' people to people ' ['to', "'", "'"]
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- ( 2 ) [')', '(']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ( 3 ) [')', '(']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ( 4 ) [')', '(']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- fairmount park commission ['park']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- just a preliminary measure . ['measure', 'just', 'a']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- indeed no . ['.', 'indeed']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- what 's your motive ? ? ['?', 'your', 'what']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- not push-ups but stand-ups ['not', 'but']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to the editor : [':', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- escalation unto death ['death', 'escalation']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the tide turns ['the', 'turns']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- u thant of burma ['of', 'u']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- to the hills , girls [',', 'to', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- resuming atmospheric tests ['tests', 'resuming']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the budget deficit ['the', 'deficit']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ethics and peace ['peace', 'ethics']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- he smiled . ['.', 'he']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- fair enough . ['.', 'fair']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- relative military manpower ? ? ['?', 'relative', 'manpower']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- say four million . ['million', 'say']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- skill ? ? ['?', 'skill']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- training ? ? ['?', 'training']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- morale ? ? ['?', 'morale']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the moment passes . ['the', 'passes']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- key to the puzzles ['the', 'key']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- dry of life . ['life', 'dry']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cooch terpers ['the']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- the melting pot . ['the', 'pot']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- some manhattan examples : ['some', 'examples']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a short , tormented span [',', 'a', 'span']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the devil himself . ['the', 'himself']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- melancholy obsession . ['.', 'melancholy']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mikoyan declared : ['declared']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- loss of initiative ['loss', 'initiative']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a brief for the negative ['a', 'for', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- -- ed . . ['.', 'ed']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mental telepathy ? ? ['?', 'mental']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a professor and the army ['a', 'and', 'the']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the impending death of pope ['the', 'death', 'pope']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- regency -- truman . ['regency', 'truman']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- improper bostonian ? ? ['?', 'improper']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- southern california blackout ['southern', 'blackout']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- apparently it is not . ['is', 'not', 'apparently']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- for a college of propaganda ['of', 'for', 'a']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- nonsense `` . ['.', 'nonsense']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- bayreuth next summer ['next']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- something had to give . ['something', 'to', 'give']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- not la dietrich . ['not', 'dietrich']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- we printed it . ['it', 'we']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- these are the results . ['results', 'these', 'are']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- what 's up now ? ? ['up', '?', 'what']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- splendor by sorcery ['by']
-#removed words: 0
-#added words: 1
-#length difference: -1
-
-
- it 's a horror . ['.', 'a', 'it']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- remaking an army to win ['to', 'an']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- logistics and transport ; ; [';', 'transport', 'logistics']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- airdrops and airstrips ; ; ['and', ';']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- expected of a commander ['a', 'expected']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- it depresses them . ['it', 'them']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cast : ['the', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cast : ['the', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cast : ['the', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cast : ['the', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- the cast : ['the', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- this is drama enough . ['enough', 'this', 'is']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- dulles ? ? ['?', 'dulles']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- mccarthy ? ? ['?', 'mccarthy']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- suez ? ? ['?', 'suez']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- their eisenhower is insubstantial . ['.', 'is', 'their']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- the hope was vain . ['.', 'the', 'was']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- on stalin : ['on', ':']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- elegance and color ['elegance', 'color']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- she 's not chubby . ['.', 'not', 'she']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- she 's not plump . ['.', 'not', 'she']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- she 's fat `` . ['.', 'she', 'fat']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- jazz three open program ['open', 'jazz']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- shearing takes over ['over', 'shearing']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- i say chantey . ['.', 'i']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- `` take hands ; ; [';', 'take']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- ' an american journey ' ["'", "'", 'american']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- 211 pages . ['.', '211']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- but it is n't . ['.', 'but', 'it', 'is']
-#removed words: 0
-#added words: 4
-#length difference: -4
-
-
- yet the idyll ended . ['.', 'yet', 'idyll']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- so was the playing . ['.', 'the', 'so']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- so was the audience . ['.', 'the', 'so']
-#removed words: 0
-#added words: 3
-#length difference: -3
-
-
- london , july 4 ['london', 'july']
-#removed words: 0
-#added words: 2
-#length difference: -2
-
-
- a lesson in politics ['in', 'a']
-#removed words: 0
-#added words: 2
-#length difference: -2
+ it depresses them . ['.', 'it', 'them']
+#removed words: 1
+#added words: 0
+#length difference: 1
 
 
 
 
 statistic using original sentences:
-average distance: -75.92833416235453
-exact matches: 0 out of 500
-fraction of exact matches: 0.0
+average distance: -37.35436329630254
+exact matches: 360 out of 500
+fraction of exact matches: 0.72
 
 The following values don't consider exact matches.
-avg number of removed words: 2.04 variance: 1.1384
-avg number of added words: 0.038 variance: 0.06455599999999999
-avg length difference: 2.072 variance: 1.082816
+avg number of removed words: 1.7714285714285714 variance: 1.1191836734693879
+avg number of added words: 0.3357142857142857 variance: 0.5372959183673469
+avg length difference: 1.4142857142857144 variance: 2.028367346938776
 
 
 statistic using limited sentences:
-average distance: -75.92833416235453
-exact matches: 101 out of 500
-fraction of exact matches: 0.202
+average distance: -37.35436329630254
+exact matches: 438 out of 500
+fraction of exact matches: 0.876
 
 The following values don't consider exact matches.
-avg number of removed words: 0.0 variance: 0.0
-avg number of added words: 2.3583959899749374 variance: 0.40037436950772926
-avg length difference: -2.3583959899749374 variance: 0.40037436950772926
+avg number of removed words: 2.1774193548387095 variance: 1.2749739854318416
+avg number of added words: 0.7580645161290323 variance: 0.8930801248699275
+avg length difference: 1.3709677419354838 variance: 4.136576482830384
