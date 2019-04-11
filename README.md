@@ -17,6 +17,14 @@ See example.py for some examples of how to use them.
 
 The file sowe2bow.py is a reimplementation of the code from White et. al. 2016, Generating Bags of Words from the Sums of their Word Embeddings. (https://white.ucc.asn.au/publications/White2016BOWgen/)
 
+We used
+* python3.7
+* nltk, version 3.3
+* numpy, version 1.16.2
+* scipy, version 1.2.1
+
+(See also requirements.txt)
+
 Contributors:
 * Luca Ducceschi
 * Johann Seltmann
