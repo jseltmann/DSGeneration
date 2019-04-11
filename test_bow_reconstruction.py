@@ -26,7 +26,7 @@ def decode_sents(sents_filename,
     Parameters
     ----------
     sents_filename : str
-        File containing the setences to use.
+        File containing the sentences to use.
     matrix_filename : str
         File containing the matrix.
     log_filename : str
