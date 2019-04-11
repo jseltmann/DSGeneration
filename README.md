@@ -22,7 +22,6 @@ We used
 * nltk, version 3.3
 * numpy, version 1.16.2
 * scipy, version 1.2.1
-
 (See also requirements.txt)
 
 Contributors:
