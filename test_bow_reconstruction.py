@@ -76,10 +76,10 @@ def decode_sents(sents_filename,
     lines = set()
 
     for i, line in enumerate(open(sents_filename)):
-        if line in lines:
+        if line.lower() in lines:
             continue
         else:
-            lines.add(line)
+            lines.add(line.lower())
         print(i)
         print(line)
         print(datetime.now())
