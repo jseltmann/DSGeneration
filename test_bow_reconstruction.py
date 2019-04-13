@@ -73,7 +73,13 @@ def decode_sents(sents_filename,
         id_str = line.split(" || ")[0]
         decoded_ids.append(int(id_str))
 
+    lines = set()
+
     for i, line in enumerate(open(sents_filename)):
+        if line in lines:
+            continue
+        else:
+            lines.add(line)
         print(i)
         print(line)
         print(datetime.now())
