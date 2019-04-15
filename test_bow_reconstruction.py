@@ -68,18 +68,19 @@ def decode_sents(sents_filename,
     if sent_num == 0:
         return
 
-    decoded_ids = []
+    decoded_sents = set()
     for line in already_decoded:
-        id_str = line.split(" || ")[0]
-        decoded_ids.append(int(id_str))
-
-    lines = set()
+        sent = line.split(" || ")[1]
+        decoded_sents.add(sent)
 
     for i, line in enumerate(open(sents_filename)):
-        if line.lower() in lines:
+        sent = nltk.word_tokenize(line)
+        sent = list(map((lambda x: x.lower()), sent))
+        if sent in decoded_sents:
             continue
         else:
-            lines.add(line.lower())
+            decoded_sents.add(sent)
+
         print(i)
         print(line)
         print(datetime.now())
@@ -104,8 +105,8 @@ def decode_sents(sents_filename,
             decoded_count += 1
 
             with open(log_filename, "a") as log_file:
-                sent = nltk.word_tokenize(line)
-                sent = list(map((lambda x: x.lower()), sent))
+                #sent = nltk.word_tokenize(line)
+                #sent = list(map((lambda x: x.lower()), sent))
                 line = str(i) + " || "
                 for word in sent:
                     line += word + " "
