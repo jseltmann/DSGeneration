@@ -162,8 +162,7 @@ def find_clusters(sent_filename,
 
     with open(log_filename, "w") as log_file:
         for cluster_num, cluster in enumerate(sent_clusters):
-            sents = list(filter(lambda x: x in sents, cluster))
-            num_sents = len(sents)
+            num_sents = len(list(filter(lambda x: x in sents, cluster)))
             num_words = len(cluster) - num_sents
 
             log_file.write("cluster_num: " + str(cluster_num) + "\n")
