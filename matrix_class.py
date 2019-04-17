@@ -459,7 +459,7 @@ class DS_matrix:
                 posw = self.vocab_order[word2]
                 pcw = probsc[posw]
                 
-                if pw * pc == 0:
+                if pw == 0:
                     inner = 0
                 else:
                     inner = pcw / pw
