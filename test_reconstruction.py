@@ -6,6 +6,7 @@ from copy import copy
 from datetime import datetime
 import multiprocessing as mp
 import nltk
+import os, os.path
 
 def decode_sents(sents_filename, matrix_filename, log_filename, skipped_filename, num_words=None, timeout=30, sent_num=500):
     """
