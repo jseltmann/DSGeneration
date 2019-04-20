@@ -364,7 +364,8 @@ def get_ngram_counts(ref_dict, max_n):
 
 
 def decode_sentences(data_filename, decoded_filename,
-                     ref_filename, matrix_filename):
+                     ref_filename, orig_filename,
+                     matrix_filename):
     """
     Read sentences from the PASCAL50S dataset.
     For each image, encode and decode one and save the others to a file.
@@ -417,13 +418,3 @@ def decode_sentences(data_filename, decoded_filename,
 
     with open(orig_filename, "wb") as orig_file:
         pickle.dump(orig_dict, orig_file)
-
-
-
-#def calculate_ciderD(decoded_filename,
-#                     ref_filename,
-#                     orig_filename,
-#                     log_filename,
-#                     max_n=4, num_bins=2):
-calculate_ciderD("../pascal_orig_sents.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_orig_sents_1bin.log", max_n=4, num_bins=1)
-calculate_ciderD("../pascal_orig_sents.pkl", "../ref_sents_pascal50S.pkl", "../pascal_orig_sents.pkl", "../cider_pascal50S_orig_sents_2bins.log", max_n=4, num_bins=2)
