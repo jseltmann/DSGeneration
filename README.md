@@ -1,6 +1,6 @@
 # DSGeneration
 
-This repository contains code for the encoding of sentences into distributional vectors and the reconstruction of those sentences from the vectors.
+This repository contains code for the encoding of sentences into distributional vectors and the reconstruction of those sentences from the vectors. Check out the [paper](http://ceur-ws.org/Vol-2481/paper65.pdf) published at the Sixth Italian Conference on Computational Linguistics.
 
 See example.py for some examples of how to use them.
 
